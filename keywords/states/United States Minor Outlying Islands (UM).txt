@@ -1,0 +1,114 @@
+Location
+	United States (US)
+		United States Minor Outlying Islands (UM)
+			Airport (UM)
+				Johnston Atoll Airport
+				Palmyra Airport
+				Wake Island Airfield
+			Bar (UM)
+				Bajo Nuevo
+				East Reef
+				Hounson Rock
+				Kingman Reef
+				Middle Ground
+				North Breakers
+				Novelty Shoal
+				Penguin Spit
+				Serranilla Bank
+				West Breaker
+				West Reef
+			Bay (UM)
+				Lulu Bay
+				Seward Roads
+				Welles Harbor
+			Cape (UM)
+				East Point
+				Flipper Point
+				Frigate Point
+				Heel Point
+				Kuku Point
+				Northeast Point
+				Northwest Point
+				Peacock Point
+				Picket Point
+				Portsmouth Point
+				Sawle Point
+				South Point
+				Toki Point
+			Channel (UM)
+				Jamaica Channel
+				La Paloma Channel
+				Main Channel
+				New Channel
+				West Channel
+				Wilkes Channel
+			Civil (UM)
+				Baker Island
+				Howland Island
+				Jarvis Island
+				Johnston Atoll
+				Kingman Reef
+				Midway Islands
+				Navassa Island
+				Palmyra Atoll
+				United States Minor Outlying Islands
+				Wake Island
+			Island (UM)
+				Akau Island
+				Aviation Island
+				Baker Island
+				Barren Island
+				Beacon Cay
+				Bird Island
+				Central Line Islands
+				Cooper Island
+				East Cay
+				Eastern Island
+				Engineer Island
+				Hikina Island
+				Holei Island
+				Home Island
+				Howland Island
+				Jarvis Island
+				Johnston Atoll
+				Johnston Island
+				Kaula Island
+				Line Islands
+				Low Cay
+				Marine Island
+				Middle Cay
+				Midway Islands
+				Navassa Island
+				Northern Line Islands
+				Palmyra Atoll
+				Papala Island
+				Paradise Island
+				Peale Island
+				Pelican Island
+				Quail Island
+				Sand Island
+				Serranilla Cays
+				Strawn Island
+				Tananger Island
+				Wake Atoll
+				Whippoorwill Island
+				Wilkes Island
+			Lake (UM)
+				Center Lagoon
+				East Lagoon
+				West Lagoon
+			Locale (UM)
+				Camp One (historical)
+				Camp Two (historical)
+				King-Doyle Park
+			Military (UM)
+				Midway Naval Air Facility (historical)
+				Naval Air Station Johnston Island (historical)
+				Naval Air Station Palmyra (historical)
+				Naval Air Station Wake Island (historical)
+			Populated Place (UM)
+				Itascatown (historical)
+				Meyerton (historical)
+				Millersville
+			Tower (UM)
+				KMTH-AM (Midway Island)

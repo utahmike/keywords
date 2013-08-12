@@ -1,0 +1,5153 @@
+Location
+	United States (US)
+		District of Columbia (DC)
+			Airport (DC)
+				Anacostia Helicopter Facility
+				Bolling Air Force Base Heliport
+				Bolling Field
+				Childrens Hospital Heliport
+				District of Columbia General Hospital ACCC Heliport
+				FOB-10A 800 Independence Avenue Heliport
+				Georgetown University Hospital Helistop
+				MPD 2nd Heliport
+				MPD 3rd District Heliport
+				MPD 5th Heliport
+				Metropolitan Complex Heliport
+				National Presbyterian Church Heliport
+				Spirit of Washington Heliport
+				Steuart Office Pad
+				United States Park Police Eagles Nest Heliport
+				WHC Heliport
+				Walter Reed Emergency Heliport
+				Washington Heliport
+				Washington Post Heliport
+			Area (DC)
+				Agriculture Grounds
+				Anacostia Flats
+				Barbara Bush Garden
+				Bolling Anacostia Tract
+				Capitol Grounds
+				District of Columbia Impound Lot
+				Dumbarton Oaks Gardens
+				Ellipse Grounds South
+				Fort Dupont Maintenance Yard
+				Kidwell Meadows
+				Loeflers Gardens
+				Monument Grounds
+				Murder Bay (historical)
+				Newspaper Row (historical)
+				Rock Creek Park Equitation Field
+				Rock of Dumbarton
+				Smithsonian Grounds
+			Bay (DC)
+				Fletchers Cove
+				Oxon Creek
+			Beach (DC)
+				Bathing Beach
+				Fishing Shore
+			Bridge (DC)
+				Anacostia Railroad Bridge
+				Aqueduct Bridge (historical)
+				Arland D Williams Junior Memorial Bridge
+				Arlington Memorial Bridge
+				Benning Bridge
+				Bluff Bridge
+				Boulder Bridge and Ross Drive Bridge
+				Boundary Bridge
+				Boundary Channel Bridge
+				Cantilever Bridge
+				Chain Bridge
+				Charles Richard Drew Bridge
+				Devils Chair Bridge
+				Duke Ellington Memorial Bridge
+				Dumbarton Bridge
+				Eleventh Street Bridge
+				Francis Case Memorial Bridge
+				Francis Scott Key Memorial Bridge
+				Frederick Douglass Memorial Bridge
+				Fron Bridge
+				George Mason Memorial Bridge
+				Harvard Street Bridge
+				Inlet Bridge
+				Iron Bridge
+				John Phillip Sousa Bridge
+				K Street Bridge
+				Klingle Ford Bridge
+				Kutz Bridge
+				Long Bridge
+				M Street Bridge
+				Market Bridge (historical)
+				Massachusetts Avenue Bridge
+				Officer Kevin J Welsh Memorial Bridge
+				Outlet Bridge
+				P Street Bridge
+				Pebble Dash Bridge
+				Potomac Railroad Bridge
+				Rapids Bridge
+				Riley Spring Bridge
+				Rochambeau Memorial Bridge
+				Rolling Meadow Bridge
+				Saint Albans Bridge
+				Shoreham Hill Bridge
+				Sixteenth Steet Bridge
+				Tenth Street Mall Bridge
+				Theodore Roosevelt Memorial Bridge
+				Thompsons Bridge (historical)
+				Tiger Bridge
+				United States Government Causeway (historical)
+				Whitney Young Memorial Bridge
+				William Howard Taft Bridge
+				Wisconsin Avenue Bridge
+				Woodley Bridge (historical)
+				Woodrow Wilson Memorial Bridge
+			Building (DC)
+				A T Seban Mesut Child Development Center
+				Abner Drury Brewery (historical)
+				Acacia Building
+				Academic Administration
+				Academic Center
+				Academy of Music Building (historical)
+				Acheson Science Center
+				Adams Before and After School Center
+				Adams House
+				Adams-Mason House
+				Adas Israel Congregation Day Care Center
+				Addiction Prevention and Recovery Administration Building
+				Admiral Weaver House
+				Admiral's House Naval Observatory
+				Admirals House
+				Adventureland Day Nursery
+				Aeeze Bates Day Care Center
+				Agape Cabbage Patch and Lemaes Early Learning Center
+				Airlie Estate (historical)
+				Alain Leroy Locke Hall
+				Alban Towers Apartment Building
+				Albaughs Opera House (historical)
+				Albert Einstein Planetarium
+				Alden, Babcock, Calvert Apartments
+				Alexander Graham Bell Hall
+				Alexander Melville Bell House
+				Alexander Ray House
+				Alibi Club
+				Alice Pike Barney House
+				All My Children Child Development Center
+				All Saints All Day Care Center
+				All Saints All Day Childcare Center
+				Allan Mercer Daniel Law Library
+				Allen Chapel African Methodist Episcopal Church Child Development Center
+				Alma Thomas House
+				Alumni House - Georgetown University
+				Alumni Square
+				Alumni Square (Village B)
+				Amazing Life Games Preschool
+				Ambassador Baptist Church Multi-purpose Center
+				American Association of University Women
+				American Bank Building
+				American Colonization Society Hall (historical)
+				American Federation of Labor Building
+				American Film Institute National Film Theater
+				American Forestry Association Building
+				American Hospital Association
+				American National Red Cross Building
+				American Nature Association Building
+				American Peace Society Building
+				American Pharmaceutical Institute
+				American Red Cross History and Education Center
+				American Security and Trust Company Building
+				American Theatre (historical)
+				American University Child Development Center
+				American Veterans Association Building
+				American War Mothers Building
+				Amidon Before and After School Center
+				Anacostia Annex
+				Anacostia Branch Library
+				Anacostia Museum
+				Anacostia Park Fieldhouse
+				Anacostia Park Pavilion
+				Analostan Boat Club (historical)
+				Anchor Tavern and Oyster House (historical)
+				Anderson Cottage
+				Anderson Hall
+				Anderson House Museum
+				Andrew Carnegie Building
+				Andrew Mellon Building
+				Andrew W Mellon Auditorium
+				Anthony Bowen Branch YMCA
+				Anthony Reintzel Building (historical)
+				Anton Ruppert House
+				Apartment Building at 2225 N Street
+				Apex Theater (historical)
+				Apollo Hall (historical)
+				Apostolic Nunciature - The Holy See
+				Apple Tree Institute For Education
+				Appleby Building
+				Arena Stage
+				Argentine Embassy Building
+				Ariel Rios Federal Building
+				Arlington Hotel (historical)
+				Armour J Blackburn Center
+				Army Medical Museum and Library (historical)
+				Army and Navy Club Building (historical)
+				Arnes Dining Hall
+				Arnold And Porter Childrens Center
+				Art Barn
+				Art Museum of the Americas
+				Arthur M Sackler Gallery
+				Arthur Stanley House
+				Artists Mart (historical)
+				Arts Club of Washington
+				Arts and Industries Building
+				Asbury Building
+				Ashburton House
+				Assembly of the Saints Child Development Center
+				Association of American Geographers Building
+				Association of Oldest Inhabitants Building
+				Atlantic Building
+				Atlantic Gardens Early Childhood Center
+				Atlantic Terrace Day Care Center
+				Atlas Building
+				Atlas Theater
+				Auditors Building Complex
+				Augusta Apartment Building
+				Austrian Legation Building
+				Avalon Theater
+				Avenue Grand Theater (historical)
+				Avenue House (historical)
+				B J's Learning Center
+				B'Nai B'Rith Klutznick Museum
+				Babcock-Macomb House
+				Bachelor Apartment House
+				Balch House
+				Bald Eagle Child Development Center
+				Ballard House
+				Ballard North
+				Ballard West
+				Baltimore Sun Building
+				Bancroft Before and After School
+				Bancroft House (historical)
+				Bancroft Recreation Center
+				Bank of Columbia (historical)
+				Bank of the United States (historical)
+				Banneker Day Care Center
+				Barbara Chambers Childrens Center
+				Barber-Caperton House
+				Barney Settlement House
+				Barney Studio House
+				Barry Farms Child Care Center
+				Basic Science Building
+				Batchelor Apartment House (historical)
+				Battelle Library
+				Battlelle-Tompkins Building
+				Bead Museum
+				Beall-Peter-Dick House
+				Beall-Washington House
+				Bealls Express Building
+				Beatty-Stuart House
+				Beeghty Building
+				Bell Teen Parent and Child Development Center
+				Bellair
+				Belmont Estate (historical)
+				Bender Arena
+				Bender Library
+				Benjamin Miller House
+				Benjamin Ogle Tayloe House
+				Benjamin T Rome Hall
+				Bennett Babies Day Care Center
+				Benning Branch Library
+				Benning Park Child Development Center
+				Benning Stoddert Child Development Center
+				Benson Hall
+				Bethune Museum-Archives
+				Beyers Park (historical)
+				Big Mamas Childrens Center
+				Birch Undertaker Building
+				Black Fashion Museum
+				Blagden Row (historical)
+				Blaine Mansion
+				Blair House
+				Blanche K Bruce House
+				Bleak House (historical)
+				Bles Building
+				Blodgetts Hotel (historical)
+				Blue Cross and Blue Shield Building
+				Bodisco House
+				Bond Building
+				Bowie-Sevier House
+				Brazilian Embassy
+				Bread for the City
+				Brentwood Building (historical)
+				Brentwood Maintenance Building
+				Brick Capitol (historical)
+				Brickyard Hill House
+				Bridges Babies Day Care Center
+				Bright Beginnings Day Care Center
+				Bright Horizon Early Education and Back-Up Center
+				Bright Horizons Childrens Center
+				Brightwood Recreation Center
+				British Embassy Building
+				Broadcast Center
+				Broadcasters Child Development Center
+				Brodhead-Bell-Morton Mansion
+				Bronaugh-Bibb-Libbey House
+				Brookings Institution Building
+				Brookland Manor Community Safety Office
+				Brooks Mansion
+				Brownley Confectionary Building
+				Browns Hotel (historical)
+				Browns Marlile Hotel (historical)
+				Buehler-Sullivan House
+				Building D
+				Bulter Pavilion
+				Bundles of Joy Day Care Center
+				Bunn Intercultural Center
+				Bureau Annex Building
+				Bureau of Engraving and Printing Building
+				Bureau of Fisheries Building (historical)
+				Bureau of Indian Trade Building (historical)
+				Burnes House (historical)
+				Burr Annex
+				Business Library
+				Bussard-Newman House
+				Butler House (historical)
+				Butler Instructional Center
+				C B Powell Building
+				Cady-Lee House
+				Cafritz Building
+				Cairo Apartment Building
+				Caldwell Hall
+				Caldwell House (historical)
+				Calomiris YMCA Program Center
+				Camalier House
+				Cameron House
+				Cameron Row (historical)
+				Campbell Building
+				Canaan Baptist Church Coalition for the Homeless
+				Canadian Legation Building
+				Canal Warehouse
+				Cannon House Office Building
+				Capital Bicycle Club (historical)
+				Capital Childrens Museum
+				Capital Garage (historical)
+				Capital Traction Company Powerhouse (historical)
+				Capitol City Child Development Center
+				Capitol Heating Plant Building
+				Capitol Kids II
+				Capitol View Branch Library
+				Car Barn (historical)
+				Carbery House (historical)
+				Cardinal Hall
+				Carlin Hall
+				Carnegie Endowment for International Peace
+				Carnegie Geophysical Laboratory
+				Carnegie Institution Building
+				Carnegie Institution of Washington Geophysical Laboratory
+				Carnegie Library (historical)
+				Carnegie Terrestrial Magnetism Laboratory
+				Carpenters Building
+				Carriage House
+				Carroll Daly House
+				Carroll Prison (historical)
+				Carroll Row (historical)
+				Carter G Woodson House
+				Carver Terrace Child Development Center
+				Carver Theater (historical)
+				Casanave House (historical)
+				Casimir Pulaski Building
+				Castle Gatehouse
+				Cathedral Mansions
+				Celebration In Learning Child Development Center
+				Center For Student Mission
+				Center for Academic Reinforcement
+				Center for Sickle Cell Disease
+				Center for Urban Ecology
+				Central Guard House (historical)
+				Central Heating Plant (historical)
+				Central National Bank
+				Central Receiving
+				Central Union Mission (historical)
+				Centronia Day Care Center
+				Centronia at Harvard Street Day Care Center
+				Champlain Apartment Building
+				Chancery of Iraq
+				Chantelles Quality Child Care Center
+				Chapel Hall - Gallaudet University
+				Charles E Smith Center
+				Charles E and Laura E Phillips Hall
+				Charles Evans Hughes House
+				Charles Kraemer House
+				Charles R Drew Hall
+				Charles S Pryor Fellowship Hall
+				Charlotte Forten Grimke House
+				Chase House (historical)
+				Chauncy T Cooper Hall
+				Chesapeake and Potomac Telephone Company
+				Chesapeake and Potomac Telephone Company Main Building Addition
+				Chester Arthur Building
+				Chevy Chase Arcade
+				Chevy Chase Baptist Church Childrens Center
+				Chevy Chase Community Day Care Center
+				Chevy Chase Plaza Childrens Center
+				Chevy Chase Theater
+				Children First of Washington District of Columbia
+				Childrens Adams Morgan Health Center
+				Childrens House of Washington
+				Childrens Hut Day Care Center
+				Childrens Shaw Health Center
+				Childs House (historical)
+				Christ Child Society Building
+				Christ Church Rectory
+				Christ House Health Center
+				Christian Hauge House
+				Christian Heurich Brewery (historical)
+				Christian Heurich House
+				Christian Heurichs Lager Beer Brewery and Tavern (historical)
+				Christian Reformed Church Senior Citizens Center
+				Christian Tabernacle Child Development Center
+				Church Row (historical)
+				Church of Jesus Christ Child Development Center
+				City of Washington Museum
+				Citywide Community Development Center
+				Clark Hall
+				Clark Mills Foundry (historical)
+				Clark Mills House (historical)
+				Clendenen Gymnasium
+				Clerc Hall
+				Cleveland Abby House
+				Cleveland Park Branch Library
+				Clifton Terrace
+				Cloverdale
+				Cloyd Heck Marvin Center
+				Cloyd Heck Marvin House
+				Codman-Davis House
+				Cole Residence Hall
+				College Hall - Gallaudet University
+				Colonel John Cox House
+				Colonial Apartments
+				Colorado Building
+				Columbia Railway Company Car Barns (historical)
+				Columbia Road Health Services Center
+				Columbian Legation Building
+				Commerce Department Child Care Center
+				Commercial National Bank
+				Commonwealth Building
+				Community Day Care Center
+				Community House
+				Community of Hope Health Center
+				Conaty Hall
+				Convent Carmelite Sisters
+				Convent of Bon Secours
+				Convent of the Visitation Monastery
+				Cooke's Row
+				Copley Hall
+				Corcoran Carriage House (historical)
+				Corcoran Hall - George Washington University
+				Corcoran Office Building (historical)
+				Corcoran and Riggs Bank Building
+				Cosmos Club
+				Covington Kids-An Early Learning Center
+				Cox's Row
+				Cramton Auditorium
+				Crandalls Apollo Theatre (historical)
+				Crawford-Cassin House
+				Crough Center
+				Cuban Embassy Building
+				Curley Court
+				Curley Hall
+				Custom Service Building
+				Customs House
+				Cutts-Madison House
+				Cuvilly Hall
+				Czechoslovakian Legation Building
+				DAR Constitution Hall
+				Dahlgren Medical Library
+				Daniel Carroll House
+				Danish Legation Building
+				Darnall Hall
+				Daughters of the American Revolution Memorial Continental Hall
+				David Walker House (historical)
+				David White House
+				Davis Performing Arts Center
+				Davis-Hodgkins House
+				Dawes House
+				Dawn To Dusk Child Development Center
+				De La Roche-Jewell Tennant House
+				DeKrafft House (historical)
+				Dead Letter Office Building (historical)
+				Dean Estate (historical)
+				Deanwood Kiosk
+				Decatur Carriage House (historical)
+				Decatur House
+				Decatur-Gunther House
+				Delegation of the Commission of the European Communities
+				Demonet Building
+				Dennis Mullanys Saloon (historical)
+				Dent Springhouse
+				Department of Agricultural Extensible Building
+				Department of Agriculture Administration Building
+				Department of Agriculture Building
+				Department of Agriculture South Building
+				Department of Education
+				Department of Energy
+				Department of Health and Human Services Building
+				Department of Housing and Urban Development
+				Department of Justice Building
+				Department of Labor Building
+				Department of Labor Day Care Center
+				Department of Living Animals (historical)
+				Department of Washington (historical)
+				Department of the Interior South Building
+				Department of the Treasury Building
+				Departmental Auditorium
+				Devore-Chase House
+				Dewey House
+				Diplomatic Reception Rooms Museum
+				Diplotots Day Care Center
+				Dirksen Senate Office Building
+				Discovery Creek Children's Museum
+				Distric of Columbia Citywide Welfare Rights Organization Child Development Center
+				District of Columbia Armory
+				District of Columbia Armory (historical)
+				District of Columbia Board of Child Care Building
+				District of Columbia Center for Therapeutic Recreation
+				District of Columbia Chartered Family Health Center
+				District of Columbia Court of Appeals Building
+				District of Columbia Crematorium (historical)
+				District of Columbia Fire and Emergency Medical Services - Fire Prevention Division
+				District of Columbia Fire and Emergency Medical Services - Training Academy
+				District of Columbia Fire and Emergency Medical Services Engine Company 1
+				District of Columbia Fire and Emergency Medical Services Engine Company 10
+				District of Columbia Fire and Emergency Medical Services Engine Company 11
+				District of Columbia Fire and Emergency Medical Services Engine Company 12
+				District of Columbia Fire and Emergency Medical Services Engine Company 13
+				District of Columbia Fire and Emergency Medical Services Engine Company 14
+				District of Columbia Fire and Emergency Medical Services Engine Company 15
+				District of Columbia Fire and Emergency Medical Services Engine Company 16
+				District of Columbia Fire and Emergency Medical Services Engine Company 17
+				District of Columbia Fire and Emergency Medical Services Engine Company 18
+				District of Columbia Fire and Emergency Medical Services Engine Company 19
+				District of Columbia Fire and Emergency Medical Services Engine Company 2
+				District of Columbia Fire and Emergency Medical Services Engine Company 20
+				District of Columbia Fire and Emergency Medical Services Engine Company 21
+				District of Columbia Fire and Emergency Medical Services Engine Company 22
+				District of Columbia Fire and Emergency Medical Services Engine Company 23
+				District of Columbia Fire and Emergency Medical Services Engine Company 24
+				District of Columbia Fire and Emergency Medical Services Engine Company 25
+				District of Columbia Fire and Emergency Medical Services Engine Company 26
+				District of Columbia Fire and Emergency Medical Services Engine Company 27
+				District of Columbia Fire and Emergency Medical Services Engine Company 28
+				District of Columbia Fire and Emergency Medical Services Engine Company 29
+				District of Columbia Fire and Emergency Medical Services Engine Company 3
+				District of Columbia Fire and Emergency Medical Services Engine Company 30
+				District of Columbia Fire and Emergency Medical Services Engine Company 31
+				District of Columbia Fire and Emergency Medical Services Engine Company 32
+				District of Columbia Fire and Emergency Medical Services Engine Company 33
+				District of Columbia Fire and Emergency Medical Services Engine Company 4
+				District of Columbia Fire and Emergency Medical Services Engine Company 5
+				District of Columbia Fire and Emergency Medical Services Engine Company 6
+				District of Columbia Fire and Emergency Medical Services Engine Company 7
+				District of Columbia Fire and Emergency Medical Services Engine Company 8
+				District of Columbia Fire and Emergency Medical Services Engine Company 9
+				District of Columbia Fire and Emergency Medical Services Engine Company Fire Boat Dock
+				District of Columbia Fire and Emergency Medical Services Headquarters and Administration
+				District of Columbia Fire and Emergency Medical Services Payroll
+				District of Columbia Fire and Emergency Medical Services Public Affairs
+				District of Columbia General Ambulatory Care Center
+				District of Columbia Jail
+				District of Columbia Morgue (historical)
+				District of Columbia Municipal Center
+				District of Columbia Paper Manufacturing Company
+				District of Columbia Police Warehouse
+				District of Columbia Public Library - Langston Community Branch
+				District of Columbia Public Library - Northeast Branch
+				District of Columbia Public Library - Parklands-Turner Community Branch
+				District of Columbia Public Library - R L Christian Community Branch
+				District of Columbia Public Library - Shepherd Park Branch
+				District of Columbia Public Library - Sursum Corda Community Branch
+				District of Columbia Public Library-Anacostia Interim Branch Library
+				District of Columbia Public Library-Benning Interim Library
+				District of Columbia Public Library-Capitol View Neighborhood Branch
+				District of Columbia Public Library-Chevy Chase Neighborhood Branch Library
+				District of Columbia Public Library-Cleveland Park Branch Library
+				District of Columbia Public Library-Deanwood Kiosk
+				District of Columbia Public Library-Francis Gregory Neighborhood Branch
+				District of Columbia Public Library-Garnet C Wilkinson Library
+				District of Columbia Public Library-Georgetown Neighborhood Branch
+				District of Columbia Public Library-Juanita E Thornton/Shepherd Park Branch Library
+				District of Columbia Public Library-Lamond-Riggs Neighborhood Library
+				District of Columbia Public Library-Martin Luther King Jr Memorial Library
+				District of Columbia Public Library-Mount Pleasant Neighborhood Branch
+				District of Columbia Public Library-Palisades Neighborhood Branch
+				District of Columbia Public Library-Petworth Neighborhood Branch
+				District of Columbia Public Library-Southeast Neighborhood Branch
+				District of Columbia Public Library-Southwest Neighborhood Branch
+				District of Columbia Public Library-Takoma Park Neighborhood Branch
+				District of Columbia Public Library-Tenley-Friendship Interim Branch
+				District of Columbia Public Library-Washington Highlands Neighborhood Branch
+				District of Columbia Public Library-Watha T Daniel-Shaw Interim Branch
+				District of Columbia Public Library-West End Neighborhood Branch
+				District of Columbia Public Library-Woodridge Neighborhood Branch
+				District of Columbia Superior Court Child Care Center
+				District of Columbia Visitor Information Center
+				Dixon Hall
+				Dodge Warehouses
+				Dominican Legation Building
+				Donohoe Building
+				Dot Child Development Center
+				Dougall House
+				Douglas House (historical)
+				Douglas Row (historical)
+				Dumbarton House
+				Dumbarton Oaks Estate
+				Dumbarton Oaks Museum
+				Dumbarton Theater
+				Dumblane Garage
+				Dunbar Hotel (historical)
+				Dunblane Building
+				Duncanson-Cranch House
+				Dupont Center Corcoran Gallery of Art
+				Dupont Circle Building
+				Eagle Child Care Center
+				Eagle House (historical)
+				Early Childhood Development Center
+				Earnest E Just Hall
+				Easby House (historical)
+				East Capitol Street Car Barn
+				East Potomac Maintenance Building
+				East of The River Health Center
+				Easter Seal Society Building
+				Ebbitt House (historical)
+				Eckles Memorial Library
+				Edes House
+				Edgewood (historical)
+				Edgewood Child Development Center
+				Edgewood Terrace Early Care and Education Center
+				Editors Building
+				Edward C Mazique Municipal Child Development Center
+				Edward C Mazique Parent Child Center
+				Edward J Pryzbyla University Center
+				Edward Miner Gallaudet Memorial Building
+				Edward Simon Lewis House
+				Effingham Apartments
+				Eight Hundred Block of F Street NW Buildings
+				Eighteen Hundred Block Park Road Buildings
+				Eisenhower Theatre
+				Elizabeth Arden Building
+				Elkins House (historical)
+				Elliott Coues House
+				Ellipse Visitor Pavilion
+				Elstad Auditorium
+				Ely Center
+				Embassy Building Number 10
+				Embassy of Antigua and Barbuda
+				Embassy of Australia
+				Embassy of Austria
+				Embassy of Barbados
+				Embassy of Belgium
+				Embassy of Belize
+				Embassy of Bolivia
+				Embassy of Brazil
+				Embassy of Burkina Faso
+				Embassy of Canada
+				Embassy of Chile
+				Embassy of Colombia
+				Embassy of Costa Rica
+				Embassy of Ecuador
+				Embassy of El Salvador
+				Embassy of Ethiopia
+				Embassy of Finland
+				Embassy of France
+				Embassy of Ghana
+				Embassy of Granada
+				Embassy of Greece
+				Embassy of Guatemala
+				Embassy of Guyana
+				Embassy of Haiti
+				Embassy of Honduras
+				Embassy of Iceland
+				Embassy of India
+				Embassy of Indonesia
+				Embassy of Ireland
+				Embassy of Israel
+				Embassy of Italy
+				Embassy of Jamaica
+				Embassy of Japan
+				Embassy of Kenya
+				Embassy of Korea
+				Embassy of Lebanon
+				Embassy of Luxembourg
+				Embassy of Malaysia
+				Embassy of Malta
+				Embassy of Mauritius
+				Embassy of Mexico
+				Embassy of Morocco
+				Embassy of New Zealand
+				Embassy of Nicaragua
+				Embassy of Pakistan
+				Embassy of Panama
+				Embassy of Papau New Guinea
+				Embassy of Paraguay
+				Embassy of Peru
+				Embassy of Portugal
+				Embassy of Romania
+				Embassy of Saint Kitts and Nevis
+				Embassy of Saint Lucia
+				Embassy of Saudi Arabia
+				Embassy of Sierra Leone
+				Embassy of Singapore
+				Embassy of South Africa
+				Embassy of Spain
+				Embassy of Sweden
+				Embassy of Switzerland
+				Embassy of Thailand
+				Embassy of Trinidad and Tobago
+				Embassy of Tunisia
+				Embassy of Uruguay
+				Embassy of Venezuela
+				Embassy of Western Samoa
+				Embassy of Zimbabwe
+				Embassy of the Arab Republic of Eygpt
+				Embassy of the Argentine Republic
+				Embassy of the Central African Republic
+				Embassy of the Commonwealth of the Bahamas
+				Embassy of the Czech and Slovak Federal Republic
+				Embassy of the Democratic Republic of Madagascar
+				Embassy of the Democratic Socialist Republic of Sri Lanka
+				Embassy of the Democratic and Popular Republic of Algeria
+				Embassy of the Dominican Republic
+				Embassy of the Federal Republic of Germany
+				Embassy of the Federal Republic of Nigeria
+				Embassy of the Federated States of Micronesia
+				Embassy of the Gabonese Republic
+				Embassy of the Gambia
+				Embassy of the Hashemite Kingdom of Jordan
+				Embassy of the Islamic Republic of Mauritania
+				Embassy of the Kingdom of Lesotho
+				Embassy of the Kingdom of Swaziland
+				Embassy of the Lao Peoples Democratic Republic
+				Embassy of the Netherlands
+				Embassy of the Peoples Republic of Bangladesh
+				Embassy of the Peoples Republic of China
+				Embassy of the Peoples Republic of Mozambique
+				Embassy of the Peoples Republic of the Congo
+				Embassy of the Philippines
+				Embassy of the Republic of Afghanistan
+				Embassy of the Republic of Benin
+				Embassy of the Republic of Botswana
+				Embassy of the Republic of Bulgaria
+				Embassy of the Republic of Burundi
+				Embassy of the Republic of Cameroon
+				Embassy of the Republic of Cape Verde
+				Embassy of the Republic of Chad
+				Embassy of the Republic of Cote d'Ivoire
+				Embassy of the Republic of Cyprus
+				Embassy of the Republic of Djibouti
+				Embassy of the Republic of Fiji
+				Embassy of the Republic of Guinea
+				Embassy of the Republic of Hungary
+				Embassy of the Republic of Indonesia
+				Embassy of the Republic of Liberia
+				Embassy of the Republic of Mali
+				Embassy of the Republic of Namibia
+				Embassy of the Republic of Niger
+				Embassy of the Republic of Poland
+				Embassy of the Republic of Rwanda
+				Embassy of the Republic of Senegal
+				Embassy of the Republic of Sudan
+				Embassy of the Republic of Suriname
+				Embassy of the Republic of Togo
+				Embassy of the Republic of Turkey
+				Embassy of the Republic of Yemen
+				Embassy of the Republic of Zaire
+				Embassy of the Republic of Zambia
+				Embassy of the Republic of the Marshall Islands
+				Embassy of the Socialist Federal Republic of Yugoslavia
+				Embassy of the Somali Democratic Republic
+				Embassy of the State of Bahrain
+				Embassy of the State of Brunei Darussalam
+				Embassy of the State of Kuwait
+				Embassy of the State of Qatar
+				Embassy of the Sultanate of Oman
+				Embassy of the Syrian Republic
+				Embassy of the Union of Myanmar
+				Embassy of the Union of Soviet Socialist Republics Building
+				Embassy of the United Arab Emirates
+				Embassy of the United Republic of Tanzania
+				Emily J Wilkins House
+				Energy Child Development Center
+				Engelhard Hall
+				Engine Company Number 24 (historical)
+				Environmental Protection Agency
+				Episcopal Center for Children
+				Episcopal Church House
+				Equitable Co-operative Building
+				Ethel B Yancy Child Development Center at Gethsemane Baptist Church
+				Evans-Tibbs House
+				Evening Star Building
+				Evermay House
+				Exchange Bank (historical)
+				Explorers Hall
+				F Street Club
+				F Street Rowhouses (historical)
+				FERC Child Development Center
+				Fairchild Building
+				Faith Day Care Center
+				Fannie Mae Emergency Child Care Center
+				Farm Credit Administration Building
+				Fay House
+				Federal - American National Bank
+				Federal Aviation Administration Building
+				Federal Bureau of Investigation Building
+				Federal Home Loan Bank Board Building
+				Federal House
+				Federal Reserve Annex
+				Federal Reserve Board Building
+				Federal Trade Commission Building
+				Federal Trade Commission Child Care Center
+				Federal Warehouse
+				Field House
+				Finding Dreams in Children Child Care Center
+				Fingerprints Child Development Center
+				Finnish Legation Building
+				Fire Company Number Five (historical)
+				Firemans Insurance Company (historical)
+				First Baptist Child Development Center
+				First Baptist Church Senior Center
+				First Baptist Church of Deanwood Child Development Center
+				First Rising Mount Zion Child Development Center
+				First Rock Baptist Child Development Center
+				First Rock Baptist Church Child Development Center
+				First Street Health Center
+				Fish Commission Building (historical)
+				Flather Hall
+				Fletchers Colorama Estate (historical)
+				Floral Library
+				Florena Crittenden House
+				Folger Shakespeare Library
+				Folger Theatre
+				Fondo del Sol Visual Arts Center
+				Food and Drug Administration Building
+				Foraker House (historical)
+				Fords Opera House (historical)
+				Forest Hall
+				Forrest Hall
+				Forrest-Marbury House
+				Forrestal Building
+				Fort Dupont Activity Center
+				Fort Dupont Summer Theater
+				Fort Stanton Childrens Museum
+				Founders Library
+				Foundry United Methodist Church Day Care Center
+				Fowler Hall
+				Fox Theatre (historical)
+				Foxall House (historical)
+				Foxall-McKenney House
+				Frances Perkins House
+				Frances Scott Key Hall
+				Francis A Gregory Branch Library
+				Francis Dodge House
+				Francis Wheatley House
+				Franklin D Roosevelt House
+				Franklin House (historical)
+				Franklin Terrace (historical)
+				Franz Bader Gallery
+				Fraser Mansion
+				Frederick B Culver House (historical)
+				Frederick Douglass Child Development Center Phase II
+				Frederick Douglass Home
+				Frederick Douglass Home Visitor Center
+				Frederick Douglass Infant Toddler Center
+				Fredrick Douglass Memorial Hall
+				Freedmans Bank (historical)
+				Freemasons Hall (historical)
+				Freer Gallery
+				Friendship House
+				Friendship House Association Child Development Center
+				Friendship Place
+				Friendship Settlement House
+				Fuel Administration Building (historical)
+				Fulbright Hall
+				Full Gospel Tabernacle Church Child Development Center
+				Fuller House
+				Funger Hall
+				G-Dub Java
+				GSA Regional Office Building
+				Gadsbys Hotel (historical)
+				Gala Hispanic Theater
+				Gallaudet University Child Development Center
+				Gallery Row
+				Gallery of Art - Howard University
+				Gap Community Child Care Center
+				Garfinckel's Department Store
+				Gaston Hall
+				Gearing Bungalow
+				Gelman Building
+				General Accounting Office
+				General Federation of Womens Clubs
+				General Federation of Womens Clubs Headquarters
+				General Noble Redwood Tree House (historical)
+				General Service Administration Building
+				General Service Administration Regional Office
+				General William Mitchell Hall
+				George Fraser House
+				George Hewitt Myers House
+				George W Cook Hall
+				George Washington Memorial Building (historical)
+				George Washington University Smith Center
+				Georgetown Branch Library
+				Georgetown College Villa
+				Georgetown Commercial Buildings
+				Georgetown Custom House (historical)
+				Georgetown Hill Child Development Center
+				Georgetown Hill Early Childhood Center
+				Georgetown Law Early Learning Center
+				Georgetown Preparatory School Main Academy Building
+				Georgetown Preparatory School Monastery South Wing
+				Georgetown Tobacco Warehouse
+				Georgetown Town Hall and Mayors Office (historical)
+				Georgetown University Astronomical Building
+				Georgetown University Hoya Kids
+				Georgetown University Shops
+				Georgetown Visitor Center
+				German Orphan Home
+				Germond Crandall Building
+				Gervase Building
+				Gewirz Hillel Center
+				Gibbons Hall
+				Girl Scout Little House (historical)
+				Glen Hurst
+				Globe Theatre (historical)
+				Godey House
+				Golden Rule Child Development Center
+				Goldies Child Development Center
+				Goldies Child Development Center II
+				Good Samaritan Hall (historical)
+				Goode House (historical)
+				Gordons Warehouse (historical)
+				Gorman Building
+				Goszler-Manogue House
+				Government Printing Office
+				Gowan Hall
+				Graduate School of Arts and Sciences Building
+				Grand Oaks Assisted Living Facility
+				Grant Park Care Center
+				Grant Row
+				Grants Row (historical)
+				Grassland (historical)
+				Gray Hall
+				Gray-Payne House (historical)
+				Greek Legation Building
+				Gregg House
+				Gres Gallery (historical)
+				Greystone
+				Growing Seeds Child Development Center
+				Guatemalan Legation Building
+				Guggenheim House (historical)
+				Guild Hall
+				Guthridge Hall
+				Gutman-Wise Building
+				H B Burns Memorial Building
+				Haitian Legation Building
+				Halcyon House
+				Hale House (historical)
+				Hall Memorial Building
+				Hall of Government
+				Halls of the Ancients (historical)
+				Hamburgh Village House (historical)
+				Hamilton Building
+				Hamilton Recreation Center
+				Hampilton Building
+				Hampshire Garden Apartment Building
+				Hannan Hall
+				Happy Faces Child Development Center Number 2
+				Happy Faces Child Development Center Number 3
+				Happy Tots Day Care Center
+				Harbin Hall
+				Harbor Light Center
+				Harewood (historical)
+				Harmon House
+				Harnedy Row Houses
+				Harris and Ewing Photographic Studio
+				Harrison Apartment Building
+				Hart Senate Office Building
+				Hattie M Strong Hall
+				Hattie M Strong Residence Hall - George Washington University
+				Hay-Adams House (historical)
+				Healy Hall - Georgetown University
+				Hearst Hall
+				Hearst House (historical)
+				Heavenly Angels Child Care Center
+				Hecht Company Warehouse
+				Hedges and Federal House
+				Hendersons Castle (historical)
+				Hendley Before and After School Center
+				Henle Village
+				Henry Adams Mansion
+				Henry Foxall Tenant House
+				Henry McCleery House
+				Hensley Residence Hall
+				Herron-Moxley House
+				Heurich Mansion
+				Highlands
+				Hillandale
+				Hillandale Gatehouse
+				Hilleary Burrows House
+				Hillel Foundations Building
+				Hillwood Museum
+				Hippodrome (historical)
+				Hirshhorn Museum and Sculpture Garden
+				Historic Georgetown Grist Mill
+				Historic Georgetown Jail Building
+				Historic Georgetown Town Hall
+				Hitt House (historical)
+				Hoby House (historical)
+				Holmead Manor (historical)
+				Holy Temple Child Development Center
+				Holy Trinity Theatre
+				Home Away From Home Child Development Center
+				Home for Incurables
+				Homeland Security and Emergency Management Agency District of Columbia
+				Homer Building
+				Hooe Iron Building (historical)
+				Hopkins-Miller House (historical)
+				Horace Gray House (historical)
+				Horizons Theatre
+				Horse Center
+				Hortense Amsterdam
+				Hotel Washington
+				House Office Building Annex 1
+				House Office Building Annex 2
+				House of Ruth Kidspace Infant Program Child Develoment Center
+				House of the Temple Museum
+				Howard Hall
+				Howard Plaza Towers
+				Howard Theater
+				Howard University Center
+				Howard University Museum
+				Howe House (historical)
+				Hubert Humphrey Building
+				Huckle Berry Cheesecake Child Development Center
+				Hughes Child Development Center
+				Hughes Hall
+				Human Ecology Building
+				Humpty Dumpty Child Development Center
+				Hungarian Legation Building
+				Hungarian Legation Chancery Building
+				Hurst Building
+				Hurst Home for the Blind
+				Hyde House
+				I-Care Child Development Center
+				Ideal Child Care Development Center
+				Immaculate Conception Convent
+				Immaculate Conception Rectory
+				Immigration and Naturalization Service Building
+				Imperial Building
+				Inabel Burns Lindsay Hall
+				Inclusion Early Learning Child Development Center
+				Indian House (historical)
+				Indiana Building
+				Ingleside
+				Ingleside Presbyterian Retirement Home
+				Inlet Gates
+				Institute of Diplomacy
+				Inter-American Defense Board Building
+				Inter-American Development Bank Cultural Center
+				Intercultural Center Auditorium
+				Internal Revenue Service Building
+				International Communications Agency Building
+				International Eastern Star Temple
+				International Monetary Fund Building
+				International Spy Museum
+				International Visitors Information Center
+				Interstate Commerce Commission Building (historical)
+				Intown Play Group Child Development Center
+				Ira Aldridge Theatre
+				Isaac Pierce House (historical)
+				Isaac Tenney House
+				Isabella Sojourner Truth Hall
+				Isle of Patmos Christian Learning Center
+				Israel Baptist Church Child Development Center
+				Issac Tiny Tots
+				Ivory Towers
+				J Edgar Hoover Federal Bureau of Investigation Building
+				Jackie Robinson Center
+				Jackson Hall (historical)
+				Jackson Hotel (historical)
+				Jackson House (historical)
+				Jacob Burns Library
+				Jacqueline Bouvier Kennedy Onassis Hall
+				James G Blaine House
+				James Hooe House
+				James Madison Memorial Building
+				Jeanne Jugan Residence Home
+				Jefferson Apartment Building
+				Jefferson Davis Residence
+				Jefferson Place Gallery (historical)
+				Jenkins Hill Child Development Center
+				Jenny Waelder Hall Center Child Development Center
+				Jeremiah Sullivan Building
+				Jo Wilson Before and After Day Care Center
+				Johenning Baptist Center
+				Johenning Child Development Center
+				John A Wilson Building
+				John Adams Building
+				John Burr Gymnasium
+				John Davidson House
+				John F Kennedy Center for the Performing Arts
+				John Hurley House
+				John Lutz House
+				John Mason House (historical)
+				John Quincy Adams House
+				John R McLean House (historical)
+				John Stoddert Haw House
+				John Walker House
+				John Williamson House
+				Joseph Beale House
+				Joseph Beale House II
+				Joseph Carlton House
+				Joseph Cooper House
+				Judiciary Square Rowhouses (historical)
+				Juenemanns Lager Beer Brewery (historical)
+				Julia Caldwell Frazier Hall
+				Julius Lansburgh Furniture Company
+				Junior League of Washington
+				Just Us Kids Child Development Center
+				Kalorama Estate (historical)
+				Kay Spiritual Life Center
+				Keane Hall
+				Keiths Theatre (historical)
+				Kellogg Office Building (historical)
+				Kendall Hall
+				Kenilworth Parkside Day Care Center
+				Kennedy - Warren Apartment Building
+				Kennedy Child Development Center
+				Kennedy Hall
+				Kennedy House (historical)
+				Kerby Hall
+				Key House (historical)
+				Kiddie City Day Care Center
+				Kiddies Kollege
+				Kids Are Us Learning Center
+				Kids Corner Day Care Center
+				Kids Place Bilingual Center Number 2
+				Kids Place Bilingual Child Development Center
+				Kids Universe Child Development Center
+				Kidspace House of Ruth Child Development Center
+				Kinderhaus
+				Kingman Boys Club
+				Kings Picture Gallery
+				Kirkwood House (historical)
+				Klingle Mansion
+				Knickerbocker Theater (historical)
+				Knowledge Learning Corporation Childrens Discovery Center
+				Knowledge Learning Corporation World Bank Child Development Center
+				Kober Cogan Building
+				Kogod Building
+				Kreeger Building
+				Kreeger Museum
+				Kreeger Theatre
+				Kuumba Learning Center
+				La Salle Before and After School
+				Lafayette Apartment Building
+				Lafayette Building
+				Lafayette Hall
+				Laird-Dunlop House
+				Langston Community Library
+				Langston Terrace Dwellings
+				Latvian Legation Building
+				Lauinger Library
+				Le Droit Building
+				LeBerns New Beginning Early Development Center
+				Leader Theater (historical)
+				Leahy Hall
+				Leavey Center
+				Lederer Environmental Education Center
+				Lee House
+				Legation of Latvia
+				Legation of Lithuania
+				Leiter House (historical)
+				Leiter Mansion (historical)
+				Lemon Building (historical)
+				Lenthall House
+				Lenthall Houses
+				Leonard Hall
+				Lerner Health and Wellness Center
+				Letts Hall
+				Library of Congress
+				Lillian S Lynch Number 1 Early Child Development Center
+				Lillian S Lynch Number 2 Early Child Development Center
+				Lillian and Albert Small Jewish Museum
+				Lincoln Hall (historical)
+				Lincoln Theater
+				Lincoln Westmoreland Child Development Center
+				Lindsay House (historical)
+				Linnean Hill
+				Linthicum House
+				Lipton Corporate Child Care Center Number 1
+				Lipton Corporate Child Care Center Number 2
+				Lisner Auditorium
+				Lisner Auditorium - George Washington University
+				Lisner Hall
+				Lisner Louise Home
+				Litchfield House (historical)
+				Lithuanian Legation Building
+				Little Angels Child Care Center
+				Little Flower Montessori School
+				Little Folks School
+				Little Jewels Child Development Center
+				Little Samaritan Child Development Center
+				Little Samaritan Child Development Center II
+				Little Workers of the Sacred Heart Child Development Center
+				Living Stage
+				Lloyd Gymnasium
+				Lockkeepers House
+				Logan Building
+				Longs Hotel (historical)
+				Longworth House Office Building
+				Lothrop Mansion
+				Loughborough-Patterson House - Junior League
+				Louis Stokes Health Sciences Library
+				Louise home (historical)
+				Love and Care Child Development Center
+				Loving Care Day Nursery
+				Lowery House (historical)
+				Loyola Hall
+				Lucinda Cady House
+				Lulu V Childers Hall
+				Lutheran Volunteer Corporation
+				Luzon Apartment Building
+				Lyons Mill (historical)
+				Mabel Thurston Hall
+				MacArthur Theater
+				MacArthur Theater (historical)
+				Mackall Place
+				Mackall Square
+				Mackall-Worthington House
+				Mades Hotel (historical)
+				Madison Hall
+				Magner House
+				Maguire Building
+				Maguire Hall
+				Main Hall - Trinity University
+				Main Navy and Munitions Buildings (historical)
+				Malawi Embassy
+				Malcolm X Day Care Center
+				Maloney Hall
+				Mamie D Lee Before and After School Center
+				Manassas Panorama Building (historical)
+				Manhattan Laundry East Building (historical)
+				Manhattan Laundry South Building (historical)
+				Manhattan Laundry West Building (historical)
+				Margaret Wetzel House
+				Maria L Baldwin Hall
+				Marine Corps Barracks
+				Marine Corps Commandants House
+				Marine Corps Museum and Historical Center
+				Marine Science Building
+				Marinis Hall (historical)
+				Marist Annex
+				Marist Hall
+				Marthas Table Child Development Center II
+				Marthas Table Child and Parent Center
+				Martin Luther King Junior Memorial Library
+				Marvin Center Theatre - George Washington University
+				Mary Ann Shadd Cary House
+				Mary Church Terrell House
+				Mary E Switzer Building
+				Mary Graydon Center
+				Mary McLeod Bethune Council House
+				Mary Mcleod Bethune Hall Annex
+				Mary Surratt House
+				Mary Thornberry Building
+				Maryland House (historical)
+				Marys Center
+				Masonic Lodge
+				Matthews Memorial Baptist Church Child Development Center
+				Maxwell Woodhull House
+				May-Smallwood House (historical)
+				Mayfair Mansions
+				Mayflower Hotel
+				Mays Building (historical)
+				McCabe Hall
+				McCarthy Hall
+				McCleery House
+				McCormick Apartments
+				McCort-Ward Building
+				McDonald House
+				McDonough Gymnasium
+				McDowell Hall
+				McGill Building (historical)
+				McGregor Building
+				McKenney House
+				McKenny House
+				McKeown Hotel (historical)
+				McKinley Building
+				McLachlen Building
+				McMahon Hall
+				McNeir Auditorium
+				McSherry Building
+				Meadowbrook Riding Stable
+				Media and Public Affairs Building
+				Medical and Dental Annex
+				Medical and Dental Building
+				Medlantic Center
+				Medstar Manor at Lamond Riggs
+				Meigs House (historical)
+				Melvin Gelman Library
+				Mercantile Savings Bank
+				Meridian Hall
+				Meridian House International
+				Meridian Manor
+				Meridian Mansions
+				Merrill Learning Center
+				Merriweather Residence Hall
+				Methodist Home
+				Metropolis Bank (historical)
+				Metropolitan Club
+				Metropolitan Day School
+				Metropolitan Methodist Church Nursery School
+				Metropolitan Police Boys and Girls Clubs
+				Metropolitan Police Department Harbor Patrol
+				Metropolitan Police Department Headquarters
+				Metropolitan Police Department Patrol Services and School Security Bureau
+				Metropolitan Theatre (historical)
+				Metzerott Hall (historical)
+				Mexican Cultural Institute
+				Michler Place
+				Millennium North Hall
+				Millennium South Hall
+				Miller Cabin
+				Miller Cottage
+				Miller House
+				Mills Building
+				Miner Hall (historical)
+				Model Cities Center
+				Monroe Hall
+				Monroe House (historical)
+				Montello Child Development Center
+				Montgomery Tavern (historical)
+				Montrose (historical)
+				Moore House
+				Moorland Spingarn Research Center
+				Moran Building
+				Mordecal Johnson Administration Building
+				Morris House
+				Morrison-Clark Inn
+				Morsell House
+				Moten Before and After School Care
+				Motion Picture Association Building (historical)
+				Mott Theatre (historical)
+				Mount Calvary Holy Church Child Development Center
+				Mount Pleasant (historical)
+				Mount Vernon Row (historical)
+				Mount Vernon Theater
+				Mount Zion Church Parsonage
+				Mount Zion United Methodist Community House
+				Mountjoy Bayly House
+				Ms Bunnys Child Development Center
+				Mulledy Building
+				Mullen Library
+				Mullen Memorial Library
+				Mullett Rowhouses
+				Munitions Building (historical)
+				Munson Hall
+				Museum of Contemporary Art District of Columbia
+				Museum of Modern Latin American Art
+				Myer House (historical)
+				Myrene Apartment Building
+				Nancy Hanks Center
+				Nassif Building
+				National Academy of Sciences and Engineering
+				National Aeronautical Space Administration Building
+				National Air and Space Museum
+				National Aquarium of Washington District of Columbia
+				National Archives Building
+				National Association of Broadcasters Building
+				National Bank of Washington
+				National Benefit Association Building (historical)
+				National Building Museum
+				National Bureau of Standards Building
+				National Capital Parks Central Headquarters
+				National Capital Parks East Headquarters
+				National Capital Parks Headquarters
+				National Child Research Center
+				National Childrens Center
+				National Council of Negro Womens Headquaters
+				National Education Association Building
+				National Endowment for the Arts Building
+				National Gallery of Art
+				National Gallery of Art - East Building
+				National Geographic Society Building
+				National Green House (historical)
+				National Guard Heritage Gallery
+				National Guard Memorial Building
+				National Headquarters Building
+				National Headquarters of the United States Daughters of 1812
+				National Headquaters of National Society of Colonial Dams of America
+				National Home for Destitute Colored Women and Children (historical)
+				National Hotel (historical)
+				National Lutheran Home for the Aged
+				National Metropolitan Bank Building
+				National Museum of African Art
+				National Museum of American Art
+				National Museum of American History
+				National Museum of Crime and Punishment
+				National Museum of Health and Medicine
+				National Museum of History and Technology
+				National Museum of Natural History
+				National Museum of Women in the Arts
+				National Museum of the American Indian
+				National Philatelic and Postal History Museum
+				National Portrait Gallery
+				National Postal Museum
+				National Presbyterian Church School
+				National Press Club Building
+				National Saving and Trust Company
+				National Science Foundation Building
+				National Society of Daughters of American Revolution, Headquarters and Museum
+				National Theatre
+				National Trust for Historic Preservation
+				National Union Building
+				National Visitor Center
+				National Womens Party Building
+				National Zoological Park Administration Building
+				Naval Gun Factory (historical)
+				Naval Lodge (historical)
+				Naval Lodge Number 4 Masonic Hall (historical)
+				Naval Museum of Hygiene (historical)
+				Navy Art Gallery
+				Navy Building
+				Navy Bureau of Medicine and Science
+				Navy Department Library
+				Navy Magazine
+				Navy Medical Command Building
+				Navy Memorial Museum
+				Netherlands Legation Building
+				Nevils Building
+				New Bethels Howards Preschool
+				New Community Child Development Center
+				New Community Child Development Center II
+				New Creation Child Development Center
+				New Executive Office Building
+				New Hall
+				New Horizon Child Development Center
+				New Horizon Child Development Center II
+				New Image Child Development Center
+				New Macedonia Early Learning Center
+				New McLachlan Building
+				New National Aeronautical Space Administration Building
+				New Navy Building (historical)
+				New North Building
+				New Playwrights Theatre
+				New Research Building
+				New South
+				New York Avenue Day Care Center
+				Newcomb Child Development Center
+				Newcomb Day Care and Learning Center
+				Newseum
+				Nicholas Hedges House
+				Noble House (historical)
+				Nordlinger Building
+				Northeast Branch Library
+				Northeastern Presbyterian Church Child Development Center
+				Northumberland Apartments
+				Northwest Settlement House
+				Northwest Settlement House Infant Child Development Center
+				Norwegian Legion Building
+				Notre Dame Convent
+				Nugent Hall
+				Numa P G Adams Medical School Building
+				Nursing-Biology Building
+				O'Boyle Hall
+				O'Donovan Dining Hall
+				Oak Hill (historical)
+				Oak Hill Cemetery Gatehouse
+				Obelisk Gallery (historical)
+				Octagon House
+				Octagonal House (historical)
+				Odd Fellows Hall (historical)
+				Odeon Theatre (historical)
+				Office of Personnel Management Building
+				Office of the U S Trade Representative
+				Ola C Franks Child Development Center
+				Old Brick Capitol (historical)
+				Old British Legation Building (historical)
+				Old Capitol Prison (historical)
+				Old City Hall
+				Old Cosmos Club (historical)
+				Old Engine Company Number 6
+				Old Executive Office Building
+				Old Fire Company Number 5 (historical)
+				Old French Embassy
+				Old Hungarian Embassy (historical)
+				Old Main (historical)
+				Old Main Building
+				Old Masonic Hall
+				Old National Museum (historical)
+				Old Naval Observatory
+				Old North Building
+				Old Providence Market (historical)
+				Old South Building (historical)
+				Old Stone House
+				Old Toll Gate Site (historical)
+				Old Vat (historical)
+				On Leong Chinese Merchants Association Building
+				Orchard Hill
+				Orchard Hill (historical)
+				Organization of American States Annex
+				Organization of American States Building
+				Osborn Building
+				Oscar W Underwood House
+				Oswego and Exeter Apartments
+				Outlet Gates
+				Owls Nest
+				Oyster Bilingual Before and After School Center
+				Palais Royale Building (historical)
+				Palisades Branch Library
+				Palmer House (historical)
+				Pan American Health Organization
+				Pan American Union
+				Panama Legation Building
+				Pangborn Hall
+				Paradise Early Childhood Center
+				Paramount Baptist Church Center
+				Paramount Baptist Church Child Development Center
+				Parish House
+				Park Road South Side Historical Buildings
+				Park Terrace Nursery
+				Park Tower
+				Parkington
+				Parklands-Turner Community Library
+				Pasquerilla Healthcare Center
+				Passport Office Building
+				Patrick Henry Building
+				Patriotic Bank (historical)
+				Paul Himmelfarb Health Sciences Library
+				Payne Before and After School Center
+				Payne Early Childhood Center
+				Peabody Conservatory of the Johns Hopkins University
+				Peaches N Cream Child Development Center
+				Peale House (historical)
+				Peet Hall
+				Peikoff Alumni House
+				Peirce Barn
+				Peirce Distillery
+				Peirce Springhouse
+				Peirce Springhouse and Barn
+				Peirce Still House
+				Pelham Residence Hall
+				Pendletons Palace of Fortune (historical)
+				Penn Adult Education Center
+				Pension Building (historical)
+				Pentacle Child Development Center
+				Perry Building
+				Pershing Victory Arch (historical)
+				Peter J. Fine Health Center
+				Peters Grove (historical)
+				Petersen House
+				Petworth Branch Library
+				Petworth Recreation Center
+				Philadelphia Row
+				Philip T Berry House
+				Phillips Collection
+				Phillips Row (historical)
+				Phoenix Center
+				Phyllis Wheatley Hall
+				Phyllis Wheatley YMCA
+				Pilgrim Baptist Church Child Development Center
+				Pine Crest Manor
+				Planned Parenthood
+				Plaza Dining Hall
+				Plummer Before and After School Center
+				Plymouth Theater
+				Ponce de Leon Apartment Building
+				Poor House (historical)
+				Pope John Paul II Cultural Center
+				Portal Building
+				Porters Lodge (historical)
+				Potomac Appalachian Trail Club
+				Potomac Boat Club Building
+				Potomac Lodge (historical)
+				Potomac Masonic Lodge No. 5
+				Poulton Hall
+				Pre-Clinical Science Building
+				Premier Ambulatory Center
+				Premier Building
+				Presbyterian Retirement Home
+				President's Building
+				President's House - Gallaudet University
+				Presidents Offices - George Washington University
+				Prince Hall Masonic Temple
+				Proctor Alley Livery Stable (historical)
+				Prospect House
+				Protestant Episcopal Cathedral Foundation
+				Prudence Crandall Hall
+				Ptomaine Row (historical)
+				Public Health Administration Building
+				Pullman House
+				Purdy Court (historical)
+				Purity Baptist Church Child Development Center
+				Quality Hill
+				Quarters A - Washington Navy Yard
+				Quarters B - Washington Navy Yard
+				Quickie Becky Child Care Development Center
+				Quinn House
+				R L Christian Community Library
+				Railroad Retirement Board
+				Raleigh Hotel (historical)
+				Ralph Bunche House
+				Ralph J Bunche International Affairs Center
+				Rammed Earth House
+				Randall Building
+				Randall Day Care Center
+				Randle Highlands Recreation Center
+				Rayburn House Office Building
+				Rear Admiral Charles H Stockton Hall
+				Reardon House
+				Reckert House
+				Reconstruction Finance Corporation Building
+				Red Lion Row
+				Red Top (historical)
+				Red Wood Estate (historical)
+				Reed Alumni Residence
+				Reeves Center Municipal Building
+				Regan Hall
+				Regency Row
+				Rehoboth Baptist Church Child Development Center
+				Reiss Science Building
+				Renwick Gallery
+				Republic Saving and Building Company (historical)
+				Research Resource Facility
+				Reynolds Hall
+				Rhode Island Avenue Residential Building
+				Rhodes Tavern (historical)
+				Richard Brevard Russell Office Building
+				Richard H Townsend House
+				Richmond Hotel (historical)
+				Riddell Building
+				Riggs Building
+				Riggs Library
+				Riggs Memorial Library
+				Riggs-Riley House
+				Riggs-Tompkins Building
+				Ringgold House (historical)
+				Ringgold-Carroll House
+				River Park Nursery School
+				Robert H and Clarice Smith Hall of Art
+				Robert P Dodge House
+				Robert Peters Houses
+				Robert S McCormick House
+				Robert Simpson Woodward House
+				Rock Creek Childrens Center
+				Rock Creek Church Yard
+				Rock Creek Park Box Office
+				Rock Creek Park Headquarters
+				Rock Creek Park Horse Center
+				Rock Creek Park Maintenance Yard
+				Rock Creek Park Nature Center and Planetarium
+				Rock Creek Park Police Stables
+				Rock Creek Park Police Substation
+				Rock Creek Park Trail Center
+				Rock Creek Stable
+				Rock Creek Valley Stable
+				Rockwood Building
+				Rodgers House (historical)
+				Romanian Legation Building
+				Ronald Reagan Building and International Trade Center
+				Roosevelt Apartment Building
+				Roosevelt Mansion
+				Roper Hall
+				Rosedale
+				Rosedale Day Care Center
+				Rosemont Center
+				Ross Hall
+				Ross and Getty Building
+				Rousseau House
+				Royal Danish Embassy
+				Royal Nepalese Embassy
+				Royal Norwegian Embassy
+				Russell A Dixon Building
+				Russell A Dixon Hall
+				Russell Senate Office Building
+				Russian Embassy
+				Ryan Gymnasium
+				Ryan Hall
+				Ryder Hall
+				Ryders Castle
+				S. Dillon Ripley Center
+				SIS Annex
+				Safe and Sound Day Care Center
+				Saint Albans Church Rectory
+				Saint Albans Early Childhood Center
+				Saint Bonaventure Hall
+				Saint Charles Hotel (historical)
+				Saint Johns Little Angels Day Care Center
+				Saint Johns Parish House
+				Saint Josephs Home
+				Saint Mary's Hall
+				Saint Matthews Church Rectory
+				Saint Philips Child Development Center
+				Saint Timothys Child Development Center
+				Saint Vincents Orphan Asylum (historical)
+				Salve Regina Hall
+				Samson Hall
+				Samuel Gompers House
+				Samuel M Bryan House
+				Samuel P Langley IMAX Theater
+				Sargent House (historical)
+				Satterlee Hall
+				Savoy Before and After School Center
+				Savoy Theater (historical)
+				Schenley Hall
+				Schneider House (historical)
+				School of Education
+				School of International Service Annex
+				Scotch Row
+				Scott Building
+				Scott Montgomery Day Care Center
+				Scott-Grant House
+				Scottish Rite Supreme Council Building
+				Sea Captains House
+				Sears, Roebuck and Company Department Store
+				Seaton Hall (historical)
+				Seaton Hotel (historical)
+				Second Baptist Church Day Care Center
+				Second National Bank
+				Second New Saint Paul Baptist Church Child Development Center
+				Securities and Exchange Commission
+				Senator J William Fulbright Hall
+				Senator Theater
+				Seton Wing
+				Sevier Place
+				Shaed Before and After School Center
+				Shahan Hall
+				Shakespeare Theater
+				Sharpe Health Before and After School Center
+				Shepherd Building (historical)
+				Shepherd Centenial Building (historical)
+				Shepherds Row
+				Sheridan Hall (historical)
+				Sherman Hall
+				Sherman North Building
+				Shiloh Day Nursery
+				Shoomakers Tavern (historical)
+				Short Line Railroad Association Building (historical)
+				Shubert Theater (historical)
+				Siamese Legation Building
+				Simms-Lihault House
+				Simon Before and After School Center
+				Sims House
+				Single Oak
+				Sister Helen Sheehan Library
+				Slidell House (historical)
+				Small Business Administration Building
+				Smith Row
+				Smith-Bruce House
+				Smith-Morton Row House
+				Smithsonian Early Enrichment Center East
+				Smithsonian Early Enrichment Center Natural History
+				Smithsonian Early Enrichment Center West
+				Smithsonian Institution
+				Smithsonian Institution Arts and Industries Building
+				Social Security Building
+				Society of the Cincinnati Headquarters Building
+				Solar Building
+				Soldiers Home Annex
+				Soldiers Home Main Building and Tower
+				Soldiers Home Quarters Number 1
+				Soldiers Home Quarters Number 2
+				Somers Residence Hall
+				Sons of the American Revolution Building
+				Source Main Stage
+				Source Warehouse Theatre
+				Southeast Branch Library
+				Southeast Federal Center
+				Southern Aid Society Building
+				Southern Building
+				Southern Railway Building (historical)
+				Southwest Branch Library
+				Southwest Child Development Center
+				Southworth College (historical)
+				Spalding Hall
+				Spanish Catholic Center
+				Spanish Education Development Center
+				Spanish Education Development Center Number 1
+				Spellman Hall
+				Spencer Carriage House and Stable
+				Spingarn Senior High School Child Development Center
+				Springfield Baptist Church Child Development Center
+				Springland House
+				Square 38
+				Stan Saloon
+				Staughton Hall
+				Stephen A Douglas House (historical)
+				Steuart Building (historical)
+				Stevens-Billings Houses
+				Stewart Lee Udall Department of the Interior Building
+				Stewarts Castle (historical)
+				Stockton Hall - George Washington University
+				Stoddard Baptist Nursing Home
+				Stoddert Terrace Day Care Center
+				Stone House (historical)
+				Stott Company Building (historical)
+				Student Health & Fitness Center
+				Student Resource Center
+				Studio Theater
+				Sulgrave Club
+				Summer House
+				Summy House (historical)
+				Sunrise at Thomas Circle Nursing Home
+				Sunshine Early Learning Center
+				Superior Court of the District of Columbia - Crime Victims Compensation Program
+				Superior Court of the District of Columbia - Criminal Division
+				Superior Court of the District of Columbia - Moultrie Courthouse
+				Superior Court of the District of Columbia- Clerk of the Court
+				Supreme Court
+				Supreme Learning Center
+				Sursum Corda Community Library
+				Susan Wheeler Decatur House
+				Swartzell Rheem and Hensey Building
+				Sweeney-Plowman House
+				Swiss Legation Building
+				Sylvan Theatre
+				Tabernacle Baptist Church Child Development Center
+				Taft Stable
+				Takoma Park Branch Library
+				Tariff Commission Building
+				Taylor House (historical)
+				Templeman House
+				Ten Buildings (historical)
+				Tenley House
+				Tenley-Friendship Branch Library
+				Tennally-Lightfoot House (historical)
+				Tennallys Tavern
+				Tenth Precinct Station House
+				Terrace Theatre
+				Terrace Top
+				Textile Museum
+				The American Forestry Association Building
+				The Arcadia Building (historical)
+				The Bakeoven (historical)
+				The Brookings Institute
+				The CHILD Center
+				The Cedars (historical)
+				The Chamberlain
+				The Child Development Center of the First Baptist Church of Washington
+				The Dakota
+				The George Washington University Inn
+				The Hall on Virginia Avenue
+				The Highlands Building
+				The Lindens
+				The Olympia
+				The Plymouth
+				The Rest
+				The Robert H and Clarice Smith Hall of Art
+				The Scripture Cathedral Day Care Center
+				The Seven Buildings
+				The Six Buildings
+				The West End
+				The White House
+				The White House Visitor Center
+				The World Bank
+				Theodore Hagans Cultural Center
+				Theodore Roosevelt House
+				Theological College
+				Thirkield Science Hall
+				Thomas Cramphin Building
+				Thomas House
+				Thomas Jefferson Building
+				Thomas Law House
+				Thomas Main House
+				Thomas Nelson Page House
+				Thomas Parrot House
+				Thomas Robertson House
+				Thomas Sim Lee Corner
+				Tidal Basin Boathouse
+				Tiny Findings Day Care Center
+				Tiny Tots Day Care Nursery
+				Tivoli Theatre
+				Todd Building
+				Tompkins Hall of Engineering
+				Tots Nursery School
+				Tourist Information Center
+				Toutorsky Mansion
+				Tower Building
+				Townhouse Row
+				Towpath Row
+				Trades Hall
+				Trans-Lux Building (historical)
+				Trans-Lux Theatre (historical)
+				Transpoint Building
+				Treasury Annex
+				Treasury Square Rowhouses (historical)
+				Tregaron
+				Triangle Tots
+				Trinty Center
+				True Reformer Building
+				Trumbull Row (historical)
+				Truxtun-Decatur Museum
+				Tucker Day Care Center
+				Tudor Hall
+				Tudor Place
+				Tunnicliffs Tavern (historical)
+				Turner Before and After School Center
+				Tuttle House (historical)
+				Twelfth Street YMCA Building
+				Twin Oaks
+				Tyler House (historical)
+				Tyler House Child Development Center
+				U S Kids Child Development Center
+				U.S. Capitol Visitor Center
+				US Capitol Gatehouses and Gatepost
+				US National Arboretum
+				Uline Arena
+				Unanue House
+				Union Center Plaza North Building
+				Union Center Plaza South Building
+				Union Fire Company (historical)
+				Union Hotel (historical)
+				Union Market
+				Union Plaza Dormitories (historical)
+				Union Station
+				Union Tavern (historical)
+				Union Temple Baptist Church Day Care Center
+				Union Trust Company
+				Unique Child Care Center
+				United Brick Corporation Brick Company
+				United Cerebral Palsy of Washington and Northern Virginia
+				United Min Workers of America Building
+				United Mine Workers of America Building
+				United Planning Organization Number 1
+				United Planning Organization Number 5
+				United States Botanic Garden
+				United States Branch Bank (historical)
+				United States Capitol
+				United States Capitol Historical Society
+				United States Chamber of Commerce Building
+				United States Coast Guard Headquarters Building
+				United States Court House
+				United States Court of Claims
+				United States Court of Military Appeals
+				United States Department of Commerce Building
+				United States Department of State Building
+				United States Department of the Interior Museum
+				United States Department of the Treasury Building
+				United States Holocaust Memorial Museum
+				United States Hotel (historical)
+				United States Information Agency
+				United States Marine Corps Band Hall
+				United States Marine Corps Barracks and Company
+				United States Park Police Headquarters - Anacostia Park
+				United States Park Police Headquarters - East Potomac Park
+				United States Postal Service Building
+				United States Research Laboratory
+				United States Signal Service Building (historical)
+				United States Soldiers Home Library (historical)
+				United States Tax Court Building
+				United States Weather Bureau Building
+				Universal Building
+				University Garage
+				University Yard
+				University of the District of Columbia International Center
+				Unversity Garage
+				Uplands
+				Van Ness Mansion (historical)
+				Van Ness Mausoleum
+				Vanguard Building
+				Varnum Hotel (historical)
+				Vees Child Development Center
+				Veterans Administration Building
+				Veterans of Foreign Wars of the United States Building
+				Victor Building
+				Vigilant Firehouse
+				Village A
+				Village C
+				Visitor's Center
+				Voice of America Building
+				Volta Bureau Building
+				Volta Laboratory (historical)
+				Volta Laboratory and Bureau Building
+				W B Hibbs and Company Building
+				W H Penland and Company Building
+				W Taylor Birch House
+				W W Corcoran Store
+				WHUR-FM
+				WHUT-TV Station
+				Waggaman House
+				Walker House (historical)
+				Walkins Building
+				Walsh Building
+				Walsh Stable
+				Walsh-McLean House
+				Walter E. Washington Convention Center
+				Walton House
+				War Camp Community Service Club (historical)
+				Ward Circle Building
+				Ward Hall
+				Warder Building
+				Warder-Totten House
+				Wardman Court Child Development Center
+				Wardman House (historical)
+				Wardman Park Annex and Arcade
+				Wardman Row
+				Warner Theatre
+				Warring Barrel Company Warehouse (historical)
+				Wartime Information Center Building (historical)
+				Warwick Building
+				Washburn Arts Building
+				Washington Arts Club Building
+				Washington Asylum (historical)
+				Washington Auditorium (historical)
+				Washington Bank (historical)
+				Washington Board of Trade
+				Washington Brick Machine Company (historical)
+				Washington Building
+				Washington Canoe Club
+				Washington Cathedral Library
+				Washington Center For Aging Services
+				Washington Chamber of Commerce Building
+				Washington Club
+				Washington Coliseum
+				Washington College of Law (historical)
+				Washington Design Center
+				Washington District of Columbia Fire - Radio Shop
+				Washington District of Columbia Houses
+				Washington District of Columbia Police Chief Headquarters
+				Washington District of Columbia Police Department
+				Washington District of Columbia Police Department - Explosive Ordinance Disposal Unit and Harbor Patrol
+				Washington District of Columbia Police Department - Medical Services Section
+				Washington District of Columbia Police Department - Narcotics Investigations
+				Washington District of Columbia Police Department - Patrol Services and School Security Bureau
+				Washington District of Columbia Police Department - Patrol Support Branch and Family Liaison
+				Washington District of Columbia Police Department - Recruitment
+				Washington District of Columbia Police Department - Special Operations and Honor Guard
+				Washington District of Columbia Police Department - Training
+				Washington District of Columbia Police Department - Youth Investigations and Family Violence
+				Washington District of Columbia Police Department District 1
+				Washington District of Columbia Police Department District 1 Substation
+				Washington District of Columbia Police Department District 2
+				Washington District of Columbia Police Department District 3
+				Washington District of Columbia Police Department District 4
+				Washington District of Columbia Police Department District 5
+				Washington District of Columbia Police Department District 6
+				Washington District of Columbia Police Department District 6 Substation
+				Washington District of Columbia Police Department District 7
+				Washington Dolls' House and Toy Museum
+				Washington Female Orphan Asylum (historical)
+				Washington Highlands Branch Library
+				Washington Home
+				Washington House (historical)
+				Washington Hunt Club Building (historical)
+				Washington Institute Mouth Facility
+				Washington Jail (historical)
+				Washington Library (historical)
+				Washington Loan and Trust Branch Riggs National Bank
+				Washington Lodge Number 15
+				Washington Meeting House
+				Washington Metropolitan Area Transit Authority Headquarters
+				Washington Post Building
+				Washington Riding Academy (historical)
+				Washington Square
+				Washington Surgical Center
+				Washington Theater Comique (historical)
+				Washington Theatre (historical)
+				Washington Tourist Center Building
+				Watergate Complex
+				Watha T Daniel Branch Library
+				Watkins Potomac Child Development Center
+				Watterston House
+				Weather Bureau (historical)
+				Wee Wisdom Child Development Center
+				Weightmans Row
+				Wesley Heights Community Club
+				West End Branch Library
+				Westory Building
+				Westover Estate (historical)
+				Wetzell-Archbold Farmstead
+				Wheat Row
+				Wheatley Town House
+				White-Gravenor Hall
+				White-Meyer House
+				Whitehaven
+				Whitehaven Plantation
+				Whitelaw Hotel
+				Whitman House
+				Whittemore House
+				Wibble Wobble Child Development Center
+				Willard Hall (historical)
+				Willard Hotel
+				Willard Office Building (historical)
+				William H Crawford Hall
+				William H Tenney House
+				William Howard Taft House
+				William Knowles House
+				William Thornton House (historical)
+				Williams House (historical)
+				Williams-Addison House
+				Wilmer Cutler and Pickering Child Development Center
+				Winder Building
+				Windsor Lodge
+				Wisewell Barracks (historical)
+				Wolfington Hall
+				Womens History and Resource Center
+				Woodhull House
+				Woodley (historical)
+				Woodridge Branch Library
+				Woodridge Day Care Center
+				Woodrow Wilson House
+				Woodward Apartments
+				Woodward and Lothrop Building
+				Woodward and Lothrop Service Warehouse
+				Woolly Mammoth Theatre
+				World Bank
+				World Bank Childrens Center
+				Wormleys Hotel (historical)
+				Worthington-Kearney House
+				Wylie House (historical)
+				Wyoming Apartments
+				Xavier Hall
+				YMCA
+				Yellow House
+				Yellow Tavern
+				Young Womens Christian Association Building
+				Youngs Memorial Church Day Care Center
+				Yugoslav Legation Building
+				Zalmon Richards House
+				Zenas Child Development Center 1
+				Zenas Child Development Center 2
+				Zepp Row House
+				Zion Baptist Church Before and After Center
+				Zion Baptist Church Child Development Center
+			Canal (DC)
+				Alexandria Aqueduct
+				Potomac Aqueduct (historical)
+				Washington Aqueduct
+				Washington City Canal (historical)
+			Cape (DC)
+				Buzzard Point
+				Easby Point
+				Evans Point
+				Giesboro Point
+				Gravel Point
+				Greenleaf Point
+				Hains Point
+				Marbury Point
+				Peters Point
+				Poplar Point
+				Tete Du Pont
+				The Mole
+			Cemetery (DC)
+				Arsenal Monument
+				Battleground National Cemetery
+				Beall Burying Ground (historical)
+				Congressional Cemetery
+				Eastern Cemetery
+				Eastern Methodist Cemetery (historical)
+				Female Union Band Society Burying Ground (historical)
+				Glenwood Cemetery
+				Graceland Cemetery (historical)
+				Harmony Cemetery
+				Holmeads Cemetery (historical)
+				Holy Rood Cemetery
+				Methodist Cemetery (historical)
+				Mount Olivet Cemetery
+				Mount Zion Cemetery (historical)
+				Oak Hill Cemetery
+				Old Methodist Burying Ground (historical)
+				Payne Cemetery
+				Presbyterian Graveyard (historical)
+				Prospect Hill Cemetery
+				Rock Creek Cemetery
+				Rosemont Cemetery (historical)
+				Rosewood Cemetery
+				Saint Elizabeths Hospital Cemeteries
+				Saint Francis DeSales Cemetery (historical)
+				Saint Johns Cemetery
+				Saint Marys Catholic Cemetery
+				Saint Matthews Catholic Cemetery (historical)
+				Saint Patricks Catholic Cemetery (historical)
+				Saint Patricks Cemetery (historical)
+				Saint Peters Catholic Burial Ground (historical)
+				Saint Peters Catholic Cemetery (historical)
+				Soldiers Home Cemetery
+				Washington Hebrew Congregation Cemetery
+				Woodlawn Cemetery
+				Young Mens Baptist Cemetery (historical)
+			Channel (DC)
+				Boundary Channel
+				Georgetown Channel
+				Navy Yard Channel
+				Washington Channel
+			Church (DC)
+				A P Shaw United Methodist Church
+				Adas Israel Synagogue
+				African First Baptist Church (historical)
+				African Union Bethel Church (historical)
+				Agape 1 Church of Christ
+				Agape Baptist Church
+				Albright Memorial United Methodist Church
+				Aldersgate Methodist Church (historical)
+				Alexander Memorial Baptist Church
+				All Nations Baptist Church
+				All Souls Church
+				All Souls Episcopal Church
+				All Souls Unitarian Church
+				Allen Chapel African Methodist Episcopal Church
+				Almas Temple
+				Ambassador Baptist Church
+				Anacostia Bible Church
+				Anacostia Methodist Church
+				Anacostia Methodist Episcopal Church (historical)
+				Andrew Rankin Memorial Chapel
+				Annunciation Catholic Church
+				Antioch Baptist Church
+				Apostles and Prophets Evangelical Church
+				Apostolic Faith Church
+				Asbury Methodist Church
+				Ascension Chapel
+				Asension Episcopal Church (historical)
+				Assemblys Church
+				Atonement Lutheran Church
+				Augustana Lutheran Church
+				Basilica of the National Shrine of the Immaculate Conception
+				Beth Shalom African Methodist Episcopal Zion Church
+				Beth Sholom Temple
+				Bethany Baptist Church
+				Bethel Commandment Church
+				Bethel Penecostal Tabernacle of the Assemblies of God
+				Bethesda Baptist Church
+				Bethesda New Life Gospel Church
+				Bethlehem Baptist Church
+				Bethlehem Fire Baptized Holiness Church
+				Beulah Baptist Church of Deanwood
+				Bible Baptist Church of Washington District of Columbia
+				Bible Presbyterian Church
+				Body of Christ Baptist Church
+				Born Again Community Baptist Church
+				Bridge Street Presbyterian Church (historical)
+				Brightwood Park United Methodist Church
+				Brookland Baptist Church
+				Brookland Methodist Church
+				Brookland Union Baptist Church
+				Brown Memorial African Methodist Episcopal Church
+				Calvary Baptist Church
+				Calvary Chapel Episcopal Church
+				Calvary Christian Church
+				Calvary Gospel Church (historical)
+				Calvary Protestant Episcopal Church
+				Calvary-Casa Del Pueblo United Methodist Church
+				Campbell African Methodist Episcopal Church
+				Canaan Baptist Church
+				Capital Memorial Adventist Church (historical)
+				Capital View Baptist Church
+				Capital Wesleyan Church
+				Capitol Assembly of God Church
+				Capitol Baptist Church
+				Capitol Hill Baptist Church
+				Capitol Hill Presbyterian Church
+				Capitol Hill Seventh Day Adventist Church
+				Capitol Hill United Methodist Church
+				Capitol Temple Church of God in Christ
+				Carolina Missionary Baptist Church
+				Carron Baptist Church
+				Casa Del Alfarero Asambleas de Dios
+				Casa del Pueblo United Methodist Church
+				Celestial Church
+				Centennial Baptist Church
+				Central Baptist Church
+				Central Presbyterian Church
+				Central Union Baptist Church
+				Chapel of Notre Dame
+				Chapel of the Sacred Heart
+				Charity Baptist Church
+				Chevy Chase Presbyterian Church
+				Chinese Community Church
+				Christ Church
+				Christ Church Capitol Hill
+				Christ Church Georgetown
+				Christ Church of Washington
+				Christ Episcopal Church
+				Christ Lutheran Church
+				Christ Our Redeemer African Methodist Episcopal Church
+				Christ United Methodist Church
+				Christian Love Baptist Church
+				Christian Reformed Church
+				Christian Science Reading Room
+				Christian Tabernacle Church of God
+				Church of Christ
+				Church of Christ of the East Capitol
+				Church of God
+				Church of God of Prophecy
+				Church of Jesus Christ
+				Church of Jesus Christ of Latter Day Saints
+				Church of Our Lord Jesus Christ of Washington District of Columbia
+				Church of Our Savior
+				Church of Scientology
+				Church of Two Worlds
+				Church of the Acsension and Saint Agnes
+				Church of the Ascension
+				Church of the Covenant (historical)
+				Church of the Disciples
+				Church of the Epiphany
+				Church of the First Born
+				Church of the Healing Christ
+				Church of the Holy City
+				Church of the Incarnation
+				Church of the Incarnation (historical)
+				Church of the Lord Jesus Christ of Apostolic Faith
+				Church of the Pilgrims
+				Church of the Redeemer Presbyterian Church
+				Church of the Reformation
+				Church of the Savior
+				Cleveland Park Congregational United Church of Christ
+				Columbia Heights Christian Church
+				Community Holiness Church
+				Community United Methodist Church
+				Community of Hope Church
+				Concordia German Evangelical Church (historical)
+				Concordia United Church of Christ
+				Congress Street Methodist Protestant Church (historical)
+				Contee African Methodist Episcopal Zion Church
+				Convent of Mercy
+				Corinthian Baptist Church
+				Covenant Baptist Church
+				Covenant-First Presbyterian Church (historical)
+				Dahlgren Chapel of the Sacred Heart
+				Danforth Chapel (historical)
+				Daughter of Zion Baptist Church
+				Debre Selam Kidist Mariam Ethiopian Orthodox Church
+				Delaware Avenue Baptist Church
+				Deliverance Miracle Temple
+				Deutoronomy Missionary Baptist Church
+				Divine Love Baptist Church
+				Douglas Memorial Methodist Church
+				Dumbarton Avenue Methodist Episcopal Church (historical)
+				Dumbarton United Methodist Church
+				Dupont Park Seventh Day Adventist Church
+				E Street Baptist Church (historical)
+				East Friendship Baptist Church
+				East Washington Heights Baptist Church
+				East Washington Methodist Protestant Church
+				Eastern Presbyterian Church (historical)
+				Ebenezer Baptist Church
+				Ebenezer United Methodist Church
+				Eckington Presbyterian Church
+				Edgewood Baptist Church
+				Eldbrooke Methodist Church
+				Emmanuel Baptist Church
+				Emmanuel Church of God in Christ
+				Emmanuel Presbyterian Church (historical)
+				Emory Chapel (historical)
+				Emory Methodist Church
+				Emory United Methodist Church
+				Enon Baptist Church
+				Ephesus Adventist Church (historical)
+				Epiphany Catholic Church
+				Episcopal Heritage Church
+				Eternal Faith Baptist Church
+				Ethiopian Rophodox Tewahedo Church
+				Evangelical Church La Pena de Horeb
+				Evangelical Lutheran Church of Our Redeemer
+				Evangelical Missionary Baptist Church
+				Evergreen Baptist Church
+				Exodus Missionary Baptist Church
+				Ezras Israel Temple
+				Faith Moravian Church
+				Faith Tabernacle United Holy Church of America
+				Faith Tabernacle of Prayer Church
+				Faith United Church of Christ
+				Faith United Missionary Baptist Church
+				Faith and Deliverance Bibleway Church
+				Faith and Hope Full Gospel Church
+				Fellowshp Baptist Church
+				Fifteenth Street Christian Church (historical)
+				Fifteenth Street Presbyterian Church
+				Fifth Baptist Church
+				Fifth Christian Science Church
+				First Adventist Church
+				First Baptist Church
+				First Baptist Church of Deanwood
+				First Baptist Church of Georgetown
+				First Baptist Church of Marshall Heights
+				First Baptist Church of Washington (historical)
+				First Baptist Church of the City of Washington
+				First Brethren Church
+				First Christ Apostolic Church
+				First Church of Christ Holiness
+				First Church of Christ Scientist
+				First Church of the Nazarene
+				First Congregational Church
+				First Genesis Baptist Church
+				First Haitian Baptist Church of Washington District of Columbia
+				First Jericho Baptist Church
+				First Methodist Protestant Church (historical)
+				First Mystery Church of God
+				First National Baptist Church
+				First Nazarene Church
+				First New Hope Baptist Church
+				First Presbyterian Church (historical)
+				First Reformed Church
+				First Rising Mount Zion Baptist Church
+				First Rock Baptist Church
+				First Seventh Day Adventist Church
+				First Trinity Lutheran Church
+				First Unitarian Church (historical)
+				First United Church of Christ Apostolic
+				First United Methodist Church of Bradbury Heights
+				Fisherman of Men Church
+				Fletcher Chapel
+				Florence Hollis Hand Chapel
+				Florida Avenue Baptist Church
+				Foundry Church
+				Foundry Methodist Church (historical)
+				Foundry United Methodist Church
+				Fountain Memorial Baptist Church
+				Fourth Church of Christ Scientist
+				Fourth Presbyterian Church (historical)
+				Francis Asbury Methodist Church
+				Franciscan Monastery and Memorial
+				Freedom Baptist Church
+				Friends Meeting House (historical)
+				Friendship Baptist Church
+				Fruit of the Spirit Baptist Church
+				Full Gospel Tabernacle Church
+				Galatians Baptist Church
+				Galbraith African Methodist Episcopal Zion Church
+				Galilee Baptist Church
+				Garden Memorial Presbyterian Church
+				Gateway to Heaven Pentecostal Holiness Church
+				Georgetown Baptist Church
+				Georgetown Lutheran Church
+				Georgetown Presbyterian Church
+				German Church Saint Paul
+				German Evangelical Lutheran Church
+				German Evangelical Lutheran Church (historical)
+				Gethsemane Baptist Church
+				Gideon Baptist Church
+				Glenwood Cemetery Chapel
+				Glenwood Cemetery Mortuary Chapel
+				Good Samaritan Baptist Church
+				Goodwill Baptist Church
+				Gorsuch Chapel
+				Gorsuch Methodist Church (historical)
+				Gospel Ark Temple Bibleway Church
+				Gospel Missionary Baptist Church
+				Gospel Spreading Church
+				Grace Baptist Church
+				Grace Episcopal Church
+				Grace Lutheran Church
+				Grace Memorial Baptist Church
+				Grace Presbyterian Church of Washington
+				Grace Reformed Church
+				Grace United Baptist Church
+				Greater Deliverance Church of God in Christ
+				Greater Faith Temple
+				Greater Fellowship Full Gospel Baptist Church
+				Greater Friendly Baptist Church
+				Greater Harvest Baptist Church
+				Greater Little Ark Baptist Church
+				Greater Mount Calvary Holy Church
+				Greater Mount Joy Church of Christ
+				Greater Mount Pisgah Baptist Church
+				Greater Mount Zion Baptist Church
+				Greater New Hope Baptist Church
+				Greater New Saint Pauls Baptist Church
+				Greater People Union Baptist Church
+				Greater Pleasant Grove Baptist Church
+				Greater Victory Baptist Church
+				Guiding Light Refuge Baptist Church
+				Guiding Star Baptist Church
+				Guildfield Baptist Church
+				Gunton Temple Presbyterian Church (historical)
+				Hall Baptist Church (historical)
+				Hamline Church (historical)
+				Harvest Life Fellowship
+				Harvey Memorial Baptist Church
+				Hemingway Temple African Methodist Episcopal Zion Church
+				Highway Christian Church of Christ
+				His Church
+				Holy Comforter Catholic Church
+				Holy Comforter Episcopal Church
+				Holy Congregation Church of Jesus Christ
+				Holy Mountain of God Church
+				Holy Name Catholic Church
+				Holy Redeemer Catholic Church
+				Holy Rosary Catholic Church
+				Holy Rosery Church
+				Holy Temple Church of Christ
+				Holy Trinity Baptist Church
+				Holy Trinity Catholic Church
+				Holy Trinity United Baptist Church
+				Holy Way of the Cross Church of Christ
+				Holyway Baptist Church
+				Hope Christian Church
+				House of the Temple
+				Hughes Memorial Methodist Church
+				I Am Temple Church
+				Iconium Baptist Church
+				Iglesia Bautista de Washington
+				Iglesia Luterana Santa Maria
+				Iglesia Pentecostal Emmanuel
+				Iglesia de DIOS El Jardin Del Eden
+				Imani Temple
+				Immaculate Conception Catholic Church
+				Ingram Memorial Congregational Church
+				International Deliverance Church of God
+				Islamic Center
+				Isle of Patmos Baptist Church
+				Israel Baptist Church
+				Israel Bethel African Methodist Episcopal Church (historical)
+				Israel Methodist Episcopal Church (historical)
+				Israel Metropolitan Christian Methodist Episcopal Church
+				Italian Baptist Church
+				James Memorial Baptist Church
+				Jerusalem Baptist Church
+				Johenning Baptist Church
+				John S Thomas Memorial Baptist Church
+				John Wesley African Methodist Episcopal Zion Church
+				John Wesley Church (historical)
+				John Wesley Methodist Church
+				Johnson Memorial Baptist Church
+				Jones Memorial Methodist Church
+				Keller Memorial Lutheran Church
+				Kendall Baptist Church
+				Kesher Israel Georgetown Synagogue
+				King Emmanuel Baptist Church
+				Kingdom Hall of Jehovahs Witnesses
+				Kingdom of Zion Baptist Church
+				Lane Memorial Christian Methodist Episcopal Church
+				Leading Commandment Church
+				Lee Memorial Baptist Church
+				Liberty Baptist Church
+				Lighthouse Full Gospel Mission Church
+				Lincoln Park United Methodist Church
+				Lincoln Road Methodist Church
+				Lincoln Temple United Church of Christ
+				Little Falls Church (historical)
+				Little Mount Zion Holiness Church of God
+				Little Rock Church of Christ and Hope for Life Centers
+				Luther Place Memorial Church
+				Lutheran Church of the Holy Comforter
+				Lutheran Church of the Reformation
+				Lutheran English Church (historical)
+				Macedonia Baptist Church
+				Macedonia Community Church
+				Macedonia Holy Church on the Rock
+				Maranatha Chapel Fellowship Church
+				Marian Scholasticate
+				Market Street Chapel (historical)
+				Maryland Avenue Baptist Church
+				Matthews Memorial Baptist Church
+				McKendree Chapel (historical)
+				McKendree United Methodist Church
+				Meeting House of the Friends Meeting
+				Meridian Hill Baptist Church
+				Methodist Protestant Church
+				Metropolitan African Methodist Episcopal Church
+				Metropolitan Baptist Church
+				Metropolitan Memorial United Methodist Church
+				Metropolitan Methodist Church
+				Metropolitan Wesley African Methodist Episcopal Zion Church
+				Metrotone Baptist Church
+				Michigan Park Christian Church
+				Miles Memorial Christian Methodist Episcopal Church
+				Miracle Temple Non Denominational Church
+				Missionaries of Africa
+				Mormon Temple
+				Morning Star Baptist Church
+				Morningstar Pentecostal Church
+				Mosque of the American Fazl
+				Mount Bethel Baptist Church
+				Mount Calvary Holy Church
+				Mount Calvary Holy Church of Deliverance
+				Mount Carmel Baptist Church
+				Mount Gilead Baptist Church
+				Mount Horeb Baptist Church
+				Mount Joy Baptist Church
+				Mount Lebanon Baptist Church
+				Mount Olive Baptist Church
+				Mount Olivet Lutheran Church
+				Mount Paran Baptist Church
+				Mount Pleasant Baptist Church
+				Mount Pleasant Congregational Church (historical)
+				Mount Rona Missionary Baptist Church
+				Mount Sinai Baptist Church
+				Mount Tabor Methodist Church (historical)
+				Mount Vernon Place United Methodist Church
+				Mount Vernon United Methodist Church
+				Mount Zion Methodist Church
+				Mount Zion Pentecostal Church
+				Mount Zion United Methodist Church
+				Muhammads Mosque
+				Muhammed Mosque
+				National Baptist Memorial Church
+				National City Christian Church
+				National Presbyterian Church
+				National Presbyterian Church (historical)
+				Nazareth Baptist Church
+				New Abundant Life Missionary Baptist Church
+				New Beginning Way of the Cross Church
+				New Bethany Baptist Church
+				New Bethel Baptist Church
+				New Bethel Church of God in Christ
+				New Birth Baptist Church
+				New Birth Missionary Baptist Church
+				New Commandment Baptist Church
+				New Grove Baptist Church
+				New Hope Freewill Baptist Church
+				New Image Community Baptist Church
+				New Macedonia Baptist Church
+				New Morning Star Baptist Church
+				New Mount Calvary Baptist Church
+				New Mount Carmel Freewill Baptist Church
+				New Mount Olive Baptist Church
+				New Redeemer Baptist Church
+				New Saint John Missionary Baptist Church
+				New Samaritan Baptist Church
+				New Second Baptist Church
+				New Temple Baptist Church
+				New United Baptist Church
+				New York Avenue Presbyterian Church
+				New Zion Pentecostal Church
+				Newborn Pentecostal Church of God
+				Nineteenth Street Baptist Church
+				Nineteenth Street Baptist Church (historical)
+				Ninth Street Christian Church (historical)
+				North Carolina Avenue Methodist Church
+				Northeast Holy Trinity Church
+				Northeastern Presbyterian Church
+				Northminster Presbyterian Church
+				Northwest Church Family Network
+				Notre Dame Chapel
+				Oak Hill Cemetery Chapel
+				Old Adas Israel Synagogue (historical)
+				Old Holy Trinity Church
+				Old Way Baptist Church
+				Olive Grove Baptist Church
+				Open Door Baptist Church
+				Our Lady Queen of the Americas Roman Catholic Church
+				Our Lady of Perpetual Help Catholic Church
+				Our Lady of Victory Roman Catholic Church
+				Our Redeemer Lutheran Church
+				Palisades Community Church
+				Paramount Baptist Church
+				Peabody Street Mennonite Church
+				Peace Baptist Church
+				Peace Lutheran Church
+				Pennsylvania Avenue Baptist Church
+				Pennsylvania Avenue Seventh Day Adventist Church
+				Pentecostal Church of God
+				Pentecostal Holiness Church (historical)
+				Peoples Congregational Church
+				Petworth Baptist Church
+				Petworth United Methodist Church
+				Pilgrim African Methodist Episcopal Church
+				Pilgrim African Methodist Episcopal Outreach Church
+				Pleasant Grove Baptist Church
+				Pleasant Lane Baptist Church
+				Plymouth Congregational Church (historical)
+				Portiuncula Chapel
+				Promised Land Baptist Church
+				Providence Baptist Church
+				Providence Church
+				Purity Baptist Church
+				Randall Memorial Baptist Church
+				Randall Memorial United Methodist Church
+				Rehoboth Baptist Church
+				Reorganized Church of Jesus Christ of Latter Day Saints
+				Resurrection Church of God in Christ
+				Revelation Knowledge Christian Church
+				Revival Temple Church
+				Rhema Christian Center Church
+				Rhode Island Avenue Methodist Church
+				Righteous Church of God
+				Rising Sun Baptist Church
+				Rock Creek Baptist Church
+				Rome Baptist Church
+				Rosedale Methodist Church
+				Russian Orthodox Church of Saint John the Baptist
+				Russian Orthodox Church of Saint Nicholas
+				Ryland Chapel (historical)
+				Ryland Epworth United Methodist Church
+				Sacred Heart Church
+				Saint Albans Episcopal Church
+				Saint Aloysius Gonzaga Church (historical)
+				Saint Andrews Mission House
+				Saint Anns Church
+				Saint Anselms Abbey
+				Saint Anthonys Catholic Church
+				Saint Augustines Episcopal Church
+				Saint Benedict the Moor Catholic Church
+				Saint Bonaventures Convent
+				Saint Charles Baptist Church
+				Saint Columbas Episcopal Church
+				Saint Cyprians Catholic Church
+				Saint Davids Episcopal Church
+				Saint Dominics Church
+				Saint Francis De Sales Catholic Church
+				Saint Francis DeSales Catholic Church
+				Saint Gabriels Catholic Church
+				Saint Georges Episcopal Church
+				Saint Georges Syrian Orthodox Church (historical)
+				Saint James Apostle Church
+				Saint James Baptist Church
+				Saint James Episcopal Church
+				Saint John Baptist Church of Marshall Heights
+				Saint John United Baptist Church
+				Saint John's Church of God
+				Saint Johns Christian Methodist Episcopal Church
+				Saint Johns Episcopal Church
+				Saint Johns Primitive Baptist Church
+				Saint Joseph Baptist Church
+				Saint Josephs Catholic Church
+				Saint Judah Spiritual Baptist Church
+				Saint Lucille African Methodist Episcopal Zion Church
+				Saint Luke Baptist Church
+				Saint Lukes Episcopal Church
+				Saint Lukes United Methodist Church
+				Saint Margarets Episcopal Church
+				Saint Marks Baptist Church
+				Saint Marks Episcopal Church
+				Saint Martins Catholic Church
+				Saint Mary Armenian Apostolic Church
+				Saint Mary Orthodox Church
+				Saint Marys Catholic Church
+				Saint Marys Episcopal Church
+				Saint Marys Roman Catholic Church (historical)
+				Saint Matthews Baptist Church
+				Saint Matthews Church
+				Saint Matthews Lutheran Church
+				Saint Matthews Roman Catholic Church (historical)
+				Saint Monicas Episcopal Church
+				Saint Patricks Catholic Church
+				Saint Patricks Chapel Episcopal Church
+				Saint Paul African Methodist Episcopal Church
+				Saint Paul Baptist Church
+				Saint Paul Temple Church of God In Christ
+				Saint Pauls Catholic Church
+				Saint Pauls Church
+				Saint Pauls Episcopal Church
+				Saint Pauls Lutheran Church
+				Saint Peters Catholic Church
+				Saint Philips Episcopal Church
+				Saint Phillips Baptist Church
+				Saint Rose Pentecostal Church
+				Saint Sophia Greek Orthodox Cathedral
+				Saint Stephen Church of God In Christ
+				Saint Stephen and the Incarnation Episcopal Church
+				Saint Stephens Baptist Church
+				Saint Stephens Catholic Church
+				Saint Stephens Lutheran Church
+				Saint Teresa of Avila Anglican Catholic Church
+				Saint Theresas Catholic Church
+				Saint Thomas Apostle Catholic Church
+				Saint Thomas Church
+				Saint Thomas Episcopal Church
+				Saint Vincent De Paul Catholic Church
+				Saint Vincent de Paul Chapel
+				Saints Constantine and Helen Greek Orthodox Church
+				Salem Baptist Church
+				Sargent Memorial United Presbyterian Church
+				Second Baptist Church
+				Second Baptist Church (historical)
+				Second Refreshing Spring Church
+				Second Union Baptist Church
+				Seventh Presbyterian Church (historical)
+				Sharon Baptist Church
+				Shepherd Park Community Church of God
+				Sheriff Road Seventh Day Adventist Church
+				Sherwood Presbyterian Church
+				Shilo Baptist Church (historical)
+				Shiloh Baptist Church
+				Shrine of the Immaculate Conception
+				Shrine of the Sacred Heart Catholic Church
+				Simpson Methodist Church (historical)
+				Simpson-Hamline United Methodist Church
+				Sixth Church of Christ Scientist
+				Sixth Presbyterian Church
+				Sixth and I Synagogue
+				Soul Saving Center Church of God
+				Southeast Hebrew Temple
+				Southern Baptist Church
+				Spirit of the Lord Baptist Church
+				Springfield Baptist Church
+				Star of Bethlehem Church of God in Christ
+				Tabernacle Baptist Church
+				Tabor Presbyterian Church (historical)
+				Takoma Park Baptist Church
+				Talmud Torah Synagogue (historical)
+				Temple Baptist Church
+				Tenth Street Baptist Church
+				Thankful Baptist Church
+				The Church of God
+				The Church of Jesus Christ of Latter Day Saints
+				The Church of the Ascension and Saint Agnes
+				The Glorious Church
+				The Greater First Baptist Church of Mount Pleasant Plains
+				The House of God Church Keith Dominion
+				The New Life Baptist Church
+				The Old Pentecost Church
+				The Temple Church of God in Christ
+				The United Church
+				The Way of the Cross Church of Christ
+				The Whole Truth Church of the Lord Jesus Christ of the Apostolic Faith
+				Theatre Church (historical)
+				Third Baptist Church
+				Third Church of Christ Scientist
+				Third Street Church of God
+				Thirteenth Street Church of Christ
+				Tifereth Israel Temple
+				Trinidad Adventist Church
+				Trinidad Baptist Church
+				Trinity African Methodist Episcopal Zion Church
+				Trinity Baptist Church
+				Trinity Church (historical)
+				Trinity Episcopal Church
+				Trinity Religious Temple Church
+				Triumphant Christian Church
+				True Gospel Baptist Church
+				True Holiness Church of Christ
+				Turner Memorial African Methodist Episcopal Church
+				Twelfth Street Christian Church
+				Ukranian Catholic National Shrine
+				Union Bethel Methodist Episcopal Church
+				Union Chapel
+				Union Methodist Church
+				Union Temple Baptist Church
+				Union United Methodist Church (historical)
+				Union Wesley African Methodist Episcopal Zion Church
+				Union Wesley Chapel
+				United Church of Christ
+				United House of Prayer
+				Unity Baptist Church
+				Universal Holiness Church
+				Universalist National Memorial Church
+				Van Buren United Methodist Church
+				Varick Memorial African Methodist Episcopal Zion Church
+				Vermont Avenue Baptist Church
+				Victory Christian Baptist Church
+				Victory Church of Jesus Christ
+				Walker Memorial Baptist Church
+				Wallace Memorial Presbyterian Church
+				Ward Memorial African Methodist Episcopal Church
+				Washington Cathedral
+				Washington City Brethren Church
+				Washington Community Fellowship Church
+				Washington Hebrew Temple (historical)
+				Washington Heights Presbyterian Church (historical)
+				Washington National Cathedral
+				Washington Seventh Day Baptist Church
+				Waugh Chapel
+				Waugh Methodist Church
+				Way of Truth and Life Church of God in Christ
+				Wesley Chapel (historical)
+				Wesley Church
+				West Washington Baptist Church
+				Western Presbyterian Church
+				Westminster Presbyterian Church
+				Westmoreland Congregational United Church of Christ
+				Wilson Memorial Methodist Church
+				Woodbridge Church of Our Lord
+				Woodridge Pilgrim Church
+				Word of God Baptist Church
+				Young's Memorial Church of Christ Holiness
+				Zion Baptist Church
+				Zion Wesley Chapel (historical)
+			Civil (DC)
+				Abby Manor (historical)
+				Bealls Levels (historical)
+				Burnes Discovery (historical)
+				Cerne Abbey Manor (historical)
+				City of Washington
+				District of Columbia
+				Duddington Manor (historical)
+				Duddington Pasture (historical)
+				Elderslie Tract (historical)
+				Elinor (historical)
+				Evans Littleworth (historical)
+				Expense (historical)
+				Fletchalls Chance Tract (historical)
+				Flints Discovery (historical)
+				Friendship Tract (historical)
+				Gisborough Tract (historical)
+				Gizor Tract (historical)
+				Gordons Meadow (historical)
+				Haddocks Hill (historical)
+				Hazard (historical)
+				Houps Addition (historical)
+				Jamaica (historical)
+				Knaves Disappointment Tract (historical)
+				Little Prevention (historical)
+				Lower Gisborough Tract (historical)
+				Meurs (historical)
+				Mexico (historical)
+				Mill Seat (historical)
+				Mill Tract (historical)
+				Mount Pleasant (historical)
+				New Scotland Hundred (historical)
+				New Troy (historical)
+				Northeast Quadrant
+				Northwest Quadrant
+				Norway Tract (historical)
+				Ormes Luck (historical)
+				Plain Dealing (historical)
+				Port Royal (historical)
+				Re-Survey on New Seat (historical)
+				Rock of Dumbarton Tract (historical)
+				Saint Philip and Jacob Tract
+				Southeast Quadrant
+				Southwest Quadrant
+				Success (historical)
+				Terra Firma Tract (historical)
+				The Adventure (historical)
+				The Chance (historical)
+				The Gift (historical)
+				The Gleaning (historical)
+				The Houpyard
+				The Inclosure (historical)
+				The Neck (historical)
+				The Vineyard (historical)
+				Turkey Buzzard Plantation (historical)
+				Upper Gisborough Tract (historical)
+				Washington County (historical)
+				White Haven Tract
+			Crossing (DC)
+				Fox Ferry (historical)
+				Masons Ferry (historical)
+				Scott Circle
+				Ward Circle
+				Washington Circle
+			Dam (DC)
+				Lock 1
+				Lock 2
+				Lock 3
+				Lock 4
+				Tidewater Lock
+			Falls (DC)
+				Little Falls
+			Gut (DC)
+				Little River
+			Harbor (DC)
+				Pentagon Lagoon Yacht Basin
+			Hospital (DC)
+				Abundant Life Clinic
+				Anacostia Community Health Center
+				Armed Forces Retirement Home - Washington
+				Armory Square Hospital (historical)
+				Betty Ford Comprehensive Center
+				Blair Shelter Clinic
+				Buckley Upper Cardoza Health Center
+				Campbell Hospital (historical)
+				Capital View Skilled Nursing Home
+				Capitol Hill Hospital (historical)
+				Capitol Hill Medical Clinic
+				Carroll Manor Nursing and Rehabilitation Center
+				Carver Hospital (historical)
+				Central Union Mission Clinic
+				Children's National Medical Center
+				Childrens Health Center at Childrens Hospital
+				Childrens Health Center at Good Hope Road
+				Childrens National Medical Center
+				Childrens National Medical Center - Adolescent Health Center
+				Circle Hospital (historical)
+				City Hospital (historical)
+				Claridge Towers Geriatric Health Center
+				Clifburne Hospital (historical)
+				Columbia College General Hospital (historical)
+				Columbia Hospital for Women (historical)
+				Concentrated Care Center
+				Congress Heights Clinic
+				District of Columbia General Hospital
+				Douglass Hospital (historical)
+				Eckington Hospital (historical)
+				Emergency Hospital
+				Emery Shelter Clinic
+				Episcopal Hospital (historical)
+				Federal City Shelter Clinic
+				Garfield Hospital (historical)
+				George Washington University Hospital
+				George Washington University Medical Center
+				Good Hope Health Center
+				Greater Southeast Community Hospital
+				Hadley Memorial Hospital
+				Harewood Hospital (historical)
+				Health Care Institute
+				Herewood Hospital (historical)
+				Hillcrest Northwest Ambulatory Center
+				Hillcrest Womens Surgical Center
+				Hogan and Hartson Emergency Child Care Center
+				Homeopathic Hospital
+				House of Ruth Clinic
+				Howard University Hospital
+				Howard University Hospital Family Health Center
+				Hunt Place Community Health Center
+				J B Johnson Nursing Center
+				Judiciary Square Hospital (historical)
+				Kaiser Permanente-North Capitol Medical Center
+				Kalorama Hospital (historical)
+				Kasier Permanente-West End Medical Center
+				Knollwood Hospital For Sick Children Nursing Home
+				La Clinica Del Pueblo
+				Lincoln Hospital (historical)
+				Lombardi Cancer Center
+				Marine Hospital (historical)
+				MedStar Georgetown University Hospital
+				MedStar National Rehabilitation Hospital
+				MedStar Washington Hospital Center
+				Medlink Hospital and Nursing Center
+				Medlink Nursing Center
+				Medstar-Georgetown Medical Center
+				Mount Alto Hospital (historical)
+				Mount Pleasant Army Hospital (historical)
+				Mule Hospital
+				Northwest Health Care Center
+				Old Naval Hospital
+				Old Providence Hospital (historical)
+				Perry Family Health Center
+				Providence Hospital
+				Psychiatric Institute of Washington
+				Riverside Hospital
+				Rock Creek Manor Nursing Center
+				Saint Anns Infant Asylum (historical)
+				Saint Elizabeths Hospital
+				Sanitarium Mission Hospital (historical)
+				Sibley Memorial Hospital
+				Southwest Community Health Center
+				Stanton Hospital (historical)
+				Stanton Road Health Center
+				The Center For Mental Health
+				The George Washington University Smith Center
+				The HSC Pediatric Center
+				The Hospital for Sick Children
+				The Specialty Hospital of Washington
+				Tuburculosis Hospital
+				Union Multi-Care Medical Center
+				Veterans Affairs Medical Center
+				Walker Jones Clinic
+				Walter Reed Army Medical Center (historical)
+				Washington District of Columbia Free Clinic
+				Washington Nursing Facility
+				Whitman Walker-Elizabeth Taylor Clinic
+				Whitman-Walker Clinic
+				Woodland Terrace Family Clinic
+				Woodridge Community Health Center
+			Island (DC)
+				Burnham Barrier
+				Columbia Island
+				Goose Island
+				Little Island
+				Ripps Island (historical)
+				Theodore Roosevelt Island
+				Three Sisters Islands
+			Lake (DC)
+				Babcock Lakes (historical)
+				Carp Pond (historical)
+				Kingman Lake
+			Locale (DC)
+				Adams Mill (historical)
+				Agassiz Station (historical)
+				Anacostia Marina
+				Anacostia Metro Station
+				Anacostia Railroad Yard
+				Anacostia Station
+				Anna Cooper Circle
+				Aqueduct Bridge Piers
+				Archives-Navy Memorial Metro Station
+				Armory Square
+				Army and Navy Club
+				Asylum Square
+				Atlantic Shopping Center
+				Baltimore and Ohio Railroad Freight Station
+				Baltimore and Potomac Railroad Station (historical)
+				Bannockburn Golf Club (historical)
+				Barney Circle
+				Barneys Battery Site
+				Barrys Wharf (historical)
+				Barton Grist Mill (historical)
+				Bells Tavern
+				Benco Shopping Center
+				Benjamin Franklin Postal Station
+				Benning Race Course (historical)
+				Benning Railroad Yard
+				Benning Road Metro Station
+				Bennings Station (historical)
+				Bishops Garden
+				Blagdens Mill (historical)
+				Blands Court (historical)
+				Bloody Hill
+				Blue Plains
+				Bomford Mill
+				Braddock Rock
+				Brentwood Village Shopping Center
+				Brightwood Station (historical)
+				Brookland-CUA Metro Station
+				Brooks Hall (historical)
+				Brooks Station
+				Brownwood Park Farm (historical)
+				Buzzard Point Marina
+				Cadys Alley Shopping Center
+				Camp American University (historical)
+				Camp Barker (historical)
+				Camp Frieze (historical)
+				Camp Fry (historical)
+				Camp Leach (historical)
+				Camp Marks (historical)
+				Camp Meigs (historical)
+				Camp Ohio (historical)
+				Camp Tennally (historical)
+				Capital Tradition Company Union Station (historical)
+				Capital Yacht Club
+				Capitol Hill Market (historical)
+				Capitol South Metro Station
+				Capitol Yacht Club
+				Carter Barron Amphitheater
+				Cartier Plaza
+				Center Market (historical)
+				Central Armature Works (historical)
+				Chesapeake Junction (historical)
+				Chevy Chase Circle
+				Chevy Chase Lake Shopping Center
+				Chevy Chase Pavilion Shopping Center
+				Chillum Castle
+				Chinatown (historical)
+				Chinese Friendship Archway Memorial
+				City Tavern (historical)
+				Cleveland Park Metro Station
+				Clover View Farm (historical)
+				Codman Carriage House and Stable
+				Columbia Athletic Club (historical)
+				Columbia Heights Metro Station
+				Columbia Island Marina
+				Columbia Plaza
+				Columbian Foundry (historical)
+				Commerce Building Plaza
+				Commissioners Wharf (historical)
+				Conants Mill (historical)
+				Congress Heights Metro Station
+				Connecticut Connection Shopping Center
+				Cool Spring (historical)
+				Corcoran Gallery of Art
+				Corcoran House (historical)
+				Corcoran Square Market
+				Corinthian Yacht Club
+				Cottage Hill Farm (historical)
+				Creston Farm (historical)
+				Dahlgren Quadrangle
+				Davis Farm (historical)
+				Deanwood Metro Station
+				District Yacht Club
+				District of Columbia Impounding Lot
+				District of Columbia Sand Yard (historical)
+				District of Columbia Tree Nursery (historical)
+				District of Columbia Village
+				District of Columbia Workhouse Yard (historical)
+				Dowsons Tavern (historical)
+				Drovers Rest Tavern (historical)
+				Dupont Circle
+				Dupont Circle Metro Station
+				Duvall Foundry
+				Easbys Wharf
+				East Campus Quadrangle
+				East Corner
+				East Potomac Park Golf Course
+				East River Park Shopping Center
+				Eastern Branch Market (historical)
+				Eastern Market
+				Eastern Market Metro Station
+				Eastern Market Shopping Center
+				Eastern Power Boat Club
+				Eckington Railroad Yard
+				Edgewater Mouting Horse Stable
+				Edgewater Stables
+				Ellicott Circle
+				Embassy Gulf Service Station
+				English Cricket Club (historical)
+				English Hill
+				Episcopal Childrens Home
+				Estes Mill Ruins
+				Farragut North Metro Station
+				Farragut West Metro Station
+				Federal Center SW Metro Station
+				Federal Triangle Metro Station
+				Fernwood Farm
+				Foggy Bottom-GWU Metro Station
+				Fort Dupont Golf Course
+				Fort Dupont Park Police Stables
+				Fort Lincoln Promenade
+				Fort Totten Metro Station
+				Foundry Mall
+				Foxhall Square
+				Friendship Archway
+				Friendship Heights Metro Station
+				Friendship Heights Shopping Center
+				Gallery Place-Chinatown Metro Station
+				Gangplank Marina
+				Garfield Inaugural Arch (historical)
+				Georgetown Market
+				Georgetown Market Shopping Center
+				Georgetown Park Shopping Center
+				Georgetown University Observatory
+				Georgia Avenue-Petworth Metro Station
+				Germuiller Row
+				Gladstone and Hawarden Apartment Buildings
+				Gloria Point
+				Godey Lime Kilns
+				Good Hope Marketplace
+				Good Hope Tavern (historical)
+				Grant Circle
+				Greenleaf Point Golf Course
+				Greenway Shopping Center
+				Greyhound Bus Terminal
+				H Street Connection Shopping Center
+				H T Thompson Boat Center
+				Hamburg Wharf (historical)
+				Hancock Circle (historical)
+				Harbin Field
+				Harriett Tubman Quadrangle
+				Hash Row
+				Healy Lawn
+				Hechinger Mall Shopping Center
+				Herdic Stations
+				Herring Hill (historical)
+				Hillcrest Childrens Home
+				Hillendale
+				Hillendale Gate
+				Holmeads Race Track (historical)
+				Hospital Square
+				International City/County Management Association Building
+				Island Hall (historical)
+				Ivy City Race Track (historical)
+				Ivy City Railroad Yards
+				Ivy City Station (historical)
+				James Creek Marina
+				Jersey Railroad Yard
+				Judiciary Square Metro Station
+				Junior Village
+				Kalorama Circle
+				Karlsheim Farm (historical)
+				Kehoe Field
+				L'Enfant Plaza
+				L'Enfant Plaza Metro Station
+				L'Enfant Plaza Shopping Mall
+				Langston Golf Course and Driving Range
+				Latrobe Gate
+				Learning Book Scholastic Shop
+				Lears Wharf (historical)
+				Les Champs Shopping Center
+				Liberty Plaza
+				Lincoln Memorial Circle
+				Lisner-Louise-Dickinson Home
+				Little Rome
+				Lock Mill (historical)
+				Logan Circle
+				Longs Tavern
+				Lower Quadrangle
+				Magazine Wharf
+				Maine Avenue Fish Market
+				Mall Skating Rink
+				Marbury Plaza
+				Marine Hospital Square (historical)
+				Market Square
+				Market at Columbia Plaza Shopping Center
+				Masonic and Eastern Star Home
+				Mausoleum Square
+				Mazza Galleria Shopping Center
+				Mazza Gallerie
+				McClellan Circle
+				McCormack Plaza
+				McGees Ferry (historical)
+				McKinley Circle (historical)
+				McPherson Square Metro Station
+				Meade Circle
+				Meadow Bank Spa Springs (historical)
+				Metro Center Metro Station
+				Mid-Campus Quad
+				Milkhouse Ford
+				Mills Station (historical)
+				Minnesota Avenue Metro Station
+				Montello Station (historical)
+				Morris and Nicholson Wharf
+				Mount Vernon Square-University of the District of Columbia Metro Station
+				Murdocks Mill (historical)
+				National Fairgrounds
+				National Zoo Entrance
+				Navy Yard Metro Station
+				Navy Yard Pier 1
+				Navy Yard Pier 2
+				Navy Yard Pier 3
+				Navy Yard Pier 4
+				Navy Yard Wharf (historical)
+				Nehemiah Shopping Center
+				New Jersey Avenue Market (historical)
+				New York Avenue-Florida Avenue-Gallaudet University Metro Station
+				New York Station Shopping Center
+				Nighthawk Hill (historical)
+				Norfolk Steamboat Landing (historical)
+				North Corner
+				North Kehoe Field
+				Northern Liberty Market (historical)
+				Notley Young Wharf (historical)
+				Notley Youngs Mill (historical)
+				O Street Market
+				O'Briens Court (historical)
+				Observatory Circle
+				Old Fenwick Homestead (historical)
+				Old National Race Course (historical)
+				Old Post Office Pavilion Shopping Center
+				One Washington Circle
+				Palisades Dairy Farm (historical)
+				Paulist Place
+				Peirce Mill
+				Penn Branch Shopping Center
+				Pennsylvania Avenue Railroad Yard
+				Pinehurst Circle
+				Piney Branch Trotting Course (historical)
+				Piney Branch Workshop (historical)
+				Pleasant Plains (historical)
+				Plymouth Circle
+				Potomac Avenue Metro Station
+				Potomac Junction (historical)
+				Potomac Park Motor Court (historical)
+				Protestant Orphan Asylum (historical)
+				Pryzbyla Plaza
+				Queenstown (historical)
+				Randle Circle
+				Reeves Station (historical)
+				Reynolds Barracks (historical)
+				Rhode Island Avenue Center Shopping Center
+				Rhode Island Avenue Metro Station
+				Rhode Island Plaza Shopping Center
+				Riggs Plaza
+				Riggs Shopping Center
+				Robeys Slave Pen (historical)
+				Rock Creek Park Clubhouse
+				Rock Creek Park Public Golf Course
+				Rock Hill (historical)
+				Rosemont Farm (historical)
+				Rum Row
+				Ruppert Home
+				Rush Barracks (historical)
+				Sandersons Tavern (historical)
+				Savage Square (historical)
+				Schneider Triangle
+				Schotts Court (historical)
+				Seafairers Marina
+				Seymour Court
+				Shadds Tavern (historical)
+				Shaw-Howard University Metro Station
+				Shepherd Ferry (historical)
+				Shepherd Station (historical)
+				Shepherds Landing
+				Sheridan Circle
+				Sherman Circle
+				Shops At Georgetown Park Shopping Center
+				Shops At National Place Shopping Center
+				Shops At Union Station Shopping Center
+				Skyland Shopping Center
+				Smithsonian Metro Station
+				Soldiers Home Farm (historical)
+				Southwest Quadrangle
+				Spring Hill Farm (historical)
+				Spring Tavern (historical)
+				Spring Valley Shopping Center
+				Stadium-Armory Metro Station
+				Stott Station (historical)
+				Suters Tavern (historical)
+				Swampdoodle (historical)
+				Takoma Hall
+				Takoma Metro Station
+				Tenley Circle
+				Tenleytown-AU Metro Station
+				Tennallys Tavern
+				Terra Cotta Station (historical)
+				The Boathouse at Fletcher's Cove
+				The Common
+				The Ellipse
+				The Heights Shopping Center
+				The Sailors Tavern
+				The Shops at 2000 Penn Shopping Center
+				The Shops at National Place
+				The Slashes
+				Thomas Beall House
+				Thomas Circle
+				Town and Country Club (historical)
+				Trinity Square Shopping Center
+				Tudor Place Foundation
+				U S Soldiers and Airmens Home Golf Course
+				U Street/African-Amer Civil War Memorial/Cardozo Metro Station
+				USO Lafayette Square Club (historical)
+				USS Barry
+				Union Station Metro Station
+				Union Station Shopping Center
+				Union Station Visitor Center
+				Union Stock Yards (historical)
+				Uniontown Station (historical)
+				United States Botanic Garden - Poplar Point Nursery
+				United States Naval Observatory
+				United States Powder Magazine (historical)
+				Upper Quadrangle
+				Valley View Farm (historical)
+				Van Ness House Stables
+				Van Ness-University of the District of Columbia Metro Station
+				Verizon Center
+				Wacotchtank (historical)
+				Waggaman - Ray Commercial Row
+				Walker Swamp (historical)
+				Washington District of Columbia Fish Market
+				Washington Harbour
+				Washington Marina
+				Washington Sailing Marina
+				Washington Yacht Club
+				Waterfront-SEU Metro Station
+				Watergate
+				Watergate Shopping Center
+				Waterside Mall
+				Wesley Circle
+				West Potomac Golf Course (historical)
+				Western Market (historical)
+				Westmoreland Circle
+				Weston Farm (historical)
+				Widows Mite (historical)
+				Woodley Park-Zoo/Adams Morgan Metro Station
+				World's Largest Chair
+				Yale Steam Laundry
+				Zero Milestone
+			Military (DC)
+				Anacostia Annex
+				Battery Gaines (historical)
+				Battery Georgetown (historical)
+				Battery Kemble (historical)
+				Battery Kingsbury (historical)
+				Battery Mahon (historical)
+				Battery Martin Scott (historical)
+				Battery Morris (historical)
+				Battery Parrott (historical)
+				Battery Reno (historical)
+				Battery Ricketts (historical)
+				Battery Rossell (historical)
+				Battery Sill (historical)
+				Battery Smeade (historical)
+				Battery Terrill (historical)
+				Battery Vermont (historical)
+				Bolling Air Force Base
+				Camp Simms (historical)
+				Columbia Armory (historical)
+				Fort Baker (historical)
+				Fort Bayard (historical)
+				Fort Carroll (historical)
+				Fort Chaplin (historical)
+				Fort Davis (historical)
+				Fort DeRussy (historical)
+				Fort Gaines (historical)
+				Fort Greble (historical)
+				Fort Kearny (historical)
+				Fort Lesley J McNair
+				Fort Lincoln (historical)
+				Fort Mahan (historical)
+				Fort Nonence (historical)
+				Fort Reno (historical)
+				Fort Saratoga (historical)
+				Fort Sedgwick (historical)
+				Fort Slemmer (historical)
+				Fort Slocum (historical)
+				Fort Snyder (historical)
+				Fort Stanton (historical)
+				Fort Stevens (historical)
+				Fort Thayer (historical)
+				Fort Totten (historical)
+				Fort Wagner (historical)
+				Fort on Kennedys Hill (historical)
+				Maine Avenue Armory (historical)
+				Marine Barracks
+				National Guard District of Columbia Rifle Range (historical)
+				Naval Research Laboratory
+				United States Naval Observatory
+				Walter Reed Army Medical Center
+				Washington Armory (historical)
+				Washington Navy Yard
+			Park (DC)
+				122nd New York Volunteer Mounment
+				150th Ohio National Guard Monument
+				25th New York Volunteer Cavelry Monument
+				98th Pennsylvania Volunteer Monument
+				ALBB Park (historical)
+				Abner Cloud House
+				Abraham Lincoln Statue
+				Abraham Lincoln/Emancipation Monument
+				Acacia Griffins Sculpture
+				Adam Sculpture
+				Adams Memorial
+				Admiral David G Farragut Statue
+				African American Civil War Memorial
+				Air Mail Marker
+				Albert Einstein Statue
+				Albert Gallatin Statue
+				Alexander Hamilton Statue
+				Alexander Pushkin Statue
+				Alexander Robey Shepherd Statue
+				Alger Park
+				Alighieri Dan`te Statue
+				All Hallows Guild Traveling Carousel
+				American Legion Freedom Bell
+				American Meridian Memorial
+				Amidon-Greenleaf Playground
+				Anacostia Fitness Center
+				Anacostia Park
+				Anacostia Park Section C
+				Anacostia Park Section D
+				Anacostia Park Section E
+				Anacostia Park Section F
+				Anacostia Park Section G
+				Anacostia Recreation Center
+				Andrei Sakhorov Plaza
+				Andrew Jackson Downing Urn
+				Apollo Statue
+				Arboretum Recreation Center
+				Archimedes Statue
+				Arlington Bridge Equestrian Statues
+				Armenian Earthquake Statue
+				Artemas Ward Statue
+				Arthur Vining Downing Statue
+				Arts of Peace Statues
+				Arts of War Statue
+				Ascension Sculpture
+				Authority of Law Sculpture
+				Avalon Playground
+				Aztec Fountain
+				Backus Recreation Center
+				Bald Eagle Hill
+				Bald Eagle Memorial
+				Bald Eagle Recreation Center
+				Ballou Recreation Center
+				Bancroft Playground
+				Banneker Community Center
+				Banneker Recreation Center
+				Barnard Hill Park
+				Barry Farm Playground
+				Barry Farm Pool
+				Barry Farms Recreation Center
+				Bartholdi Fountain
+				Battery Kemble Park
+				Battery Ricketts
+				Battleground National Cemetery
+				Beach Parkway
+				Benjamin Banneker Park
+				Benjamin Franklin Statue
+				Benning Park
+				Benning Park Community Center
+				Benning Park Recreation Center
+				Benning Stoddert Recreation Center
+				Benning Terrace Community Center
+				Benning Terrace Recreation Center
+				Bernard Baruch Statue
+				Bernardo de Galvez Park
+				Bernardo de Galvez Statue
+				Berry Farms Recreation Center
+				Bex Eagle Statue
+				Bishop Asbury Statue
+				Bishop John Carroll Statue
+				Bison Sculpture
+				Book Hill Park
+				Botanic Gardens (historical)
+				Boy Scouts of America Memorial
+				Bragadier General James B McPherson Statue
+				Brentwood Park
+				Brentwood Recreation Center
+				Brentwood Village Playground
+				Brigadier General Albert Pike Statue
+				Brigadier General Count Casimer Pulaski Statue
+				Brigadier General Thaddeus Kosciuszko Statue
+				Brightwood Driving Park (historical)
+				Brightwood Recreation Area
+				Brook Hill Park
+				Bruce-Monroe Recreation Center
+				Bryant Memorial
+				Bryce Park
+				Buffaloes Statue
+				Bundy Playground
+				Butt-Millet Memorial
+				Buzzard Point
+				Capitol View Plaza
+				Capper Recreation Center
+				Captain Nathan Hale Sculpture
+				Cardinal James Gibbons Statue
+				Cardoza Playground
+				Carroll Senior Citizens Center
+				Carter G Woodson Home National Historic Site
+				Centurion Statue
+				Ceres Statue
+				Chapin Bear Cub Sculpture
+				Chesapeake and Ohio Canal Monument
+				Chevy Chase Circle
+				Chevy Chase Community Center
+				Chevy Chase Playground
+				Chevy Chase Recreation Center
+				Chief Justice John Marshall Statue
+				Christopher Columbus Memorial Fountain
+				Civil War Nurses Memorial
+				Civil War Sailors Statue
+				Clark Griffith Stadium (historical)
+				Cogswell Temperance Fountain Memorial
+				Colombian Legation Building
+				Columbia Heights Recreation Center
+				Columbus Plaza
+				Commodore John Barry Statue
+				Commodore John Paul Jones Memorial
+				Comte de Rochambeau Monument
+				Congress Heights Playground
+				Congress Heights Recreation Center
+				Constitution Gardens
+				Contrapposto Sculpture
+				Coolidge Recreation Center
+				Corcoran Lions Statue
+				Cordell Hull Statue
+				Count Jean Baptiste Rochambeau Statue
+				Cuban American Friendship Urn
+				Cubi XI Sculpture
+				Dakota Playground
+				Dalecarlia Parkway
+				Dalecarlia Reservoir Grounds
+				Daniel Webster Statue
+				Dante Statue
+				Deanwood Recreation Center
+				Del Vaell Jose Cecilo Memorial
+				Discobolos Statue
+				District of Columbia War Memorial
+				District of Columbia World War Memorial
+				Doctor Benjamin Rush Statue
+				Doctor Samuel Hahnemann Memorial
+				Don Quixote Statue
+				Douglass Community Center
+				Douglass Junior Recreation Center
+				Douglass Memorial Home
+				Douglass Pool
+				Douglass Recreation Center
+				Dr Benjamin Stephenson Grand Army of the Republic Memorial
+				Dumbarton Oaks Park
+				Dumbbarton Oaks Park
+				Dunbar Aquatic Facility
+				Dupont Circle
+				Dupont Circle Fountain
+				East Capitol Community Center
+				East Executive Park
+				East Front Fountains
+				East Potomac Park
+				East Potomac Park Hains Point
+				East Potomac Pool
+				East Seaton Park
+				Eckington Recreation Center
+				Edgewood Playground
+				Edgewood Recreation Center
+				Edgewood Terrace Recreation Center
+				Edmund Burke Statue
+				Edward J Kelly Park
+				Edward Miner Gallaudet Statue
+				Edward R Murrow Park
+				Egg Head Row
+				Eliot Recreation Center
+				Emancipation Monument
+				Emery Recreation Center
+				English Renaissance Sculpture
+				Enid A Haupt Garden
+				Evans Recreation Center
+				Fairlawn Recreation Center (historical)
+				Fala Statue
+				Family Tree of Hope Sculpture
+				Farragut Square
+				Father Godfrey Schilling Statue
+				Father Patrick Healy Memorial
+				Ferebee-Hope Recreation Center
+				First Division Monument
+				Flamingo Fountain
+				Fletcher-Johnson Recreation Center
+				Folger Park
+				Ford's Theatre National Historic Site
+				Forest Hills Playground
+				Fort Bayard Park
+				Fort Bunker Hill
+				Fort Chaplin Park
+				Fort Circle Park
+				Fort Davis
+				Fort Davis Recreation Center
+				Fort Dupont Park
+				Fort Dupont Park Skating Rink
+				Fort Dupont Playground
+				Fort Dupont Pool
+				Fort Greble Recreation Center
+				Fort Lincoln Recreation Center
+				Fort Mahan Park
+				Fort Reno Park
+				Fort Slocum Park
+				Fort Stanton Park
+				Fort Stanton Pool
+				Fort Stanton Recreation Center
+				Fort Stevens Monument and Marker
+				Fort Stevens Park
+				Fort Stevens Recreation Center
+				Fort Totten Park
+				Founders of the Daughters of the American Revolution Statue
+				Foundry Branch Valley Park
+				Fountain Four
+				Foxhall Playground
+				Francis Asbury Statue
+				Francis G Newlands Park
+				Francis Playground
+				Francis Pool
+				Francis Scott Key Memorial
+				Franklin Delano Roosevelt Memorial
+				Franklin Park
+				Franklins Square
+				Frederick Douglass National Historic Site
+				Freedmen Memorial
+				Freedom Plaza
+				Freedom Statue
+				Friendship Playground
+				Friendship Recreation Center
+				Future Statue
+				G A R Monument
+				Gallaudet Thomas Hopkins and Alice Cogswell Statue
+				Garfield Monument
+				Garfield Park
+				Garfield Terrrace Senior Citizens Center
+				Garth Fountain
+				General Artemas Ward Statue
+				General Frederick Baron Von Steuben Statue
+				General Hancock Statue
+				General John J. Pershing Statue
+				General Jose Artigas Statue
+				General Jose Gervasio Artigas Statue
+				General Meade Statue
+				General Philip H Sheridan Statue
+				General Scott Statue
+				General William Tecumseh Sherman Monument
+				George Washington Equestrian Statue
+				Georgetown Historic District
+				Georgetown Playground
+				Georgetown Recreation Center
+				Georgetown Waterfront Park
+				German-American Friendship Garden
+				Giant Anteater Sculpture
+				Glover-Archbold Park
+				Gompers (Samuel) Memorial Park
+				Grand Army of the Republic Memorial
+				Grant Circle
+				Grant Road Historic District
+				Greek Vases Sculpture
+				Green Valley Senior Citizens Center
+				Guardianship Sculpture
+				Guglielmo Marconi Statue
+				Guy Mason Recreation Center
+				Habitat Sculpture
+				Hahnemann Memorial
+				Hamilton Street Playground
+				Hancock Park
+				Happy Hollow Playground
+				Hardy Playground
+				Hardy Recreation Center
+				Harris Recreation Center
+				Harrison Playground
+				Harrison Recreation Center
+				Harry Thomas Senior Recreation Center
+				Hart Recreation Center
+				Haupt Fountains
+				Hayden-Johnson Recreation Center
+				Hearst Playground
+				Hearst Recreation Center
+				Henry Park
+				Henry Wadsworth Longfellow Statue
+				Heritage Statue
+				Hillcrest Recreation Center
+				Hine Recreation Center
+				Holocaust Memorial
+				Hoover Playground
+				House East Fountain
+				House West Fountain
+				Howard Playground
+				Howard University Park (historical)
+				Infinity Sculpture
+				International Athletic Park (historical)
+				International Square
+				J O Wilson Recreation Center
+				James Abram Garfield Memorial
+				James Buchanan Memorial
+				James Cardinal Gibbons Statue
+				James Monroe Park
+				Jane A Delano and the Nurses Who Died in Service in World War I Memorial
+				Japanese American Memorial
+				Japanese Lantern
+				Japanese Pagoda Memorial
+				Jean Monnet Plaque
+				Jefferson Pier Marker
+				Jefferson Recreation Center
+				Joan of Arc Memorial
+				John Ericsson National Memorial
+				John F Kennedy Center for the Performing Arts
+				John F Kennedy Recreation Center
+				John Marshall Place Park
+				John Wesley Statue
+				John Witherspoon Statue
+				Jose Cecilio del Valle Statue
+				Joseph Cole Recreation Center
+				Joseph Darlington Fountain
+				Judiciary Square
+				Jules Jusserand Memorial
+				Julia Ward Howe Memorial
+				Justice William O Douglas Statue
+				K C Lewis Recreation Center
+				Kalorama Park
+				Kalorama Recreation Center
+				Keene Recreation Center
+				Kelly Miller Pool
+				Kelly Miller Recreation Center
+				Kemeys Bear Cub Sculpture
+				Kenilworth Park and Aquatic Gardens
+				Kenilworth-Parkside Recreation Center
+				Ketcham Recreation Center
+				Khalil Gibran Memorial
+				Kimball Playground
+				King-Greenleaf Recreation Center
+				Klingle Valley Park
+				Klingle Valley Parkway
+				Korean War Veterans Memorial
+				Kossuth Lajos Memorial
+				L'Enfant Square
+				Lady Bird Johnson Memorial Park
+				Lafayette Recreation Center
+				Lafayette Square
+				Lafayette Square Historic District
+				Lafayette Statue
+				Lamond Playground
+				Lamond Recreation Center
+				Langdon Park
+				Langdon Park Recreation Center
+				Langdon Pool
+				Langley Recreation Center
+				Langston Playground
+				LeDroit Senior Center
+				Liberty Bell Memorial
+				Lieutenant General George Washington Statue
+				Lieutenant General Winfield B Scott Statue
+				Lieutenant General Winfield Brevet Scott Statue
+				Lieutenant General Winfield Scott Statue
+				Lincoln Capper Walk to Learn Pool
+				Lincoln Memorial
+				Lincoln Park
+				Lincoln Playground
+				Linnean Playground
+				Lock House
+				Logan Circle
+				Lone Sailor Statue
+				Loomis Park
+				Louis Daguerre Statue
+				Ludlow/Taylor Recreation Center
+				Luther Statue
+				Lyndon Baines Johnson Memorial Grove
+				M L King Recreation Center
+				Macomb Playground
+				Macomb Recreation Center
+				Maine Lobsterman Memorial
+				Major General Comte Jean De Rochambreau Statue
+				Major General George B McClellan Statue
+				Major General George Thomas Statue
+				Major General John A Logan Statue
+				Major General John A Rawlins Statue
+				Major General Marquis Gilbert De Lafayette Statue
+				Major General Nathanael Green Statue
+				Major General Winfield Scott Hancock Statue
+				Major Walter Reed Memorial
+				Malcolm X Recreation Center
+				Man Controlling Trade Sculpture
+				Man Pushing the Door Sculpture
+				Marie H Reed Recreation Center
+				Marion Park
+				Martin Luther King Jr Memorial
+				Martin Luther Statue
+				Marvin Gaye Recreation Center
+				Mary Church Terrell Recreation Center
+				Mary Livingston Ripley Garden
+				Mary McLeod Bethune Council House National Historic Site
+				Mary McLeod Bethune Statue
+				Maury Recreation Center
+				McLean Playground
+				McMillan Park (historical)
+				McPherson Square
+				Melvin C Hazin Park
+				Meridian Hill Park
+				Minute Man Statue
+				Mitchell Park
+				Mitchell Park Recreation Center
+				Mohandas K Gandhi Statue
+				Montana Terrace Recreation Center
+				Montgomery Blair Portal
+				Montrose Park
+				Mount Vernon Square
+				Nathanael Greene Statue
+				National Arboretum
+				National Christmas Tree
+				National Law Enforcement Officers Memorial
+				National Mall
+				National Sculpture Garden and Ice Rink
+				National Zoological Park
+				Nationals Park
+				Navy and Marine Memorial
+				Neighborhood Park
+				New York Avenue Playground
+				New York Avenue/Dunbar Recreation Center
+				Normanstone Parkway
+				North Michigan Park Recreation Center
+				North Portal
+				Noyes Armillary Sphere
+				Noyes Playground
+				Noyes Recreation Center
+				Nuns of the Battlefield Monument
+				Old Stone House
+				Olive Risley Seward Statue
+				Orbit Sculpture
+				Original Patentees of District of Columbia Memorial
+				Orr Recreation Center
+				Oscar S Straus Memorial Fountain
+				Oxon Run Parkway
+				Oxon Run Pool
+				Palisades Park
+				Palisades Playground
+				Palisades Recreation Center
+				Parkside Playground
+				Parkview Playground
+				Parkview Recreation Center
+				Past Sculpture
+				Payne Playground
+				Payne Recreation Center
+				Peabody Recreation Center
+				Peace Monument
+				Peace Statue
+				Pebble Garden Fountain
+				Pegasus and Bellerophon Sculpture
+				Penguin Fountain
+				Pennsylvania Avenue National Historic Site
+				Pennsylvania Railroad Eagle Sculpture
+				Perry Lions Sculpture
+				Pershing Park
+				Peter Muhlenberg Memorial
+				Peter Square
+				Petworth Playground
+				Pinehurst Parkway
+				Piney Branch Park
+				Piney Branch Portal
+				Plaza Fountain
+				Pope Branch Park
+				Potomac Gardens Recreation Center
+				Potomac Palisades Parkway
+				Powell Recreation Center
+				President Andrew Jackson Memorial
+				President James Garfield Memorial
+				President Lincoln and Soldiers' Home National Monument
+				President Ulysses S Grant Memorial
+				Presidents Park
+				Prodigal Son Statue
+				Professor Joseph Henry Statue
+				Progress of Railroading Statues
+				Prometheus Statue
+				Puck Fountain
+				Pulaski Park
+				Queen Isabella I Statue
+				Rabaut Park
+				Rabaut Recreation Center
+				Randall Pool
+				Randall Recreation Center
+				Randle Circle
+				Rawlins Park
+				Raymond Playground
+				Raymond Recreation Center
+				Rear Admiral Samuel Francis Dupont Memorial
+				Red Cross Men and Women Killed in Service Statue
+				Reserve Officers Memorial
+				Reservoir Playground
+				Ridge Playground
+				Ridge Recreation Center
+				Riggs LaSalle Recreation Center
+				Riggs Road Playground
+				Riggs-LaSalle Playground
+				River Horse Statue
+				River Terrace Recreation Center
+				Riverside Stadium (historical)
+				Robert A Taft Memorial and Carillon
+				Robert Emmet Statue
+				Robert F Kennedy Memorial Stadium
+				Robert Francis Kennedy Memorial
+				Rock Creek Park
+				Rock Creek Park Exercise Course
+				Rock Creek and Potomac Parkway
+				Roper Recreation Center
+				Rose Park Playground
+				Rose Park Recreation Center
+				Rosedale Playground
+				Rosedale Recreation Center
+				Rosemount Park (historical)
+				Ruben Dario Sculpture
+				Rudolph Playground
+				Rudolph Recreation Center
+				Rush House
+				Saint Bernadette Statue
+				Saint Christopher Statue
+				Saint Dominic Statue
+				Saint Francis and the Turtledoves Statue
+				Saint Jerome the Priest Statue
+				Saint Vincent De Paul Statue
+				Samuel D Gross Memorial
+				Samuel Gompers Memorial
+				Sarah Rittenhouse Armillary Sphere
+				Savoy Playground
+				Savoy Recreation Center
+				Scenes From Shakespeare Sculpture
+				Scheutzen Park (historical)
+				Schuetzen Park (historical)
+				Scott Circle
+				Seaton Playground
+				Second Division Memorial
+				Sedgwick Garden Architectural Sculpture
+				Senate Terrace Fountain
+				Senator Francis Newlands Statue
+				Serenity Statue
+				Settlers of the District of Columbia Memorial
+				Seventh Street Park
+				Sewall-Belmont House National Historic Site
+				Seward Square
+				Shaw Recreation Center
+				Sheperd Parkway
+				Shepherd Playground
+				Shepherd Recreation Center
+				Shepherd Statue
+				Sheridan Circle
+				Sheridan Statue
+				Sherman Circle
+				Sherwood Playground
+				Sherwood Recreation Center
+				Sir William Blackstone Statue
+				Sir Winston Churchill Statue
+				Smiths Park (historical)
+				Soapstone Valley Park
+				Sonny Bono Statue
+				Southeast Tennis and Learning Center
+				Southwest Waterfront Park -Titanic Memorial
+				Spingarn-Langston Recreation Center
+				Spring Grotto
+				Spring Valley Park
+				Stanton Park
+				Stead Playground
+				Stead Recreation Center
+				Stevens Playground
+				Stoddert Playground
+				Stoddert Recreation Center
+				Taft Recreation Center
+				Takoma Aquatic Facility
+				Takoma Elementary Recreation Center (historical)
+				Takoma Playground
+				Takoma Recreation Center
+				Taras Shevchenko Statue
+				Temperance Fountain Sculpture
+				Tenley Circle
+				Terrell Recreation Center
+				Thales Statue
+				The 56 Signers of the Declaration of Independence Memorial
+				The Arts of Peace Statue
+				The Arts of War Statue
+				The Burghers of Calais Sculpture
+				The Causeway
+				The Contemplation of Justice Sculpture
+				The Court of Neptune
+				The Court of Neptune Fountain Sculpture
+				The Expanding Universe Fountain
+				The Gwenfritz Sculpture
+				The House Where Lincoln Died
+				The Majesty of Law Sculpture
+				The Mall
+				The Prophet Daniel Statue
+				The Spirit of Justice Park
+				Themis Statue
+				Theodore Roosevelt Island Park
+				Theodore Roosevelt Memorial
+				Thomas Circle
+				Thomas Hopkins Gallaudet Statue
+				Thomas Jefferson Memorial
+				Three Servicemen Statue
+				Torch of Learning Sculpture
+				Town Center Park
+				Triangle Park - General Jose de San Martin Statue
+				Triangle Park - Pablo Benito Juarez Statue
+				Triangle Park - Simon Bolivar Statue
+				Trinidad Playground
+				Trinidad Recreation Center
+				Truxton Park
+				Turkey Thicket Playground
+				Turkey Thicket Recreation Center
+				Turner Playground
+				Twin Oaks Garden Recreation Center
+				Twin Oaks Playground
+				Twining Park
+				Twining Square
+				Uncle Beazley Sculpture
+				Union Square
+				Union Station Plaza
+				United States Navy Memorial
+				Upshur Pool
+				Upshur Recreation Center
+				Vaquero Statue
+				Veterans of Foreign Wars Memorial
+				Victims of Communism Memorial
+				Vietnam Veterans Memorial
+				Vietnam Women's Memorial
+				Virginia Avenue Playground (historical)
+				Virginia Avenue Recreation Center
+				Volta Street Playground
+				W J Bryan Statue
+				Walt Whitman Park
+				Ward Circle
+				Washington Area Law Enforcement Officers Memorial
+				Washington Circle
+				Washington Highland Recreation Center
+				Washington Monument
+				Watkins Gallery - American University
+				Watkins Recreation Center
+				Watts Branch Parkway
+				Watts Branch Playground
+				Watts Branch Recreation Center
+				Wesley Heights Park
+				West Potomac Park
+				West Seaton Park
+				Westmoreland Circle
+				Wheatley Playground
+				Wheatley Recreation Center
+				White House
+				Whitehaven Parkway
+				Wilkinson Recreation Center
+				William F Allen Statue
+				William H Greene Stadium
+				William H Rumsey Aquatic Facility
+				Wilson Pool
+				Woodland Terrace Recreation Center
+				Woodley Park
+				Woodley Playground
+				Woodson Junior Recreation Center
+				Woodson Senior Recreation Center
+				World War II Memorial
+				Wrestling Bears Sculpture
+				Xochipilli Statue
+				Yards Park
+			Pillar (DC)
+				Pulpit Rock
+			Populated Place (DC)
+				Adams Morgan
+				American University Park
+				Anacostia
+				Armsleigh Park (historical)
+				Barnaby Terrace
+				Barnaby Woods
+				Barry Farms
+				Bellevue
+				Benning
+				Benning Heights
+				Bloodfield (historical)
+				Bloomingdale
+				Brentwood Village
+				Brightwood
+				Brightwood Park
+				Brinetown (historical)
+				Brookland
+				Buena Vista
+				Burleith
+				Buzzard Point
+				Capitol Hill
+				Capitol View
+				Carrollsburg (historical)
+				Cathedral Heights
+				Central Northeast
+				Chevy Chase
+				Chevy Chase Heights
+				Chillum Station
+				Chinatown
+				Clark Mills Estate Subdivision (historical)
+				Cleveland Park
+				Cloisters
+				Colonial Village
+				Colony Hill
+				Columbia Heights
+				Congress Heights
+				Congress Park
+				Cookes Park
+				Cowtown (historical)
+				Crestwood
+				Deanwood
+				Dobbins Addition (historical)
+				Douglass Dwellings
+				Dupont Circle
+				Dupont Park
+				East Central
+				East End
+				East Washington Heights
+				Eastland Gardens
+				Eckington
+				Edgewood
+				Edgewood Terrace
+				Embassy Park
+				Fairfax Village
+				Fairlawn
+				Fairview Heights (historical)
+				Farragut Square
+				Fernwood Heights (historical)
+				Foggy Bottom
+				Forest Hills
+				Fort Davis
+				Fort Dupont
+				Fort Lincoln New Town
+				Foxhall
+				Foxhall Crescent
+				Foxhall Terrace
+				Foxhall Village
+				Franklin McPherson Square
+				Friendship Heights
+				Garfield Heights
+				Gateway
+				Georgetown
+				Georgetown Heights (historical)
+				Giesboro
+				Glover Park
+				Good Hope
+				Greenway
+				Hamburgh (historical)
+				Hampshire Knolls
+				Harlem (historical)
+				Hawthorne
+				Hells Bottom (historical)
+				Hillcrest
+				Indian Rock Terrace
+				Isherwood
+				Ivy City
+				Judiciary Square
+				Kalorama Heights
+				Kalorama Triangle
+				Kenilworth
+				Kent
+				Kingman Park
+				Knox Hill Dwellings
+				Lamond Riggs
+				Langdon
+				Lanier Heights
+				LeDroit Park
+				Lewis Subdivision (historical)
+				Lincoln Heights
+				Lincoln Park
+				Little Indian Rock Terrace
+				Logan Circle
+				Manor Park
+				Marshall Heights
+				Massachusetts Avenue Heights
+				Mayfair-Parkside
+				McLean Gardens
+				Metropolis View
+				Michigan Park
+				Monastery Lot (historical)
+				Morris Addition (historical)
+				Mount Pleasant
+				Mount Vernon Square
+				Nacocktanke (historical)
+				Nacotchtanke (historical)
+				Naylor Gardens
+				North Cleveland Park
+				North Gate
+				North Michigan Park
+				Northeast Boundary
+				Northwest Rectangle
+				Park Place
+				Park View
+				Penn Branch
+				Pennsylvania Avenue Hights
+				Petworth
+				Pinehurst Circle
+				Pipetown (historical)
+				Potomac City (historical)
+				Potomac Heights
+				Pretty Prospect (historical)
+				Randle Highlands
+				Reno
+				Riggs Park
+				River Terrace
+				Robeyville (historical)
+				Rock Creek Gardens
+				Rosedale
+				Sauis Addition (historical)
+				Scott Circle
+				Senate Heights
+				Shaw
+				Shepherd Park
+				Sheridan-Kalorama
+				Shipley Terrace
+				Southeast
+				Southwest
+				Spring Valley
+				Stanton Park
+				Sutton Place
+				Tenleytown
+				Terra Cotta
+				The Cloisters
+				The Palisades
+				Thomas Circle
+				Tohoga (historical)
+				Trinidad
+				Truxton Circle
+				Tunlaw Heights (historical)
+				Twining
+				University Heights
+				Varnum
+				Washington
+				Washington City
+				Washington Highlands
+				Wesley Heights
+				West End
+				West Over View
+				Westchester
+				Westminster
+				Westmoreland Terrace
+				Weston (historical)
+				Westover Place
+				Widowsville (historical)
+				Woodland
+				Woodley Park
+				Woodridge
+				Youngsborough (historical)
+			Post Office (DC)
+				Anacostia Branch Post Office
+				Anacostia Post Office
+				Benjamin Franklin Post Office
+				Benning Post Office
+				Brightwood Post Office
+				Brookland Post Office
+				Calvert Station Post Office
+				Cannon Station Post Office
+				Catholic University Post Office
+				Central Post Office
+				City Post Office
+				Cleveland Park Post Office
+				Columbia Heights Post Office
+				Congress Heights Post Office
+				Customs House Post Office
+				Department of State Post Office
+				F Street Post Office
+				Farragut Post Office
+				Foggy Bottom Post Office
+				Ford Station Post Office
+				Fort Davis Post Office
+				Fort McNair Post Office
+				Francis Perkins Station Post Office
+				Frederick Douglass Post Office
+				Friendship Post Office
+				General Post Office (historical)
+				Georgetown Carrier Annex Post Office
+				Georgetown Post Office
+				Georgetown University Post Office
+				Howard University Post Office
+				Irda Post Office
+				Joseph Curseen Junior and Thomas Morris Junior Processing and Distribution Center
+				Kalorama Post Office
+				L'Enfant Plaza Post Office
+				Lammond-Riggs Station Post Office
+				LeDroit Park Post Office
+				Longworth Station Post Office
+				Martin Luther King Junior Post Office
+				McPherson Post Office
+				Mid City Post Office
+				Montrose Post Office (historical)
+				National Capitol Post Office
+				Naval Research Laboratory Post Office
+				Northeast Station Post Office
+				Northwest Station Post Office
+				Oak Grove Post Office (historical)
+				Old General Post Office
+				Palisades Post Office
+				Petworth Post Office
+				Randall Station Post Office (historical)
+				Randle Station Post Office
+				River Terrace Post Office
+				Rock Creek Post Office (historical)
+				Soldiers Home Post Office
+				Southeast Station Post Office
+				Southwest Station Post Office
+				T Street Station Post Office
+				Techworld Post Office
+				Temple Heights Station Post Office
+				Tenallytown Post Office (historical)
+				The Old Post Office
+				Twentieth Street Post Office
+				Union Station Post Office
+				Walter Reed Station Post Office
+				Ward Place Post Office
+				Washington District of Columbia Main Office Post Office
+				Washington Navy Yard Finance Station Post Office
+				Washington Square Post Office
+				Watergate Post Office
+				West End Post Office
+				Woodridge Post Office
+			Reservoir (DC)
+				Anacostia First High Reservoir
+				Brightwood Reservoir (historical)
+				Capitol Reflecting Pool
+				Dalecarlia Reservoir
+				First High Reservoir (historical)
+				Georgetown Reservoir
+				High Service Reservoir (historical)
+				McMillan Reservoir
+				Reflecting Pool
+				Reno Reservoir
+				Sixteenth Street Reservoir (historical)
+				Tidal Basin
+				Wisconsin Avenue Reservoir (historical)
+			School (DC)
+				A - T Seban Mesut School
+				Academia Bilingue de la Comunidad Primary Charter School
+				Academia de La Porta Christian Day School
+				Academy for Ideal Education
+				Academy for Learning Through the Arts Primary Charter School
+				Adams Elementary School
+				Addison School
+				Adolescent Day Program
+				Aidan Montessori School
+				Aiton Elementary School
+				Alexander Crummell School (historical)
+				Alexander Graham Bell Vocational High School (historical)
+				Ambush School
+				American University
+				American University Washington College of Law
+				Amidon Elementary School
+				Anacostia High School
+				Annunciation School
+				Apple Tree Early Learning Primary Charter School
+				Archbishop Carroll High School
+				Armstrong Adult Education Center
+				Armstrong Preparatory Center For Early Learning
+				Armstrong Preparatory Center Number 2
+				Armstrong Technical School
+				Army War College
+				Arts and Technology Academy Primary Charter School
+				Arts and Technology Public Charter School
+				Associates for Renewal in Education Public Charter School
+				Assumption Elementary School
+				Atonement Seminary
+				Auguste Montessori School
+				Augustinian College
+				Backus Middle School
+				Ballou High School
+				Ballou School To Aid Youth
+				Bancroft Elementary School
+				Banneker High School
+				Barbara Jordan Primary Charter School
+				Barbaras Montessori School
+				Barnard Elementary School
+				Beauvoir - The National Cathedral Elementary School
+				Beauvoir National Cathedral Elementary School
+				Beauvoir Nursery School
+				Beers Elementary School
+				Bell Adult Education Center
+				Bell Experimental School (historical)
+				Bell Multicultural Senior High School
+				Bell School
+				Benjamin Franklin University (historical)
+				Benning Elementary School
+				Berrell Public School (historical)
+				Berret School (historical)
+				Birney Elementary School
+				Blair School
+				Blake School (historical)
+				Blessed Sacrament Elementary School
+				Blessed Sacrament School
+				Blind/Visually Impaired Adult Education Center
+				Blow Elementary School
+				Booker T Washington Primary Charter School for Technical Arts
+				Booker T Washington Public Charter School
+				Bowen Elementary School
+				Bridges Academy
+				Bridges Primary Charter School
+				Briggs-Montgomery School (historical)
+				Brightwood Elementary School
+				British School of Washington
+				Brookland Elementary School
+				Browne Center
+				Browne Junior High School
+				Bruce - Monroe Elementary School
+				Bryan School
+				Buchanan Secondary Learning Center (historical)
+				Buena Vista Academy
+				Bundy School
+				Bunker Hill Elementary School
+				Burdick Adult Education Center
+				Burdick Career Development Center
+				Burroughs Elementary School
+				Burrville Elementary School
+				Business and Finance Academy School Within a School at H D Woodson Senior High School
+				Business and Finance School-within-a-School Charter - Woodson
+				C G Woodson Junior High School (historical)
+				CHOICE Academy
+				CHOICE Academy Middle School
+				CHOICE Academy Senior High School
+				Calvary Christian Academy
+				Calvert School (historical)
+				Capital City Primary Charter School
+				Capitol Hill Cooperative Nursery School
+				Capitol Hill Day School
+				Capuchin College
+				Carbery School (historical)
+				Cardozo High School
+				Carlos Rosario Adult Education Center
+				Carlos Rosario International Primary Charter School
+				Carlos Rosario International Public Charter School
+				Catholic Sisters College
+				Catholic University of America
+				Cesar Chavez Primary Charter School for Public Policy Capitol Hill Campus
+				Cesar Chavez Primary Charter School for Public Policy Parkside Campus
+				Cesar Chavez Public Policy Public Charter School
+				Chain Bridge Road School (historical)
+				Chamberlain Career Development Center
+				Chamberlain School (historical)
+				Charles Drew Elementary School
+				Charles Sumner School
+				Children Studio School Public Charter School
+				Childrens Studio School Primary Charter School
+				Childtime Learning Center
+				City Collegiate Primary Charter School
+				City Lights Primary Charter School
+				City Lights Public Charter School
+				Clara Muhammad School
+				Clark Elementary School
+				Cleveland Elementary School
+				Cleveland Park Kinderhaus
+				Colfax School (historical)
+				College of Preachers
+				Columbia Institution
+				Columbia Law School (historical)
+				Columbian Preparatory School (historical)
+				Columbian School
+				Columbus School of Law
+				Community Academy Primary Charter School-Amos 2 Campus
+				Community Academy Primary Charter School-Amos Elementary Campus
+				Community Academy Primary Charter School-Butler Bilingual Campus
+				Community Academy Primary Charter School-Rand Campus
+				Community Academy Public Charter School
+				Community Child Development Center
+				Conduit Road Schoolhouse
+				Congress Heights School
+				Consolidated Headstart School
+				Coolidge High School
+				Corcoran School (historical)
+				Corcoran School of Art
+				Cornell in Washington
+				Cornerstone Bible Church School
+				Cornerstone Community School
+				Cranch School (historical)
+				Crummell School
+				Curtis School (historical)
+				Daniel A Payne Elementary School
+				Davids Stars Child Development Center
+				Davis Elementary School
+				Deal Junior High School
+				Dennison School (historical)
+				Dent School
+				Devereux Childrens Center
+				District of Columbia Academy High School
+				District of Columbia Alternative Learning Academy
+				District of Columbia Apprenticeship School
+				District of Columbia Bilingual Primary Charter School
+				District of Columbia Industrial School (historical)
+				District of Columbia Preparatory Academy Primary Charter School
+				District of Columbia Street Academy Senior High School
+				District of Columbia Teachers College
+				Dominican House of Studies
+				Douglass Junior High School
+				Draper Elementary School
+				Drew Elementary School
+				Dunbar High School
+				Dunbarton College
+				Dupont Park Adventist School
+				Dupont Park School
+				E L Haynes Primary Charter School
+				Eagle Academy Primary Charter School
+				Earles Female Seminary (historical)
+				Early Childhood Academy Primary Charter School
+				East Public School (historical)
+				Eastern Academy
+				Eastern High School
+				Eaton Elementary School
+				Eckington School
+				Edgewater Riding Academy (historical)
+				Edison - Friendship Public Charter School
+				Edmonds School
+				Edmund Burke School
+				Education Strengthens Families Primary Charter School
+				Eliot Junior High School
+				Ellington School of the Arts
+				Elsie Whitlow Stokes Community Freedom Primary Charter School
+				Elsie Whitlow Stokes Community Freedom Public Charter School
+				Emerson Preparatory School
+				Emery Elementary School
+				Englishs Female Seminary (historical)
+				Evans Middle School
+				Fairbrother Elementary School (historical)
+				Ferebee - Hope Elementary School
+				Fillmore Art Center Elementary School
+				Fillmore Arts Center School
+				First Rock Baptist Church Christian School
+				Fletcher Johnson Education Complex
+				For Love of Children Learning Center
+				Force School (historical)
+				Foreign Mission Seminary of Holy Cross
+				Fox Valley Technical College Washington, D.C. Criminal Justice Center
+				Francis Junior High School
+				Franklin School House (historical)
+				Frelinghuysen University
+				Friendship Primary Charter School Blow Pierce Junior Academy Campus
+				Friendship Primary Charter School Chamberlain Elementary Campus
+				Friendship Primary Charter School Collegiate Academy at Carter G Woodson School
+				Friendship Primary Charter School South East Elementary Academy
+				Friendship Primary Charter School Woodridge Campus
+				Friendship Public Charter School
+				Gage Eckington Elementary
+				Gales School
+				Gallaudet University
+				Garfield Elementary School
+				Garnet - Patterson Junior High School
+				Garrison Elementary School
+				George Peabody School
+				George Washington University - Foggy Bottom Campus
+				George Washington University - Mount Vernon Campus
+				George Washington University at Mount Vernon College
+				Georgetown Day High School
+				Georgetown Day School
+				Georgetown Montessori School
+				Georgetown University
+				Georgetown University Law Center
+				Georgetown Visitation Preparatory School
+				Georgetown Visitation School
+				Gibbs Elementary School
+				Giddings School
+				Goding Elementary School (historical)
+				Gonzaga College High School
+				Grant Road School (historical)
+				Green Elementary School
+				Greenleaf School (historical)
+				Grimke School
+				Gunston Hall School (historical)
+				H D Cooke Elementary School
+				Hamilton Alternative School
+				Hamilton Center
+				Hardy Middle School
+				Harris Elementary School
+				Harris PR Education Center School
+				Harrison Elementary School
+				Harrison School
+				Hart Middle School
+				Hawthorne High School
+				Hayes School
+				Health Human Services Law and Legal Services Academy at Eastern Senior High School
+				Health and Human Services and Law and Legal Services Academy
+				Hearst Elementary School
+				Hendley Elementary School
+				Hilton School
+				Hine Junior High School
+				Holy Comforter School
+				Holy Cross College
+				Holy Name College
+				Holy Name Elementary School (historical)
+				Holy Redeemer Catholic School
+				Holy Redeemer College
+				Holy Redeemer School
+				Holy Temple Christian Academy
+				Holy Trinity School
+				Hope Community Primary Charter School
+				Horace Mann Elementary School
+				Hospitality Public Charter School
+				House of Representatives Page School
+				Houston Elementary School
+				Howard Road Academy Primary Charter School
+				Howard University Early Learning Program
+				Howard University Law School
+				Howard University Middle School for Math and Science Primary Charter School
+				Howard University School of Divinity
+				Hyde Elementary School
+				Hyde Leadership Primary Charter School
+				Hyde Leadership Public Charter School
+				Ideal Academy Primary Charter School
+				Ideal Academy Public Charter School
+				Ideal Alternative School
+				Ideal Learning Center
+				Immaculata Dunblane Elementary School
+				Immaculata Seminary
+				Immaculate Conception Academy (historical)
+				Immaculate Conception Boys School
+				Immaculate Conception School
+				Industrial College of the Armed Forces
+				Industrial Home School (historical)
+				Institute of Our Lady of Mount Carmel Child Development Center
+				Integrated Design Electronics Academy Public Charter School
+				Integrated Design and Electronics Academy Primary Charter School
+				International Graduate University
+				J O Wilson Elementary School
+				JOZ-ARZ Academy Primary Charter School
+				Jackie Robinson Center School
+				Jackson School
+				Janney Elementary School
+				Jefferson Junior High School
+				Jewels of Ann School
+				John F Cook Elementary School
+				Johns Hopkins University Center for Immunization Research
+				Johns Hopkins University Paul H Nitze School of Advanced International Studies
+				Johnson Junior High School
+				Jones School (historical)
+				Joseph Gales School (historical)
+				KIPP District of Columbia AIM Academy
+				KIPP District of Columbia KEY Academy
+				Kamit Institute for Magnificent Achievers
+				Keene Elementary School
+				Kelly Miller Junior High School
+				Kenilworth Elementary School
+				Ketcham Elementary School
+				Key Elementary School
+				Kimball Elementary School
+				King Elementary School
+				Kingsbury Day School
+				Kingsman Elementary School (historical)
+				Kirov Academy of Ballet
+				Kramer Middle School
+				La Petite Academy
+				Lab School of Washington
+				Lafayette Elementary School
+				Langdon Elementary School
+				Langley Junior High School
+				Lasalle Elementary School
+				Latin American Montessori Bilingual Primary Charter School
+				Latin American Youth Center Youth Build Primary Charter School
+				Leckie Elementary School
+				Lenox Adult Education Center
+				Lenox School
+				Les Aspin Center for Government
+				Lewis Elementary School
+				Lieutenant Joseph P Kennedy Junior Institute
+				Life Cycle Institute
+				Lincoln Middle School
+				Logan School
+				Lovejoy School
+				Lowell School
+				Ludlow - Taylor Elementary School
+				Ludlow School (historical)
+				Luke Moore Academy
+				Luke Moore Academy Senior High School
+				Luke Moore Academy Senior High School at Evans
+				Lynn Carols Academy of Early Learning
+				M Street High School (historical)
+				MacFarland Middle School
+				Mackey Building
+				Mackin High School
+				Madison School
+				Malcolm X Elementary School
+				Mamie D Lee Special Education School
+				Maret School
+				Margaret Washington Senior High School
+				Marist College
+				Marist Seminary
+				Marjorie Webster Junior College (historical)
+				Marriott Hospitality Primary Charter High School
+				Marshall Education Center
+				Martha Washington Seminary
+				Mary McLeod Bethune Primary Charter School
+				Maury Elementary School
+				Maya Angelou Public Charter School
+				Maya Angelou See Forever Primary Charter School Evans Campus
+				Maya Angelou See Forever Primary Charter School Shaw Campus
+				McGogney Elementary School
+				McKinley/Penn Senior High School
+				Meridian Primary Charter School
+				Meridian Public Charter School
+				Merritt Educational Center
+				Merritt Elementary School
+				Meyer Elementary School
+				Military Road School
+				Miner Elementary School
+				Miner Normal School (historical)
+				Miner Teachers College (historical)
+				Miss Lydia Englishs Female Seminary (historical)
+				Miss Lydia Englishs Seminary (historical)
+				Missionary Oblates of Mary Immaculate School
+				Mitchells Boys School (historical)
+				Montessori School of Chevy Chase
+				Montessori School of Washington
+				Montgomery Elementary School
+				Morgan School
+				Morse School
+				Moten Center
+				Moten Elementary School
+				Mount Vernon Seminary (historical)
+				Murch Elementary School
+				Nalle Elementary School
+				Nannie Helen Burroughs School
+				Nation House Watoto School
+				National Cathedral School for Girls
+				National Defense University
+				National Presbyterian School
+				National Trade and Professional School
+				National Training School for Boys (historical)
+				National Training School for Women and Girls (historical)
+				Nativity Catholic Academy
+				Nativity School
+				Naylor Road School
+				Naylor Road School Annex
+				New United Christian Academy
+				Next Step Public Charter School
+				Next Step-El Proximo Paso Primary Charter School
+				Nia Community Primary Charter School
+				Nichols Avenue School
+				Notre Dame Academy
+				Noyes Elementary School
+				Oakcrest School
+				Oblate College (historical)
+				Old Rose Special Education School
+				Options Primary Charter School
+				Options Public Charter School
+				Orr Elementary School
+				Our Children Infant Care and Preschool
+				Our Lady Queen of Peace School
+				Our Lady of Lebanon Maronite Seminary
+				Our Lady of Perpetual Help School
+				Our Lady of Victory School
+				Our Redeemer Preshool and Infant Center
+				Owl School
+				Oyster Elementary School
+				Park View Elementary School
+				Parkmont School
+				Patterson Elementary School
+				Paul Junior High School
+				Paul Primary Charter School
+				Paul Robeson Center
+				Paul Robeson School
+				Peabody Elementary School
+				Penn Center
+				Peter Pan School
+				Petworth Elementary School
+				Phelps Career High School
+				Phillips School (historical)
+				Pierce School
+				Plummer Elementary School
+				Potomac College
+				Potomac Lighthouse Primary Charter School
+				Potomac Riding School (historical)
+				Powell Elementary School
+				Pre-Engineering School Within a School at Dunbar
+				Pre-engineering School-within-a-School Charter - Dunbar
+				Preece Riding School (historical)
+				Preparatory School For Early Learning
+				Preparatory School of the District
+				Primary Hall Gallaudet College (historical)
+				Prospect Learning Center
+				R H Terrell Elementary School
+				Rabaut Junior High School (historical)
+				Randall Hyland Private School
+				Randall Junior High School
+				Randle Highlands Elementary
+				Raymond Elementary School
+				Redemptorist Fathers School
+				Reed Elementary School
+				Reggio Emilia School
+				Rhema Christian Center School
+				Richardson Elementary School
+				River Terrace Elementary School
+				Robert Brent Elementary School
+				Rock Creek International School
+				Ronald Brown Middle School
+				Ronald H Brown Middle School
+				Roosevelt Adult Education Center
+				Roosevelt High School
+				Roosevelt School To Aid Youth
+				Roots Activity Learning Center
+				Roots Primary Charter School
+				Roots Public Charter School
+				Rose School
+				Ross Elementary School
+				Rudolph Elementary School
+				S J Bowen School (historical)
+				SMART Program Adult Education Center
+				Sacred Heart Academy
+				Sacred Heart Adult Education Center
+				Sacred Heart Seminary
+				Saint Albans School for Boys
+				Saint Aloysius School
+				Saint Anns Academy
+				Saint Anselms Abbey School
+				Saint Anthonys High School
+				Saint Augustine School
+				Saint Benedict the Moor School
+				Saint Cecilias High School
+				Saint Columbas Episcopal Church Nursery School
+				Saint Cyprians School (historical)
+				Saint Elizabeths School
+				Saint Francis Xavier School
+				Saint Francis de Sales School
+				Saint Gabriel School
+				Saint Gertrudes School
+				Saint Johns College High School
+				Saint Johns Collegiate Institute (historical)
+				Saint Johns Community Services
+				Saint Johns Preschool
+				Saint Josephs School (historical)
+				Saint Josephs Seminary
+				Saint Martins School
+				Saint Marys School (historical)
+				Saint Patricks Episcopal Day School
+				Saint Patricks School (historical)
+				Saint Pauls College
+				Saint Pauls Lutheran Church Nursery School
+				Saint Peters Interparish School
+				Saint Stephens School
+				Saint Teresa School
+				Saint Thomas Apostle School
+				Saint Thomas More Elementary School
+				Saint Vincent De Paul School (historical)
+				Saint Vincents Home and School
+				Sankofa Fie School
+				Savoy Elementary School
+				School For Friends
+				School Within a School at Peabody School
+				School for Arts In Learning Primary Charter School Lower Division
+				School for Arts in Learning Primary Charter School Upper Division
+				School for Arts in Learning Public Charter School
+				School of Educational Evolution and Development Primary Charter School
+				School of International Service
+				School-without-Walls Senior High School
+				Seaton Elementary School
+				Seed Public Charter School
+				Senate Page School
+				Septima Clark Primary Charter School
+				Shadd Elementary School
+				Shaed Elementary School
+				Sharpe Health School
+				Shaw Junior High School
+				Shepherd Elementary School
+				Sheridan School
+				Sidwell Friends School
+				Simon Elementary School
+				Sisters Academy (historical)
+				Sisters Public School (historical)
+				Slater-Langston Elementary School (historical)
+				Slowe Elementary School
+				Smallwood School (historical)
+				Smothers Elementary School
+				Sousa Middle School
+				Southeast Academy of Scholastic Excellence
+				Southeastern University
+				Spingarn Center
+				Spingarn School to Aid Youth
+				Spingarn Stay High School
+				Spring Valley Montessori Academy
+				Stanford in Washington
+				Stanton Elementary School
+				Stevens Elementary School
+				Stoddert Elementary School
+				Strayer University
+				Stuart - Hobson Middle School
+				Sulpician Seminary
+				Syphax Elementary School (historical)
+				Syracuse University
+				Taft Junior High School
+				Taft School
+				Takoma Childrens School
+				Takoma Education Center
+				Techworld Public Charter School
+				Temple Sinai Nursery School
+				Terrell Junior High School
+				The Bridges Academy
+				The Children's House of Washington
+				The Community Preschool of The Palisades
+				The Field School
+				The Franklin Montessori School
+				The French Maternal School
+				The Henry and Anne Hurt Home for the Blind
+				The Hill Preschool
+				The Jewish Primary Day School of the Nation's Capital
+				The Lab School of Washington
+				The Learning Academy
+				The Owl School
+				The River School
+				The Washington International School
+				Theological College
+				Thomas Elementary School
+				Thomson Elementary School
+				Thurgood Marshall Academy Primary Charter School
+				Thurgood Marshall Elementary
+				Tots Developmental School
+				Tree of Life Community Primary Charter School
+				Tri-Community Primary Charter School
+				Trinity College
+				Truesdell Elementary School
+				Tubman Elementary School
+				Tuition Grant School
+				Turner Elementary School
+				Twining School (historical)
+				Two Rivers Primary Charter School
+				Tyler Elementary School
+				Tyler Vision Program
+				Ujamaa School
+				Ukranian Catholic Seminary
+				United States Reform School Farm (historical)
+				University of California Washington Center
+				University of The District Of Columbia
+				Van Buren School (historical)
+				Van Ness Elementary School
+				Viatorian Seminary
+				Village Learning Center Public Charter School
+				Walker - Jones Elementary School
+				Walker School (historical)
+				Wallach School (historical)
+				Washington - Dix Street Academy
+				Washington Academy Primary Charter School - PABC Campus
+				Washington Academy Primary Charter School Castle Campus
+				Washington Academy Primary Charter School Kingsman Campus
+				Washington Academy of the Visitation (historical)
+				Washington Center
+				Washington Ethical High School
+				Washington Hebrew Congregation Child Development Center
+				Washington Hebrew Congregation Education Center
+				Washington International School
+				Washington Latin Primary Charter School
+				Washington Math/Science/Technology Public Charter School
+				Washington Mathematics Science and Technology Primary Charter School
+				Washington Science and Technology Academy
+				Washington Theological Union School
+				Watkins Elementary School
+				Wayland Seminary
+				Weatherless Elementary School (historical)
+				Webb Elementary School
+				Webster School
+				Wes Public School (historical)
+				Wesley Seminary of American University
+				West Elementary School
+				West Georgetown School (historical)
+				Western High School (historical)
+				Wheatley Elementary School
+				White Friars Hall School
+				Whittier Elementary School
+				Wilkinson Elementary School
+				William E Doar Junior Primary Charter School for the Performing Arts
+				Wilson High School
+				Wilson School
+				Winston Elementary School
+				Woodridge Elementary School
+				Woodson High School
+				World Public Charter School of Washington
+				Wormley School (historical)
+				Young America Works Primary Charter School
+				Young Elementary School
+				Zion Baptist Church Nursery and Kindergarten
+			Spring (DC)
+				Caffreys Spring (historical)
+				Federal Spring (historical)
+				Franklin Park Springs (historical)
+				Gibsons Spring (historical)
+				Jumpin' Jack Spring
+			Stream (DC)
+				Anacostia River
+				Beaverdam Creek
+				Bennings Branch (historical)
+				Broad Branch
+				Davis Branch (historical)
+				Deep Branch (historical)
+				Duck Creek (historical)
+				Fenwick Branch
+				Foundry Branch
+				Gillam Branch (historical)
+				Hickey Run
+				Maddox Branch
+				Oxon Run
+				Pinehurst Branch
+				Piney Branch
+				Piney Run
+				Pope Branch
+				Reedy Branch (historical)
+				Roaches Run
+				Rock Creek
+				Saint James Creek (historical)
+				Silver Spring Branch (historical)
+				Slash Run (historical)
+				Spring Branch (historical)
+				Stickfoot Branch
+				Tiber Creek (historical)
+				Watts Branch
+			Summit (DC)
+				Bald Eagle Hill
+				Barnard Hill
+				Bunker Hill
+				Camp Hill
+				Capitol Hill
+				Cherry Hill
+				Crabapple Hill
+				Fairview Hill
+				Forsythia Hill
+				Fort Bunker Hill
+				Georgetown Heights
+				Good Hope Hill
+				Hickey Hill
+				Hoover Hill
+				Jackson Hill
+				Lees Hill
+				Licking Banks
+				Linnean Hill
+				Mount Alto
+				Mount Hamilton
+				Mount Saint Alban
+				Mount Saint Sepulchre
+				Peters Hill
+				Point Reno
+				Round Hill
+			Tower (DC)
+				Venilation Towers
+				WAMU-FM (Washington)
+				WASH-FM (Washington)
+				WDCA-TV (Washington)
+				WDCU-FM (Washington)
+				WETA-TV (Washington)
+				WFTY-TV (Washington)
+				WGAY-FM (Washington)
+				WGMS-FM (Washington)
+				WHMM-TV (Washington)
+				WHUR-FM (Washington)
+				WJLA-TV (Washington)
+				WJZE-FM (Washington)
+				WKYS-FM (Washington)
+				WMAL-TV (historical)
+				WOL-AM (Washington)
+				WOOK
+				WPFW-FM (Washington)
+				WRC
+				WRC-TV (Washington)
+				WRQX-FM (Washington)
+				WTTG-TV
+				WTTG-TV (Washington)
+				WUSA-TV (Washington)
+				WUST-AM (Washington)
+				WWDC-AM (Washington)
+				WWDC-FM (Washington)
+				WWRC-AM (Washington)
+				WYCB-AM (Washington)
+			Trail (DC)
+				Black Horse Trail
+				Chesapeake and Ohio Trail
+				Glover-Archbold Trail
+				Rock Creek Park Bike Trail
+				Rock Creek Park Orienteering Course
+				Rock Creek and Potomac Parkway Terminus
+				Swamp Trail
+				Upland Trail
+				Valley Trail
+				Western Ridge Trail
+				White Horse Trail
+				Woods Trail
+			Valley (DC)
+				Klingle Valley
+				Piney Branch Valley
+				Rock Creek Valley
+				Soapstone Valley
+				The Potomac Gorge
+			Woods (DC)
+				Parrotts Woods

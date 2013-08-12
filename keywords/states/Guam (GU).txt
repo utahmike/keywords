@@ -1,0 +1,1320 @@
+Location
+	United States (US)
+		Guam (GU)
+			Airport (GU)
+				Andersen Air Force Base
+				Big Eye Heliport
+				Guam International Airport
+				Harmon Field (historical)
+				Northwest Field
+			Area (GU)
+				Abac
+				Acho
+				Adae
+				Adaumang
+				Aftano
+				Aga
+				Agafan
+				Agaga
+				Agfayan
+				Aguada
+				Alacunao
+				Anaga
+				Anaguan
+				Anao
+				Apugan
+				Asafan
+				Asaguero
+				Asalonso
+				Asanario
+				Asculano
+				Ascutino
+				Asdulili
+				Asiga
+				Aslinget
+				Aslucas
+				Asnaki
+				Aspualas
+				Aspupong
+				Aspution
+				Asquede
+				Asquidachay
+				Assalie
+				Assupian
+				Astaban
+				Astobias
+				Atantano
+				Atao
+				Atate
+				Atotdan
+				Bejao
+				Beyoc
+				Bona
+				Botadero
+				Bubulao
+				Caiguat
+				Callon Tramojo
+				Canuon
+				Chagame
+				Chaguian
+				Chaligan
+				Chandija
+				Changchang
+				Chochogo
+				Conga
+				Cotal
+				Dagua
+				Dandan
+				Didigue
+				Dongua
+				Eda Agage
+				Etton
+				Faata
+				Facpi
+				Fadian
+				Fafalog
+				Fagueyao
+				Famja
+				Fan Camajan
+				Fane
+				Fena
+				Finaguayac
+				Finenga
+				Finile
+				Finogchaan Toro
+				Fonte
+				Fosgan
+				Gagas
+				Gayon
+				Geugao
+				Geus
+				Gongna Cove
+				Guacluluyao
+				Guae
+				Guaifan
+				Guasaon
+				Guenyon
+				Gugagon
+				Gumagao
+				Huchunao
+				Ibaba
+				Ibebo
+				Iguagualo
+				Ija
+				Ilipog
+				Imong
+				Inaso Maso
+				Inedo
+				Ipachol
+				Ipiga
+				Isengsong
+				Itadudong
+				Jajlao
+				Jalaoian
+				Jalaojan
+				Jalomtanon Maagas
+				Jangga
+				Lada
+				Ladai
+				Laelae
+				Lagos
+				Laguet
+				Laguina
+				Lalapo
+				Layon
+				Lengga
+				Liguan
+				Liyog
+				Lofon
+				Lomongan Ifit
+				Lonfit
+				Lulog
+				Lumico
+				Macheche
+				Machecho
+				Mafnas Nete
+				Magpo
+				Magua
+				Maguagua
+				Magugun
+				Mahgiae
+				Maimai
+				Majulosna
+				Malaa
+				Malang
+				Malojloj
+				Managam
+				Manengon
+				Mapao
+				Mapas
+				Mapo
+				Masalog
+				Masso
+				Mata
+				Mataguac
+				Matague
+				Mataitaotao
+				Matala
+				Matgue
+				Mocham
+				Mochom
+				Mogfog
+				Mulona
+				Nagan
+				Nasgan
+				Ngachang
+				Nomna
+				Ogasan
+				Opop
+				Pagachao
+				Pago
+				Palaguna
+				Palasao
+				Papato
+				Pedonlisong
+				Perdolaria
+				Pinate
+				Pugua
+				Pulantat
+				Pulatar
+				Sabana Maagas
+				Sabanan Fadang
+				Sagua
+				Sagualao
+				Salaglula
+				Salagna
+				Salailago
+				Salisbury
+				Sasa
+				Sasajyan
+				Sella
+				Sesa
+				Sese
+				Sigua
+				Sinagoso
+				Sinaje
+				Sinengsong
+				Sinenjaya
+				Socogna
+				Somnac
+				Sumay Maleso
+				Taccalom
+				Tagachang
+				Taguag
+				Tai
+				Taigigao
+				Taijagan
+				Taleyfac
+				Talofofo
+				Tatatmon
+				Tinechong
+				Tipalao
+				Tipoco
+				Togcha
+				Togpaola
+				Toguan
+				Tolange
+				Tongan
+				Tumag
+				Ukudu
+				Umafit
+				Umang
+				Yledigao
+				Yona
+				Ypao
+			Bar (GU)
+				Achang Reef
+				Calalan Bank
+				Dogleg Reef
+				Fingers Reef
+				Haps Reef
+				Hole in the Wall (historical)
+				Jade Shoals
+				Luminao Reef
+				Pago Reef
+				Petes Reef
+				Rocks Reef
+				Spanish Rocks
+				Western Shoal
+			Basin (GU)
+				Asdonlucas
+				Hagåtña Boat Basin
+				Harmon Sink
+				Majaga
+			Bay (GU)
+				Abo Cove
+				Achang Bay
+				Aga Bay
+				Agat Bay
+				Agfayan Bay
+				Ajayan Bay
+				Apra Harbor
+				Apra Inner Harbor
+				Apra Outer Harbor
+				Asan Bay
+				Asanite Bay
+				Asgadao Bay
+				Bile Bay
+				Cetti Bay
+				Cocos Lagoon
+				Devils Cove
+				Facpi Bay
+				Falcona Anchorage
+				Fouha Bay
+				Gayloup Cove
+				Hagåtña Bay
+				Inarajan Bay
+				Mana Bay
+				Nomna Bay
+				Pago Bay
+				Paicpouc Cove
+				Pauliluc Bay
+				Piti Bay
+				Port Merizo
+				Salugula Pool
+				Sasa Bay
+				Sella Bay
+				Sumay Bay
+				Taleyfac Bay
+				Talofofo Bay
+				Tipalao Bay
+				Togcha Bay
+				Toguan Bay
+				Tumon Bay
+				Umatac Bay
+				Ylig Bay
+			Beach (GU)
+				Aang Beach
+				Aba Beach
+				Abong Beach
+				Ajmo Beach
+				Asan Beach
+				Asiga Beach
+				Atao Beach
+				Blue Beach
+				Calvo Beach
+				Dadi Beach
+				Dungcas Beach
+				East Hagåtña Beach
+				Fafai Beach
+				Falcona Beach
+				Family Beach
+				First Beach
+				Gabgab Beach
+				Gongna Beach
+				Green Beach
+				Haputo Beach
+				Jinapsan Beach
+				Jones Beach
+				N C S Beach
+				Naton Beach
+				Perez Beach
+				Piga Beach
+				Red Beach One
+				Red Beach Two
+				Ritidian Beach
+				Rizal Beach
+				Sagua Beach
+				Salinas Beach
+				Scout Beach
+				Taelayag Beach
+				Tagachan Beach
+				Talofofo Beach
+				Talona Beach
+				Tanguisson Beach
+				Tarague Beach
+				Tipalao Beach
+				Togcha Beach
+				Trinchera Beach
+				Ulomnia Beach
+				Uruno Beach
+				West Hagåtña Beach
+				White Beach One
+				White Beach Two
+				Yellow Beach One
+				Yellow Beach Two
+				Ypao Beach
+			Bend (GU)
+				Asinan
+			Bridge (GU)
+				Old Spanish Bridge
+				Pol Causeway
+				San Antonio Bridge
+				Talofofo Bridge
+				Umatac Bridge
+				Ylig Bridge
+			Building (GU)
+				Agat Public Library
+				Arcade Building
+				Casa Gobierno (historical)
+				Central Tower
+				Chocolate House
+				Federal Aviation Agency Headquarters
+				Government House
+				Guam Air Terminal
+				Guam Congress
+				Guam Historical Museum
+				Guam Legislature Building
+				Guam Museum
+				Guam Rehabilitation Workshop Center
+				Guam Territorial Law Library
+				Lujan House
+				Merizo Conbento
+				Nieves M Flores Memorial Library
+				Superior Court of Guam
+				T Stell Newman Visitor Center
+			Canal (GU)
+				Piti Canal
+			Cape (GU)
+				Acho Point
+				Adjoulan Point
+				Aga Point
+				Agfayan Point
+				Ajayan Point
+				Anao Point
+				Apaca Point
+				Asan Point
+				Asanite Point
+				Asmaile Point
+				Baker Point
+				Balang Point
+				Bangi Point
+				Cape Horn
+				Catalina Point
+				Dongua Point
+				Dry Dock Island
+				Drydock Point
+				Facpi Point
+				Gaan Point
+				Gayloup Point
+				Guaifan Point
+				Guijen Point
+				Hospital Point
+				Iates
+				Iates Point
+				Janum Point
+				Jaotan Point
+				Lafac Point
+				Latte Point
+				Liguan Point
+				Lujuna Point
+				Machadgan Point
+				Magpo Point
+				Malilog Point
+				Manell Point
+				Matala Point
+				Mati Point
+				Nomna Point
+				Orote Peninsula
+				Paicpouc Point
+				Pati Point
+				Point Manban
+				Polaris Point
+				Satpon Point
+				Southwest Point
+				Sumay Point (historical)
+				Tagua Point
+				Tantapalo Point
+				Tarague Point
+				Tartuguan Point
+				Togcha Point
+				Ylig Point
+				Ypan Point
+			Cemetery (GU)
+				Agat Cemetery
+				Custino Cemetery
+				Guam Veterans Cemetery
+				Merizo Catholic Cemetery
+				Old Agat Cemetery
+				Pigo Cemetery
+				Rest Haven Cemetery
+				Sumay Cemetery
+				Taguag Cemetery
+				Tipoco Catholic Cemetery
+				Togcha Cemetery
+				Umatac Cemetery
+				United States Naval Cemetery
+				War Dog Cemetery
+				Windward Hills Memorial Park
+			Census (GU)
+				Adacao Census Designated Place
+				Afame Census Designated Place
+				Agana Heights Census Designated Place
+				Agat Census Designated Place
+				Anao Census Designated Place
+				Andersen Air Force Base Census Designated Place
+				Apotgan Census Designated Place
+				Apra Harbor Census Designated Place
+				Asan Census Designated Place
+				Astumbo Census Designated Place
+				Barrigada Census Designated Place
+				Barrigada Heights Census Designated Place
+				Chaguian Census Designated Place
+				Chalan Pago Census Designated Place
+				Dededo Census Designated Place
+				Finegayan Station Census Designated Place
+				Hagåtña Census Designated Place
+				Harmon Industrial Park Census Designated Place
+				Inarajan Census Designated Place
+				Ipan Census Designated Place
+				Latte Heights Census Designated Place
+				Liguan Census Designated Place
+				Machananao East Census Designated Place
+				Machananao West Census Designated Place
+				Machanao Census Designated Place
+				Macheche Census Designated Place
+				Maina Census Designated Place
+				Maite Census Designated Place
+				Malojloj Census Designated Place
+				Mangilao Census Designated Place
+				Mataguac Census Designated Place
+				Merizo Census Designated Place
+				Mogfog Census Designated Place
+				Mongmong Census Designated Place
+				Naval Hospital Census Designated Place
+				Nimitz Hill Annex Census Designated Place
+				Nimitz Hill Census Designated Place
+				North Gayinero Census Designated Place
+				Oka Census Designated Place
+				Ordot Census Designated Place
+				Pagat Census Designated Place
+				Piti Census Designated Place
+				Santa Rita Census Designated Place
+				Santa Rosa Census Designated Place
+				Sinajana Census Designated Place
+				South Gayinero Census Designated Place
+				Talofofo Census Designated Place
+				Tamuning Census Designated Place
+				Tiyan Census Designated Place
+				Toto Census Designated Place
+				Tumon Census Designated Place
+				Ukudu Census Designated Place
+				Umatac Census Designated Place
+				University of Guam Census Designated Place
+				Upper Tumon Census Designated Place
+				Windward Hills Census Designated Place
+				Wusstig Census Designated Place
+				Y Papao Census Designated Place
+				Y Sengsong Census Designated Place
+				Yigo Census Designated Place
+				Yona Census Designated Place
+			Channel (GU)
+				Asan Cut
+				Cabras Island Channel
+				Commadores Cut
+				Hagåtña Channel
+				Mamaon Channel
+				Manell Channel
+				Merizo Channel
+				Pago Channel
+				Piti Channel
+				Pol Channel
+				Ritidian Channel
+				Sumay Channel (historical)
+				Tarague Channel
+				Tepungan Channel
+				Typhoon Channel (historical)
+				West Channel
+			Church (GU)
+				Base Chapel Number 1
+				Base Chapel Number 2
+				Bayview Baptist Church
+				Bible Baptist Church
+				Calvary Baptist Church
+				Church of Christ
+				Church of God
+				Church of San Dionisio
+				Church of the Blessed Diego
+				Church of the Nazarene
+				Dulce Nombre de Maria Cathedral Basilica
+				Evangelical Church
+				Faith Presbyterian Reformed Church
+				Full Gospel Korean Church
+				Guam Bible Church
+				Harvest Baptist Church
+				Iglesia Ni Christo
+				Immaculate Heart of Mary Church
+				Marianas Baptist Church
+				Nimitz Hill Chapel
+				Nino Perdido Church
+				Nuestra Senora De Las Aguas Church
+				Our Lady of Guadalupe Church
+				Our Lady of Lourdes Church
+				Our Lady of Mount Carmel Catholic Church
+				Our Lady of Peace Church
+				Our Lady of the Assumption Church
+				Our Lady of the Blessed Sacrament Church
+				Pacific Presbyterian Church
+				Saint Anthony Catholic Church
+				Saint Johns Church
+				Saint Joseph Church
+				Saint Jude Thaddeus Catholic Church
+				San Dimas Catholic Church
+				San Francisco De Asis Church
+				San Isidro Chapel
+				San Juan Bautista Church
+				San Miguel Church
+				San Ramon Chapel
+				San Vicente Ferrer-San Roke Church
+				Santa Barbara Church
+				Santa Teresita Church
+				Seventh Day Adventist Church
+				Tamuning Baptist Church
+				Trinity Christian Church
+				United States Naval Hospital Guam Chapel
+				Yigo Baptist Church
+			Civil (GU)
+				Agat Election District
+				Asan Election District
+				Barrigada Election District
+				Chalan Pago-Ordot Election District
+				Dededo Election District
+				Hagatna Election District
+				Hagåtña
+				Hagåtña Heights Election District
+				Inarajan Election District
+				Machanao
+				Machanao (historical)
+				Mangilao Election District
+				Merizo Election District
+				Mongmong-Toto-Maite Election District
+				Municipality of Hagåtña
+				Piti
+				Piti Election District
+				Santa Rita Election District
+				Sinajana Election District
+				Talofofo Election District
+				Tamuning Election District
+				Territory of Guam
+				Umatac Election District
+				Yigo Election District
+				Yona Election District
+			Cliff (GU)
+				Asdigues
+				Asquiroga Cliff
+				Chalan Aniti
+				Chorrito Cliff
+				Two Lovers Leap
+			Dam (GU)
+				Glass Breakwater
+			Falls (GU)
+				Cetti Falls
+				Inarajan Falls
+				Malojloj Falls
+				Sigua Falls
+				Talofofo Falls
+				Tarzan Falls
+			Gap (GU)
+				Maanot Pass
+			Harbor (GU)
+				Agat Small Boat Harbor
+				Middle Ground
+				Port Pago
+			Hospital (GU)
+				Central Clinic
+				Central Public Health Center
+				Doctors Clinic North
+				Good Samaritan Clinic
+				Guam Memorial Hospital
+				Harmon Doctors Clinic
+				Inarajan Public Health Center
+				Marianas Chiropratic Clinic
+				Northern Region Health Center
+				Pacificare Medical Center
+				Seventh Day Adventist Clinic
+				United States Naval Hospital
+				United States Naval Hospital Annex
+			Island (GU)
+				Agrigan Island
+				Alupat Island
+				Alutom
+				Anae
+				Asgadao Island
+				Asgon Point
+				Babe Island
+				Bangi Island
+				Cabras Island
+				Camel Rock
+				Cocos Island
+				Facpi Island
+				Fofos Island
+				Goa Island (historical)
+				Guam
+				Guijen Rock
+				Lalas Rock
+				Napa Island (historical)
+				Neye
+				Neye Island
+				Orote Island
+				Pelagi Islets
+				Stephan Rock (historical)
+				Tangon Rock
+				Yona Island
+			Lake (GU)
+				Morrow Lake
+			Locale (GU)
+				Admiral Nimitz Golf Course
+				Agat Sewage Treatment Plant
+				Alte Guam Golf Resort
+				Archbishop Felixberto Flores Circle
+				Atot
+				Barrigada Pumping Station
+				Berth F
+				Berth H
+				Camp Asan (historical)
+				Camp Bright (historical)
+				Camp Quezon (historical)
+				Camp Witek (historical)
+				Chamorro Village
+				Chaot
+				Country Club of the Pacific
+				Cushing Zoo
+				Dededo Solid Waste Transfer Station
+				Fena Pumping Station
+				Fena Water Treatment Plant
+				Finegayan
+				Fleet Landing
+				Fountain Plaza Shopping Center
+				Guagua
+				Guam Adult Correctional Facility
+				Guam International Country Club
+				Guam Municipal Golf Course
+				Guam Observatory
+				Guam Shopping Center
+				Guam Tracking Station
+				Hafa Adai Exchange Shopping Center
+				Hagåtña Detention Facility
+				Hagåtña Powerplant
+				Hagåtña Shopping Center
+				Harmon Flea Market Shopping Center
+				Harmon Powerplant
+				Harmon Substation
+				Harmon Tank Farm
+				Harmon Telephone Exchange
+				Iplaza
+				Joa
+				Julaie Shopping Center
+				Leo Palace Golf Resort
+				Marbo Pumping Station
+				Matoloji Pumping Station
+				Merizo Pier
+				Micronesia Mall
+				Ordot Junction
+				Orote Powerplant
+				Pier A
+				Pier B
+				Pier C
+				Pier Dog
+				Pigua Pumping Station
+				Piti Powerplant
+				Sampaguita Pavilion
+				Sateena Mall Shopping Center
+				Sumay Experimental Station (historical)
+				Talofofo Golf Resort
+				Tanguisson Powerplant
+				Tidal Station
+				Tumon Golf Driving Range
+				University of Guam Agricultural Experiment Station
+				University of Guam Marine Laboratory
+				Wharf A
+				Wharf B
+				Wharf D
+				Wharf E
+				Wharf L
+				Wharf M
+				Wharf N
+				Wharf O
+				Wharf P
+				Wharf R
+				Wharf S
+				Wharf T
+				Wharf U
+				Wharf V
+				Wharf X
+				Windward Hills Country Club
+				Ylig Pumping Station
+			Military (GU)
+				Andersen Air Force Base
+				Andersen Air Force Base Global Communications Station
+				Fort Santa Agueda (historical)
+				Fort Santa Cruz (historical)
+				Fort Santiago (historical)
+				Fort Santo Angel (historical)
+				Fort Soledad (historical)
+				Guam Ordnance Annex
+				Harmon Air Force Base (historical)
+				Naval Air Station Orote (historical)
+				Naval Computer and Telecommunications Station Barrigada
+				Naval Computer and Telecommunications Station Finegayan
+				Naval Hospital Guam
+				Naval Station Apra
+				Ordnance Annex Guam
+				Piti Navy Yard (historical)
+				Presidio of Asan (historical)
+				United States Naval Air Station Agana (historical)
+			Mine (GU)
+				Dededo Quarry
+			Park (GU)
+				Adelup Park
+				Admiral William E Leahy Sports Complex
+				Agat Ballpark
+				Agat Unit War In the Pacific National Historical Park
+				Anao Conservation Reserve
+				Asan Beach Unit War In the Pacific National Historical Park
+				Asan Inland Unit War In the Pacific National Historical Park
+				Asan Memorial Park
+				Barrigada War Memorial Park
+				Baza Gardens Ball Park
+				Bolanos Conservation Reserve
+				Central Park
+				Chief Quipuha Park
+				Cotal Conservation Reserve
+				Dano Park
+				Father Diego Luis de Sanvitores Monument
+				Filipino Patriot Monument
+				First Marine Brigade Monument
+				Fonte Plateau Unit War In the Pacific National Historical Park
+				Fort San Jose
+				Francisco F Perez Beach Park
+				Gilkeson Field
+				Guam National Wildlife Refuge
+				Guam Recreation Center
+				Hagåtña Central Park
+				Haputo Ecological Reserve Area
+				Historical Monument and Spanish Shrine
+				Hoover Park
+				Ipan Beach Park
+				Joe Guzman Ball Park
+				Jose U Atogue Ballpark
+				Joseph F Flores Beach Park
+				Joseph Flores Beach Park
+				Kimball Field
+				Latte Stone Park
+				Magellan Monument
+				Man Apu Park
+				Mangilao Mayors Baseball Field
+				Matapang Beach Park
+				Merizo Ball Park
+				Merizo Martyrs Monument
+				Merizo Pier Park
+				Mount Alifan Unit War In the Pacific National Historical Park
+				Mount Chachao-Mount Tenjo Unit War In the Pacific National Historical Park
+				Nimitz Beach Park
+				Nimitz Hill Overlook Park
+				Old Mangilao Baseball Field
+				Orote Peninsula Ecological Reserve Area
+				Padre Palomo Park
+				Paseo de Susana Park
+				Pedro Santos Park
+				Piti Ballpark
+				Piti Guns Unit War In the Pacific National Historical Park
+				Plaza de Espana
+				Punlan Dos Amantes Park
+				Robbie Webber Soccer Field
+				Santo Papa As Juan Pablo Dos Monument
+				Sinajana Ballpark
+				Skinner Plaza
+				South Pacific Memorial Park
+				Taga`chang Beach Park
+				Talofofo Ballpark
+				Tun Ignacio C Cepeda Ballpark
+				Umatac Ballpark
+				Umatac Bay Park
+				United States Landing Monument
+				War in the Pacific National Historical Park
+				Wettengel Park
+				Yona Ballpark
+			Plain (GU)
+				Fonte Plateau
+			Populated Place (GU)
+				Adacao
+				Adelup
+				Afami
+				Agafo Gumas
+				Agat
+				Anigua
+				Apra Heights
+				Apra Junction
+				Apurguan
+				Asagas
+				Asan
+				Asatdas
+				Asbeco
+				Asfaja
+				Asmisen
+				Asmuyao
+				Aspengo
+				Astumbo
+				Ayuja
+				Bacuna
+				Barrigada
+				Barrigada Heights
+				Baza Gardens
+				Bile
+				Bingot
+				Biyae
+				Bordallo Subdivision
+				Calacag
+				Camp Dealy
+				Camp Roxas
+				Canada
+				Carlos Heights
+				Catan Maga
+				Cerain
+				Chagamin Lago
+				Chalan Mamajanao
+				Chalan Pago
+				Coontz Junction
+				Corten Torres
+				Dededo
+				East Hagåtña
+				Flora Pago Gardens
+				Gayinero
+				Hafa Adai Village Subdivision
+				Hagåtña Heights
+				Haputo (historical)
+				Harmon Garden
+				Harmon Park Subdivision
+				Harmon Village
+				Hilaan
+				Inarajan
+				Ipapao
+				Jaotan
+				Jonestown
+				Julog
+				Laguas (historical)
+				Lalo
+				Las Palmas Subdivision
+				Latte Heights Estates
+				Latte Plantation
+				Leary Junction
+				Leyan
+				Libugon
+				Liguan Terrace
+				Lingae
+				Lockwood Terrace
+				Lupog
+				Machaute
+				Macheche Village Subdivision
+				Magua
+				Maina
+				Maite
+				Manaca
+				Mangilao
+				Marianas Terrace
+				Masalog
+				Matugan
+				Mayaya
+				Mepo
+				Merizo
+				Mongmong
+				Nisshio Subdivision
+				North Tipalao
+				Oceanview
+				Oka
+				Ordot
+				Pado
+				Pagachao Subdivision
+				Pagat
+				Paseo De Oro
+				Peca
+				Perez Acres
+				Piga
+				Pigo
+				Pigua
+				Piti
+				Ponderosa Gardens
+				Potts Junction
+				Presidio
+				Pugua
+				Royal Garden
+				Salas Subdivision
+				Salinas
+				Salisbury Junction
+				San Antonio
+				San Ramon
+				San Vicente
+				Santa Rita
+				Santa Rosa
+				Schroeder Junction
+				Sella
+				Sinajana
+				Socio
+				South Acres
+				South Tipalao
+				Spring Hill Subdivision
+				Sumay
+				Sumay Housing Area
+				Summer Place Subdivision
+				Tacpi
+				Taguac
+				Tailalo
+				Takano Subdivision
+				Talisay
+				Talofofo
+				Talona
+				Tamuning
+				Tarague (historical)
+				Tepungan
+				Tijera
+				Tiyan
+				Toa
+				Toto
+				Tres Reyes
+				Tumalaglago
+				Tumhun (historical)
+				Tumon
+				Tumon Chama
+				Tumon Heights
+				Tutujan
+				Umatac
+				Ungaguan
+				Upi (historical)
+				Upper Kaiser
+				Utan
+				Ututo
+				Wettengel Junction
+				Windward Hills Subdivision
+				Witek Junction
+				Yabai
+				Yigo
+				Yigo Estates
+				Yona
+				Ypan
+				Ypaopao Estates
+			Post Office (GU)
+				Hagåtña Post Office
+				Yigo Post Office
+			Reservoir (GU)
+				Adelup Reservoir
+				Alifan Spring Reservoir (historical)
+				Apra Heights Reservoir
+				Barrigada Reservoir
+				Fena Valley Reservoir
+				Nimitz Hill Reservoir
+			Ridge (GU)
+				Acapulco
+				Alatgue
+				Asgadao
+				Asmaile
+				Fafalog
+				Faja
+				Gumoje
+				Jinago
+				Magpogugae
+				Namo
+				Pagunon
+				Suyafe
+			School (GU)
+				Academy of Our Lady
+				Adelup School
+				Agat Elementary School
+				Agueda Johnston Middle School
+				Astumbo Elementary School
+				B P Carbullido Elementary School
+				Bishop Baumgartner Memorial School
+				Carlos L Taitano Elementary School
+				Chief Brodie Memorial Elementary School
+				Daniel L Perez Elementary School
+				Dominican Child Development Center
+				Dominican School
+				Evangelical Christian School
+				F B Leon Guerrero Middle School
+				Father Duenas Memorial High School
+				Finegayan Elementary School
+				Francisco Q Sanchez School
+				George Washington High School
+				Guam Adventist Academy
+				Guam Community College
+				Guam High School
+				Guam Institute (historical)
+				H B Price Elementary School
+				Hagåtña Heights Elementary School
+				Harmon Loop Elementary School
+				Harry S Truman Elementary School
+				Harvest Christian Academy
+				Henry B Price Elementary School
+				Inarajan Middle School
+				J P Torres Elementary School
+				John F Kennedy High School
+				Jose L G Rios Middle School
+				Juan Q San Miguel Elementary School
+				L P Untalan Middle School
+				Luis P Untalan Middle School
+				Lyndon B Johnson Elementary School
+				Machananao Elementary School
+				Manuel U Lujan Elementary School
+				Maria A Ulloa Elementary School
+				Merizo Elementary School
+				Merlyn G Cook School (historical)
+				Mount Carmel School
+				Notre Dame High School
+				Notre Dame School
+				Oceanview Middle School
+				Ordot-Chalan Pago Elementary School
+				Padre Palomo School (historical)
+				Pedro C Lujan Elementary School
+				Piti School
+				Saint Anthony School
+				Saint Francis School
+				Saint John School
+				San Vicente School
+				Santa Barbara School
+				Simon Sanchez High School
+				Southern High School
+				Talofofo Elementary School
+				Tamuning Elementary School
+				Trinity Christian School
+				University of Guam
+				Upi Elementary School
+				Vicente S A Benavente Middle School
+				Wettengel Elementary School
+			Sea (GU)
+				Philippine Sea
+			Spring (GU)
+				Alatgue Spring
+				Almagosa Springs
+				Asalonso Spring
+				Asan Spring
+				Auau Spring
+				Bona Spring
+				Dobo Spring
+				Faata Springs
+				Hagåtña Springs
+				Janum Spring
+				Maina Spring
+				Malojloj Spring
+				Mao Spring
+				Mataguac Spring
+				Piga Spring
+				Santa Rita Spring
+				Siligin Spring
+			Stream (GU)
+				Agaga River
+				Agfayan River
+				Aguada River
+				Ajayan River
+				Alatgue River
+				Almagosa River
+				Aplacho River
+				Asalonso River
+				Asan River
+				Ascola Sito Creek
+				Asgadao Creek
+				Aslinget River
+				Asmafines River
+				Astaban River
+				Atantano River
+				Atate River
+				Auau Creek
+				Big Guatali River
+				Bile River
+				Bolanos River
+				Bonya River
+				Bubulao River
+				Cetti River
+				Chagame River
+				Chaligan Creek
+				Chaot River
+				Chioreto River
+				Dante River
+				Fensol River
+				Finile Creek
+				Fintasa River
+				Fonte River
+				Gaan River
+				Gautali River
+				Geus River
+				Hagåtña River
+				Ieygo River
+				Ilicho River
+				Imong River
+				Inarajan River
+				La Sa Fua River
+				Laelae River
+				Laguan River
+				Laguas River
+				Laolao River
+				Lehga River
+				Liyog River
+				Lonfit River
+				Maagas River
+				Madofan River
+				Madog River
+				Maemong River
+				Mahlac River
+				Malaja River
+				Manell River
+				Manengon River
+				Masso River
+				Matgue River
+				Maulap River
+				Namo River
+				Nelansa River
+				Pagachao Creek
+				Pago River
+				Pajon River
+				Pasamano River
+				Paulana River
+				Pauliluc River
+				Pigua River
+				Sabo River
+				Sadog Gago River
+				Sagge River
+				Sagua River
+				Salinas River
+				San Nicolas River
+				Sarasa River
+				Sasa River
+				Sella River
+				Sigua River
+				Sumay River
+				Suyafe River
+				Taelayag Creek
+				Taguag River
+				Taleyfac River
+				Talisay River
+				Talofofo River
+				Tarzan River
+				Tenjo River
+				Tinago River
+				Tinechong River
+				Togcha River
+				Toguan River
+				Tolaeyuus River
+				Tongan Creek
+				Topony River
+				Ugum River
+				Umatac River
+				Yledigao River
+				Ylig River
+			Summit (GU)
+				Achae Point
+				Achugao Point
+				Adelup Point
+				Adotgan Point
+				Ague Point
+				Amantes Point
+				Apuntua Point
+				Asdonao Hill
+				Asiga Point
+				Aslemon
+				Asmulato Hill
+				Bijia Peak
+				Bijia Point
+				Boaga Hill
+				Campanaya Point
+				Cascajo Hill
+				Chalan Anite Point
+				Chii Point
+				Fadian Point
+				Fouha Point
+				Guatata
+				Gugae
+				Haputo Point
+				Hilaan Point
+				Hill 40
+				Inaso Hill
+				Jalaihai Point
+				Jinapsan Point
+				Jumullong Manglo
+				Kasamata Hill
+				Ladae
+				Laolao
+				Lumuna
+				Mamatgun Point
+				Man Apu Hill
+				Mataguac Hill
+				Mergagan Point
+				Mount Alifan
+				Mount Almagosa
+				Mount Alutom
+				Mount Barrigada
+				Mount Bolanos
+				Mount Chachao
+				Mount Finansanta
+				Mount Ilicho
+				Mount Jinago
+				Mount Lamlam
+				Mount Llicho
+				Mount Macajna
+				Mount Machanao
+				Mount Patsud
+				Mount Santa Rosa
+				Mount Sasalaguan
+				Mount Schroeder
+				Mount Taene
+				Mount Tenjo
+				Nimitz Hill
+				Oka Point
+				Orote Point
+				Paasan
+				Pagat Point
+				Pago Point
+				Pajon Point
+				Palalo
+				Palii Hill
+				Pinay Point
+				Pugua Point
+				Quiroga Hill
+				Ritidian Point
+				Sabana Batea
+				Sabana Maleyuc
+				Sabanan Adelup
+				San Luis Point
+				San Ramon Hill
+				Siput
+				Tagachang Point
+				Taguan Point
+				Tanguisson Point
+				Taogam Point
+				Uruno Point
+				Ylig
+				Ypao Point
+			Swamp (GU)
+				Hagåtña Swamp
+			Tower (GU)
+				East Lookout Tower
+				KGUM-AM (Hagåtña)
+				KOKU-FM (Hagåtña)
+				KSDA-FM (Agat)
+				KSTO-FM (Hagåtña)
+				KTWG-AM (Hagåtña)
+				KUAM-AM (Hagåtña)
+				KUAM-FM (Hagåtña)
+				KZGZ-FM (Hagåtña)
+				West Lookout Tower
+			Tunnel (GU)
+				Tumon Tunnel
+			Unknown (GU)
+				Ladera
+				Lasodiac Rock
+				Latte Stone
+				Lotnon
+				Machanage Aspaile
+				Madog
+				Majagmag
+				Manunu
+				Matdan
+				Merizo Cockpit
+				Old Spanish Oven
+				Sabanan Pagat
+				Sinifa
+				Taelayag Sanhilo
+				Taelayag Sanpapa
+				Taogam
+				Window Rock
+			Valley (GU)
+				Achugao Valley
+				Adaique
+				Ajayan
+				Chalan Daog
+				Geus Valley
+				Gugagon
+				Ono
+			Well (GU)
+				Chunge Well
+				Santa Rosa Well
+				Taraque Well Number 4
+				Tumon Maui Well
+				Well Number 5

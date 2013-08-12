@@ -1,0 +1,5311 @@
+Location
+	United States (US)
+		Delaware (DE)
+			Airport (DE)
+				Barcroft Airport
+				Belfair Airport
+				Caesar Rodney Helistop
+				Chandelle Estates Airport
+				Chestnut Run Helistop
+				Chorman Airport
+				Cozy Cove Airport (historical)
+				Delaware Airpark
+				Delaware Museum Airport
+				Delaware State Police Academy Heliport
+				Delmar State Line Airport
+				Dover Air Force Base
+				Dover Downs Helistop
+				Doyle's Airport
+				Drummond Airport
+				Du Pont Instruments Products Airport
+				Duffy's Airport
+				Eagle Crest-Hudson Airport
+				Evergreen Acres Airport (historical)
+				Flying C Airport
+				Full Throttle Farm Airport
+				Henderson Aviation Airport
+				Hesseltine Landing Strip
+				Huey Airport
+				Jenkins Airport
+				Johnsons Airport
+				Josephs Airport
+				Kimbowrosa Farm Airport
+				Laurel Airport
+				McKeown Airport
+				Milford Airpark (historical)
+				New Castle Airport
+				Newberg Airport
+				Ockel Farms Airport
+				Okolona Plantation Airport
+				Old Du Pont Airport Helistop
+				Parson Landing Strip
+				Pevey Airport
+				Rehoboth Aircrafters Airport (historical)
+				Riverdale Park Airport (historical)
+				Rollins Building Airport
+				Scotty's Place Airport
+				Smyrna Airport
+				Spirit Airpark
+				Strawbridge Christiana Mall Helipad
+				Sugar Hill Airport
+				Summit Airport
+				Sussex County Airport
+				Townsend A Airport
+				Walnut Green Airport
+				Warrington Field Airport
+				West Private Airport
+				White House Farm Airport
+				Willaview Airport
+				Wilmington Country Club Airport
+			Area (DE)
+				Ackan Manangaha (historical)
+				Askecksy (historical)
+				Cedarbush Hole
+				Delaware Department of Transportation Maintenance Area
+				Eastern Shore
+				Golden Thicket (historical)
+				Mattapany (historical)
+				Pepper Tract
+				Ted Harvey Conservation Area Logan Lane Tract
+				The Bought (historical)
+				The Wedge
+			Bar (DE)
+				Black Ditch Bar
+				Bombay Hook Point Shoal
+				Brown Shoal
+				Bulkhead Shoal
+				Cherry Island Flats
+				Conch Bar
+				Dutch Creek Shoal
+				Fenwick Shoal
+				Goose Island Flats
+				Hawknest
+				Hawks Nest Shoals
+				Hen and Chickens Shoal
+				Joe Flogger Shoal
+				Marcus Hook Bar
+				New Castle Flats
+				Old Bare Shoal
+				Overfalls Shoal
+				Oyster Rocks (historical)
+				Pea Patch Shoal
+				Reedy Island Bar
+				Shirleys Bar
+				The Inner Fork of the Shears (historical)
+				The Lower Middle
+				The Shears
+				Whale Back
+			Basin (DE)
+				Pools Bottom
+			Bay (DE)
+				Bayville Gut
+				Beach Cove
+				Big Cove
+				Branch Gut Cove
+				Breakwater Harbor
+				Broadkill Sound
+				Cove Number Two
+				Deans Hole
+				Deep Hole
+				Delaware Bay
+				Edgar Prong
+				Ferry Cove
+				Fraland Cove
+				Frames Cove
+				Hamburg Cove
+				Harbor of Refuge
+				Hazard Cove
+				Head of Bay Cove
+				Head of the Gut
+				Helms Cove
+				Hickory Cove
+				Ice Harbor
+				Indian River Bay
+				Joshia Cove
+				Joshia Prong
+				Lighthouse Cove
+				Lingo Cove
+				Little Assawoman Bay
+				Little Bay
+				Mill Creek Cove
+				Miller Creek
+				Murray Marsh Cove
+				Nats Cove
+				Old Basin Cove
+				Pasture Point Cove
+				Pershing Cove
+				Pierson Cove
+				Pot Nets Cove
+				Raccoon Cove
+				Rehoboth Bay
+				Reybold Cove
+				Rye Hole
+				Salem Cove
+				Sally Cove
+				Sawpit Cove
+				Shell Landing Cove
+				Sloan Cove
+				Station Cove
+				Steels Cove
+				Timmons Cove
+				Tubbs Cove
+				Ware Cove
+				Warwick Cove
+				White House Cove
+				Wingate Cove
+			Beach (DE)
+				Bethany Beach
+				Big Stone Beach
+				Bowers Beach
+				Broadkill Beach
+				Deemers Beach
+				Fowler Beach
+				Fraland Beach
+				Indian Beach
+				Joy Beach
+				Old Inlet Beach
+				Pickering Beach
+				Primehook Beach
+				Rehoboth Beach
+				Slaughter Beach
+				Whiskey Beach
+			Bridge (DE)
+				Barkers Landing Bridge
+				Beaverdam Bridge
+				Branch Channel Bridge
+				C W Cullen Bridge
+				Cahall Bridge
+				Canal Bridge
+				Carpenters Bridge
+				Catfish Bridge
+				Cedar Beach Bridge
+				Clarence Vinson Bridge
+				Delaware Memorial Bridges
+				Fennimore Bridge
+				Fiddlers Bridge
+				Fishers Mill Bridge
+				Fork Landing Bridge
+				Gut Bridge
+				Iron Bridge
+				Jefferson Bridge
+				Lavinia Causeway
+				Lebanon Bridge
+				Leipsic Bridge
+				Little Creek Bridge
+				Long Bridge
+				Love Creek Bridge
+				Naamans Bridge
+				Pole Dam Bridge
+				Reedy Point Bridge
+				Rum Bridge
+				Smith Bridge
+				South Street Bridge
+				Taylors Bridge
+				Thompson Bridge
+				Townsend Bridge
+				Woodenhawk Bridge
+			Building (DE)
+				"Martin Luther King, Junior Student Center"
+				Absalom Jones Community Center
+				Achmester (historical)
+				Aetna Hose, Hook and Ladder Company Station 10
+				Aetna Hose, Hook and Ladder Company Station 7
+				Aetna Hose, Hook and Ladder Company Station 8
+				Aetna Hose, Hook and Ladder Company Station 9
+				Aetna Hose, Hook and Ladder Company Station 9A
+				Airway Science
+				American Legion Ambulance
+				American Red Cross
+				Anna Hazzard Museum
+				Appoquinimink Library
+				Ashton House (historical)
+				Barratt House (historical)
+				Baylor Women's Correctional Institution
+				Bear Library
+				Belvedere Volunteer Fire Company
+				Bethany Beach Police Department
+				Bethany Beach Town Hall
+				Bethany Beach Volunteer Fire Company Station 1
+				Bethany Beach Volunteer Fire Company Station 2
+				Blades Police Department
+				Blades Town Hall
+				Blades Volunteer Fire Company Incorporated
+				Bonwell House (historical)
+				Bowers Beach Maritime Museum
+				Bowers Beach Town Hall
+				Bowers Fire Company Incorporated
+				Brandywine Hundred Fire Company Number 1
+				Bridgeville Historical Society Museum
+				Bridgeville Police Department
+				Bridgeville Public Library
+				Bridgeville Town Hall
+				Bridgeville Volunteer Fire Company
+				Buena Vista State Conference Center
+				Calvary Community Center
+				Camden - Wyoming Volunteer Fire Company Incorporated
+				Camden Police Department
+				Camden Town Hall
+				Cann Mansion (historical)
+				Care First Transportation Ambulance Service
+				Carlisle Fire Company Incorporated
+				Cheer Center Sussex County Senior Services
+				Cheer Community Center
+				Cheswold Volunteer Fire Company
+				Christiana Care LifeNet
+				Christiana Fire Company Ambulance Station 6
+				Christiana Fire Company Station 12
+				Christiana Fire Company Station 3
+				Citizens' Hose Company Number 1 Incorporated
+				City of Seaford Waste Treatment Plant
+				Claude Phillips Herbarium
+				Claymont Community Center
+				Claymont Fire Company
+				Claymont Fire Company Station 13
+				Claymont Public Library
+				Clayton Fire Company Number 1 Incorporated Station 45
+				Clayton Police Department
+				Corbit - Calloway Memorial Library
+				Cornerstone Senior Center
+				Cranston Heights Fire Company
+				Dagsboro Police Department
+				Dagsboro Town Hall
+				Dagsboro Volunteer Fire Department
+				Delaware Capitol Police Department
+				Delaware City Fire Company
+				Delaware City Library
+				Delaware City Police Department
+				Delaware City Town Hall
+				Delaware Geological Survey
+				Delaware Geological Survey Annex
+				Delaware River and Bay Authority Police Station
+				Delaware State Emergency Management Agency
+				Delaware State Fire School
+				Delaware State Police Headquarters
+				Delaware State Police Satellite 1A Police Department
+				Delaware State Police Troop 1
+				Delaware State Police Troop 2
+				Delaware State Police Troop 3
+				Delaware State Police Troop 4
+				Delaware State Police Troop 5
+				Delaware State Police Troop 6
+				Delaware State Police Troop 7
+				Delaware State Police Troop 9
+				Delmar Public Library
+				Delmar Volunteer Fire Department
+				Dewey Beach Police Department
+				Dewey Beach Town Hall
+				Dickinson Mansion
+				Dilworth House (historical)
+				Dover Air Force Base Fire Department
+				Dover Behavioral Health System
+				Dover Fire Department Station 1
+				Dover Fire Department Station 2
+				Dover Police Department
+				Dover Public Library
+				Dublin Hill Community House
+				Dupont Hall of Records
+				Education and Humanities Building
+				Ellendale Police Department
+				Ellendale Town Hall
+				Ellendale Volunteer Fire Company Incorporated
+				Elsmere Fire Company Number 1
+				Elsmere Library
+				Elsmere Police Department
+				Elsmere Town Hall
+				Enoch Jones House (historical)
+				Environmental Technology Verification Building
+				Farmington Volunteer Fire Company
+				Felton Community Fire Company Incorporated
+				Felton Police Department
+				Felton Town Hall
+				Fenwick Island Police Department
+				Five Points Fire Company
+				Fleet Services
+				Fleming House (historical)
+				Frankford Public Library
+				Frankford Town Hall
+				Frankford Volunteer Fire Company
+				Frederica City Hall
+				Frederica Police Department
+				Frederica Volunteer Fire Company
+				Georgetown Fire Company Incorporated
+				Georgetown Police Department
+				Georgetown Public Library
+				Georgetown Town Hall
+				Good Will Fire Company
+				Greenwood Police Department
+				Greenwood Public Library
+				Greenwood Town Hall
+				Greenwood Volunteer Fire Company Number 1 Incorporated
+				Grossley Hall
+				Gumboro Volunteer Fire Company Incorporated
+				Hagley Library
+				Hagley Museum
+				Harriet Tubman Hall
+				Harrington City Hall
+				Harrington Fire Company Incorporated Station 50
+				Harrington Police Department
+				Harrington Public Library
+				Harrington Senior Center
+				Hart House (historical)
+				Hartly Town Hall
+				Hartly Volunteer Fire Company
+				Harvest Years Senior Center
+				Hazel Glen (historical)
+				Higgins House (historical)
+				Hockessin Fire Company
+				Hockessin Public Library
+				Holloway Terrace Volunteer Fire Company
+				Houston Town Hall
+				Houston Volunteer Fire Company
+				Howard R Young Correctional Institution
+				Indian River Volunteer Fire Company Incorporated
+				Indian River Volunteer Fire Company Station 2
+				James T Vaughn Correctional Center
+				James W Baker Center
+				Jehu Reed House (historical)
+				John R Price Building
+				Joshua Fisher House (historical)
+				Kent - Sussex Detoxification Center
+				Kent County Public Library
+				Kent County Sheriff's Department
+				Kenton Community Hall
+				Kingswood Community Center
+				Kirkwood Highway Library
+				La Biblioteca del Pueblo Library
+				Latin American Community Center
+				Laurel Fire Department Incorporated
+				Laurel Police Department
+				Laurel Public Library
+				Laurel Town Hall
+				Legislative Hall
+				Leipsic Town Hall
+				Leipsic Volunteer Fire Company Incorporated
+				Lewes - Rehoboth Volunteer Fire Department Station 3
+				Lewes City Hall
+				Lewes Fire Department Incorporated Station 1 Headquarters
+				Lewes Police Department
+				Lewes Public Library
+				Lewes Volunteer Fire Department Station 2
+				Liston House (historical)
+				Little Creek Town Hall
+				Little Creek Volunteer Fire Company Incorporated
+				Lombardy Hall
+				Loockerman Hall
+				Luna I Mishoe Science Center
+				Lydia P Laws Hall
+				Magnolia Town Hall
+				Magnolia Volunteer Fire Company
+				Marldale (historical)
+				Marydel Volunteer Fire Company
+				Maurice Thomasson Building
+				McDonough House (historical)
+				Medgar Evers Hall
+				Memorial Hall Gymnasium
+				Memorial Volunteer Fire Company
+				Messick Community Center
+				Meta V Jenkins Hall
+				Methodist Manor Home
+				Mid Sussex Rescue Squad
+				Middletown Police Department
+				Middletown Town Hall
+				Milford City Hall
+				Milford Police Department
+				Milford Public Library
+				Mill Creek Fire Company Ambulance Station 2
+				Mill Creek Fire Company Station 1
+				Millsboro Fire Company Incorporated
+				Millsboro Police Department
+				Millsboro Public Library
+				Millsboro Town Hall
+				Milltown Medical Center (historical)
+				Millville Town Hall
+				Millville Volunteer Fire Company
+				Millville Volunteer Fire Company Substation
+				Milton Fire Department Incorporated
+				Milton Police Department
+				Milton Public Library
+				Milton Town Hall
+				Minquadale Fire Company
+				Minquas Fire Company Number 1 Station 23
+				Morris Community Corrections Center
+				Nanticoke Indian Museum
+				Nanticoke Senior Center
+				New Castle City Hall
+				New Castle City Police Department
+				New Castle County Detention Center
+				New Castle County Emergency Medical Services Paramedic Station 1
+				New Castle County Emergency Medical Services Paramedic Station 2
+				New Castle County Emergency Medical Services Paramedic Station 3
+				New Castle County Emergency Medical Services Paramedic Station 4
+				New Castle County Emergency Medical Services Paramedic Station 5
+				New Castle County Emergency Medical Services Paramedic Station 6
+				New Castle County Emergency Medical Services Paramedic Station 7
+				New Castle County Emergency Medical Services Paramedic Station 8
+				New Castle County Emergency Medical Services Paramedic Station 9
+				New Castle County Police Department
+				New Castle County Sheriff's Office
+				New Castle Court House Museum
+				New Castle Public Library
+				New Castle Public Library Brandywine Hundred Branch
+				New Castle Senior Center
+				Newark City Hall
+				Newark Free Library
+				Newark Police Department
+				Newark Senior Center
+				Newport Police Department
+				Ocean View Police Department
+				Odessa Fire Company Station 24
+				Odessa Fire Company Station 4
+				Old Bridgeville Firehouse
+				Open Door Community Center
+				Paramedic 4
+				Plummer Community Correctional Center
+				Police Athletic League of Delaware
+				Port Penn Volunteer Fire Company
+				President's House - Delaware State University
+				Rehoboth Beach City Hall
+				Rehoboth Beach Police Department
+				Rehoboth Beach Public Library
+				Rehoboth Beach Volunteer Fire Company
+				Rehoboth Beach Volunteer Fire Company Station 2
+				Robert Parker Library
+				Rohm and Haas Electric Materials Emergency Response Team
+				Roxana Volunteer Fire Company Station 1 Headquarters
+				Roxanna Fire Department Ambulance Station
+				Saint Anthonys Community Center
+				Samuel L Conwell Hall
+				Science Center North
+				Seaford City Hall
+				Seaford District Library
+				Seaford Police Department
+				Seaford Volunteer Fire Department Incorporated
+				Selbyville Police Department
+				Selbyville Public Library
+				Selbyville Town Hall
+				Selbyville Volunteer Fire Company Incorporated
+				Shallcross House (historical)
+				Smyrna City Hall
+				Smyrna Police Department
+				Smyrna Public Library
+				South Bethany Police Department
+				South Bethany Town Hall
+				South Bowers Volunteer Fire Company Station 57
+				South Coastal Public Library
+				Starl House (historical)
+				Sussex Community Corrections Center
+				Sussex Correctional Institution
+				Sussex County Courthouse
+				Sussex County Sheriff's Office
+				Talleyville Fire Company
+				Townsend Fire Company
+				Ulysses S Washington Building
+				United Way of Delaware Community Services Center
+				United Way of Delaware Statewide Headquarters
+				University of Delaware American Philosophical Association
+				University of Delaware Fred Rust Ice Arena
+				University of Delaware Gold Ice Arena
+				University of Delaware Morris Library
+				Upper and Lower Louviers (historical)
+				Urgent Ambulance Service
+				Vogel House (historical)
+				Volunteer Hose Company of Middletown Station 1
+				Volunteer Hose Company of Middletown Station 27
+				W Richard Wynder Towers
+				Warren - Franklin Hall
+				Webb Community Corrections Center
+				Westover Hills Police Department
+				William C Jason Library
+				Wilmington Fire Department Headquarters
+				Wilmington Fire Department Station 1
+				Wilmington Fire Department Station 2
+				Wilmington Fire Department Station 3
+				Wilmington Fire Department Station 4
+				Wilmington Fire Department Station 5
+				Wilmington Fire Department Station 6
+				Wilmington Manor Volunteer Fire Company
+				Wilmington Manor Volunteer Fire Company Substation
+				Wilmington Police Department
+				Wilmington Senior Center
+				Winterthur Museum
+				Woodlawn (historical)
+				Woodlawn Branch Library
+				Woodside Town Hall
+				Wyoming Police Department
+				Wyoming Town Hall
+				Zwaanendael Museum
+			Canal (DE)
+				Assawoman Canal
+				Bacon and Kenney Ditch
+				Baker and West Ditch
+				Bank Ditch
+				Banks-Bennett Ditch
+				Beaver Dam Ditch
+				Bethany Beach Canal
+				Black Savannah Ditch
+				Broad Dyke Canal
+				Cedar Creek Canal
+				Chesapeake and Delaware Canal
+				Collins and Culver Ditch
+				Cove Pond Ditch
+				Cow Marsh Ditch
+				Cypress Farms Ditch
+				Deep Gully Ditch
+				Deep Hole Ditch
+				Delaware City Branch Channel
+				Ditch Road Ditch
+				Draper-Bennet Ditch
+				Dutch Neck Canal
+				East West Canal
+				Figgs Ditch
+				Grays Prong
+				Grecos Canal
+				Holly Ditch
+				Kinniken Evans Ditch
+				Laurel Ditch
+				Lees Ditch
+				Lewes and Rehoboth Canal
+				Line Ditch
+				Little Bay Ditch
+				Lobdell Canal
+				Magazine Ditch
+				Massey Ditch
+				McCabe Ditch
+				Mikes Ditch
+				North South Canal
+				Old Canal
+				Old Ditch
+				Old Marina Canal
+				Petersfield Ditch
+				Skunk Hill Ditch
+				Slooch Ditch
+				Sluice Ditch
+				Stafford Ditch
+				Straight Ditch
+				Swain and Truitt Ditch
+				Tenfoot Ditch
+				Tyndall and James Ditch
+				Whartons Ditch
+				Williams Canal Ditch
+				Yarema Ditch
+			Cape (DE)
+				Alvin Point
+				Angola Neck
+				Arrowhead Point
+				Aydelotte Point
+				Bakeoven Point
+				Bald Eagle Point
+				Ballast Point
+				Bennett Point
+				Biddle Point
+				Big Ditch Point
+				Big Marsh Point
+				Big Newfound Neck
+				Blackwater Point
+				Bluff Point
+				Bombay Hook
+				Bombay Hook Point
+				Briar Point
+				Brickbat Point
+				Broadkill Neck
+				Bullseye Point
+				Burton Point
+				Cape Henlopen
+				Cave Neck
+				Cedar Neck
+				Champlin Neck
+				Clark Point
+				Conch Point
+				Covington Neck
+				Crane Hook (historical)
+				Deepwater Point
+				Delaware Point
+				Delmarva Peninsula
+				Derickson Point
+				Derrickson Point
+				Dirickson Neck
+				Drum Point
+				Dumpling Neck
+				Dutch Neck
+				Ellis Point
+				Falling Point
+				Finns Point
+				Fishing Point
+				Frames Point
+				Gills Neck
+				Goose Point
+				Grays Point
+				Greys Neck
+				Gut Point
+				Hawkins Point
+				Hells Neck
+				Highgrass Point
+				Holland Neck
+				Holland Point
+				Horse Point
+				Ice House Point
+				Israel Point
+				Johnson Neck
+				Kildee Point
+				Labens Point
+				Laws Point
+				Lewis Neck
+				Lingo Point
+				Liston Point
+				Little Bombay Hook
+				Little Neck
+				Little Newfound Neck
+				Long Bar Point
+				Long Neck
+				Long Point
+				Melson Island
+				Milford Neck
+				Miller Neck
+				Muddy Neck
+				Murderkill Neck
+				Old Inlet Point
+				Oyster Rocks Neck
+				Parson Point
+				Pasture Point
+				Pigeon Point
+				Pikes Neck
+				Pine Water Neck
+				Piney Neck
+				Pingally Point
+				Plumb Point (historical)
+				Point of Cedars (historical)
+				Point of Ridge
+				Pools Point
+				Poplar Point
+				Possum Point
+				Pot Nets Point
+				Primehook Neck
+				Quillens Point
+				Raccoon Point
+				Rack Turn Point
+				Raymond Neck
+				Reedy Island Neck
+				Reedy Point
+				Rock Point
+				Saint Jones Neck
+				Sand Point
+				Sandy Point
+				Seals Point
+				Serverson Neck
+				Sipps Point
+				Skid Point
+				Slaughter Neck
+				Snows Neck
+				Southwest Point
+				Spinnell Udden (historical)
+				Spruances Neck
+				Strawberry Point
+				Tadpole Neck
+				The Hub
+				The Pullover
+				Thoroughfare Neck
+				Three Points
+				Thrumcap
+				Turnip Patch Point
+				Vance Neck
+				Walter Point
+				Warrington Neck
+				Warwick Point
+				White House Point
+				White Neck
+				White Oak Point
+				Whitehall Neck
+				Wilkins Point
+				Wolfe Neck
+				Yellowbank Point
+			Cemetery (DE)
+				All Saints Cemetery
+				Amish Cemetery
+				Asbury Cemetery
+				Banks Cemetery
+				Banning Cemetery
+				Beaverdam Cemetery
+				Beth Emeth Cemetery
+				Bethel Cemetery
+				Bethesda M P Cemetery
+				Betts Cemetery
+				Blackiston Cemetery
+				Blades Cemetery
+				Blanco Cemetery
+				Bryn Zion Cemetery
+				Carey Cemetery
+				Cathedral Cemetery
+				Cedar Neck Cemetery
+				Chester Bethel Cemetery
+				Cokesbury Cemetery
+				Concord Cemetery
+				Corbit Cemetery
+				Davis Cemetery
+				Delaney Cemetery
+				Delaware Veterans Memorial Cemetery
+				Downham Cemetery
+				Drawer Cemetery
+				Ebenezer Cemetery
+				Ellendale Cemetery
+				Emmanuel Cemetery
+				Faith Cemetery
+				Forest Cemetery
+				Friends Meetinghouse Cemetery
+				Friendship Cemetery
+				Glebe Cemetery
+				Gracelawn Memorial Park
+				Green Hill Cemetery
+				Griffiths Chapel Cemetery
+				Harmony Cemetery
+				Hazzard Cemetery
+				Hebron Cemetery
+				Henlopen Memorial Park
+				Hickory Cemetery
+				Hickory Grove Cemetery
+				Holland Cemetery
+				Hollywood Cemetery
+				Holy Cross Cemetery
+				Hopkins Cemetery
+				Independent Order of Odd Fellows Cemetery
+				Indian Mission Cemetery
+				Jewish Community Cemetery
+				Kingdom Holiness Cemetery
+				Lakeside Cemetery
+				Laurel Hill Cemetery
+				Lees Cemetery
+				Lombardy Cemetery
+				Long Cemetery
+				Lower Brandywine Cemetery
+				MIllsboro Cemetery
+				Massey Chapel Cemetery
+				Midway Cemetery
+				Millsboro Cemetery
+				Moors Cemetery
+				Mount Lebanon Cemetery
+				Mount Olive Cemetery
+				Mount Pisgah Cemetery
+				Mount Salem Cemetery
+				Mount Zion Cemetery
+				New Jerusalem Baptist Cemetery
+				New Market Cemetery
+				New Mount Zion Methodist Cemetery
+				New Saint Johns Cemetery
+				Newark Union Cemetery
+				Ocean View Presbyterian Cemetery
+				Odd Fellows Cemetery
+				Old Field Cemetery
+				Oliphant Cemetery
+				Order United American Men Cemetery
+				Otts Chapel Cemetery
+				Our Lady of Lourdes Cemetery
+				Pencader Cemetery
+				Peoples Memorial Park
+				Ponder Cemetery
+				Potters Field Cemetery
+				Providence Cemetery
+				Quaker Meeting Cemetery
+				Ralphs Hill Cemetery
+				Red Men Cemetery
+				Riverview Cemetery
+				Roby United Methodist Cemetery
+				Saint Annes Cemetery
+				Saint George Cemetery
+				Saint Georges Cemetery
+				Saint James Cemetery
+				Saint Johns Cemetery
+				Saint Johnstown Cemetery
+				Saint Josephs Cemetery
+				Saint Paul Cemetery
+				Saint Stephens Cemetery
+				Saint Thomas Cemetery
+				Salem Cemetery
+				Salem Methodist Cemetery
+				Siloam Cemetery
+				Silverbrook Cemetery
+				Simpson Cemetery
+				Slaughter Neck Cemetery
+				Sunset Memorial Gardens
+				Thistlewood Cemetery
+				Todds Cemetery
+				Townsend Cemetery
+				Union Cemetery
+				Weigands Cemetery
+				Whatcoat Cemetery
+				Whites Chapel Cemetery
+				Wilgus Cemetery
+				Wilmington and Brandywine Cemetery
+				Woodland Cemetery
+				Zion Cemetery
+			Census (DE)
+				Bear Census Designated Place
+				Brookside Census Designated Place
+				Claymont Census Designated Place
+				Dover Base Housing Census Designated Place
+				Edgemoor Census Designated Place
+				Glasgow Census Designated Place
+				Greenville Census Designated Place
+				Highland Acres Census Designated Place
+				Hockessin Census Designated Place
+				Kent Acres Census Designated Place
+				Lenape Indian Tribe of Delaware State Designated Tribal Statistical Area
+				Long Neck Census Designated Place
+				Nanticoke Indian Tribe State Designated Tribal Statistical Area
+				North Star Census Designated Place
+				Pike Creek Census Designated Place
+				Pike Creek Valley Census Designated Place
+				Rising Sun-Lebanon Census Designated Place
+				Riverview Census Designated Place
+				Rodney Village Census Designated Place
+				Saint Georges Census Designated Place
+				Wilmington Manor Census Designated Place
+				Woodside East Census Designated Place
+			Channel (DE)
+				Baker Range
+				Bellevue Range
+				Big Break
+				Blake Channel
+				Broadkill Slough
+				Bulkhead Bar Range
+				Bulkhead Shoal Channel
+				Cherry Island Range
+				Cross Ledge Range
+				Deepwater Point Range
+				Flatland Reach
+				Liston Range
+				Little Break
+				Little Ditch
+				Long Reach
+				Main Maull Range
+				Marsh Narrows
+				New Castle Range
+				No Mans Friend Reach
+				Old Ship Channel
+				Reedy Island Range
+				Sluice Race
+				The Ditch
+				The Narrows
+			Church (DE)
+				Abundant Life Apostolic Church
+				Abundant Life Church
+				Aldersgate Methodist Church
+				All Faith Chapel
+				All Nations Fellowship Church
+				All Saints Church
+				Alpha Baptist Church
+				Anointed Word Evangelistic Church
+				Antioch African Methodist Episcopal Church
+				Antioch Christian Center
+				Apostolic Faith Church
+				Apostolics of Georgetown
+				Asbury Methodist Church
+				Asbury United Methodist Church
+				Assembly of God Church
+				Atlanta Road Alliance Church
+				Atonement Methodist Church
+				Avenue United Methodist Church
+				Barratts Chapel
+				Be Ready Jesus is Coming Church
+				Berea Presbyterian Church
+				Berean Baptist Church
+				Berean Community Church
+				Bernadettes Catholic Church
+				Beth Shalom Congregation
+				Bethany Baptist Church
+				Bethany Church
+				Bethany Church of the Brethren
+				Bethany United African Methodist Episcopal Church
+				Bethel African Methodist Episcopal Church
+				Bethel Baptist Church
+				Bethel Church
+				Bethel Church of the Living God
+				Bethel Pentecostal Church
+				Bethel United Methodist Church
+				Bethesda Church
+				Bethesda M P Church
+				Bethesda United Methodist Church
+				Bethuel Seventh Day Adventist Church
+				Beverly Church
+				Bible Baptist Church
+				Bible Church
+				Bible Fellowship Church
+				Bible Way Temple Church of God in Christ
+				Big Union Circuit
+				Blackiston Church
+				Blackwater Church
+				Blackwater Fellowship Church
+				Blanco Church
+				Brandywine Chapel
+				Brandywine-Trinity United Methodist Church
+				Bread of Life Christian Church
+				Bridgeville Church of God
+				Burtons Chapel
+				Buttonwood Church
+				Buttonwood United Methodist Church
+				Byrds African Methodist Episcopal Church
+				C H Foggie American Methodist Episcopal Zion Church
+				Calvary Assembly of God
+				Calvary Assembly of God Church
+				Calvary Baptist Church
+				Calvary Church of the Nazarene
+				Calvary Episcopal Church
+				Calvary Fellowship Church
+				Calvary Methodist Church
+				Calvary Presbyterian Church
+				Calvary United Methodist Church
+				Calvary Wesleyan Church
+				Canaan Baptist Church
+				Cannon Mennonite Church
+				Cannon United Methodist Church
+				Capitol Baptist Church
+				Capitol City Church of Christ
+				Carey Church
+				Cathedral Church of Saint John
+				Cathedral of the Faith
+				Cedar Grove Church
+				Cedar Neck United Methodist Church
+				Cedars United Methodist Church
+				Celestial Church of Christ
+				Centenary United Methodist Church
+				Centennial United Methodist Church
+				Central Baptist Church
+				Central Mennonite Church
+				Centre Church
+				Centro Cristiano Vino Nuevo
+				Chaplins Chapel
+				Chester Bethel Methodist Church
+				Cheswold United Methodist Church
+				Chippey Chapel Church
+				Christ Church
+				Christ Deliverance Church
+				Christ Evangelical Church
+				Christ Evangelistic Church
+				Christ Lutheran Church
+				Christ Memorial Baptist Church
+				Christ Our King Church
+				Christ United Methodist Church
+				Christian Church
+				Christian Healing Center
+				Christian Life Church
+				Christian Tabernacle
+				Christian and Missionary Alliance Church
+				Christiana United Methodist Church
+				Church Tabernacle
+				Church of Christ
+				Church of God of Prophecy
+				Church of God of Prophesy
+				Church of Living God
+				Church of Open Door
+				Church of the Ascension
+				Church of the Brethren
+				Church of the Holy Child
+				Church of the Living Word
+				Church of the Nativity
+				Church of the Nazarene
+				Church of the Nazarine
+				Church of the Open Door
+				Church on the Rock Ministries
+				Claymont Spanish Congregation Church
+				Cokesbury United Methodist Church
+				Coleman Memorial United Methodist Church
+				Community Church
+				Community Fellowship Church
+				Community Holy Tabernacle of Deliverance
+				Community Outreach Church
+				Community Pentecostal Church of God
+				Community Presbyterian Church
+				Concord Baptist Church
+				Concord Methodist Church
+				Concord Presbyterian Church
+				Concordia Lutheran Church
+				Connection Community Church
+				Cool Spring Presbyterian Church
+				Corner Stone Church
+				Cornerstone United Methodist Church
+				Corpus Christi Roman Catholic Church
+				Covenant Presbyterian Church
+				Cow Marsh Baptist Meeting House
+				Cow Marsh Church
+				Crossroad Christian Church
+				Crossroads Presbyterian Church
+				Dagsboro Church
+				Dagsboro Church of Christ
+				Dagsboro Church of God
+				Dales United Methodist Church
+				Delaney Methodist Church
+				Delaware City Presbyterian Church
+				Deliverance Apostical Church
+				Destiny Christian Church
+				Dickerson Chapel American Methodist Episcopal Church
+				Dover Bible Chapel
+				Dover Church of God
+				Dover Miracle Revival Church
+				Dover Presbyterian Church
+				Eastlake Methodist Church
+				Ebenezer Baptist Church
+				Ebenezer Church
+				Ebenezer Methodist Church
+				Ebenezer United Methodist Church
+				Edgehill Community Church of God
+				Elsmere United Presbyterian Church
+				Emmanuel American Methodist Episcopal Church
+				Emmanuel Pentecostal Church of God
+				Emmanuel Presbyterian Church
+				Epworth Church
+				Epworth Fellowship Church
+				Epworth United Methodist Church
+				Evangelical Presbyterian Church
+				Evangelistic Church of Jesus
+				Evangelistic Temple of Truth
+				Ewell's Saint Paul United Methodist Church
+				Ezion Fair Baptist Church
+				Ezion Mount Carmel Methodist Church
+				Fairwinds Baptist Church
+				Fairwinds Independent Bible Church
+				Faith Assembly of God Church
+				Faith Baptist Church
+				Faith Church (historical)
+				Faith City Church
+				Faith Community Church
+				Faith Lutheran Church
+				Faith Memorial Baptist Church
+				Faith Presbyterian Church
+				Faith Tabernacle United Holiness Church
+				Faithful Missionary Baptist Church
+				Farmington-Salem Methodist Episcopal Church
+				Felton United Methodist Church
+				First Alliance Church
+				First Assembly of God
+				First Assembly of God Church
+				First Baptist Church
+				First Baptist Church of Cheswold
+				First Baptist Church of Dover
+				First Baptist Church of Laurel
+				First Baptist Church of Lewes
+				First Baptist Church of New Castle
+				First Christian Church
+				First Church of Christ
+				First Church of Christ Scientist
+				First Haitian Church of the Nazarene
+				First Pilgrim Baptist Church
+				First Presbyterian Church
+				First Southern Baptist Church
+				First Tabernacle Church of God
+				First United Church of Gospel
+				First United Pentecostal Church
+				First and Central Presbyterian Church
+				Forest Grove Seventh Day Adventist Church
+				Forest United Presbyterian Church
+				Frankford United Methodist Church
+				Frederica First Baptist Church
+				Free Will Baptist Church
+				Friends Meetinghouse
+				Friendship Baptist Church
+				Friendship Church
+				Friendship United Methodist Church
+				Full Gospel Holiness Church
+				Gethsemane United Methodist Church
+				Glasgow Reformed Presbyterian Church
+				Good Shepherd Baptist Church
+				Good Shepherd Lutheran Church
+				Goshen United Methodist Church
+				Gospel Chapel
+				Gospel Light Tabernacle Church
+				Grace Baptist Church
+				Grace Church
+				Grace Episcopal Church
+				Grace Lutheran Church
+				Grace Orthodox Presbyterian Church
+				Grace Presbyterian Church
+				Grace United Methodist Church
+				Graham African Methodist Episcopal Church
+				Greater Faith Temple Church of God in Christ
+				Greater Life Christian Church
+				Greater Love Temple
+				Greater Saint John Baptist Church
+				Greehill Presbyterian Church
+				Greenwood Mennonite Church
+				Greenwood United Methodist Church
+				Griffiths Chapel
+				Groome United Methodist Church
+				Gumboro Fellowship Church
+				Gumboro United Methodist Church
+				Hanover Street Presbyterian Church
+				Harmony Church
+				Harrington Baptist Church
+				Harrison Memorial Baptist Church
+				Hartly United Methodist Church
+				Harvest Christian Church
+				Haven Methodist Church
+				Haven United Methodist Church
+				Head of Christiana Presbyterian Church
+				Hebron Church
+				Heritage Presbyterian Church
+				Hickory Hill Church
+				Hickory Ridge
+				Highland Mennonite Church
+				Hillcrest-Bellefont Methodist Church
+				Hockessin Baptist Church
+				Hockessin Friends Meetinghouse
+				Hockessin United Methodist Church
+				Holly Oak United Methodist Church
+				Holy Bethel Church of God
+				Holy Cross Catholic Church
+				Holy Family Church
+				Holy Rosary Catholic Church
+				Holy Spirit Catholic Church
+				Holy Temple Church
+				Holy Trinity Church
+				Holy Trinity Greek Orthodox Church
+				Holy Trinity Lutheran Church
+				Hope Lutheran Church
+				Horsey Church (historical)
+				House of God Church
+				Houston Methodist Church
+				Hubert American Methodist Episcopal Church
+				Iglesia Cristiana Luz y Vida
+				Iglesia Gracia Divina
+				Immaculate Heart of Mary Church
+				Immanuel Church
+				Immanuel Church Highlands
+				Immanuel Church on the Green
+				Immanuel Episcopal Church
+				Immanuel Union United Methodist Church
+				Immanuel United Methodist Church
+				Independent Bible Fellowship Center
+				Independent Bible Fellowship Church
+				Indian Mission Church
+				Israel Church
+				John Wesley African Methodist Episcopal Church
+				Joshua Harvest Church
+				Kent Christian Center
+				Kenton Church
+				Kenton Mennonite Church
+				Kenton United Methodist Church
+				Kingdom Hall
+				Kingdom Hall of Jehovahs Witnesses
+				Kingdom Worship Center
+				Kings Assembly of God Church
+				Kings Church
+				Kingswood Methodist Church
+				Kirkwood Methodist Church
+				Korean Baptist Church
+				Korean Methodist Church
+				Landmark Baptist Tabernacle
+				Laurel Baptist Church
+				Laws Mennonite Church
+				Lebanon Wesleyan Church
+				Lees Chapel
+				Lewes Presbyterian Church
+				Liberty Baptist Church
+				Liberty Church
+				Lighthouse Baptist Church
+				Lighthouse Christian Center
+				Limestone Presbyterian Church
+				Lincoln United Methodist Church
+				Line Church
+				Little Creek Church
+				Little Creek Methodist Church
+				Little Creek Primitive Baptist Church
+				Little Creek United Methodist Church
+				Little Hill Church
+				Little Union Baptist Church
+				Living Water Church
+				Living Waters Church of God
+				Long Neck Church
+				Love Temple Church
+				Lower Brandywine Church
+				Lower Brandywine Presbyterian Church
+				Lutheran Church of Our Savior
+				Lynch Heights Baptist Church
+				Macedonia African Methodist Episcopal Church
+				Macedonia Missionary Baptist Church
+				Magnolia United Methodist Church
+				Manship Church
+				Maranatha Baptist Church
+				Maranatha Christian Church
+				Maranatha Fellowship Church
+				Mariners Bethel United Methodist Church
+				Marshallton United Methodist Church
+				Massey Chapel
+				McColley Church
+				Metropolitan Baptist Church
+				Metropolitan United Methodist Church
+				Mid-Town Tabernacle
+				Middletown Church
+				Midway Asembly of God Church
+				Midway Baptist Church
+				Midway Church
+				Midway Presbyterian Church
+				Milford Church of Christ
+				Milford Church of God
+				Milford Church of the Nazarene
+				Mill Creek Meetinghouse
+				Millsboro Church
+				Millwood Church
+				Minquadale Assembly of God
+				Miracle Temple Holy Church
+				Mission Fellowship Church
+				Missionary Baptist Church
+				Morning Star Church
+				Mornings Star Church
+				Mother Church of God in Christ
+				Mother Mary of Peace Church
+				Mother Union African Methodist Episcopal Church
+				Mount Calvary American Methodist Episcopal Church
+				Mount Calvary Baptist Church
+				Mount Calvary Pentecostal Church
+				Mount Calvary Temple Church of God in Christ
+				Mount Calvary United Methodist Church
+				Mount Enon Baptist Church
+				Mount Friendship Circuit Church
+				Mount Hermon
+				Mount Hermon United Methodist Church
+				Mount Joy United Methodist Church
+				Mount Lebanon Church
+				Mount Moriah Church of the Living God
+				Mount Nebo Methodist Episcopal Church
+				Mount Olive Church
+				Mount Olive Pentecostal Church
+				Mount Olivet Church
+				Mount Olivet United Methodist Church
+				Mount Pisgah United African Methodist Episcopal Church
+				Mount Pleasant Methodist Church
+				Mount Pleasant United Methodist Church
+				Mount Plymouth Church
+				Mount Salem Church
+				Mount Salem Methodist Church
+				Mount Salem Union American Methodist Episcopal Church
+				Mount Salem United African Methodist Episcopal Church
+				Mount Sinai Baptist Church
+				Mount Zion African Methodist Episcopal Church
+				Mount Zion African United Methodist Protestant Church
+				Mount Zion Baptist Church
+				Mount Zion Holy Church
+				Mount Zion United African Methodist Episcopal Church
+				Mount Zion United Methodist Church
+				New Ark United Church of Christ
+				New Calvary Baptist Church
+				New Castle Methodist Church
+				New Castle Presbyterian Church
+				New Holiness Fellowship Church
+				New Holy Trinity Church of God in Christ
+				New Hope Baptist Church
+				New Hope Church
+				New Hope Pentecostal Church
+				New Jerusalem Baptist Church
+				New Life Alliance Church
+				New Life Christian Fellowship Church
+				New Mount Bethel Baptist Church
+				New Mount Olive Baptist Church
+				New Saint Johns Church
+				New Shiloh F B H Church of God
+				New Zion United Methodist Church
+				Newark Christian and Missionary Alliance Church
+				Newark Congregation Kingdom Hall of Jehovahs Witnesses
+				Newark Revival Tabernacle
+				Newark Union Church
+				Newark United Methodist Church
+				Newark United Pentecostal Church
+				North Baptist Church
+				Northeast Church of Christ
+				Northside Church of God
+				Nueva Vida United Methodist Church
+				Oakley Church
+				Oberod Episcopal Diocese of Delaware
+				Ogletown Baptist Church
+				Old Drawyer Church
+				Old Field Church
+				Old Fort Church
+				Old Paths Church of Christ
+				Old Swedes Episcopal Church
+				Old Union Church
+				Otts Chapel
+				Our Lady of Fatima Church
+				Our Redeemer Lutheran Church
+				Parish of the Ressurection Church
+				Parish of the Resurrection
+				Parkview Assembly of God
+				Pathways Community Church
+				Peace Lutheran Church
+				Pencader Presbyterian Church (historical)
+				Peninsula-McCabe United Methodist Church
+				Pentecostal Church of God
+				Pentecostal Holiness Church
+				Peoples A B Church
+				Peoples United Church of Christ
+				Peregrino Church of God
+				Philadelphia Pentecostal Holiness Church
+				Pike Creek Bible Church
+				Pilgrim Baptist Church
+				Pilgrim Holiness Tabernacle (historical)
+				Pilgrim Tabernacle
+				Pilgrim Wesleyan Church
+				Pilgrims Chapel
+				Pleasant Valley Church
+				Pleasantville Baptist Church
+				Portsville Church
+				Portsville United Methodist Church
+				Praise Center Church
+				Prayer Temple Church of God in Christ
+				Presbyterian Cooperative Parish
+				Primitive Baptist Church
+				Prince Georges Chapel
+				Prospect African Methodist Episcopal Church
+				Prospect Church
+				Providence Church
+				Red Clay Creek Presbyterian Church
+				Red Lion Church
+				Red Lion Evangelical Free Church
+				Red Lion Methodist Church
+				Reese Memorial Chapel
+				Reformation Lutheran Church
+				Rehoboth Church
+				Religious Society of Friends
+				Reorganized Church of Jesus Christ of Latter Day Saints
+				Revival Fellowship Church
+				Reynolds Church (historical)
+				Richardson Park Church
+				Ringgold Chapel
+				Roby United Methodist Church
+				Rock of Ages Baptist Church
+				Roxana Methodist Church
+				Roxana Wesleyan Church
+				Sacred Heart Catholic Church
+				Saint Albans Episcopal Church
+				Saint Andrew Episcopal Church
+				Saint Andrews Church
+				Saint Andrews Lutheran Church
+				Saint Andrews Presbyterian Church
+				Saint Andrews School Chapel
+				Saint Annes Church
+				Saint Anns Catholic Church
+				Saint Anns Church
+				Saint Anthony of Padua Church
+				Saint Athanasius Orthodox Church
+				Saint Daniels Church
+				Saint Davids Episcopal Church
+				Saint Edmonds Catholic Church
+				Saint Elizabeth Ann Seton Church
+				Saint Elizabeths Catholic Church
+				Saint George Church
+				Saint Georges Church
+				Saint Georges Methodist Church
+				Saint Georges United Methodist Church
+				Saint Georges United Presbyterian Church
+				Saint Hedwigs Roman Catholic Church
+				Saint Helenas Catholic Church
+				Saint James African United Methodist Protestant Church
+				Saint James American Methodist Episcopal Church
+				Saint James Church
+				Saint John American Methodist Episcopal Zion Church
+				Saint John Church (historical)
+				Saint John the Baptist Holy Angels Catholic Church
+				Saint John the Beloved Catholic Church
+				Saint Johns African United Methodist Protestant Church
+				Saint Johns Cathedral
+				Saint Johns Catholic Church
+				Saint Johns Church
+				Saint Johns Evangelical Lutheran Church
+				Saint Johns Holy Angels Church
+				Saint Johns Holy Church
+				Saint Johns Lutheran Church
+				Saint Johns United Methodist Church
+				Saint Johnstown Church
+				Saint Joseph on-the-Brandywine
+				Saint Josephs Catholic Church
+				Saint Josephs Church
+				Saint Jude the Apostle Church
+				Saint Luke Baptist Church
+				Saint Lukes Church
+				Saint Marks Church
+				Saint Marks Episcopal Church
+				Saint Marks Lutheran Church
+				Saint Martha's Episcopal Church
+				Saint Mary Coptic Orthodox Church
+				Saint Mary Magdalen Catholic Church
+				Saint Mary of the Assumption Church
+				Saint Marys Anglican Church
+				Saint Marys Catholic Church
+				Saint Marys Church
+				Saint Marys Holy Church
+				Saint Matthews Catholic Church
+				Saint Matthews Church
+				Saint Matthews First Baptist Church
+				Saint Matthews by the Sea United Methodist Church
+				Saint Michaels Orthodox Church
+				Saint Nicholas Episcopal Church
+				Saint Nicholas Ukrainian Catholic Church
+				Saint Patrick Church (historical)
+				Saint Patricks Catholic Church
+				Saint Patricks Monastery
+				Saint Paul American Methodist Episcopal Church
+				Saint Paul Church
+				Saint Pauls Catholic Church
+				Saint Pauls Church
+				Saint Pauls Lutheran Church
+				Saint Pauls United Methodist Church
+				Saint Peters Cathedral
+				Saint Peters Catholic Church
+				Saint Peters Church
+				Saint Peters Friends Church
+				Saint Philips Lutheran Church
+				Saint Phillips Church
+				Saint Polycarp Catholic Church
+				Saint Stanislaus Kostka Church
+				Saint Stephen's United Methodist Church
+				Saint Stephens Episcopal Church
+				Saint Stephens Lutheran Church
+				Saint Thomas Church
+				Saint Thomas Parish
+				Saint Thomas the Apostle Church
+				Saints Peter and Paul Ukrainian Orthodox Church
+				Salem Methodist Church
+				Salvation Army Church
+				Sand Hill Church
+				Saxton United Methodist Church
+				Scott Church
+				Scottish Rite Cathedral
+				Seaford Christian Church
+				Seaford Church of Christ
+				Seaford Presbyterian Church
+				Second Baptist Church
+				Seventh Day Adventist Church
+				Sharon Temple
+				Shellburne Bible Church
+				Shiloh Apostolic Church
+				Shiloh Baptist Church
+				Shiloh Church
+				Shrine of Saint Jude Catholic Church
+				Sikh Center of Delaware
+				Siloam Church
+				Silverbrook United Methodist Church
+				Silverside Church
+				Simpson United Methodist Church
+				Skyline United Methodist Church
+				Slaughter Neck Church
+				Solid Rock Apostolic Church
+				Solid Rock Baptist Church
+				Solid Rock Church
+				Solid Rock Holiness Church
+				Sound Church
+				Southside Baptist Church
+				Spirit of Life Lutheran Church
+				Stanton Full Gospel Church
+				Star Hill African Methodist Episcopal Church
+				Star Hill Church
+				Star of Bethlehem African United Methodist Protestant Church
+				Summit United Methodist Church
+				Temple Beth El
+				Temple Beth Emeth
+				Temple United Pentecostal Church
+				The Apostolic Church
+				The Church of Jesus Christ of Latter Day Saints
+				The Holy Bethel Church of God
+				The House of God Church
+				The Liberty Church
+				The Tabernacle Baptist Church
+				The United Methodist Church
+				The Way of Truth Church
+				Thessalonia Baptist Church
+				Thomas Chapel
+				Todds Church
+				Tressler Mennonite Church
+				Trinity African Methodist Episcopal Church
+				Trinity Church
+				Trinity United Methodist Church
+				Trinity United Presbyterian Church
+				Trinity Wesleyan Church
+				Triumph of the Church and Kingdom of God in Christ
+				Twenty-Third Street Church
+				Union African Methodist Episcopal Church
+				Union Baptist Church
+				Union Church
+				Union United Methodist Church
+				Union Wesley United Methodist Church
+				Unitarian Universalist Fellowship Church
+				United Assembly of Christ Church
+				United Deliverance Bible Center
+				United House of Prayer For All
+				United Independent Methodist Church
+				University of Delaware Baptist Student Ministry
+				University of Delaware Catholic Campus Ministry
+				University of Delaware Hillel House
+				University of Delaware Presbyterian Campus Ministry
+				Victory Baptist Church
+				Victory Chapel
+				Victory Christian Fellowship Church
+				Victory Church
+				Welsh Tract Church
+				Wesley Chapel
+				Wesley Church
+				Wesley United Methodist Church
+				Wesleyan Church
+				Wesleyan Church of Newark
+				West Presbyterian Church
+				West Woods Church
+				Westminster Presbyterian Church
+				Whatcoat United Methodist Church
+				White Clay Creek Presbyterian Church
+				Whites Chapel
+				Whites Church (historical)
+				Whole Truth Temple Church of God in Christ
+				Williams Chapel
+				Willow Grove Church of God
+				Wilmington United Methodist Church
+				Woodland United Methodist Church
+				Woodside United Methodist Church
+				Wyoming United Methodist Church
+				Zion Church
+				Zion Lutheran Church
+				Zoar Church
+				Zoar Methodist Church
+				Zore United Methodist Church
+			Civil (DE)
+				Appoquinimink Hundred
+				Appoquinimink School District
+				Baltimore Hundred
+				Blackbird Hundred
+				Brandywine Division
+				Brandywine Hundred
+				Bridgeville-Greenwood Division
+				Broad Creek Hundred
+				Broadkill Hundred
+				Caesar Rodney School District
+				Cedar Creek Hundred
+				Central Kent Division
+				Christiana Hundred
+				Christina School District
+				City of Delaware City
+				City of Dover
+				City of Harrington
+				City of Lewes
+				City of Milford
+				City of New Castle
+				City of Newark
+				City of Rehoboth Beach
+				City of Seaford
+				City of Wilmington
+				Dagsboro Hundred
+				Dover Division
+				Duck Creek Hundred
+				East Dover Hundred
+				Felton Division
+				Georgetown Division
+				Georgetown Hundred
+				Glasgow Division
+				Gumboro Hundred
+				Harrington Division
+				Indian River Hundred
+				Indian River School District
+				Kent County
+				Kenton Division
+				Kenton Hundred
+				Laurel-Delmar Division
+				Lewes Division
+				Lewes and Rehoboth Hundred
+				Little Creek Hundred
+				Lower Christiana Division
+				Middletown-Odessa Division
+				Milford Hundred
+				Milford North Division
+				Milford South Division
+				Mill Creek Hundred
+				Millsboro Division
+				Milton Division
+				Mispillion Hundred
+				Nanticoke Hundred
+				New Castle County
+				New Castle Division
+				New Castle Hundred
+				Newark Division
+				North Murderkill Hundred
+				Northwest Fork Hundred
+				Pencader Hundred
+				Piedmont Division
+				Pike Creek-Central Kirkwood Division
+				Red Lion Division
+				Red Lion Hundred
+				Saint Georges Hundred
+				Seaford Division
+				Seaford Hundred
+				Selbyville-Frankford Division
+				Smyrna Division
+				Smyrna School District
+				South Murderkill Hundred
+				State of Delaware
+				Sussex County
+				Town of Bellefonte
+				Town of Bethany Beach
+				Town of Bethel
+				Town of Blades
+				Town of Bowers
+				Town of Bridgeville
+				Town of Camden
+				Town of Cheswold
+				Town of Clayton
+				Town of Dagsboro
+				Town of Delmar
+				Town of Dewey Beach
+				Town of Ellendale
+				Town of Elsmere
+				Town of Farmington
+				Town of Felton
+				Town of Fenwick Island
+				Town of Frankford
+				Town of Frederica
+				Town of Georgetown
+				Town of Greenwood
+				Town of Hartly
+				Town of Henlopen Acres
+				Town of Houston
+				Town of Kenton
+				Town of Laurel
+				Town of Leipsic
+				Town of Little Creek
+				Town of Magnolia
+				Town of Middletown
+				Town of Millsboro
+				Town of Millville
+				Town of Milton
+				Town of Newport
+				Town of Ocean View
+				Town of Odessa
+				Town of Selbyville
+				Town of Slaughter Beach
+				Town of Smyrna
+				Town of South Bethany
+				Town of Townsend
+				Town of Viola
+				Town of Woodside
+				Town of Wyoming
+				Upper Christiana Division
+				Village of Arden
+				Village of Ardencroft
+				Village of Ardentown
+				West Dover Hundred
+				White Clay Creek Hundred
+				Wilmington Division
+				Wilmington Hundred
+			Crossing (DE)
+				Interchange 1
+				Interchange 10
+				Interchange 104
+				Interchange 11
+				Interchange 114
+				Interchange 1A and 1B
+				Interchange 2
+				Interchange 3
+				Interchange 4
+				Interchange 4A and 4B
+				Interchange 5
+				Interchange 5A
+				Interchange 5B
+				Interchange 5C
+				Interchange 6
+				Interchange 7
+				Interchange 8A and 8B
+				Interchange 9
+				Interchange 97
+				Interchange 98
+			Dam (DE)
+				Abbotts Pond Dam
+				Bear Swamp Pool Dam
+				Becks Pond Dam
+				Bellevue Lake Dam
+				Blairs Pond Dam
+				Brandywine Creek Dam
+				Burton Pond Dam
+				Chipman Pond Dam
+				Clendaniel Pond Dam
+				Collins Pond Dam
+				Concord Pond Dam
+				Coursey Pond Dam
+				Cubbage Pond Dam
+				Davis Pond Dam
+				Derby Pond Dam
+				Diamond Pond Dam (historical)
+				Duck Creek Pond Dam
+				Edgar M Hoopes Dam
+				Fleetwood Pond Dam
+				Garrisons Lake Dam
+				Goslee Mill Pond Dam
+				Griffith Lake Dam
+				Haven Lake Dam
+				Hearns Pond Dam
+				Killen Pond Dam
+				Lake Como Dam
+				Marshall Millpond Dam
+				McGinnis Pond Dam
+				Moores Lake Dam
+				Morris Millpond Dam
+				Nemours Dam
+				Pea Patch Island Dike
+				Raymond Pool Dam
+				Records Pond Dam
+				Red Mill Pond Dam
+				Reedy Island Dike
+				Reynolds Pond Dam (historical)
+				Shadowbrook Dam
+				Shallcross Lake Dam
+				Shearness Pool Dam
+				Silver Lake Dam
+				Sunset Lake Dam
+				Swiggetts Pond Dam
+				Trap Pond Dam
+				Trussum Pond Dam
+				Tubmill Pond Dam
+				Voshell Mill Pond Dam
+				Wagamons Pond Dam
+				Waples Pond Dam (historical)
+				Wiggins Mill Pond Dam
+				Williams Pond Dam
+				Wyoming Lake Dam
+			Flat (DE)
+				Bohemia Manor
+				Bull Island
+				Flat Sands
+				Rehoboth Flats
+				Simon Glade
+			Forest (DE)
+				Blackbird State Forest
+				Blackbird State Forest Tybout Tract
+				Cumples Woods
+				Ellendale State Forest
+				Red Lion State Forest
+				Redden State Forest
+				Redden State Forest Bailey Tract
+			Gut (DE)
+				Bay Gut
+				Big Ditch
+				Black Hog Gut
+				Boat Gut
+				Bottom Hills Drain
+				Broad Gut
+				Brockonbridge Gut
+				Cattail Gut
+				Cedar Gut
+				Clarks Ditch (historical)
+				Crooked Gut
+				Devers Gut
+				Drapers Inlet (historical)
+				Drum Gut
+				Emily Gut
+				Flat Gut
+				Gambles Gut
+				Gravel Gut
+				Hay Ditch
+				Hetty Fisher Glade
+				Indian Gut
+				Indian River Inlet
+				Jefferson Creek
+				Jenkins Ditch
+				Joes Gut
+				Joes Hole
+				Kellys Ditch
+				Lewis Ditch
+				Little Fork
+				Lower Break
+				Marshtown Gut
+				Matty Ditch
+				Middle Drain
+				Myrkle Gut
+				Old Creek
+				Old Womans Gut
+				Peach House Ditch
+				Quarter Gut
+				Raymond Gut
+				Rays Ditch
+				River Shore Ditch
+				Roosevelt Inlet
+				Salt Pond Ditch
+				Sand Ditch
+				Shearness Gut
+				Sloughs Gut
+				Spring Gut
+				Stillman Glade
+				Stockley Gut
+				Taylors Gut
+				Terrapin Gut
+				The Big Ditch
+				The Dyke
+				Thorofare (historical)
+				Trunk Ditch
+				Upper Break
+				White Oak Ditch
+				Wier Gut
+				Wire Gut
+			Harbor (DE)
+				Henlopen Acres Yacht Basin
+				Indian River Yacht Basin
+				Mispillion Marina
+			Hospital (DE)
+				Bayhealth - Kent General Hospital
+				Bayhealth Milford Memorial Hospital
+				Beebe Medical Center
+				Bissell Sanitorium
+				Christiana Care Eugene du Pont Preventive Medicine Institute at Pelleport
+				Christiana Care Hospital Newark Site
+				Christiana Care Hospital Wilmington Site
+				Delaware Psychiatric Center
+				Delaware State Hospital
+				Governor Bacon Health Center
+				Hogar Crea International Treatment Center
+				Meadow Wood Behavioral Health System Hospital
+				Nanticoke Memorial Hospital
+				Nemours Dupont Hospital For Children
+				Riverside Extended Care Pavilion
+				Riverside Hospital
+				Rockford Center
+				Saint Francis Hospital
+				Stockley Center
+				Wilmington Hospital
+				Wilmington Veterans Administration Medical Center
+			Island (DE)
+				Alty Island (not official)
+				Artificial Island
+				Beach Plum Island
+				Bell Memorial Chapel
+				Big Bacon Island
+				Big Cedar Island
+				Big Nose Island
+				Big Piney Island (historical)
+				Big Reedy Island
+				Big Sheep Hammock
+				Bombay Hook Island
+				Bread and Cheese Island
+				Burton Island
+				Bush Island
+				Cherry Island
+				Cherrybush Island
+				Cods Hammocks (historical)
+				Collins Island
+				Coopers Island
+				Fenwick Island
+				First Hill
+				Georges Island
+				Gull Island
+				Gum Island
+				Hay Hummock
+				Holly Island
+				Hoods Island
+				Horse Island
+				Ice Cream Island
+				Island in the Narrows
+				Joseph Island (not official)
+				Kelly Island
+				Kent Island
+				Kitts Hummock
+				Little Bacon Island
+				Little Cedar Island
+				Little Reedy Island
+				Little Sheep Hammock
+				Marsh Island
+				Marsh Island (historical)
+				Marshall Island
+				Middle Island
+				Morgan Island
+				Needhams Island
+				Negro Island
+				Oak Hill
+				Pea Patch Island
+				Petersfield Island
+				Point of Cedars Island
+				Prickley Pear Island
+				Ragged Island
+				Rawley Island
+				Reedy Island
+				Robs Island
+				Sand Island
+				Seal Island
+				Second Hill
+				Sheppards Island
+				The Island
+				The Rocks
+				Thompson Island
+				Todds Island
+				Vansant Island (not official)
+				Wall Island
+			Lake (DE)
+				Balders Pond
+				Bay Pond
+				Bennett Pond
+				Big Round Pond
+				Blind Pond
+				Blockhouse Pond
+				Boat House Pond
+				Bookhammers Pond
+				Branch Gut
+				Caleb Pond
+				Canal Pond
+				Cedar Pond
+				Conwell Pond
+				Craigs Pond
+				Cupboard Pond
+				Cypress Pond
+				Dyke Pond
+				Ellis Pond
+				Flaxhole Pond
+				Fleetwood Pond
+				Fresh Pond
+				Goose Pond
+				Hetty Fisher Pond
+				Holland Pond
+				Holly Pond
+				Horseshoe Pond
+				Howell Pond
+				Ingram Pond
+				Jack Roach Pond
+				Jones Pond
+				Lake Comegys
+				Lake Gerar
+				Little Round Pond
+				Log Pond
+				Logwood Pond
+				Lums Pond
+				Middle Pond
+				Miry Pond
+				Mulberry Pond
+				Noah Pond
+				Oak Pond
+				Peach Pond
+				Pepper Pond
+				Poplar Woods Pond
+				Raccoon Pond
+				Roman T Pond
+				Sally Burton Ponds
+				Salt Pond
+				Sawmill Pond
+				Shell Beach Pond
+				Silver Lake
+				Sixty Five Acre Pond
+				Southwest Pond
+				Spatterdock Pond
+				Stickweed Pond
+				Streak Ponds
+				Tailings Pond
+				Teal Pond
+				Thirty-five Acre Pond
+				Tonys Pond
+				Tunnel Goose Pond
+				Turkle Pond
+				Twin Ponds
+				Waples Pond
+				Welches Pond
+				Wilson Pond
+				Wolfpit Pond
+			Levee (DE)
+				Red Bank
+			Locale (DE)
+				326 Plaza Shopping Center
+				Airport Industrial Park
+				Airport Shopping Center
+				Akorebakissing (historical)
+				Alley Corners
+				Alms House
+				Ames Shopping Center
+				Amimenipatj (historical)
+				Angola
+				Angola Grange
+				Anthonys Corners
+				Apollo Shopping Center
+				Appoquinimink Range Lights
+				Arc Corner
+				Arden Station
+				Augustine Beach
+				Back Bay Park Center Shopping Center
+				Bannister Hall
+				Barley Mill Plaza Professional Park
+				Basing Road Industrial Park
+				Bay Court Plaza Shopping Center
+				Bay View Beach
+				Baywood Greens Golf Course
+				Beach Plaza Shopping Center
+				Bear Trap Dunes Golf Course
+				Beaver Brook Shopping Center
+				Belmont Hall
+				Bennetts Pier
+				Bethany Bay Golf Course
+				Biderman Golf Club
+				Biderman Golf Course
+				Big Mills Bridge (historical)
+				Big Stone Beach
+				Black Duck Point
+				Blodgetts Corners
+				Blue Hen Industrial Park
+				Blue Hen Mall
+				Bowdens Garage
+				Boxwood Industrial Park
+				Brandywine Commons Shopping Center
+				Brandywine Country Club
+				Brandywine Raceway (historical)
+				Brandywine Shopping Center
+				Brandywine Town Center
+				Branmar Center Shopping Center
+				Broadkill Station
+				Brookside Shopping Center
+				Bull Pine Corners
+				Cabbage Corner
+				Cains Landing
+				Camden Town Center Shopping Center
+				Camp Barnes
+				Camp Otonka
+				Canadas Beach
+				Canal Station
+				Canby Park Shopping Center
+				Carey Camp
+				Carpenter Plaza Shopping Center
+				Carpenter Station Shopping Center
+				Carrcroft Station
+				Carrolls Center Shopping Center
+				Carroltown
+				Castle Mall
+				Castlewood Industrial Park
+				Cavaliers Country Club
+				Cedar Beach
+				Cedar Corners
+				Cedar Creek Boat Launching Area
+				Central Delaware Business Park
+				Cherry Walk
+				Chestnut Hill
+				Chestnut Hill Plaza
+				Chestnut Run Shopping Center
+				Christiana Industrial Park
+				Christiana Mall
+				City of Wilmington Filter Water Pollution Control Facility
+				Claymont Center
+				Cliffs Station
+				Coldwell Corners
+				College Business Park
+				College Square Shopping Center
+				Community Plaza Shopping Center
+				Concord Mall
+				Concord Pike Village Shopping Center
+				Concord Square Shopping Center
+				Conectiv Delmarva Peaking Station
+				Connectiv Delmarva Generation
+				Coochs Bridge
+				Cool Spring Grange
+				Cow Bridge
+				Creekside Plaza Shopping Center
+				Davis Landing
+				Dayett Station
+				Deauville Beach
+				Delaware City Power Plant
+				Delaware Corporate Center
+				Delaware Correctional Center
+				Delaware Industrial Park
+				Delaware International Raceway
+				Delaware Motor Club
+				Delaware Park Race Track
+				Delaware River and Bay Monument
+				Delaware State College Farm
+				Delaware State Fairgrounds
+				Delaware Technology Park
+				Delmarva Camp (historical)
+				Delmarva Christian Camp
+				Delmarva Raceway
+				Delpro Company
+				Diamond State Industrial Park
+				Dickerson Manor
+				Dover Commons Shopping Center
+				Dover Downs
+				Dover East Industrial Park
+				Dover Mall
+				Drapers Corners
+				DuPont Country Club
+				Edge Moor-Hay Road Power Plant
+				Edgehill Shopping Center
+				Edgemoor Yard
+				Eleutherian Mills
+				Ellis Wharf
+				Enterprise Business Park
+				F and N Shop Village Shopping Center
+				Fairfax Shopping Center
+				Fenwick Island Lighthouse
+				First State Industrial Park
+				Five Corners
+				Flower Station
+				Food City Shopping Center
+				Foulkwood Professional Building
+				Garrison Lake Golf Course
+				Gateway West Shopping Center
+				Georgetown Wastewater Reclamation Facility
+				Germany Industrial Park
+				Ginns Corners
+				Glasgow Station
+				Gordy Plaza Shopping Center
+				Grears Corners
+				Greater Milford Business Complex
+				Green Hill Country Club
+				Greens Corners
+				Greentree Village Shopping Center
+				Greenville Shields Suburban Shopping Center
+				Gully Camp
+				Hamburg (historical)
+				Harmons School
+				Harmony Industrial Park
+				Harrington Midway Park Center Shopping Center
+				Hercules Country Club
+				Herrings Corners
+				Holly Lake Campground
+				Holtz Landing
+				Independence Mall
+				Island Field Site
+				Ivy Dale Farm (historical)
+				Jackson Farms
+				James Court Industrial Park
+				Kent County Regional Wastewater Treatment Facility
+				Kent County Sewer Treatment Plant
+				Kent Swim Club
+				Kings Creek Country Club
+				Kirkwood Plaza Shopping Center
+				Lamore Industrial Park
+				Lancaster Pike Market Shopping Center
+				Leipsic River Range Lights
+				Lewes City Power Plant
+				Lewes Sewage Treatment Plant
+				Lewes-Cape May Ferry
+				Liberty Plaza Shopping Center
+				Little River Range Lights
+				Long Neck Shopping Center
+				Louviers Country Club
+				Lowes Lakeview Campground (historical)
+				MCD Business Park
+				Maloneys Landing
+				Maple Dale Country Club
+				Marketplace Shopping Center
+				Marketplace at Sea Colony Shopping Center
+				Marsh Island Golf Course
+				Marsh Road Shopping Center
+				Masten Industrial Park
+				Mathews Corners
+				Maulls Wharf (historical)
+				McKays Corners
+				McKee Business Park
+				Meadow Gate Acres
+				Meadowood Shopping Center
+				Mid Sussex Shopping Center
+				Midway Shopping Center
+				Milford Plaza
+				Milford Shopping Center
+				Milford Village Shopping Center
+				Mill Creek Shopping Center
+				Miller Road Shopping Center
+				Millsboro Town Square Shopping Center
+				Mumford Manor
+				Naamans Professional Center
+				Naamans Road Business Park
+				Nanticoke Acres Annex
+				Nanticoke Business Park
+				Nanticoke Crossing Shopping Center
+				Nanticoke Indian Center
+				Naylors Corners
+				New Bridge
+				New Castle Industrial Park
+				New Wharf
+				Newark Country Club
+				Newark Industrial Park
+				Newark Interstate Business Park
+				Newark Shopping Center
+				Newport Industrial Park
+				North Dover Shopping Center
+				North Gateway Shopping Center
+				North Jetty Light
+				Northtowne Plaza Shopping Center
+				Noxontown (historical)
+				Nylon Capital Shopping Center
+				Old Baltimore Pike Industrial Park
+				Old Landing Golf Course
+				Omega Professional Center
+				Omega Shops Shopping Center
+				Parklyn Shopping Center
+				Parkway Industrial Park
+				Parkway Plaza Shopping Center
+				Peddlers Village Shopping Center
+				Pedestrian Mall
+				Penn Central Station
+				Penn Mart Shopping Center
+				Pike Creek Shopping Center
+				Powells Corners
+				Prices Corner Center
+				Prices Corners
+				Professional Plaza Business Park
+				Rehoboth Beach Wastewater Treatment Plant
+				Rehoboth Beach Yacht and Country Club
+				Rehoboth Mall Shopping Center
+				Rehoboth Station (historical)
+				Revills Landing
+				Reynolds Corners
+				Robesons Mill (historical)
+				Rock Manor Golf Course
+				Rodney Village Shopping Center
+				Rosedale Beach
+				Route 13 Market Shopping Center
+				Route 26 Mall Shopping Center
+				Saint Augustine Landing
+				Saint Jones Access Area
+				Salem Church Industrial Park
+				Salisbury (historical)
+				Sandy Brae Industrial Park
+				Sandy Cove Camping
+				Scotts Corners
+				Seaford Golf and Country Club
+				Seaford Industrial Park
+				Seaford Marketplace Shopping Center
+				Seaford Sports Complex
+				Seaford Village Shopping Center
+				Selbyville Industrial Park
+				Selbyville Wastewater Treatment Facility
+				Shawnee Country Club
+				Shell Bridge
+				Shingle Point
+				Shoppes at Naamans Shopping Center
+				Shoppes of Camelot Shopping Center
+				Shops at Long Neck Shopping Center
+				South Chapel Industrial Park
+				South Jetty Light
+				Southgate Industrial Park
+				State Road
+				Stevenson Detention Center
+				Strawberry Landing
+				Stumps Corners
+				Succor Corners
+				Summit Aviation
+				Sussex County Industrial Park
+				Sussex Plaza Shopping Center
+				Talleyville Shopping Center
+				Tally Ho Plaza Shopping Center
+				Taylors Bridge
+				The Centre at Dover Shopping Center
+				The Penninsula Golf and County Club
+				The Point Farm
+				The Rocks
+				The Rookery Golf Course
+				The Salt Pond Golf Course
+				Thomas Corners
+				Tinks Landing
+				Town of Millsboro Sewage Treatment Plant
+				Transportation Administration Center
+				Tri-State Mall
+				Triangle Mall
+				Tudor Industrial Park
+				Tulls School (historical)
+				US 13 Dragway
+				Uniqema Wastewater Treatment Facility
+				University Office Plaza Shopping Center
+				University of Delaware Louise and David Roselle Center for the Arts - Parking Garage
+				University of Delaware Perkins Student Center Garage
+				University of Delaware Trabant University Center Garage
+				Valleyview Shopping Center
+				Vandeveers (historical)
+				Wesley College Parking Lot A
+				Wesley College Parking Lot B
+				Wesley College Parking Lot C
+				Wesley College Parking Lot D
+				West Yard
+				Wild Quail Golf and Country Club
+				Wilmington Country Club
+				Wilmington Industrial Park
+				Wilmington Marine Terminal
+				Wilmington Merchandise Mart
+				Wilmington Wastewater Treatment Plant
+				Wilsmere Yards
+				Winterthur Gardens
+				Woodland Ferry
+				Woodside Center Shopping Center
+				Workmans Corners
+				Wrangle Hill Industrial Park
+				Young (historical)
+			Military (DE)
+				Battery Alburtis (historical)
+				Battery Allen (historical)
+				Battery Clermont Best (historical)
+				Battery Dodd (historical)
+				Battery Gibson (historical)
+				Battery Hall (historical)
+				Battery Haslet (historical)
+				Battery Hentig (historical)
+				Battery Read (historical)
+				Battery Rodney (historical)
+				Battery Torbert (historical)
+				Coast Guard Station Indian River Inlet
+				Dover Air Force Base
+				Fort Delaware (historical)
+				Fort Dupont (historical)
+				Fort Miles (historical)
+				Fort Saulsbury (historical)
+				New Castle Army Air Field (historical)
+				United States Army Air Warning Station Number 11 (historical)
+			Mine (DE)
+				Barber Sand and Gravel Pit
+				Lewes Pit
+				Tarburton Pit
+				Whittington Sand Pit
+			Park (DE)
+				Alapocas Woods Park
+				Appoquinimink Wildlife Area
+				Assawoman Bay State Wildlife Area
+				Augustine State Wildlife Management Area
+				Augustine Wildlife Area
+				Banning Park
+				Barksdale Park
+				Barnes Woods Nature Preserve (historical)
+				Battery Park
+				Beach Plum Island State Park
+				Becks Pond Park
+				Bellevue State Park
+				Betchtel Park
+				Biden Park
+				Blackiston Wildlife Area
+				Blades Public Park
+				Bombay Hook National Wildlife Refuge
+				Bonsall Park
+				Brandywine Creek State Park
+				Brandywine Park
+				Brandywine Springs State Park
+				Brandywood Beacon Hill Park
+				Brandywood Park
+				Breck Nock Park
+				Bringhurst Woods Park
+				Brookmont Farms Park
+				Brown Park
+				Burton - Derrickson Tract of Murderkill River Nature Preserve
+				Canal Wildlife Area
+				Canby Park
+				Cape Henlopen State Park
+				Carousel Farm Park
+				Cedar Swamp State Wildlife Management Area
+				Centreville Reserve
+				Chapelcroft Park
+				Cherbourg Round Barn
+				Christina Park
+				Clayton Park
+				Clifton Park
+				Cobbs-Gauger Park
+				Compton Park
+				Cool Spring Park
+				Coventry Ridge Park
+				Coverdale Park
+				Cupola Park
+				Dartmouth Woods Park
+				Delamore Park
+				Delaware Seashore State Park
+				Devon Park
+				Devonshire Park
+				Dickey Park
+				Dover Park
+				Dover Street Park
+				Dragon Run Park
+				Eastburn Acres Park
+				Eden Hill
+				Eden Park
+				Fairfield Crest Park
+				Fairfield Park
+				Fenwick Island State Park
+				Fillmore Clifton Stadium
+				Fort Christina Park
+				Fort Delaware State Park
+				Gallaher School Park
+				Glendale Park
+				Gordon Pond Wildlife Area
+				Graylyn Crest Park
+				Great Geneva
+				Hall Park
+				Harrington Racetrack
+				Haynes Park
+				Highland West Park
+				Holts Landing State Park
+				Iron Hill County Park
+				Jester Park
+				John Dickinson Plantation
+				Johnson Square Park
+				Kells Park
+				Killens Pond State Park
+				Kirkwood Park
+				Kiwanis Park
+				Knollwood Park
+				Leathermans Run Park
+				Lewden Green Park
+				Lewis Park
+				Limestone Hills Park
+				Lindale House
+				Little Creek Wildlife Area
+				Little Creek Wildlife Area Logan Tract
+				Llangollen Estates Park
+				Logan School
+				Longcome Park
+				Longwood Park
+				Lumbrook Park
+				Lums Pond State Park
+				McKees Park
+				Middle Run Valley Park
+				Milford Neck Wildlife Area
+				Milford Neck Wildlife Area - Cedar Creek Unit
+				Naamans North Park
+				Nanticoke Indian Center
+				Nanticoke Park Wildlife Area
+				New Castle Historic District
+				Norman G Wilder Wildlife Area
+				Northminster Park
+				Octagonal School House
+				Old Stone Tavern
+				Old Town Hall
+				Ommelander Park
+				Passwaters Park
+				Phillips Landing Recreation Area
+				Phillips Park
+				Pleasant Hills Park
+				Powell Ford Park
+				Price Run Park
+				Prime Hook National Wildlife Refuge
+				Prime Hook State Wildlife Management Area
+				Rahway Park
+				Richardson Park
+				Rittenhouse Park
+				Riverdale Park
+				Rockford Park
+				Rockwood Park
+				Rodney Square
+				Ross Mansion
+				Saulsbury Road Park
+				Sellers Park
+				Sharon Hills Memorial Park
+				Silver Lake Park
+				Silver Run Wildlife Area
+				Smyrna Municipal Park
+				Snowland
+				Soroptimist Park
+				Speakman Park
+				Stafford Park
+				Stapler Park
+				Sudler House
+				Swift Memorial Park
+				Talley-Day Park
+				The Green
+				Tidbury Park
+				Town Point
+				Trap Pond State Park
+				Tyn Head Court
+				University of Delaware Bob Hannah Stadium
+				University of Delaware David M Nelson Athletic Complex
+				University of Delaware Rullo Stadium
+				University of Delaware Stadium
+				Valley Garden Park
+				W B Atkins Memorial Park
+				Walter S Carpenter State Park
+				West Park
+				Westgate Farms Park
+				Wheel of Fortune
+				White Chapel Park
+				White Clay Creek State Park
+				Wiggins Mill Park (historical)
+				Williams Park
+				Williams Pond Park
+				Woodland Beach State Wildlife Management Area
+				Woodlawn Park
+				Woodley Park
+			Populated Place (DE)
+				Abbotts Mill
+				Adams Crossroads
+				Adamsville
+				Addick Estates
+				Afton
+				Ainsley Woods
+				Airmont Acres
+				Alapocas
+				Alban Park
+				Albertson
+				Albertson Park
+				Albion
+				Alexanders Village
+				Alisa Estates
+				Allee
+				Amaranth
+				Analine Village
+				Anderson Crossroads
+				Andersons Corner
+				Andrews Lake Estates
+				Andrewsville
+				Anglesey
+				Angola Acres II Mobile Home Park
+				Angola Beach Mobile Home Park
+				Angola Crest II Mobile Home Park
+				Angola Crest Mobile Home Park
+				Angola Landing
+				Angola Neck Park Mobile Home Park
+				Angola by the Bay
+				Aniline Village
+				Anne Acres
+				Anneville
+				Arabian Acres
+				Arbor Pointe Apartments
+				Arbour Park
+				Arbre Park Mobile Home Park
+				Arden
+				Ardencroft
+				Ardentown
+				Argo Corners
+				Argos Choice
+				Armstrong
+				Arundel
+				Ashbourne Hills
+				Ashland
+				Ashley
+				Ashley Heights
+				Aspen Meadows
+				Atlanta
+				Atlanta Estates
+				Auburn
+				Auburn Hills
+				Augustine
+				Augustine Hills
+				Avalon
+				Avalon Park Mobile Home Park
+				Bacons
+				Baileys Landing
+				Bald Eagle Village
+				Ballymeade
+				Bank Harbor Retreat
+				Banks Acres
+				Banks Development
+				Banks Harbor Estates
+				Banksville Park
+				Barclay Farms
+				Barkers Landing
+				Barkers Landing Estates
+				Barkley
+				Barley Woods
+				Basin Corner
+				Bay City Mobile Home Park
+				Bay Colony
+				Bay Harbor
+				Bay Shore Hills
+				Bay Shore Mobile Home Park
+				Bay View Estates
+				Bay View Heights
+				Bay View Park
+				Bay Vista
+				Bayard
+				Bayberry Dunes
+				Bayside Hamlet
+				Bayview Heights
+				Bayview Manor
+				Bayville
+				Beachfield
+				Beachwood
+				Beacon Hill
+				Beacon Hill North
+				Beades Estate
+				Bear
+				Beau Tree
+				Beaver Brook Apartments
+				Beaver Dam Acres
+				Beaver Dam Heights
+				Beaver Valley
+				Bechers Brook
+				Becks Landing
+				Beech Haven
+				Beech Hill
+				Beechers Lot
+				Beechwold
+				Belford Manor
+				Bella Vista
+				Bellefonte
+				Bellevue
+				Bellevue Hills
+				Bellewood
+				Belltown
+				Belltown Woods
+				Belmoor
+				Belvidere
+				Ben Robins Landing
+				Bennum
+				Benton
+				Berkeley Farms
+				Berkeley Ridge
+				Berrytown
+				Bestfield
+				Bethany Beach
+				Bethany Dunes
+				Bethany Village
+				Bethel
+				Bethesda
+				Beverly Woods
+				Bicentennial Village
+				Biddles Corner
+				Big Oak Corners
+				Big Pine
+				Bigger Tract
+				Birch Knoll
+				Birch Pointe
+				Birchwood Park
+				Birds Corner
+				Bishops Corner
+				Black Hog Landing
+				Blackbird
+				Blackbird Landing
+				Blackiston
+				Blackwater
+				Blackwater Beach
+				Blackwater Cove
+				Blackwater Village
+				Blades
+				Blanchard
+				Bloomfield Acres
+				Blue Ball
+				Blue Rock Manor
+				Bombay Woods
+				Bon Ayre
+				Bookhammer Landing
+				Bork Acres
+				Bossard Property
+				Bottom Hills
+				Boulder Brook
+				Bowdens Garage (historical)
+				Bowen Landing
+				Bowers Beach
+				Bowers Landing
+				Boxwood
+				Boyds Corner
+				Boyers Village
+				Brackenville
+				Brackenville Woods
+				Branchview
+				Brandon
+				Brandywine
+				Brandywine Commons
+				Brandywine Estates
+				Brandywine Forge
+				Brandywine Hills
+				Brandywine Perry Park
+				Brandywine Springs
+				Brandywine Springs Manor
+				Brandywood
+				Breezewood
+				Breezewood II
+				Brenford
+				Briar Hook
+				Briar Park
+				Briarwood Manor
+				Brick Store
+				Bridgeville
+				Bridgeville Manor
+				Bridgeville North
+				Bridleshire Farms
+				Bristle Knoll
+				Broad Acres
+				Broad Creek
+				Broad Creek Estates
+				Broadkill Beach
+				Brookbend
+				Brookdale Heights
+				Brookfield
+				Brookhaven
+				Brookhaven Estates
+				Brookhill Farms
+				Brookland Terrace
+				Brookmeade
+				Brookmont Farms
+				Brookside
+				Brookview
+				Brown Street
+				Browns Corner
+				Brownsville
+				Bryan Park
+				Bryans Store
+				Buck Hill Landing
+				Buckingham Heights
+				Bullseye
+				Bunting
+				Burton Acres
+				Burtonwood Village
+				Burwood
+				Burwood Farms
+				Bush Manor
+				Buttonwood
+				Byewood Manor
+				Calhoun Landing
+				Camden
+				Camelot Mobile Home Park
+				Cameron Hills
+				Canby Park Estates
+				Candlewicke
+				Cannon
+				Cantebury Apartments
+				Canterbury
+				Canterbury Hills
+				Canterbury Trails
+				Canterville
+				Cape Windsor Mobile Home Park
+				Capes Cove Mobile Home Park
+				Capital Trail Farms
+				Capitol Green
+				Capitol Park
+				Captains Grant Mobile Home Park
+				Caravel Farms
+				Cardiff
+				Cardinal Hills
+				Careys Estate Mobile Home Park
+				Carlisle Village
+				Carousel Knoll
+				Carpenter
+				Carpenters Corner
+				Carrcroft
+				Carrcroft Crest
+				Carriage Lane
+				Carriage Run
+				Carsylian Acres
+				Carter Development
+				Casson Corner
+				Castle Apartments
+				Castle Hills
+				Catalina Gardens
+				Cavaliers Country Club Apartments
+				Cave Colony
+				Cedar Brae Farm
+				Cedar Chase
+				Cedar Farms
+				Cedar Heights
+				Cedar Shores
+				Cedarbrook Acres
+				Cedars
+				Cedars Knoll
+				Cedartree
+				Cedarville Mobile Home Park
+				Centennial Village
+				Centerville
+				Centreville Tract
+				Chalfonte
+				Chambersville
+				Champlin Village
+				Channin
+				Chapel Hill
+				Chapelcrest
+				Chapeltown
+				Chaplecroft
+				Charter Oaks
+				Chatham
+				Chelsea Estates
+				Cherokee Woods
+				Cherrington
+				Cherry Hill
+				Cherrytree Landing
+				Chestnut Grove
+				Chestnut Hill Estates
+				Chestnut Knoll
+				Cheswold
+				Cheswold Farms
+				Chimney Hill
+				Choate
+				Choptank Mills
+				Christiana
+				Christiana Acres
+				Christiana Green
+				Christiana Landing
+				Christiana Village
+				Christina Manor
+				Church Creek
+				Church Hill
+				Church Hill Village
+				Circle Haven Mobile Home Park
+				Clair Manor
+				Claridge Court
+				Clarksons Crossroads
+				Clarksville
+				Clay Acres
+				Claymont
+				Claymont Addition
+				Claymont Heights
+				Claymont Manor
+				Claymont Terrace
+				Claymont Village
+				Clayton
+				Clearfield
+				Clearview Manor
+				Cleland Heights
+				Clermont
+				Clifton Park Manor
+				Club House Landing
+				Club Lane
+				Coach Hill
+				Cocked Hat
+				Coffee Run
+				Cokesbury Village
+				College Park
+				Collins Beach
+				Collins Creek Estates
+				Collins Mill Park
+				Collins Park
+				Collins Park Mobile Home Park
+				Collins Pond Acres
+				Collins and Russell Development
+				Colmar Manor
+				Colonial Acres
+				Colonial East Mobile Home Park
+				Colonial Heights
+				Colonial Village Apartments
+				Colonial Woods
+				Colony Hills
+				Colony West
+				Columbia
+				Commerce Square
+				Concord
+				Concord Heights
+				Concord Hills
+				Concord Manor
+				Concord Towers
+				Conley Chapel Village Mobile Home Park
+				Cool Spring
+				Cool Spring Farms
+				Cool Spring Farms Mobile Home Park
+				Cool Spring Manor
+				Cooper Farm
+				Coopers Corner
+				Corbit
+				Corner Ketch
+				Cornish Hills
+				Cossart Creek
+				Cottage Mill
+				Country Club Estates
+				Country Estates
+				Country Gates
+				Country Living Mobile Home Park
+				Country Village
+				Countryside Farms
+				County Seat Gardens Mobile Home Park
+				Coventry
+				Coverdale Crossroads
+				Covered Bridge Farms
+				Covey Creek
+				Cowgills Corner
+				Cozy Cove Mobile Home Park
+				Cragmere
+				Cragmere Woods
+				Craigs Mill
+				Cranston Heights
+				Crestfield
+				Cricket Hill
+				Cripple Creek
+				Cristine Manor
+				Cross Keys
+				Crossgates
+				Crystal Run Farm
+				Cuelen Acres
+				Cypress Gardens
+				D and K Mobile Home Park
+				Dagsboro
+				Danfield Acres
+				Daniels Tract
+				Darley Woods
+				Dartmouth Woods
+				Dartmouth Woods II
+				Davis Corner
+				Deacons Walk
+				Deakyneville
+				Deep Branch Farm
+				Deer Creek
+				Deer Run
+				Deerhurst
+				Deerwood
+				Del Haven Estates
+				Del Shire
+				Delaire
+				Delaney Corner
+				Delaplane Manor
+				Delaware City
+				Delaware Heights
+				Delaware Junction
+				Delmar
+				Delpark Manor
+				Delshire
+				Delwoods
+				Delwynn
+				Denton Manor
+				Denton Mills
+				Denton Woods Mobile Home Park
+				Derby Shores
+				Derbywood
+				Devon
+				Devonshire
+				Devonshire Woods
+				Dewey Beach
+				Dexter Corners
+				Dinahs Corner
+				Dobbinsville
+				Dodds Addition
+				Dogwood Acres
+				Dogwood Acres Mobile Home Park
+				Dogwood Meadows
+				Dogwood Park Mobile Home Park
+				Donas Landing
+				Donovan Development
+				Douglas Forge
+				Dover
+				Dover East Estates Mobile Home Park
+				Dover Heights
+				Doverbrook Gardens
+				Downs Chapel
+				Dragon Run Terrace Mobile Home Park
+				Drawbridge
+				Driftwood Village Mobile Home Park
+				Drummond North
+				Drummond Ridge
+				Dublin Hill
+				Duck Creek Landing
+				Dunbarton Oaks Apartments
+				Duncan Glen
+				Duncan Village
+				Duncan Woods
+				Dunleith
+				Dunlinden Acres
+				Dupont
+				Dupont Manor
+				Duponts Landing
+				Duross Heights
+				Dutch Acres
+				Dutch Neck Crossroads
+				Dutch Neck Farms
+				Eagle Heights
+				Eagles Nest
+				Eagles Nest Landing
+				East Lake Gardens
+				East Mill Run
+				East Minquadale
+				East Side Village
+				Eastburn Acres
+				Eastburn Farms
+				Eastburn Heights
+				Eastman Heights
+				Eberton
+				Ebright
+				Eden Park Gardens
+				Eden Roc
+				Edenridge
+				Edge Hill
+				Edgebrooke
+				Edgehill
+				Edgehill Acres
+				Edgemoor
+				Edgemoor Gardens
+				Edgemoor Terrace
+				Edgewater
+				Edgewood Hills
+				Edgewood Manor
+				Edward Cordrey Subdivision
+				Edwardsville
+				Ellendale
+				Elliots Addition
+				Elmhurst
+				Elmwood
+				Elsmere
+				Enchanted Acres Mobile Home Park
+				English Village
+				Evans Park Mobile Home Park
+				Everetts Corner
+				Evergreen Acres
+				Evergreen Farms
+				Fairfax
+				Fairfax Farms
+				Fairfield
+				Fairfield Crest
+				Fairfield Farms
+				Fairmount
+				Fairthorne
+				Fairview
+				Fairway Falls
+				Fairway Villas
+				Fairwinds
+				Fairwinds Mobile Home Park
+				Farm View Park
+				Farmington
+				Farnhurst
+				Faulkland
+				Faulkland Heights
+				Faulkland Woods
+				Federalsburg
+				Felton
+				Felton Heights
+				Felton Manor
+				Felton Station
+				Fennimore Landing
+				Fenwick Estates
+				Fenwick Island
+				Fenwick Landing
+				Fenwick West
+				Fern Hook
+				Fernwood
+				Ferry Landing
+				Fieldsboro
+				Fieldwood Addition
+				Fish Hook Mobile Home Court
+				Fisher Landing
+				Fisher Mill Park
+				Fishermans Park Mobile Home Park
+				Five Points
+				Flea Hill
+				Fleming Corners
+				Flemings Landing
+				Florence
+				Foord Landing
+				Fords Corner
+				Forest
+				Forest Brook Glen
+				Forest Gate
+				Forest Hills Park
+				Forest Landing
+				Forest Park
+				Forest Park Mobile Home Park
+				Forrest Grove Village Mobile Home Park
+				Forwood
+				Foulk Woods
+				Four Seasons
+				Four Seasons Park
+				Fox Chase Park
+				Fox Hall
+				Fox Hollow
+				Fox Meadow
+				Fox Run Mobile Home Park
+				Fox Woods
+				Foxfield
+				Foxfire
+				Foxfire Meadow
+				Foxhall Courtside
+				Frankford
+				Frasers Corner
+				Frederica
+				Frederick Acres
+				Fredericks Addition
+				Fredrick Lodge Mobile Home Park
+				Freeman Corner
+				Frenchs Mobile Homes
+				Friedel Property
+				Galewood
+				Gams Crest
+				Gander Hill
+				Gardenside
+				Garfield Park
+				Garrison Lake Green
+				Garton Development
+				Garwood Estates
+				Gateway Farms
+				Generals Green
+				Generals Greene
+				George Meyers Development
+				Georgetown
+				Georgian Terrace
+				Glasgow
+				Glasgow Court
+				Glasgow Pines
+				Glen Berne Estates
+				Glendale
+				Glenside Farms
+				Glenville
+				Goldsboro
+				Goose Point
+				Gordon Heights
+				Gordy Estates
+				Goslee Mill
+				Gran-ville
+				Granada Mobile Home Park
+				Grandview Meadows
+				Granogue
+				Gravel Hill
+				Graylyn Crest
+				Great Good Place
+				Great Oak Farms
+				Green Acres
+				Green Acres Mobile Home Park
+				Green Briar
+				Green Briar Court
+				Green Hill
+				Green Meadow
+				Green Spring
+				Green Spring Farm
+				Green Valley
+				Greenbank
+				Greenbridge
+				Greenlea Acres
+				Greenleaf Manor
+				Greenmount
+				Greens Corner
+				Greens Landing
+				Greens of Dover
+				Greenshire
+				Greentop
+				Greentree
+				Greenview
+				Greenville
+				Greenville Development
+				Greenville Manor
+				Greenville Place
+				Greenwood
+				Greenwood Gardens
+				Grendon Farms
+				Greylag
+				Gristmill Woods
+				Grubbs Corner
+				Grubbs Landing
+				Gull Point
+				Gulls Nest
+				Gum Crossroads
+				Gumboro
+				Gumwood
+				Guyencourt
+				Gwinhurst
+				H and H Corner
+				Hall Estates
+				Hamilton Park
+				Hammville
+				Hampton
+				Hanbys Corner
+				Harbeson
+				Hardscrabble
+				Hares Corner
+				Harlemtown
+				Harmon
+				Harmony
+				Harmony Hills
+				Harrington
+				Harrison Knoll
+				Hartly
+				Hasting Estates Mobile Home Park
+				Hastings Park Mobile Home Park
+				Haven Lake Estates
+				Haverford
+				Hay Point Landing
+				Hayden Park
+				Hazeldell
+				Hazelwood
+				Hazlettville
+				Hazzard Landing
+				Hearns Crossroads
+				Hearns Mill
+				Heather Valley
+				Heather Woods
+				Heatherbrooke
+				Heatherfield
+				Heatherton
+				Hedgerow Hollow Mobile Home Park
+				Helms Landing
+				Henderson Heights
+				Henlopen Acres
+				Henlopen Keys
+				Henry Clay
+				Heritage
+				Heritage Farms
+				Heritage Village
+				Heronwood
+				Herring Creek Estates
+				Herring Landing
+				Hickman
+				Hickman Village Estates Mobile Home Park
+				Hickory Dale Acres
+				Hickory Hill
+				Hickory Ridge
+				Hickory Woods
+				Hidden Acres
+				Hidden Pond
+				Hideaway Acres
+				High Point
+				High Point Mobile Home Park
+				Highland Acres
+				Highland Meadows
+				Highland Terrace
+				Highland West
+				Highland Woods
+				Hill N Dale
+				Hillcrest
+				Hillcrest Acres Mobile Home Park
+				Hilldale
+				Hillendale
+				Hillside Acres
+				Hillside Heights
+				Hillstream
+				Hilltop Acres
+				Hilltop Manor
+				Hitchens Crossroads
+				Hoagland Subdivision
+				Hoars Addition
+				Hockessin
+				Hockessin Hunt
+				Hockessin Park
+				Holiday Acres
+				Holiday Estates
+				Holiday Hills
+				Holiday Pines
+				Holiday Pines Mobile Home Park
+				Hollandsville
+				Holletts Corners
+				Hollingsworth Development
+				Holloway Terrace
+				Holly Forest
+				Holly Hill
+				Holly Hills
+				Holly Knoll
+				Holly Lake Mobile Home Park
+				Holly Leaf Estates Mobile Home Park
+				Holly Oak
+				Holly Oak Mobile Home Park
+				Holly Oak Terrace
+				Holly Pines Mobile Home Park
+				Holly Ridge
+				Hollybrook Apartments
+				Hollymount
+				Hollyville
+				Hollyville Acres
+				Hollywoods Park
+				Homestead Mobile Home Park
+				Hopkins Corners
+				Horns Mobile Village Mobile Home Park
+				Horseshoe Hill
+				Hourglass
+				Houston
+				Howard Manor
+				Hudson Crossroads
+				Hudson Pond Acres
+				Hudson Trails
+				Hughes Crossing
+				Hughes Crossroads
+				Hummingbird Hills
+				Hunters Point
+				Hunters Ridge
+				Hunting Hills
+				Huntley
+				Huntley Circle
+				Hurley Heights
+				Hyde Park
+				I and I Mobile Home Park
+				Idela
+				Independence Village
+				Indian Beach
+				Indian Cove
+				Indian Field
+				Indian Harbor Villa
+				Indian Landing Mobile Home Park
+				Indian Landing North Mobile Home Park
+				Indian Mission
+				Indian River Acres
+				Indiantown Farms
+				Iron Gates
+				Iron Hill
+				Iron Hills Apartments
+				Irons Lane Landing
+				Israel Haul
+				Ivy Ridge
+				Jacksons Ridge
+				Jacobs Crossroads
+				Jamestowne
+				Jamisons Corner
+				Jarrell Farms
+				Jefferson Crossroads
+				Jefferson Farms
+				Jimtown
+				John Char Estates
+				John Marsh Landing
+				Johnson
+				Johnson Development
+				Johnson Farm
+				Jones Crossroads
+				Kawan Acres
+				Keen-Wik
+				Keeney
+				Keenwik Sound
+				Keenwik West
+				Kenmore Park
+				Kent Acres
+				Kentbourne II
+				Kentmere
+				Kenton
+				Kerseys Evergreen Acres
+				Kershaw Acres
+				Keystone
+				Kiamensi
+				Kiamensi Gardens
+				Kiamensi Heights
+				Killens Addition
+				Kimberly Chase
+				Kimberton
+				Kings Cliff Mobile Home Park
+				Kings Croft
+				Kings Crossroads
+				Kings Grant
+				Kings Ridge
+				Kings Second Addition
+				Kinston Acres
+				Kirkwood
+				Kirkwood Gardens
+				Kitts Hummock
+				Klair Estate
+				Knotts Landing
+				Knowles Crossroads
+				KynLyn Apartments
+				Laffertys Corner
+				Lake Forest Mobile Home Est
+				Lake Pines
+				Lake Shores
+				Lakecroft II
+				Lakeshore Village
+				Lakeside Estates Mobile Home Park
+				Lakeside Manor
+				Lakeview Estates
+				Lakewind
+				Lakewind III
+				Lakewood
+				Lakewood Development
+				Lamatan I
+				Lamatan II
+				Lambeth Riding
+				Lancashire
+				Lancaster Court
+				Lancaster Village
+				Land of Pleasant Living
+				Landenberg Junction
+				Landers Park
+				Landlith
+				Lantern Lane Mobile Villa
+				Larchmont
+				Larence Cordrey Subdivision
+				Latimer Estates
+				Laurel
+				Laurel Bend
+				Laurel Creek
+				Laurel Mobile Home Park
+				Lauren Farms
+				Lawndale
+				Layton Corners
+				Lazy Lagoon Mobile Home Park
+				Lazy Lake
+				Lebanon
+				Leedon Estates
+				Leipsic
+				Leisure Point Mobile Home Park
+				Lewes
+				Lewes Beach
+				Lexington Mill
+				Liberty
+				Liftwood
+				Lightfoots Furnace
+				Limestone Acres
+				Limestone Gap
+				Limestone Gardene
+				Limestone Hills
+				Lincoln
+				Lincoln Park
+				Lincoln Village
+				Lindamere
+				Lindell Square
+				Lindell Village
+				Linden Green Apartment
+				Linden Heath
+				Linden Hill
+				Linden Square
+				Lingo Estate Mobile Home Park
+				Lingo Landing
+				Little Acres
+				Little Baltimore
+				Little Creek
+				Little Creek Landing
+				Little Heaven
+				Little Jersey
+				Llangollen Estates
+				Lochwood
+				Locustville
+				Log Cabin Mobile Home Park
+				Log Run
+				London Village
+				Lone Star Mobile Home Park
+				Long Acres
+				Long Neck
+				Long Neck Village Mobile Home Park
+				Long Point Landing
+				Longview Farms
+				Longwood
+				Lords Corner
+				Lorewood Grove
+				Loveville
+				Lowe
+				Lower Moores Corner
+				Lowes Crossroads
+				Lucky Estates
+				Lumbrook
+				Lums Pond Estates II
+				Lynch Heights
+				Lyndalia
+				Lynford
+				Lynn Lee Village Mobile Home Park
+				Lynnfield
+				Madelyn Gardens
+				Magnolia
+				Magnolia Mobile Home Park
+				Magnolia Shores
+				Mahan
+				Mallard Point
+				Mallard Pond
+				Mallards Run
+				Manchester Square
+				Manette Heights
+				Manley
+				Manor Park
+				Manor Park Apartments
+				Maplechase
+				Maplecrest
+				Maplehurst
+				Maplewood
+				Marabou Meadows
+				Marker Estates
+				Markeys Mobile Home Park
+				Marshallton
+				Marshallton Green
+				Marshallton Heights II
+				Marshtown
+				Marvels Crossroads
+				Marydale
+				Marydel
+				Masonicville
+				Massey Landing
+				Mastens Corner
+				Mastens Heights Mobile Home Park
+				Mayfair
+				Mayfield
+				Mayview Manor
+				McClellandville
+				McDaniel Heights
+				McDonalds Crossroads
+				McDonough
+				McKnatt Corners
+				McNichol Place
+				Meadow Acres
+				Meadow Glen
+				Meadow Ridge
+				Meadow Vista
+				Meadowbrook
+				Meadowbrook Acres
+				Meadowbrook Farms
+				Meadowbrook Farms South
+				Meadowood
+				Meadows
+				Mechanicsville
+				Meeting House Hill
+				Meeting House Meadows
+				Melanie
+				Melbourne Manor
+				Melody Meadows
+				Melody Meadows II
+				Melvin Crossroads
+				Melvins
+				Melvins Crossroads
+				Mendenhall Village
+				Mermaid
+				Mermaid Run
+				Messick Development
+				Meyle Estates
+				Middleboro Crest
+				Middleboro East
+				Middleboro Manor
+				Middleford
+				Middleford Acres
+				Middlesex Beach
+				Middletown
+				Midnight Thicket
+				Midvale
+				Midway
+				Midway Estates
+				Midway Park
+				Midway Park Subdivision
+				Mifflin Meadows
+				Milford
+				Milford Crossing
+				Milford Crossroads
+				Milford Meadows
+				Mill Creek
+				Mill Creek Manor
+				Mill Pond Acres
+				Mill Run Acres
+				Millcreek
+				Miller Creek Park Mobile Home Park
+				Millpond Acres
+				Millsboro
+				Millside
+				Milltown
+				Millville
+				Milton
+				Minners Corners
+				Minquadale
+				Minquadale Trailer Village
+				Mispillion Light
+				Mission
+				Misty Pines
+				Mitchell Estates
+				Mobile Gardens Mobile Home Park
+				Mockingbird Hill
+				Mockingbird Hills
+				Monroe Park
+				Montchan
+				Montchanin
+				Montclare
+				Monterey Farms
+				Montgomery Woods
+				Moores Acres
+				Moores Corner
+				Moores Lake Development
+				Morris Estates
+				Morris Mill
+				Mount Cuba
+				Mount Joy
+				Mount Pleasant
+				Mount Pleasant Mobile Home Park
+				Mulberry Landing
+				Munsee
+				Murray Estates
+				Murrays Corner
+				Murrays Development
+				Murrays Haven
+				Murry Landing
+				Naaman
+				Naamans Gardens
+				Naamans Manor
+				Nandains Landing
+				Nanticoke Acres
+				Nanticoke Estates
+				Nanticoke Farms
+				Nanticoke Shores Mobile Home Park
+				Nassau
+				Nassau Park Mobile Home Park
+				Nentego Manor
+				New Castle
+				New Market
+				New Market Village Mobile Home Park
+				Newark
+				Newark Oaks
+				Newell Creek
+				Newkirk Estates
+				Newport
+				Newport Heights
+				Newton Woods
+				Newtons Acres
+				Nonatum Mills
+				Normandy Manor
+				Normansmeade
+				North Hills
+				North Milford (historical)
+				North Minister
+				North Seaford Heights
+				North Shores
+				North Shores Addition
+				North Star
+				North Star Addition
+				Northcrest
+				Northhurst
+				Northridge
+				Northshire
+				Northwood
+				Nottingham Green
+				Nottingham Manor
+				Oak Acres
+				Oak Drive
+				Oak Forest Estates
+				Oak Forest Mobile Home Park
+				Oak Grove
+				Oak Hollow
+				Oak Lane Manor
+				Oak Meadows Mobile Home Park
+				Oak Orchard
+				Oak Orchard West Mobile Home Park
+				Oak Point Acres
+				Oak Shadows
+				Oakdale
+				Oakland
+				Oakley
+				Oakmont
+				Oaknoll
+				Oaktree Apartments
+				Oakwood Hills
+				Ocean View
+				Ocean Village
+				Ocean Way Estates
+				Odessa
+				Odessa Heights
+				Ogletown
+				Old Furnace
+				Old Landing
+				Old Landing Woods
+				Old Mill Acres
+				Old Mill Manor
+				Omar
+				Orchard Acres
+				Orchard Manor
+				Otters Run
+				Overbrook
+				Overbrook Shores
+				Overlook Colony
+				Overview Gardens
+				Owens
+				Owls Nest
+				Oxyoke Mobile Home Park
+				Oyster Rocks
+				Packing House Corner
+				Paden Corner
+				Padens Corner Mobile Home Park
+				Palm Springs Manor
+				Palmer Park
+				Paris Villa
+				Paris Woods
+				Parkridge at Bellevue
+				Parkside
+				Parkwood
+				Patterson Place Mobile Home Park
+				Patty Cannon Estates
+				Pearson Grove
+				Pearsons Corner
+				Peikin Park
+				Pembrey
+				Penarth
+				Pencader
+				Pencader Farms
+				Pencader Village
+				Pendrew Manor
+				Penn Acres
+				Penn Acres South
+				Penn Rose
+				Penndrew Manor
+				Pennington
+				Pennington Farm
+				Pennock
+				Pennwood
+				Penny Acres
+				Pennyhill
+				Pennyhill Terrace
+				Penrock
+				Pentland
+				Pepper
+				Pepper Ridge
+				Pepper Ridge Mobile Home Park
+				Pepperbox
+				Peppers Landing
+				Persimmon Park Place
+				Perth
+				Petersburg
+				Pharsalia
+				Pheasant Point II
+				Phil Mar Estates
+				Phillips Heights
+				Phillips Hill
+				Pickwick Acres
+				Piermont Woods
+				Pierson Farms
+				Pigeon Run
+				Pike Creek
+				Pike Creek Valley
+				Pilottown
+				Pine Grove
+				Pine Lake Development
+				Pine Lodge Addition
+				Pine Manor Estates
+				Pine Ridge
+				Pine Swamp Corner
+				Pine Tree Corners
+				Pine Valley Farms
+				Pine Valley Mobile Home Park
+				Pine Water Farm
+				Pine Water Landing
+				Pinecrest
+				Pinepoint Mobile Home Park
+				Pinetown
+				Pinewood Acres Mobile Home Park
+				Piney Glade
+				Piney Grove
+				Piney Grove Manor
+				Piney Point
+				Plantation Crossing
+				Plantation Park II Mobile Home Park
+				Planters Woods
+				Pleasant Hill
+				Pleasant Hills
+				Pleasant Woods
+				Pleasanton Acres
+				Pleasantville
+				Plum Run
+				Plymouth
+				Point Breeze
+				Pond Acres
+				Pondside Acres
+				Port Mahon
+				Port Penn
+				Porter
+				Porter Square
+				Portsville
+				Postles Corner
+				Pot Nets West
+				Pots Nets North Mobile Home Park
+				Powelton
+				Presidential Courts
+				Prices Corner
+				Primehook Beach
+				Prince George Acres
+				Princeton Estates
+				Princeton Wood II
+				Probst Mobile Home Park
+				Pusey Crossroads
+				Pusey Development
+				Quail Ridge
+				Quails Nest
+				Quaker Hill
+				Quakers Heights
+				Quakertown
+				Quarryville
+				Queens Quest
+				Quillens Point
+				Quintynnes
+				Radnor Green
+				Raintree Village
+				Ralphs
+				Ramble Woods
+				Rambleton Acres
+				Ravenwood
+				Records Estates
+				Red Hill Manor
+				Red Lion
+				Red Mill Farms
+				Red Mills Farms
+				Redden
+				Redden Crossroads
+				Redmont
+				Reeves Crossing
+				Rehak
+				Rehoboth Beach
+				Rehoboth Manor
+				Rehoboth Shores Mobile Home Park
+				Reybold
+				Reynard Crossing
+				Reynolds Mill
+				Richard Heights
+				Richardson Estates
+				Richardson Park
+				Ricland Heights
+				Ridgewood
+				Ridgewood Manor
+				Rising Sun
+				Rising Sun Mobile Home Park
+				River Breeze
+				River Village II Mobile Home Park
+				River Village Mobile Home Park
+				River-view Acres
+				Riverdale
+				Riverdale Estates Mobile Home Park
+				Riveredge Park
+				Rivers End
+				Riverside
+				Riverside Addition
+				Riverview
+				Riverview Gardens
+				Robbins
+				Robertson Landing
+				Robinson Landing
+				Robinsonville
+				Robscott Manor
+				Rock Manor
+				Rockland
+				Rockland Hills
+				Rockland West
+				Rockland Woods
+				Rockwood Hills
+				Rockwood Woods
+				Rodney Village
+				Rodric Village
+				Roesville
+				Rogers Corners
+				Rogers Development
+				Rogers Haven
+				Rogers Manor
+				Rolling Hills
+				Rolling Meadows
+				Rolling Park
+				Rolling Ridge
+				Rose Hill Gardens
+				Rose Valley Estates
+				Rosegate
+				Roselle Terrace
+				Roseville Park
+				Ross
+				Roxana
+				Roxford
+				Royal Grant
+				Runnymeade
+				Ruth Harbor
+				Ruthby
+				Rutherford
+				Ryans Run
+				Sabarto East
+				Saienni Farms
+				Saint George
+				Saint Georges
+				Saint Georges Heights
+				Saint Johnstown
+				Salem Village
+				Salem Woods
+				Sand Dunes Village
+				Sand Hill
+				Sandtown
+				Sandy Beach
+				Sandy Brae
+				Sandy Fork
+				Sandy Landing
+				Sassafras Landing
+				Saulsbury Switch
+				Savannah Place
+				Scarborough Park
+				Schoolview
+				Schultie Crossroads
+				Scottfield
+				Scotts Corner
+				Scottsdale Park Mobile Home Park
+				Scrap Tavern Crossroads
+				Sea Air Mobile Home Park
+				Sea Colony
+				Sea Colony East
+				Sea Del Estates
+				Sea Dunes
+				Sea Farers Village
+				Sea Spray Village
+				Seabreak
+				Seabreeze
+				Seaford
+				Seaford Heights
+				Seaside Villas
+				Seatowne
+				Sedgley Farms
+				Seeneytown
+				Selbyville
+				Seton
+				Seton Villa
+				Seven Hickories
+				Shady Acres Mobile Home Park
+				Shady Dell Mobile Home Park
+				Shady Grove
+				Shady Lane
+				Shady Park Mobile Home Park
+				Shady Rest Park
+				Shady Ridge
+				Shady Side
+				Shadybrook Farms
+				Shaffer Property
+				Shaft Ox Corner
+				Sharpley
+				Shawnee
+				Shawnee Acres
+				Shawns Hideaway Mobile Home Park
+				Shaws Corner
+				Sheep Pen Landing
+				Sheffield Manor
+				Shell Landing
+				Shellburne
+				Shelley Farms
+				Shenandoah
+				Sheridan Square
+				Sheriden
+				Sherwood
+				Sherwood Acres
+				Sherwood Forest
+				Sherwood Forest Mobile Home Park
+				Sherwood Park
+				Shingle Landing
+				Shipley Chase
+				Shipley Heights
+				Shipley Ridge
+				Shipley Woods
+				Shockley Heights
+				Shockley Manor
+				Shortly
+				Shorts Corner
+				Shorts Landing
+				Shuffelt Acres
+				Silver Brook
+				Silver Lake Manor
+				Silver Lake Shores
+				Silver Maple Mobile Home Park
+				Silver Springs
+				Silver View Farm
+				Silverbrook
+				Silverbrook Gardens
+				Silverside
+				Silverside Heights
+				Silview
+				Simonds Gardens
+				Six Forks
+				Skyline Crest
+				Skyline Orchard
+				Skyline Ridge
+				Slaughter
+				Slaughter Beach
+				Sloan Landing
+				Smith Crossroads
+				Smith Hill
+				Smith Landing
+				Smith Mill Farms
+				Smithfield Acres
+				Smyrna
+				Smyrna Landing
+				Snug Harbor
+				Snug Hill
+				South Bethany
+				South Bowers
+				South Milford (historical)
+				South Wilmington
+				Southwood
+				Southwood Acres Mobile Home Park
+				Spring Brook Forest
+				Spring Hill
+				Spring Lake
+				Spring Valley
+				Springfield Crossroads
+				Springfield Farms Addition
+				Spruance City
+				Stage Mobile Home Village
+				Stage Road Development
+				Stanley Manor
+				Stanton
+				Stanton Estates
+				Star Hill
+				Star Hill Village
+				Star Landing
+				Stave Landing
+				Staytonville
+				Steamboat Landing
+				Steele Acres
+				Stirrup Farms
+				Stockdale
+				Stockley
+				Stockton
+				Stonehaven
+				Stoneridge
+				Stones Throw
+				Stony Crest
+				Stratford
+				Strawberry Landing
+				Strimels Mobile Home Park
+				Stuyvesant Hills
+				Sugar Loaf Chase
+				Summer Hill
+				Summerfield Village
+				Summit Bridge
+				Summit View
+				Sunnybrae
+				Sunnyside Acres
+				Sunnyside Village
+				Surrey Park
+				Susan Beach Corner
+				Sussex Estates
+				Sussex Shores
+				Sussex Woods
+				Swain Acres
+				Swallow Hill
+				Swanendael
+				Swann Keys
+				Swanwyck
+				Swanwyck Estates
+				Swanwyck Gardens
+				Sweet Briar Mobile Home Park
+				Sycamore
+				Sycamore Farms
+				Sycamore Gardens
+				Talley Brook
+				Talley Farms
+				Talleys Corner
+				Talleyville
+				Tavistock
+				Taylor Estates
+				Taylors Corner
+				Taylors Gut Landing
+				Taylortown
+				Teaberry Woods
+				Tenby Chase
+				Tent
+				Tessie-Maringola Estates
+				Thatchers Landing
+				The Beeches
+				The Blades
+				The Bluffs
+				The Cedars
+				The Elms
+				The Flying Dutchman Mobile Home Park
+				The Glade
+				The Hamlet
+				The Heath
+				The Highlands
+				The Hills of Skyline
+				The Island
+				The Landing
+				The Narrows
+				The Oaks
+				The Orchard
+				The Pines of Pike Creek
+				The Plantations
+				The Reservation
+				The Shoals
+				The Timbers
+				The Villa
+				The Village at Wild Quail
+				The Village of Drummond Hill
+				The Willows
+				The Woods
+				The Woods on Herring Creek
+				Thomas Landing
+				Thompson
+				Thompsonville
+				Thorntown
+				Three Seasons Mobile Home Park
+				Tidbury Creek Park Mobile Home Park
+				Tidbury Manor
+				Timber Ridge
+				Todd Estates
+				Tolham Estates
+				Top of the Wedge
+				Tower Shores
+				Towne Point
+				Townsend
+				Townsend Fields
+				Tree Top Valley
+				Trepagnier
+				Tri-State Mobile Home Park
+				Trinity
+				Tru Vale Acres
+				Truitts Midway Development
+				Truitts Park
+				Tuckahoe Acres
+				Turnkey
+				Tussock Pond
+				Tuxedo Park
+				Twin Eagle Farms
+				Twin Oaks
+				Tybouts Corner
+				Tybrook
+				Underwood Corner
+				Upcounty Mobile Home Park
+				Valley Run
+				Valley View
+				Vandyke
+				Varlano
+				Vaughn Landing
+				Vernon
+				Victor E Hurley Estates
+				Victoria Woods
+				Village at Chestnut Ridge
+				Village of Cantebury
+				Village of Garrison Lake
+				Village of Rocky Run
+				Village of Westover
+				Vintage Village
+				Viola
+				Viola Woods
+				Voshell Cove
+				Voshell Mill
+				Walker
+				Walkers Acres
+				Walnut Hill
+				Walnut Ridge
+				Waples
+				Waples Pond Acres
+				Ward
+				Warren Landing
+				Warrens Mobile Home Park
+				Warrington Manor
+				Warwick
+				Warwick Park
+				Washington Heights
+				Washington Park
+				Waterview Acres
+				Wawaset Park
+				Ways Corner
+				Weatherhill Farms
+				Webb Landing
+				Webb Manor
+				Weber Tract
+				Webster Farm
+				Wedge Hills
+				Wedgewood
+				Weldin Farms
+				Weldin Park
+				Weldin Woods
+				Wellington Hills
+				Wellington Woods
+				Welshire
+				Wembly
+				Wescoats Corner
+				West Bay Park Mobile Home Park
+				West Beach
+				West Dover Mobile Home Park
+				West Farm
+				West Haven
+				West Meadow
+				West Minquadale
+				West Park
+				West Rehoboth
+				West Riding
+				West Shore
+				Westbrite
+				Westerlee
+				Westerloo
+				Westfield
+				Westgate Farms
+				Westminster
+				Westmont
+				Westover Hills
+				Westview
+				Westwood Manor
+				Westwoods
+				Wexford Chapelcroft
+				Whaleys Corners
+				Whaleys Crossroads
+				Wheatleys Pond
+				Whigville
+				Whilton
+				Whispering Pines Mobile Home Park
+				White Briar
+				White Creek Manor
+				White Hall
+				White Horse Farm
+				White House Beach Mobile Home Park
+				White House Landing
+				White Oak Farms
+				White Oak Mobile Home Park
+				White River Estates
+				White Village
+				Whitehall Crossroads
+				Whitehall Landing
+				Whiteleysburg
+				Whites Village
+				Whitesville
+				Wickham Woods
+				Wickwood
+				Wiggins Mill
+				Wilgus Subdivision
+				William Ritter Manor
+				Williamhurst
+				Williamsburg
+				Williamsburg Court
+				Williamsville
+				Willow Grove
+				Willow Run
+				Wilmington
+				Wilmington Manor
+				Wilmington Manor Gardens
+				Wilmont
+				Wilson
+				Wiltbank Landing
+				Wind Song Farms
+				Winding Creek Village
+				Windsor Hills
+				Windward
+				Windy Bush
+				Windy Hills
+				Windy Mill Park
+				Windy Way
+				Winmill
+				Winterbury
+				Winterset Farms
+				Winterthur
+				Wisseman Acres
+				Wood Branch
+				Wood Mill
+				Wood Ridge
+				Wood Wards Addition
+				Woodacres
+				Woodbine
+				Woodbrook
+				Woodbury
+				Woodcreek
+				Woodcrest
+				Woodcrest Estates
+				Wooddale
+				Wooded Acres
+				Wooden Bridge
+				Woodenhawk
+				Woodfield
+				Woodland
+				Woodland Beach
+				Woodland Court Mobile Home Park
+				Woodland Heights
+				Woodland Park
+				Woodland Station
+				Woods Edge
+				Woods Haven
+				Woods Manor
+				Woods Manor East
+				Woodshade
+				Woodside
+				Woodside Hills
+				Woodside Manor
+				Woodstock Court
+				Woodstream Gardens
+				Worthland
+				Wrange Hill Estates
+				Wrangle Hill
+				Wrights Crossroads
+				Wycliff
+				Wynleigh
+				Wynn Wood
+				Wynnewood
+				Wyoming
+				Wyoming Mills
+				York Beach
+				York Towne
+				Yorklyn
+				Yorklyn Ridge
+				Yorkshire
+				Zoar
+				Zurkow Development
+			Post Office (DE)
+				Bear Post Office
+				Bethany Beach Post Office
+				Bethany Beach Post Office (historical)
+				Bethel Post Office
+				Brandywine Springs Post Office (historical)
+				Bridgeville Post Office
+				Camden Wyoming Post Office
+				Cheswold Post Office
+				Dagsboro Post Office
+				Dewey Beach Post Office (historical)
+				Ellendale Post Office
+				Felton Post Office
+				Frankford Post Office
+				Georgetown Post Office
+				Greenwood Post Office
+				Harbeson Post Office
+				Harrington Post Office
+				Hartly Post Office
+				Hockessin Post Office
+				Houston Post Office
+				Kenton Post Office
+				Lancaster Avenue Station Post Office
+				Laurel Post Office
+				Lewes Post Office
+				Lincoln Post Office
+				Little Creek Post Office
+				Magnolia Post Office
+				Milford Post Office
+				Millsboro Post Office
+				Milton Post Office
+				New Castle Post Office
+				Newark Post Office
+				Oak Orchard Post Office (historical)
+				Ocean View-Millville-Clarksville Post Office
+				Rehoboth Beach Post Office
+				Selbyville Post Office
+				Smyrna Post Office
+				Talleyville Post Office
+				Townsend Post Office
+				Viola Post Office
+				Woodside Post Office
+			Reservoir (DE)
+				Abbotts Pond
+				Andrews Lake
+				Bark Pond
+				Bear Swamp Pool
+				Becks Pond
+				Bellevue Lake
+				Betts Pond
+				Blackbird Pond
+				Blairs Pond
+				Burton Pond
+				Chipman Pond
+				Clendaniel Pond
+				Collins Pond
+				Concord Pond
+				Cool Spring Reservoir
+				Coursey Pond
+				Cubbage Pond
+				Derby Pond
+				Diamond Pond
+				Duck Creek Pond
+				Edgemoor Reservoir
+				Fleetwood Pond
+				Garrisons Lake
+				Goslee Mill Pond
+				Griffith Lake
+				Haven Lake
+				Hearns Pond
+				Hoopes Reservoir
+				Horseys Pond
+				Hudson Pond
+				Hunters Millpond
+				Ingram Pond
+				Jenkins Pond
+				Killen Pond
+				Lake Como
+				Marshall Millpond
+				Masseys Millpond
+				McColley Pond
+				McGinnis Pond
+				Millsboro Pond
+				Moores Lake
+				Morris Millpond
+				Mud Millpond
+				Nemours Pond
+				New Castle Reservoir
+				Noxontown Lake
+				Patricks Pond
+				Porter Reservoir
+				Portsville Millpond
+				Raymond Pool
+				Records Pond
+				Red Mill Pond
+				Reynolds Pond
+				Shadowbrook Pond
+				Shallcross Lake
+				Shearness Pool
+				Silver Lake
+				Smalleys Pond
+				Sunset Lake
+				Swiggetts Pond
+				Trap Pond
+				Trussum Pond
+				Tubmill Pond
+				Voshell Pond
+				Wagamons Pond
+				Waples Pond
+				White Swan Lake
+				Wiggins Mill Pond
+				Wileys Pond
+				Williams Pond
+				Wyoming Lake
+			School (DE)
+				Albert Einstein Academy
+				Albert H Jones Elementary School
+				Aletheia School
+				Alexis I DuPont High School
+				Alexis I DuPont Middle School
+				Alfred I duPont Institute
+				Apple Grove Amish School
+				Archmere Academy
+				Asbury Methodist Kindergarten
+				Austin D Baltz Elementary School
+				Bancroft Elementary School
+				Bank of America Building
+				Bayard Elementary School
+				Beebe Hospital School of Nursing
+				Bellmeyer Honors House
+				Benjamin Banneker Elementary School
+				Blades School
+				Blocksom School
+				Brader School
+				Brandywine High School
+				Brandywine Manufacturers Sunday School
+				Brandywood Elementary School
+				Brick Mill Elementary School
+				Broadkill School
+				Brookside Elementary School
+				Buttonwood School
+				Caesar Rodney High School
+				Caesar Rodney Junior High School
+				Cape Henlopen Junior High School
+				Caravel Academy
+				Carrcroft Elementary School
+				Carrie Downie Elementary School
+				Casimir Pulaski Elementary School
+				Castle Hills Elementary School
+				Cedar Grove School
+				Cedar Hill School
+				Cedar Neck School
+				Central Christian School
+				Central Middle School
+				Charles W Bush School
+				Christ Our King School
+				Christian Tabernacle Academy
+				Christiana High School
+				Christiana-Salem Elementary School
+				Claymont High School
+				Clayton Elementary School
+				Colwyck Elementary School
+				Colwyck Junior High School
+				Commodore Macdonogh Elementary School
+				Concord Christian Academy
+				Concord High School
+				Conrad High School
+				Conrad Middle School
+				Corbit School
+				Darley Road Elementary School
+				David G Fleagle School
+				David W Harlan Elementary School
+				De Lar Ware High School
+				Delaware City Elementary School
+				Delaware Colony State Training School
+				Delaware Learning Center
+				Delaware Preschool Association
+				Delaware State Police Academy
+				Delaware State University
+				Delaware Technical and Community College
+				Delcastle Technical High School
+				Delmar Junior-Senior High School
+				Dover Academy Elementary School
+				Dover Air Force Base Junior High School
+				Dover Christian School
+				Dover High School
+				Downes Elementary School
+				Downie School
+				Drawbridge School
+				Drew-Pyle Intermediate School (historical)
+				DuPont School
+				East Elementary Early Childhood Center
+				East Elementary School
+				East Millsboro Elementary School
+				Edgemoor School
+				Elbert School
+				Elizabeth W Murphey School
+				Evan G Shortlidge Elementary School
+				Fairview Elementary School
+				Fairwinds Baptist Church School
+				Faith City Christian School
+				Farnhurst School
+				Ferris Industrial School
+				First Baptist Christian School
+				Forest Oak Elementary School
+				Forwood Elementary School
+				Forwood Junior High School
+				Foulk Road School
+				Frankford Elementary School
+				Frederick Douglass Intermediate School
+				Frederick Douglass Stubbs School
+				Friendship School
+				General Henry H Arnold Elementary School (historical)
+				George Read Junior High School
+				George V Kirk Middel School
+				Georgetown Christian School
+				Georgetown Elementary School
+				Glasgow High School
+				Grace United Methodist Church Preschool
+				Gray School
+				Green Hill Amish School
+				Green Saint School
+				Greenwood Mennonite School
+				Greenwood School (historical)
+				Gunning Bedford Junior High School
+				H B DuPont College Center
+				H B Dupont Middle School
+				H O Brittingham Elementary School
+				Hanby Middle School
+				Harmon School
+				Harmony Farms Preschool
+				Harmony School (historical)
+				Harris Kiddie Kollege and Elementary School
+				Harry O Eisenberg Elementary School
+				Hartly Elementary School
+				Hickory Ridge Christian School
+				Highland Mennonite School
+				Highlands Elementary School
+				Hockessin Baptist School
+				Hockessin Friends School
+				Hockessin Montessori School
+				Hockessin School
+				Hockessin United Methodist School
+				Hodgson Vocational Technical School
+				Holy Angels School
+				Holy Cross Elementary School
+				Holy Cross High School
+				Holy Rosary School
+				Holy Spirit School
+				Honeysuckle School
+				Howard Career Center
+				Howard High School of Technology
+				Immaculate Heart of Mary School
+				Indian River High School
+				Iron Hill School
+				J. Ralph McIlvaine Elementary School
+				Jennie E Smith Elementary School
+				Jewish Community Center
+				John Bassett Moore Middle School
+				John Dickinson High School
+				John G Leach School
+				John R Downes Elementary School
+				Joseph H Douglass School
+				Joseph M McVey Elementary School
+				Kent Center Vocational Technical High School
+				Kent Christian Academy
+				Kent County Orthopedic School
+				Kent North Vocational Technical High School
+				Krebs School
+				Lake Forest East Elementary School
+				Lake Forest High School
+				Lake Forest North Elementary School
+				Lake Forest South Elementary School
+				Lake Forest South School
+				Laurel Central Middle School
+				Laurel Senior High School
+				Lewes Junior High School
+				Lockwood School (historical)
+				Lombardy Elementary School
+				Lord Baltimore Elementary School
+				Lore School
+				Loving Care Nursery School and Kindergarten, Incorporated
+				Lulu M Ross Elementary School
+				Major George S Welch Elementary School
+				Maple Lane Elementary School
+				Margaret S Sterck School
+				Marguerite H Burnett Junior High School
+				May B Leasure Elementary School
+				McKean High School
+				Meadowood School
+				Middletown High School
+				Mikros Christian School
+				Milford First Baptist Christian School
+				Milford Lakeview School
+				Milford Senior High School
+				Milton Federal Street Elementary (historical)
+				Milton Junior High School
+				Mount Friendship School
+				Mount Pleasant High School
+				Mount Pleasant Junior High School
+				Nanticoke School
+				Nassau School
+				Nellie Hughes Stokes Elementary School
+				New Castle Junior High School
+				New London Avenue School
+				Newark High School
+				North Laurel Elementary School
+				Oak Grove School
+				Oak Hill School
+				Oak Park Junior High School
+				Oak Point School
+				Ogletown Middle School
+				Olive School
+				Our Lady of Fatima School
+				Padua Academy
+				Phillip C Showell Elementary School
+				Pierre S Dupont Elementary School
+				Pilot School
+				R Elizabeth MacLary Elementary School
+				R.O.M.P. Discovery Center
+				Rabbits Ferry School
+				Read Junior High School
+				Red Lion Christian Academy
+				Redding Middle School
+				Rehoboth Beach Elementary School
+				Rehoboth Junior High School
+				Richard A Shields Elemantary School
+				Richardson Park Elementary School
+				Richardson Park Junior High School
+				River Road School
+				Robert C Gallaher Elementary School
+				Rose Hill School
+				Rose Valley School
+				Ross Point School
+				Saint Andrews School
+				Saint Anns School
+				Saint Anthony of Padua School
+				Saint Davids Episcopal Day School
+				Saint Edmonds Academy
+				Saint Edmonds School
+				Saint Elizabeths Elementary School
+				Saint Elizabeths High School
+				Saint Hedwigs Elementary School
+				Saint Helenas School
+				Saint John the Beloved School
+				Saint Joseph Industrial School (historical)
+				Saint Josephs School (historical)
+				Saint Mary Magdalen School
+				Saint Matthews School
+				Saint Michaels Day Nursery, Incorporated
+				Saint Pauls School
+				Saint Peters Cathedral School
+				Saint Peters School
+				Saint Thomas the Apostle School
+				Salesianum School
+				Sanford School
+				Seaford Central School
+				Seaford Christian Academy
+				Seaford Junior High School
+				Seaford Kindergarten
+				Seaford Senior High School
+				Selbyville Middle School
+				Shady Lane School
+				Sharon Temple Junior Academy
+				Shipley School
+				Shue-Medill School
+				Silver Lake Elementary School
+				Silverside School
+				Slaughter Neck School
+				Slaybaugh Hall
+				Smyrna Christian School
+				Smyrna Elementary School
+				Smyrna High School
+				Smyrna Middle School
+				Smyrna North Elementary School
+				South Elementary School
+				Southern Delaware School of the Arts
+				Springer Junior High School
+				Stanton Elementary School
+				Stanton Middle School
+				Star Hill Elementary School
+				Sunnybrook School for the Blind
+				Sussex Central Junior High School
+				Sussex Central Senior High School
+				Sussex County Vo-Tech Center
+				Temple Christian School
+				The Arden School
+				The Broadmeadow School
+				The Claremont School
+				The Elementary Workshop
+				The Elmar Schools, Incorporated
+				The Little School
+				The Pilot School, Incorporated
+				The Tatnall School
+				Thomas KcKean High School
+				Thomas Mckean High School
+				Tower Hill School
+				Towne Point Elementary School
+				Townsend Elementary School
+				Union School
+				University of Delaware
+				University of Delaware Alfred Lerner Hall
+				University of Delaware Alison Hall
+				University of Delaware Alison Hall West
+				University of Delaware Alumni Hall
+				University of Delaware Amy DuPont Music Building
+				University of Delaware Bayard Sharp Hall
+				University of Delaware Belmont Hall
+				University of Delaware Biotechnology Institute
+				University of Delaware Bob Carpenter Center
+				University of Delaware Brown Hall
+				University of Delaware Brown Laboratory
+				University of Delaware Caesar Rodney Complex
+				University of Delaware Caesar Rodney Complex Hall A
+				University of Delaware Caesar Rodney Complex Hall B
+				University of Delaware Caesar Rodney Complex Hall C
+				University of Delaware Caesar Rodney Complex Hall D
+				University of Delaware Caesar Rodney Complex Hall E
+				University of Delaware Caesar Rodney Complex Hall F
+				University of Delaware Carpenter Sports Building
+				University of Delaware Charles C Allen Jr Biotechnology Laboratory
+				University of Delaware Christiana East Tower
+				University of Delaware Christiana Towers Complex
+				University of Delaware Christiana West Tower
+				University of Delaware Clayton Hall
+				University of Delaware Colburn Laboratory
+				University of Delaware College of Marine Studies
+				University of Delaware Composites Manufacturing Science Laboratory
+				University of Delaware Conover Hall East
+				University of Delaware Conover Hall West
+				University of Delaware Dickinson Complex
+				University of Delaware Dickinson Complex Hall A
+				University of Delaware Dickinson Complex Hall B
+				University of Delaware Dickinson Complex Hall C
+				University of Delaware Dickinson Complex Hall D
+				University of Delaware Dickinson Complex Hall E
+				University of Delaware Dickinson Complex Hall F
+				University of Delaware Drake Hall
+				University of Delaware Early Learning Center
+				University of Delaware East Hall
+				University of Delaware Ed Fine Building
+				University of Delaware Elliott Hall
+				University of Delaware English Language Institute
+				University of Delaware Evans Hall
+				University of Delaware Ewing Hall
+				University of Delaware Experiment Station
+				University of Delaware Field House
+				University of Delaware Fischer Greenhouse Laboratory
+				University of Delaware George Evans House
+				University of Delaware George Read Hall
+				University of Delaware Gilbert Annex
+				University of Delaware Gilbert Complex Building A
+				University of Delaware Gilbert Complex Building B
+				University of Delaware Gilbert Complex Building C
+				University of Delaware Gilbert Complex Building D
+				University of Delaware Gilbert Complex Building E
+				University of Delaware Gilbert Complex Building F
+				University of Delaware Gore Hall
+				University of Delaware Graduate House
+				University of Delaware Graham Hall
+				University of Delaware Harrington Commons
+				University of Delaware Harrington Commons A
+				University of Delaware Harrington Commons B
+				University of Delaware Harrington Commons C
+				University of Delaware Harrington Commons D
+				University of Delaware Harrington Commons E
+				University of Delaware Harrington Complex
+				University of Delaware Harter Hall
+				University of Delaware Honors Center
+				University of Delaware Huluhen Hall
+				University of Delaware Independence Complex
+				University of Delaware Institute of Energy Conversion
+				University of Delaware James Smith Hall
+				University of Delaware Jastak - Burgess Hall
+				University of Delaware John A Munroe Hall
+				University of Delaware Kirkbridge Lecture Hall
+				University of Delaware Laird Sorority Building Number 1
+				University of Delaware Laird Sorority Building Number 2
+				University of Delaware Laird Sorority Complex
+				University of Delaware Lammot DuPont Laboratory
+				University of Delaware Lane Hall
+				University of Delaware Louise and David Roselle Center for the Arts
+				University of Delaware McDowell Hall
+				University of Delaware McKinly Laboratory
+				University of Delaware Mechanical Hall
+				University of Delaware Memorial Hall
+				University of Delaware Mitchell Hall
+				University of Delaware Ocean Engineering Laboratory
+				University of Delaware Old College Hall
+				University of Delaware Online Resource Center
+				University of Delaware Pearson Hall
+				University of Delaware Pencader Dining Hall
+				University of Delaware Penny Hall
+				University of Delaware Perkins Student Center
+				University of Delaware Pierre S DuPont Hall
+				University of Delaware Presidents House
+				University of Delaware Purnell Hall
+				University of Delaware Raub Hall
+				University of Delaware Ray Street Complex
+				University of Delaware Recitation Hall
+				University of Delaware Recitation Hall Annex
+				University of Delaware Russell Complex Building A
+				University of Delaware Russell Complex Building B
+				University of Delaware Russell Complex Building C
+				University of Delaware Russell Complex Building D
+				University of Delaware Russell Complex Building E
+				University of Delaware Sharp Laboratory
+				University of Delaware Smith Hall
+				University of Delaware Spencer Laboratory
+				University of Delaware Studio Arts Building
+				University of Delaware Taylor Hall
+				University of Delaware Taylor Hall Annex
+				University of Delaware Thomas McKean Hall
+				University of Delaware Thompson Hall
+				University of Delaware Townsend Hall
+				University of Delaware Trabant University Center
+				University of Delaware Willard Hall Education Building
+				University of Delaware Wolf Hall
+				University of Delaware Worrilow Hall
+				University of Delaware Wyoming Road Complex
+				Ursuline Academy High School
+				Ursuline Academy Junior School
+				Viola School
+				W T Chipman Middle School
+				W. Reily Brown Elementary School
+				Warner Elementary School
+				Wesley College
+				Wesley College Budd Hall
+				Wesley College Cannon Hall
+				Wesley College Carpenter Hall
+				Wesley College Dulany Hall
+				Wesley College Gooding Hall
+				Wesley College Longwood Hall
+				Wesley College Malmberg Hall
+				Wesley College Roe Hall
+				West Center City Day Care Nursery, Incorporated
+				West Center School
+				West Elementary School
+				West Laurel School
+				West Park Place School
+				West Rehoboth School
+				West Seaford Elementary School
+				Widener University
+				Widener University Law Center
+				Wiley School
+				William Henry Middle School
+				William Lewis Elementary School
+				William Penn High School
+				Williams Hall
+				Williams School
+				Wilmer E Shue Middle School (historical)
+				Wilmington Academy
+				Wilmington Christian School
+				Wilmington College
+				Wilmington Friends School
+				Wilmington High School
+				Wilmington Junior Academy
+				Wilmington Manor Elementary School
+				Wilmington Skill Center
+				Woodbridge Basics School
+				Woodbridge Elementary School
+				Woodbridge High School
+				Woodbridge Junior-Senior High School
+				Zimmerman Hall
+				Zion Kindergarten and Preschool
+			Spring (DE)
+				Rock Spring
+			Stream (DE)
+				Agricultural Ditch
+				Ake Ditch
+				Alapocas Run
+				Allabands Mill Stream
+				Alms House Ditch
+				Almshouse Branch
+				Alston Branch
+				Angle Rod Creek
+				Appoquinimink River
+				Army Creek
+				Arnell Creek
+				Ash Gut
+				Asketum Branch
+				Augustine Creek
+				Bacon Island Creek
+				Baker Mill Branch
+				Bald Cypress Branch
+				Bald Eagle Creek
+				Barlow Branch
+				Batson Branch
+				Beachy Neidig Ditch
+				Bearhole Ditch
+				Beaver Branch
+				Beaver Creek
+				Beaver Dam Branch
+				Beaver Gut Ditch
+				Beaverdam Branch
+				Beaverdam Creek
+				Bee Branch
+				Belltown Run
+				Bennefield Branch
+				Big Mill Branch
+				Black Arm Prong
+				Black Savannah Ditch
+				Black Stallion Ditch
+				Black Swamp Creek
+				Blackbird Creek
+				Blackwater Creek
+				Blanco Ditch
+				Bogy Run
+				Booth Branch
+				Bowman Branch
+				Brandywine Creek
+				Brasures Branch
+				Bridgeville Branch
+				Bright Haines Glade Branch
+				Brights Branch
+				Brittingham Branch
+				Broad Creek
+				Broadkill River
+				Browns Branch
+				Bucks Branch
+				Bullock Prong
+				Bundicks Branch
+				Buntings Branch
+				Burrows Run
+				Burrsville Branch
+				Burton Prong
+				Butler Mill Branch
+				Cahoon Branch
+				Canary Creek
+				Carney Run
+				Cart Branch
+				Cattail Branch
+				Cedar Creek
+				Chapel Branch
+				Cherry Walk Creek
+				Chestnut Run
+				Christina River
+				Church Branch
+				Clarksville Branch
+				Clear Brook
+				Cod Creek
+				Cohee Prong
+				Collins Creek
+				Cool Branch
+				Cooper Branch
+				Copper Branch
+				Corks Point Ditch
+				Cow Bridge Branch
+				Cow Marsh Creek
+				Cowhouse Branch
+				Crony Pond Branch
+				Crooked Creek
+				Crystal Run
+				Culbreth Marsh Ditch
+				Cypress Branch
+				Deep Branch
+				Deep Creek
+				Deep Hole Branch
+				Delaware River
+				Derrickson Ditch
+				Devious Branch
+				Dirickson Creek
+				Ditch Creek
+				Dogwood Branch
+				Doll Run
+				Dorman Branch
+				Doty Glade
+				Double Fork Branch
+				Double Run
+				Dragon Creek
+				Drawyer Creek
+				Drum Creek
+				Duck Creek
+				Dukes Ditch
+				Dukes and Jobs Ditch
+				Dutton Ditch
+				Dyke Branch
+				East Branch Christina River
+				Ebenezer Branch
+				Eli Walls Ditch
+				Elliott Pond Branch
+				Fairfield Run
+				Fan Branch
+				Finis Branch
+				Fisher Creek
+				Fishing Branch
+				Fishing Creek
+				Fivefoot Prong
+				Fork Branch
+				Fork Number One Pepper Creek
+				Freidel Prong
+				Georgetown-Vaughn Ditch
+				Gilbert Trivitts Ditch
+				Gill Branch
+				Gills Branch
+				Glade Branch
+				Gordon Branch
+				Goslee Creek
+				Graham Branch
+				Gravelly Branch
+				Gravelly Ditch
+				Gravelly Run
+				Grays Branch
+				Grays Prong
+				Green Branch
+				Green Briar Branch
+				Green Creek
+				Green Spring Branch
+				Greenlees Ditch
+				Greens Branch
+				Grubby Neck Branch
+				Guinea Creek
+				Gully Camp Ditch
+				Gum Branch
+				Guthrie Branch
+				Hangmans Run
+				Harrington Beaverdam Ditch
+				Hawkey Branch
+				Hawks Inlet (historical)
+				Heron Drain
+				Herring Branch
+				Herring Creek
+				Herring Run
+				Herron Run
+				Hickman Ditch
+				Hill Savannah Ditch
+				Hitch Pond Branch
+				Holland Glade
+				Holly Branch
+				Hopkins Prong
+				Horse Pen Branch
+				Horse Pound Swamp Ditch
+				Horsepen Arm
+				Horsepen Ditch
+				Houston Branch
+				Houston-Thorogood Ditch
+				Hudson Branch
+				Hurley Drain
+				Hurricane Run
+				Husbands Run
+				Hyde Run
+				Improvement Branch
+				Indian Branch
+				Indian River
+				Ingram Branch
+				Iron Branch
+				Iron Mine Branch
+				Iron Mine Prong
+				Isaac Branch
+				Island Creek
+				Island Pond Marsh Ditch
+				Issac Branch
+				Jackson Prong
+				James Branch
+				Jamison Branch
+				Jobs Ditch
+				Johnson Branch
+				Jones Branch
+				Jones Mill Branch
+				Jordan Branch
+				Joy Run
+				Kent-Sussex Line Branch
+				Kings Causeway Branch
+				Lamborn Run
+				Layton-Vaughn Ditch
+				Leatherems Run
+				Lednum Branch
+				Lee Joseph Creek
+				Leipsic River
+				Lewes Creek
+				Lewis Prong
+				Lingo Creek
+				Little Creek
+				Little Mill Creek
+				Little River
+				Long Branch
+				Long Drain Ditch
+				Lost Stream
+				Love Creek
+				Luther Marvel Prong
+				Mahon River
+				Maidstone Branch
+				Maple Branch
+				Maple Marsh and Beaver Dam Branch
+				Marshyhope Ditch
+				Martin Branch
+				Massey Branch
+				Matson Run
+				McColleys Branch
+				McCrays Branch
+				McGee Ditch
+				Meadow Branch
+				Meredith Branch
+				Middle Run
+				Mifflin Ditch
+				Mill Branch
+				Mill Creek
+				Miller Creek
+				Mirey Branch
+				Mispillion River
+				Mockingbird Creek
+				Morgan Branch
+				Morris Branch
+				Muddy Bottom Ditch
+				Muddy Branch
+				Muddy Run
+				Mullet Run
+				Munchy Branch
+				Murderkill River
+				Naaman Creek
+				Narrow Drain
+				New Ditch
+				Newell Branch
+				Nonesuch Creek
+				North Prong
+				Old Baptist Church Branch
+				Old Forge Branch
+				Old Mill Creek
+				Old Slaughter Creek
+				Owens Branch
+				Parker Branch
+				Parker and Sampson Ditch
+				Parnell Branch
+				Paw Paw Branch
+				Pemberton Branch
+				Penrose Branch
+				Pepper Branch
+				Pepper Creek
+				Perkins Run
+				Persimmon Run
+				Peterkins Branch
+				Phillips Branch
+				Phillips Ditch
+				Pigeon Run
+				Pike Creek
+				Piney Branch
+				Pinks Branch
+				Pipe Elm Branch
+				Point Branch
+				Polk Branch
+				Polly Branch
+				Pot Hook Creek
+				Powell Ditch
+				Pratt Branch
+				Presbyterian Branch
+				Price Prong
+				Primehook Creek
+				Prong Number One
+				Prong Number Two
+				Prospect Branch
+				Providence Creek
+				Puncheon Run
+				Quarter Branch
+				Raccoon Ditch
+				Raccoon Prong
+				Ramsey Run
+				Red Clay Creek
+				Red House Branch
+				Red Lion Creek
+				Rocky Run
+				Rogers Branch
+				Ross Prong
+				Rossakatum Branch
+				Round Pole Branch
+				Roy Creek
+				Rum Bridge Branch
+				Saint Georges Creek
+				Saint Jones River
+				Sandom Branch
+				Sandtown Branch
+				Sandy Branch
+				Sangston Prong
+				Sarah Run
+				Saulsbury Creek
+				Saunders Branch
+				Savannah Ditch
+				Sawmill Branch
+				Scott Run
+				Sewell Branch
+				Sheep Pen Ditch
+				Shellpot Creek
+				Shields Prong
+				Shoals Branch
+				Short and Hall Ditch
+				Shorts Ditch
+				Silver Run
+				Simons River
+				Simpler Branch
+				Slaughter Creek
+				Smith-Short and Willin Ditch
+				Smyrna River
+				Snows Branch
+				Sockorockets Ditch
+				South Branch Naaman Creek
+				Sowbridge Branch
+				Spring Branch
+				Spring Creek
+				Spruances Branch
+				Stallion Head Branch
+				Stockley Branch
+				Stockley Creek
+				Stoney Branch
+				Stoney Creek
+				Stump Creek
+				Sunset Branch
+				Swan Creek
+				Tantrough Branch
+				Tanyard Branch
+				Tappahanna Ditch
+				Taylor Branch
+				Terrapin Pond
+				The Big Ditch
+				Thompson Branch
+				Thorndyk Branch
+				Tidbury Creek
+				Tidy Island Creek
+				Tom Creek
+				Tomahawk Branch
+				Toms Dam Branch
+				Tubbs Branch
+				Tubmill Branch
+				Turkey Branch
+				Turkey Run
+				Turtle Branch
+				Tussocky Branch
+				Twiford Meadow Ditch
+				Tyndall Branch
+				Unity Branch
+				Vena Gains Branch
+				Vines Creek
+				Wall Branch
+				Ward Branch
+				Wards Branch
+				Warwick Gut
+				Webber Branch
+				Welsh Branch
+				West Branch Christina River
+				West Branch Gum Branch
+				Whartons Branch
+				Wheeling Branch
+				White Clay Creek
+				White Creek
+				White Marsh Branch
+				White Oak Creek
+				White Oak Swamp Ditch
+				Wildcat Branch
+				Wiley Branch Ditch
+				William H Newton Ditch
+				Williams Creek
+				Willis Branch
+				Willow Grove Prong
+				Willow Run
+				Wilson Creek
+				Wilson Run
+				Wisacco Cipus (historical)
+				Wolfe Glade
+				Wood Duck Run
+				Wright Creek
+			Summit (DE)
+				Cat Hill
+				Chestnut Hill
+				Cottonpatch Hill
+				Drummond Hill
+				Easter Hill
+				Horseshoe Hill
+				Iron Hill
+				Kitts Hummock
+				Persimmon Hummock
+				Pine Hill
+				Poke Hill
+				Rattlesnake Hill
+				Sand Hill
+				Sandy Brae
+				Sandy Bray
+				Sugar Hill
+				Terrapin Hill
+				Wilson Hill
+			Swamp (DE)
+				Appoqueneme (historical)
+				Bear Swamp
+				Becks Pond
+				Big Cripple Swamp
+				Black Swamp
+				Broadway Meadows
+				Broken Marshes
+				Burnt Swamp
+				Buzzard Swamp
+				Cat Hill Marsh
+				Cedar Swamp
+				Cherry Island Marsh
+				Cypress Swamp
+				Daisy Marsh
+				Davidson Marsh
+				Dodd Marsh
+				Ellendale Swamp
+				Fern Hook Marsh
+				Gordon Pond
+				Great Marsh
+				Greens Pond
+				Huckleberry Swamp
+				Ingram Pond (historical)
+				Jay Patch
+				Leatherberry Flats
+				Little Rabbit Swamp
+				Mare Marsh
+				Massey Marsh
+				Money Marsh
+				Nats Marsh
+				Newport Marsh
+				Rehoboth Marsh
+				Roach Marsh
+				Salt Works Marsh
+				Sharps Pond
+				Short Marsh
+				Thousand Acre Swamp
+				West Pond
+				Whitney Swamp
+				Wilson Marsh
+				Wolfpit Marsh
+				Zigzag Marsh
+			Tower (DE)
+				Tower Number Eight
+				Tower Number Five
+				Tower Number Four
+				Tower Number Four A
+				Tower Number Seven
+				WAFL-FM (Milford)
+				WAMS-AM (Wilmington)
+				WDEL Radio Tower
+				WDEL-AM (Wilmington)
+				WDOV-AM (Dover)
+				WDPB-TV (Seaford)
+				WDSD-FM (Dover)
+				WDSP Radio Tower
+				WECY-AM (Seaford)
+				WGMD Radio Tower
+				WGMD-FM (Rehoboth Beach)
+				WIBR Radio Tower
+				WILM-AM (Wilmington)
+				WJBR-AM (Wilmington)
+				WJBR-FM (Wilmington)
+				WJWL-AM (Georgetown)
+				WKEN-AM (Dover)
+				WMPH-FM (Wilmington)
+				WNRK-AM (Newark)
+				WSEA-FM (Georgetown)
+				WSTW-FM (Wilmington)
+				WSUX-FM (Seaford)
+				WWTR-FM (Bethany Beach)
+				WXDR-FM (Newark)
+				WYUS-AM (Milford)
+				WZZE-FM (Hockessin)
+			Woods (DE)
+				Devils Woodyard
+				Lynch Thicket

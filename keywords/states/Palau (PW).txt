@@ -1,0 +1,814 @@
+Location
+	United States (US)
+		Palau (PW)
+			Airport (PW)
+				Angaur Airstrip
+				Peleliu Airport
+				Roman Tmetuchl International Airport
+			Area (PW)
+				Ngcheangel Uet
+				Ngecholobel
+				Ngeiweidel
+				Osbochel Riu
+			Bar (PW)
+				Achei Uchul
+				Alyasu Reef
+				Beab
+				Beluu Lukes
+				Beluuchoar
+				Bkul A Chelas
+				Bkul A Mechoech
+				Bkul A Ngebard
+				Bkul A Ngerael
+				Bkul A Tketau
+				Bkul A Tmederial
+				Bkul Ngkesol
+				Blisang
+				Btaot
+				Btil
+				Butiaur
+				Chesau
+				Chudel
+				Dechor
+				Dibard
+				Diluches Meded
+				Ejinkoto Shoal
+				Elibel
+				Erengoll
+				Geemudo Reef
+				Gomagan Reef
+				Gomagang Reef
+				Hasekisu Reef
+				Helen Reef
+				Idims
+				Ieungrull
+				Iggururu Reef
+				Ikerdeu
+				Ioul Lukes
+				Kilsebngei
+				Kmosongd
+				Lukes
+				Mekeald
+				Mengikail Iloil
+				Mutkebesang
+				Mutlchur
+				Mutomdu Reef
+				Ngaruangl Reef
+				Ngcheludel Kedeu
+				Ngebard
+				Ngederrak
+				Ngemai
+				Ngerael
+				Ngerdiluches
+				Ngereklim
+				Ngeriklreker
+				Ngerkiulongel
+				Ngermetang
+				Ngertoell
+				Ngetngod
+				Ngkesol
+				Ngos
+				Ochimer
+				Olkong
+				Ollealchad
+				Ollochol
+				Omuchel
+				Orakibad
+				Raelkelat
+				Round Rock
+				Stephan Reef
+				Tngerulachang
+				Uchelbeluu
+				Uchuu
+				Uluang
+				Urecheruchel
+				Velasco Reef
+			Basin (PW)
+				Angaur Bowl
+				Ngermeuangel
+			Bay (PW)
+				Airai Bay
+				Airai Lagoon
+				Debel A Ngchemiangel
+				Demul Iou
+				Echol
+				Edchib
+				Eil Malk
+				Garangaoi Cove
+				Ikesiil
+				Ilabis
+				Illil
+				Ilogual Cove
+				Irikl
+				Itaoch
+				Kltaltebechel
+				Koror Harbor
+				Koror Road
+				Mesubedumail
+				Metkerel A Ikesul
+				Mochelngel
+				Namai Bay
+				Ngardmau Bay
+				Ngarengeivog Bay
+				Ngchus
+				Ngebsong
+				Ngelab
+				Ngerdobotar
+				Ngereksong
+				Ngeremasech
+				Ngeremduu
+				Ngerikuul
+				Ngermerand
+				Ngermeuangel
+				Ngeroleamel
+				Ngertachebeab
+				Ngertachuel
+				Ngerumekaul
+				Ngerutekill
+				Ngetmelabel
+				Nggasagang Bay
+				Ngurusar Bay
+				Ongalkereel
+				Ongebard Inlet
+				Pipiroi Inlet
+				Risong
+				Sebeseb
+				Sngelokl
+				Teongel
+				Terrangel
+				Tochel Aukelau
+			Beach (PW)
+				Beach Green III
+				Beach Orange One
+				Beach Orange Three
+				Beach Orange Two
+				Beach White One
+				Beach White Two
+				Bloody Beach
+				Elechol Ra Bkulabeluu
+				Elechol Ra Debed
+				Elechol Ra Imelechol
+				Elechol Ra Ngebedangel
+				Elechol Ra Ngedloch
+				Elechol Ra Ngerdims
+				Elechol Ra Ngerikl
+				Elechol Ra Ngeriois
+				Elechol Ra Ngetechirur
+				Elechol Ra Ngmersau
+				Elechol Ra Nguruhei
+				Elechol Ra Uchul A Kerekar
+				Englishmens Beach
+				Klouel Dormechol
+				Oimaderuul
+				Orrak
+			Bend (PW)
+				Bkul A Ngerimid
+				Tmong
+			Bridge (PW)
+				Didall
+				K-B Bridge
+				Minato Bashi
+			Building (PW)
+				Belau National Museum
+				Imolobang
+				Ngeaur Municipal Office
+				Palau Civic Center
+				Palau Supreme Court
+			Cape (PW)
+				Arappu Point
+				Arudowaishi Point
+				Arukaron Point
+				Bai
+				Beduliases
+				Biduul
+				Bkul A Bngei
+				Bkul A Chesemiich
+				Bkul A Las
+				Bkul A Medorm
+				Bkul A Melechalb
+				Bkul A Meromr
+				Bkul A Meungs
+				Bkul A Ngatbechuul
+				Bkul A Ngchus
+				Bkul A Ngebedanget
+				Bkul A Ngeluul
+				Bkul A Ngerebelang
+				Bkul A Ngerkebeas
+				Bkul A Ngesang
+				Bkul A Omruchel
+				Bkul A Techedoched
+				Bkul A Usas
+				Bkul Rengesukl
+				Bkul-ngeiil
+				Bkulabekong
+				Bkulachelid
+				Bkuladudes
+				Bkulaibelau
+				Bkulamelmil
+				Bkulangrill
+				Bkulatabriual
+				Bkulatiull
+				Bkulchongelibel
+				Bkulklim
+				Bkulngeblai
+				Bkulngerbekall
+				Bkulngetchuir
+				Bkulomekerall
+				Bkulsechuul
+				Bkurrengel
+				Cape Ngariois
+				Channel Point
+				Desomel
+				Emesiochel
+				Ibai
+				Imetang
+				Itab
+				Itabchemingl
+				Itebang Mlengui
+				Itungelii
+				Iuellang
+				Kemur
+				Kltalungor
+				Kmekii
+				Kuabesngas
+				Medermel
+				Mesbelau
+				Naardueis Point
+				Nardueis Point
+				Ngarair
+				Ngerchelngael
+				Ngerdis
+				Ngerebkus
+				Ngeritang
+				Ngeriuch
+				Ngermerecherakl
+				Ngermereues
+				Ngermoket
+				Ngerudechong
+				Ngerwaiu
+				Ngesaol
+				Ngetmadei
+				Ochiberames
+				Omidkill
+				Pkulrengerelong Point
+				Rael Dil
+				Tab
+				Tabrkeam
+				Taprengesang
+				Tmetoi
+				Toluklbad
+				Tungo
+				Turangel Bad
+				Uchulalei
+				Uchulayas
+				Uluchel
+				Ungellel
+				Usas
+			Cemetery (PW)
+				Olekull Ra Ngersuul
+			Channel (PW)
+				Aiwokako Passage
+				Chongelungel
+				Daerur
+				Daimechesengel
+				Denges
+				Ebil
+				Euchelel Ngeruangl
+				German Channel
+				Goraklbad Passage
+				Helen Channel
+				Iengel
+				Kekereiel Toi
+				Kekerel Debochel
+				Kekerel Euchel
+				Klouel Toi
+				Kloul Euchel
+				Kloul' Debochel
+				Llebuchel
+				Mekaeb
+				Melkerel
+				Mesikm
+				Mteultoachel
+				Mutmelachel
+				Ngemelachel
+				Ngeridebaul
+				Ngerikuul
+				Ngiit
+				Omodes
+				Ongelunge
+				Rael Edeng
+				Rael Orak
+				Sar Passage
+				Taoch Ra Kali
+				Telael
+				Telebadel Ra Ngerael
+				Telebadel Ra Ngkesol
+				Teongel
+				Tngebard
+				Toachel Belau
+				Toachel Iou
+				Toachel Mid
+				Toachel Mlengui
+				Toachel Ngedbaet
+				Toachel Ngkesol
+				Toachel Ra Kesebekuu
+				Toachel Ra Ngel
+				Toachel Suul
+				Tochelir Ra Ngebard
+				Ulach
+			Church (PW)
+				Our Lady of the Rosary Church
+			Civil (PW)
+				Imeliik
+				Ngcheangel
+				Ngerchelong
+				Ngerdmau
+				Ngetpang
+				Peleliu
+				Republic of Palau
+				State of Aimeliik
+				State of Airai
+				State of Angaur
+				State of Hatobohei
+				State of Kayangel
+				State of Koror
+				State of Melekeok
+				State of Ngaraard
+				State of Ngarchelong
+				State of Ngardmau
+				State of Ngatpang
+				State of Ngchesar
+				State of Ngeremlengui
+				State of Ngiwal
+				State of Peleliu
+				State of Sonsorol
+				Trust Territory of the Pacific Islands (historical)
+			Cliff (PW)
+				China Wall
+				White Cliffs
+			Falls (PW)
+				Medallaiechad
+				Tabecheding
+			Flat (PW)
+				Dormechol
+				Kloultaoch
+				Ngerdesiur
+			Gut (PW)
+				Kedebel Taoch
+				Taoch Ngrikiil
+				Taoch Ra Cheur
+				Taoch Ra Imeong
+				Taoch Ra Iwekei
+				Taoch Ra Klebeang
+				Taoch Ra Ngerdorch
+				Taoch Ra Ngeremasech
+				Taoch Ra Ngeruikl
+				Taoch Ra Ngerutechei
+				Taoch Ra Techemung
+				Troch Ra Medorm
+			Harbor (PW)
+				Angaur Harbor
+				Delutaoch
+				Kobasang Harbor
+				Koror Harbor
+				Malakal
+				Mechedchudelbad
+				Port of Palau
+				Station Harbor
+				Uchularriu
+			Hospital (PW)
+				Belau Medical Clinic
+				Belau National Hospital
+			Island (PW)
+				Apurashokoru
+				Arishoku
+				Babeldaob
+				Bablomekang
+				Badebei
+				Bailechesengel
+				Belual A Kelat
+				Belualasmau
+				Bukrrairong
+				Chelbacheb
+				Cheleu
+				Chemol
+				Chesechosou
+				Chomedokl
+				Chouwid
+				Desomel
+				Dlebebai
+				Dmasech
+				Euidelchol
+				Fana
+				Garreru
+				Goldauakal
+				Helen Island
+				Iberor
+				Ii Ra Omdakel
+				Iilblau
+				Ilacheuir
+				Ioulomekang
+				Itelblong
+				Kayangel
+				Kayangel Islands
+				Kekereiel Dormechol
+				Kemokem
+				Klaibudech
+				Kmekumer
+				Korak Island
+				Koror
+				Korukigiiru
+				Kuabeserrai
+				Kuat
+				Lild
+				Lkes
+				Malakal
+				Mchochaeo
+				Mecherchar
+				Meduu
+				Merir
+				Ngarabekus
+				Ngarasag
+				Ngaregabel Island
+				Ngaruangl Island
+				Ngeanges
+				Ngeaur
+				Ngebad
+				Ngebedangel
+				Ngebedel
+				Ngedbus
+				Ngedert
+				Ngedesakr
+				Ngellang
+				Ngelsibel
+				Ngeluong
+				Ngemlis
+				Ngemolei
+				Ngerasech
+				Ngerbechetei
+				Ngerchaol
+				Ngerchebukl
+				Ngercheu
+				Ngerduais
+				Ngeream
+				Ngerebelas
+				Ngerechong
+				Ngerechur
+				Ngerekebesang
+				Ngeremekediu
+				Ngeriungs
+				Ngerkebuit
+				Ngerkeklau
+				Ngermalk
+				Ngermeaus
+				Ngermechaech
+				Ngertechiel
+				Ngeruchubtang
+				Ngerukewid
+				Ngeruktabel
+				Ngerulluang
+				Ngerumetochel
+				Ngerumtoi
+				Ngerur
+				Ngerusisech
+				Ngerutoi
+				Ngesbokel
+				Ngesomel
+				Ngesuall
+				Ngeteklou
+				Ngetengchau
+				Ngetkuml
+				Ngetmeduch
+				Ngis
+				Ngkael
+				Ngkesill
+				Ngkeuall
+				Ngurungor
+				Oilouch
+				Oimadelchesuch
+				Oimaderuul
+				Oitab
+				Okerduul
+				Olngeuaol
+				Olterukl
+				Omechedecheraol Mesang
+				Omeduaol
+				Omelochel
+				Ongael
+				Ongetkatel
+				Ongingiang
+				Orachel
+				Orak
+				Ordachel
+				Ordiilsau
+				Orudeerusao
+				Orutorukkuru
+				Palau Islands
+				Peleliu
+				Pulo Anna
+				Reberaber
+				Rikelau
+				Rirs Bital
+				Rois Buked
+				Ruriid
+				Simono
+				Songel a Born Islands
+				Sonsorol
+				Telkakl
+				Tengetcheyangl
+				Tlutkaraguis
+				Tngabard
+				Tobi
+				Toirachuil
+				Toirius
+				Uchel A Rois
+				Ucheliungs
+				Uchulameradel
+				Uchulangas
+				Ulebsechel
+				Ullemetamel
+				Ulong
+			Lake (PW)
+				Lake Ngardok
+				Ngerkall
+			Locale (PW)
+				Camp Beck Dock
+				Cheuedlochel
+				Elochel Dock
+				Micronesia Mariculture Demonstration Center
+				Mother and Child Turned to Stone
+				T Dock
+			Military (PW)
+				United States Naval Base Peleliu (historical)
+			Park (PW)
+				Asahi Baseball Field
+				Ebiil Channel Conservation Area
+				Icebox Park
+				Ngardok Nature Reserve
+				Ngaremeduu Bay Conservation Area
+				Ngerukewid Islands Wildlife Preserve
+				Ngerumekaol Grouper Spawning Area
+				Palau Crocodile Preserves
+			Populated Place (PW)
+				Airai
+				Almaska (historical)
+				Archongelungel
+				Arkamais
+				Badrulchau
+				Beriber
+				Bibiroi
+				Btangech Iterchobei
+				Btululachang Ra Rrai
+				Chelab
+				Chol
+				Dabador (historical)
+				Derromel
+				Dibel (historical)
+				Dilong
+				Dimes
+				Doko
+				Echang
+				Echol
+				Eimelik (historical)
+				Elauesachel
+				Elechui
+				Ertong
+				Garekoru (historical)
+				Idid
+				Iebukel
+				Ikelau
+				Ilebei
+				Imelechol
+				Imeong
+				Imul
+				Iungel
+				Iyebukel
+				Kaemesang
+				Kamesang
+				Klebeang
+				Kloulklubed
+				Koror
+				Koska
+				Lademisang
+				Mechang
+				Medalaii
+				Medorm
+				Meketii
+				Melekeok
+				Mengellang
+				Meteolchol
+				Meyungs
+				Ngaramasch
+				Ngaremlengui
+				Ngatmel
+				Ngchemiangel
+				Ngchesar
+				Ngchesechang
+				Ngebei
+				Ngebuked
+				Ngeburch
+				Ngemerdang
+				Ngerbau
+				Ngerbeched
+				Ngerbodel
+				Ngerchebetan
+				Ngercheluuk
+				Ngerchemai
+				Ngerderemang
+				Ngerdiol
+				Ngerekebesang
+				Ngereklmadel
+				Ngeremecheluch
+				Ngerkeai
+				Ngerkeseuaol
+				Ngerkesou
+				Ngermechau
+				Ngermelech
+				Ngermeskang
+				Ngermid
+				Ngerngesang
+				Ngerngiil
+				Ngersung
+				Ngersuul
+				Ngerubesang
+				Ngeruchob
+				Ngeruikl
+				Ngeruling
+				Ngeruluobel
+				Ngerusar
+				Ngerutoi
+				Ngesang
+				Ngetbong
+				Ngetkib
+				Ngeungel (historical)
+				Ngkebeduul
+				Ngkeklau
+				Nglas
+				Ngriil
+				Ogiil
+				Oikull
+				Oketol
+				Olkang
+				Ollei
+				Ongeuidel
+				Orukei
+				Orull
+				Renrak
+				Rois
+				Rrai
+				Tngeronger
+				Ucherael
+				Ulimang
+				Urdmang
+				Urrung
+				Yelch
+			Post Office (PW)
+				Koror Post Office
+			Ridge (PW)
+				Bloody Nose Ridge
+				Boyd Ridge
+				Ngermeuangel
+				Ollumelra Rchieb
+				Rael Kedam
+				Rois Ra Sang
+				Sngall
+				Uluong
+			School (PW)
+				Airai Elementary School
+				Bethania School
+				Chol Elementary School
+				John Fitzgerald Kennedy School
+				Melekeok Elementary School
+				Ngaraard Elementary School
+				Ngatpang Elementary School
+				Ngchemiangel School
+				Ngerchelong School
+				Ngeremlengui Elementary School
+				Ngerkeai School
+				Ngiwal School
+				Palau Community College
+				Palau High School
+				Palau Mission Academy
+				Peleliu School
+			Slope (PW)
+				Ii
+				Merong
+				Ngerasaka
+				Ngerebelik
+				Ngertuker
+			Spring (PW)
+				Elodesachel
+				Itungelbai
+			Stream (PW)
+				Chomet Ubet
+				Desengong
+				Diongradid
+				Edeng
+				Irur
+				Isemiich
+				Kabekel
+				Kmekumel
+				Kumekumeyel River
+				Lmetmellasch
+				Meskelat
+				Ngerchetang
+				Ngerderar
+				Ngerdorch
+				Ngeredekuu
+				Ngereksong
+				Ngerimel
+				Ngermeskang
+				Ngetmiich
+				Ngetpang
+				Ngirkiil
+				Ngmal
+				Ngolsang
+				Nkebeduul
+				Omoachel Ra Mekaud
+				Omoachel Ra Ngchesuch
+				Ouang
+				Tabecheding
+			Summit (PW)
+				Badechamelei
+				Beketei
+				Bischerad
+				Cheleos
+				Demailei
+				Engas
+				Etichiech
+				Etiruir
+				Five Brothers
+				Iouroro
+				Irur
+				Klbael
+				Kltalbtaches
+				Lighthouse Hill
+				Mekirong
+				Metukeruikull
+				Mount Aiugubishiteli
+				Mount Atotu
+				Mount Auragasak
+				Mount Etekkueiku
+				Mount Tsunsu
+				Mudngerur
+				Ngadebechal
+				Ngedech
+				Ngelsum
+				Ngemeduu
+				Ngeraod
+				Ngerbailiang
+				Ngerbecharerong
+				Ngerchelchuus
+				Ngerdelungch
+				Ngerebaduk
+				Ngerekliangl
+				Ngeremdiu
+				Ngerikoek
+				Ngeruach
+				Ngeruchaech
+				Ngerulaol
+				Ngerunguikl
+				Ngeruong
+				Ngesibang
+				Ngetchulang
+				Ngetchum
+				Ngetmerchong
+				Ngkesiu
+				Ngulitel
+				Ochabrachochao
+				Olsacheltang
+				Ometochel
+				Omiotl
+				Ormuul
+				Ramuldo Hill
+				Rois Beng
+				Rois Dubachang
+				Rois Kar
+				Rois Ketund
+				Rois Malk
+				Rois Ngedechelabed
+				Rois Ngerub
+				Rois Omleblochel
+				Rois-Emiangel
+				Roischemiangel
+				Roiseaur
+				Roisebong
+				Roisemelachel
+				Roisersuul
+				Roiskebesang
+				Sisngabang
+				Telong
+				Tibedul
+				Tochobei
+				Toir Rois
+				Tuker
+				Tunt
+				Uluang
+			Swamp (PW)
+				Ngetkebui
+			Unknown (PW)
+				Imolch
+				Kliokl
+			Valley (PW)
+				Horseshoe Valley
+				Wildcat Bowl

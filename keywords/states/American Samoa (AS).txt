@@ -1,0 +1,989 @@
+Location
+	United States (US)
+		American Samoa (AS)
+			Airport (AS)
+				Fitiuta Airport
+				Ofu Airport
+				Pago Pago International Airport
+				Tau Airport
+			Area (AS)
+				Pacific Region - 2-digit Hydrologic Unit Code - 22
+				Pisaga
+			Bar (AS)
+				Amuula Rock
+				Nāfanua Bank
+				Tāemā Bank
+			Bay (AS)
+				Afuli Cove
+				Agapie Cove
+				Alatele Cove
+				Amanave Bay
+				Anapeapea Cove
+				Aoa Bay
+				Aoloau Bay
+				Auauli Cove
+				Aufotu Cove
+				Augaloloa Cove
+				Avatele Cove
+				Faasamene Cove
+				Faga Cove
+				Faga`alu Bay
+				Faga`itua
+				Fagafue Bay
+				Fagalua Cove
+				Fagamalo Cove
+				Fagasā
+				Fagatele Bay
+				Fagatele Cove
+				Fagatuitui Cove
+				Faleasao Harbor
+				Fogamaa Cove
+				Laloniu Cove
+				Larsen Bay
+				Lavania Cove
+				Leone Bay
+				Lepisi Cove
+				Loa Cove
+				Maamaa Cove
+				Maefu Cove
+				Masefau Bay
+				Massacre Bay
+				Mooliuvaa Cove
+				Māloatā Bay
+				Nua-Seetaga Bay
+				Nuuolemaa Cove
+				Nuuoosegi Cove
+				Nuuooti Cove
+				Oalii Cove
+				Pa Cove
+				Paapala Cove
+				Pago Pago Harbor
+				Papafaasee Cove
+				Poloa Bay
+				Sita Bay
+				Tafaga Cove
+				Taligai Cove
+				Toa Cove
+				Tāfeu Cove
+				Utusegisegi Cove
+				Vaaogeoge Cove
+				Vai Cove
+				Vaifoa Cove
+				Vailoloaitiiti Cove
+				Vailoloatele Cove
+				Vatia Bay
+				Vava Cove
+				Āfono Bay
+			Beach (AS)
+				Alega Beach
+				Freddies Beach
+				Palagi Beach
+				South Ofu Beach
+			Bench (AS)
+				Liu Bench
+			Building (AS)
+				A P Lutali Executive Office Building
+				American Samoa Government Administration Building
+				Fagatogo Market
+				Feleti Pacific Library
+				Government House
+				Library of American Samoa
+				Lumana`i Building
+				Maota Fono Building
+				Museum of American Samoa
+				Rex H Lee Auditorium
+				Star of the Sea Fish Market
+			Cape (AS)
+				Agaoleatu Point
+				Agasavili Point
+				Alofisau Point
+				Anapeapea Point
+				Anasosopo Point
+				Apolima Point
+				Asagatai Point
+				Asasama Point
+				Asili Point
+				Aua Point
+				Aualili Point
+				Avaloa Point
+				Avatele Point
+				Breakers Point
+				Cape Fogausa
+				Cape Larsen
+				Cape Papatele
+				Cape Taputapu
+				Cockscomb Point
+				Coconut Point
+				Craggy Point
+				Faalagiumu Point
+				Faalogologotala Rock
+				Faasouga Point
+				Faataaga Point
+				Fafaga Point
+				Faga Point
+				Fagailiili Point
+				Fagalea Point
+				Fagaleoo Point
+				Fagaone Point
+				Fagaoo Point
+				Fagasa Point
+				Fagatele Point
+				Fagatiale Point
+				Faiaiulu Point
+				Fala Ane Point
+				Falaseeitoafa Point
+				Faleapoi Point
+				Faleoteine Point
+				Fatatele Point
+				Fatuaga Point
+				Fatuana Point
+				Fatuapule Point
+				Fatuasina Point
+				Fatuelo Point
+				Faumasili Point
+				Feia Point
+				Fiti`uta Point
+				Fogaletau Point
+				Fogamutia Point
+				Folau Point
+				Gatia Point
+				Goat Island Point
+				Greyhound Point
+				Imoa Point
+				Lafiga Point
+				Lafogaufi Point
+				Lalofutu Point
+				Laumeimamalie Point
+				Leala Point
+				Leanamanu Point
+				Leanaopou Point
+				Leanaosaualii Point
+				Leasi Point
+				Leatutoga Point
+				Leelee Point
+				Legaotaema Point
+				Lemaga Point
+				Leopard Point
+				Lepisi Point
+				Lepua Point
+				Leti Point
+				Leutu Point
+				Leva Point
+				Lifalifa Point
+				Logologo Point
+				Logome Point
+				Loto Point
+				Lotoaise Point
+				Maatulaumea Point
+				Malama Point
+				Maliuga Point
+				Malo Point
+				Mataae Point
+				Mataavaloa Point
+				Matalesolo Point
+				Matautu Point
+				Matautuele Point
+				Matautuloa Point
+				Matautuotafuna Point
+				Mataututele Point
+				Matavai Point
+				Matuli Point
+				Matātula
+				Maugaopea Point
+				Maugatele Rock
+				Moso Point
+				Motusaga Point
+				Mu Point
+				Mulinuu Point
+				Mulisinalua Point
+				Muliulu Point
+				Mulivaisigano Point
+				Namumeaavaga Point
+				Niuloa Point
+				Niutulua Point
+				Nuuoleniu Cove
+				Nuutoga Point
+				Nuututai Point
+				Ogegasa Point
+				Olotina Point
+				Oneonelilii Point
+				Oti Point
+				Pagaitua Point
+				Palau Point
+				Papaloa Point
+				Papaloaloa Point
+				Papaloloa Point
+				Papaotoma Point
+				Papasao Point
+				Papatuloto Point
+				Pisiula Point
+				Pouofe Point
+				Pouono Point
+				Puafusi Point
+				Puaneva Point
+				Puatauapa Point
+				Pupualoa Point
+				Puputagi Point
+				Saafelo Point
+				Sail Rock Point
+				Salevatia Point
+				Samituutuu Point
+				Si`u Point
+				Si`ufa`alele
+				Si`ulagi
+				Siliaga Point
+				Siliataligalu Point
+				Sinamanoo Point
+				Sinapoto Point
+				Sinatau Point
+				Siuai Point
+				Siufaga Point
+				Siufagatele Point
+				Solo Point
+				Square Head
+				Steps Point
+				Suesave Point
+				Tafagamanu Point
+				Tainamu Point
+				Tamatupu Point
+				Tapisi Point
+				Taugamalama Point
+				Taugā Point
+				Tiafou Point
+				Tiapea Point
+				Tifa Point
+				Toa Point
+				Tolisi Point
+				Tolotolooleoti Point
+				Trading Point
+				Tualiliu Point
+				Tufu Point
+				Tulutulu Point
+				Tumatolu Point
+				Tuumuai Point
+				Uea Point
+				Ulufala Point
+				Usi Point
+				Utulaina Point
+				Utumanu`a Point
+				Utunonu Point
+				Ututafa Point
+				Vainuu Point
+				Vaiola Point
+				Vaisa Point
+				Vaisaili Point
+				Vaisigano Point
+				Vaita Point
+				Vaitele Point
+				Vaoaga Point
+				Visa Point
+			Channel (AS)
+				Asaga Strait
+				Avatele Passage
+				Narragansett Passage
+				Vaiava Strait
+				Āsaga Strait
+			Church (AS)
+				Fatua`āiga Catholic Center
+			Civil (AS)
+				East Vaifanua County
+				Eastern District
+				Faleasao County
+				Fitiuta County
+				Itu`aū County
+				Leālātaua County
+				Leāsina County
+				Manu'a District
+				Mauputasi County
+				Ofu County
+				Olosega County
+				Rose Island
+				Sua County
+				Swains Island
+				Sä`ole County
+				Ta'u County
+				Territory of American Samoa
+				Tuäläuta County
+				Tüalätai County
+				Vaifanua County
+				Village of Aasu
+				Village of Afao
+				Village of Afono
+				Village of Agugulu
+				Village of Alao
+				Village of Alega
+				Village of Alofau
+				Village of Amaluia
+				Village of Amanave
+				Village of Amaua
+				Village of Amouli
+				Village of Anua
+				Village of Aoa
+				Village of Aoloau
+				Village of Asili
+				Village of Atu'u
+				Village of Aua
+				Village of Auasi
+				Village of Auma
+				Village of Aumi
+				Village of Aunu'u
+				Village of Auto
+				Village of Avaio
+				Village of Faga'alu
+				Village of Faga'itua
+				Village of Fagali'i
+				Village of Fagamalo
+				Village of Faganeanea
+				Village of Fagasa
+				Village of Fagatogo
+				Village of Failolo
+				Village of Faleasao
+				Village of Faleniu
+				Village of Fatumafuti
+				Village of Futiga
+				Village of Ili'ili
+				Village of Lauli'i
+				Village of Leloaloa
+				Village of Leone
+				Village of Leusoali'i
+				Village of Luma
+				Village of Maia
+				Village of Malaeimi
+				Village of Malaeloa/Aitulagi
+				Village of Malaeloa/Ituau
+				Village of Maloata
+				Village of Mapusagafou
+				Village of Masausi
+				Village of Masefau
+				Village of Matu'u
+				Village of Mesepa
+				Village of Nu'uuli
+				Village of Nua
+				Village of Ofu
+				Village of Olosega
+				Village of Onenoa
+				Village of Pagai
+				Village of Pago Pago
+				Village of Pava'ia'i
+				Village of Poloa
+				Village of Puapua
+				Village of Sa'ilele
+				Village of Satala
+				Village of Se'etaga
+				Village of Si'ufaga
+				Village of Sili
+				Village of Swains
+				Village of Tafuna
+				Village of Taputimu
+				Village of Tula
+				Village of Utulei
+				Village of Utumea East
+				Village of Utumea West
+				Village of Utusia
+				Village of Vailoatai
+				Village of Vaitogi
+				Village of Vatia
+				West Vaifanua County
+				Western District
+			Crater (AS)
+				Fagatele Crater
+				Fogamaa Crater
+				Judds Crater
+				Lepue Crater
+				Oloava Crater
+				Olomanu Crater
+				Olomatimu Crater
+				Olotania Crater
+				Olovalu Crater
+				Vailoatai Crater
+			Falls (AS)
+				Leone Falls
+				Logoua Fall
+				Sina Fall
+				Tiaiu Falls
+				Virgin Falls
+			Gap (AS)
+				Fagasā Pass
+				Lemafa Saddle
+				Rainmaker Pass
+				Āfono Pass
+			Harbor (AS)
+				Aunu`u Harbor
+			Hospital (AS)
+				Lyndon Baines Johnson Tropical Medical Center
+			Island (AS)
+				Agalua Rock
+				Agatoavalu Rock
+				Aunuu Island
+				Avagatatau Rock
+				Faalefu Rock
+				Faatafa Rocks
+				Faiumuolegau Rocks
+				Fatu Rock
+				Fatugau Rock
+				Fatumaga Rocks
+				Fatutoaga Rock
+				Fatuuli Rock
+				Flowerpot Rocks
+				Futi Rock
+				Liuvaatoga Rock
+				Luania Rocks
+				Maafee Island
+				Maalatetele Rocks
+				Manofā
+				Manu`a Islands
+				Manuelo Rock
+				Mataitutua Rock
+				Matalia Point
+				Niuaveve Rock
+				Niuolepava Rock
+				Nu`utele Island
+				Nuuiti Rock
+				Nuuomanu Rock
+				Nuuosina Rock
+				Nuupule Rock
+				Nuusetoga Island
+				Nuusilaelae Island
+				Nuutai Rock
+				Nuutavana Rock
+				Nuutele Rocks
+				Nuututai Rock
+				Ofu Island
+				Olosega Island
+				Papaseugogo Rock
+				Pola Island
+				Rocky Point
+				Rose Atoll
+				Rose Island
+				Samoa Islands
+				Sand Island
+				Swains Island
+				Ta`ū Island
+				Tafola Rocks
+				Taputapu Island
+				Tauga Rock
+				Taulaotoga Rock
+				Tiaoalii Rock
+				Toasa Rock
+				Toatai Rock
+				Toauta Rock
+				Tulagamatuu Rock
+				Tutuila Island
+				Utufotu Rocks
+				Utumatuu Rock
+				Utusiva Rock
+				Vaotamu Rocks
+				Whale Rock
+			Lake (AS)
+				Pala Lagoon
+				Pala Lake
+				Red Lake
+				Vaitanoa Pool
+			Locale (AS)
+				Blacklock Wharf (historical)
+				Pago Pago Yacht Club
+				Pago Shopping Plaza Shopping Center
+				Täfuna Industrial Park
+				`Ili`ili Golf Course
+			Military (AS)
+				United States Naval Station Tutuila (historical)
+			Park (AS)
+				Aunuu Island National Natural Landmark
+				Cape Taputapu National Natural Landmark
+				Fagatele Bay National Marine Sanctuary
+				Fogamaa Crater National Natural Landmark
+				Gagamoe Field
+				Leala Shoreline National Natural Landmark
+				Matafao Peak National Natural Landmark
+				National Park of American Samoa
+				Pago Pago Park
+				Rainmaker Mountain National Natural Landmark
+				Rose Atoll National Wildlife Refuge
+				United States Naval Station Tutuila Historic District
+				Utulei Beach Park
+				Vaiava Strait National Natural Landmark
+			Pillar (AS)
+				Lotofaaee Rock
+			Plain (AS)
+				Tualatai Plain
+				Täfuna Plain
+			Populated Place (AS)
+				A`asufou
+				A`oloaufou
+				Aasu
+				Afao
+				Afulei
+				Aganoa
+				Agugulu
+				Alao
+				Alaufau
+				Alofau
+				Amalau (historical)
+				Amaluia
+				Amaua
+				Amouli (historical)
+				Anasosopo
+				Anua
+				Aoloau
+				Aoloautuai (historical)
+				Asili
+				Atu`u
+				Auasi
+				Auma
+				Aumi
+				Aunu`u
+				Autapini
+				Auto
+				Avaio
+				Avau
+				Aūa
+				Etena
+				Faalaaga (historical)
+				Faalefu
+				Faga
+				Faga`alu
+				Faga`itua
+				Fagalea
+				Fagalele
+				Fagali`i
+				Fagamalo
+				Fagamalo (historical)
+				Fagamutu
+				Faganeanea
+				Fagasā
+				Fagatele
+				Fagatogo
+				Faiava
+				Failolo
+				Faleniu
+				Faleāsao
+				Falili
+				Fatumafuti
+				Fiti`uta
+				Fogaau
+				Fogausa
+				Fogāgogo
+				Fusi
+				Futiga
+				Ili`ili
+				Itū`au
+				Lalomoana
+				Lalopua
+				Lauagae
+				Lauli`i
+				Lauliifou
+				Lauliituai
+				Leloaloa
+				Leone
+				Lepine
+				Lepisi (historical)
+				Lepua (historical)
+				Lepula (historical)
+				Letula (historical)
+				Leusoali`i
+				Luamaa (historical)
+				Lumā
+				Mafafa (historical)
+				Maia
+				Malaeimi
+				Malaeloa
+				Malaeloa/Aitulagi
+				Malaeloa/Ituau
+				Malaloa
+				Maloata
+				Mapusaga
+				Mapusagafou
+				Masausi
+				Masefau
+				Matu`u
+				Maupua (historical)
+				Mesepa
+				Nu`uuli
+				Nua
+				Oa (historical)
+				Ofu
+				Oge (historical)
+				Ogefao
+				Ogegase (historical)
+				Olosega
+				Onenoa
+				Oneoneloa
+				Ottoville
+				Pagai
+				Pago Pago
+				Pava`ia`i
+				Poloa
+				Puapua
+				Sa`ilele
+				Samoi (historical)
+				Satala
+				Saua (historical)
+				Se`etaga
+				Si`ufaga
+				Sili
+				Sogi
+				Swains
+				Ta`ū
+				Tafalau (historical)
+				Tafananai
+				Tafeta
+				Tafunafou
+				Tagapofu
+				Taputimu
+				Taulaga
+				Tuafanua (historical)
+				Tuaolo
+				Tula
+				Tulauta (historical)
+				Tāfuna
+				Tō`aga (historical)
+				Utulei
+				Utuloa
+				Utumea
+				Utumea East
+				Utumea West
+				Utusia
+				Vaiala
+				Vailoatai
+				Vaitogi
+				Vasaaiga
+				Vatia
+				`Aoa
+				`Āmanave
+				Āfono
+				Ālega
+				Āmouli
+			Post Office (AS)
+				Fagaitua Post Office
+				Leone Post Office
+				Pago Pago Post Office
+			Ridge (AS)
+				Afimuao Ridge
+				Alaeli Ridge
+				Alei Ridge
+				Alili Ridge
+				Amaile Ridge
+				Avapui Ridge
+				Faiga Ridge
+				Faleselau Ridge
+				Fatutea Ridge
+				Filimaoi Ridge
+				Fuaau Ridge
+				Fugalei Ridge
+				Fusi Ridge
+				Laloulu Ridge
+				Lauagae Ridge
+				Le`olo Ridge
+				Leauga Ridge
+				Leemo Ridge
+				Lefao Ridge
+				Lefutu Ridge
+				Lemafa Ridge
+				Leolo Ridge
+				Leoo Ridge
+				Lesolo Ridge
+				Lesui Ridge
+				Levaga Ridge
+				Maatulua Ridge
+				Mako Ridge
+				Malagatiga Ridge
+				Malaloto Ridge
+				Maliefetaliai Ridge
+				Manunu Ridge
+				Masinaoleafiafi Ridge
+				Mataalā Ridge
+				Matautu Ridge
+				Matautuloa Ridge
+				Matavalu Ridge
+				Mataālaosagamai Ridge
+				Maugaele Ridge
+				Maugaleoo Ridge
+				Maugaloa Ridge
+				Maugaoalii Ridge
+				Maugasaa Ridge
+				Motusaga Ridge
+				Mulimauga Ridge
+				Niualuau Ridge
+				Niuasele Ridge
+				Ogetu Ridge
+				Olo Ridge
+				Olotafatafa Ridge
+				Pagatatua Ridge
+				Palapala Ridge
+				Papatele Ridge
+				Patupatu Ridge
+				Polauta Ridge
+				Saililagi Ridge
+				Sauma Ridge
+				Sepu Ridge
+				Seumalo Ridge
+				Sina Ridge
+				Siulepa Ridge
+				Siuono Ridge
+				Suaavamuli Ridge
+				Tapepe Ridge
+				Tauese Ridge
+				Taufanua Ridge
+				Tauga Ridge
+				Taugasega Ridge
+				Tavalagi Ridge
+				Tia Ridge
+				Tialeogaumu Ridge
+				Tialiufau Ridge
+				Tiaseu Ridge
+				Tiatauala Ridge
+				Tiatele Ridge
+				Timolea Ridge
+				Toa Ridge
+				Togotogo Ridge
+				Toiloto Ridge
+				Tuasina Ridge
+				Tuasivitasi Ridge
+				Tuatafa Ridge
+				Tuigaava Ridge
+				Tunoa Ridge
+				Tutu Ridge
+				Usi Ridge
+				Utulelei Ridge
+				Utuloa Ridge
+				Vaiala Ridge
+				Vesitau Ridge
+			School (AS)
+				Afono Elementary School
+				Alataua-Lua Elementary School
+				Alofau Elementary School
+				American Samoa Community College
+				Atauloma Girls School
+				Aunu`u Elementary School
+				Faga`itua High School
+				Fagalele Junior High School
+				Faleasao Elementary School
+				Fitiuta Elementary School
+				Lauli`i Elementary School
+				Le`atele Elementary School
+				Leala Junior High School
+				Leone High School
+				Leone Midkiff Elementary School
+				Lupelele Elementary School
+				Manu`a High School
+				Marist Brothers School for Boys
+				Masefau Elementary School
+				Matafanua Junior High School
+				Matafao Elementary School
+				Matatula Elementary School
+				Mauga-o-Alava Elementary School
+				Olomoana Elementary School
+				Olosega Elementary School
+				Pago Pago Elementary School
+				Pava`ia`i Elementary School
+				Saint Francis School for Girls
+				Saint Theresas Girls School
+				Samoana High School
+				Tafuna Elementary School
+				Tafuna High School
+				Taputapu Elementary School
+			Sea (AS)
+				South Pacific Ocean
+			Spring (AS)
+				Alili Spring
+				Fatutea Spring
+				Lago Spring
+				Malama Spring
+				Puna Spring
+				Punaloa Spring
+				Talitoelau Spring
+				Vailega Spring
+			Stream (AS)
+				Aasu Stream
+				Afimuao Stream
+				Afu Stream
+				Afuelo Stream
+				Afulei Stream
+				Afutele Stream
+				Aga Stream
+				Agaputuputu Stream
+				Agasii Stream
+				Alega Stream
+				Alei Stream
+				Amaile Stream
+				Amano Stream
+				Amate Stream
+				Amouli Stream
+				Anasosopo Stream
+				Aonoi Stream
+				Asili Stream
+				Atauloma Stream
+				Audii Stream
+				Auvai Stream
+				Auvaiola Stream
+				Auvaipe Stream
+				Avau Stream
+				Etemuli Stream
+				Faalogo Stream
+				Faatafe Stream
+				Fagaalu Stream
+				Faigatoa Stream
+				Faleiulu Stream
+				Filivili Stream
+				Fogalilimu Stream
+				Fuafua Stream
+				Fusiloa Stream
+				Gagamoe Stream
+				Gaoa Stream
+				Laloafu Stream
+				Laloi Stream
+				Lalolamauta Stream
+				Laolao Stream
+				Laoulu Stream
+				Laufuti Stream
+				Lausaa Stream
+				Leafu Stream
+				Leasi Stream
+				Leau Stream
+				Leaute Stream
+				Leaveave Stream
+				Leele Stream
+				Lepa Stream
+				Lesea Stream
+				Lesina Stream
+				Leua Stream
+				Maga Stream
+				Malaetia Stream
+				Malagateine Stream
+				Maloata Stream
+				Mapusagatuai Stream
+				Mataalii Stream
+				Matagimalie Stream
+				Matasina Stream
+				Matavai Stream
+				Maululu Stream
+				Maupua Stream
+				Misa Stream
+				Muliolevai Stream
+				Mulivai Stream
+				Mulivaitele Stream
+				Nuu Stream
+				Nuutoga Stream
+				Pago Stream
+				Panota Stream
+				Papa Stream
+				Papausi Stream
+				Puna Stream
+				Punaomanuia Stream
+				Sagamea Stream
+				Sauaimoe Stream
+				Sauino Stream
+				Saumolia Stream
+				Siapapa Stream
+				Sigaloa Stream
+				Sina Stream
+				Sinapoto Stream
+				Sinavevela Stream
+				Siufaga Stream
+				Soonapule Stream
+				Souga Stream
+				Suaia Stream
+				Tafe Stream
+				Tagau Stream
+				Talaisina Stream
+				Talaloa Stream
+				Tapua Stream
+				Tauese Stream
+				Taumata Stream
+				Taumulimalo Stream
+				Televai Stream
+				Tialu Stream
+				Tofu Stream
+				Topea Stream
+				Tuavaa Stream
+				Tufu Stream
+				Ulafala Stream
+				Utanuatele Stream
+				Utulaina Stream
+				Utumoa Stream
+				Vaaui Stream
+				Vaialae Stream
+				Vaialili Stream
+				Vaialufai Stream
+				Vaifusi Stream
+				Vailoa Stream
+				Vailolo Stream
+				Vaima Stream
+				Vaimumu Stream
+				Vainuulua Stream
+				Vaiola Stream
+				Vaiolefuga Stream
+				Vaipito Stream
+				Vaipuna Stream
+				Vaisa Stream
+				Vaisina Stream
+				Vaitai Stream
+				Vaitele Stream
+				Vaitolu Stream
+				Visa Stream
+			Summit (AS)
+				Alava Mountain
+				Etemuli Mountain
+				Fafiqa Peak
+				Fatifati Mountain
+				Filiae Mountain
+				Fogatia Hill
+				Lata Mountain
+				Leaeno Mountain
+				Lealaeli Hill
+				Lealafaalava Mountain
+				Leaoao Peak
+				Leele Mountain
+				Leila Mountain
+				Leileia Mountain
+				Logotala Hill
+				Maluatia Hill
+				Matafao Peak
+				Matafaofafine Peak
+				Matai Mountain
+				Matape Hill
+				Mauga o Ali`i
+				Maugaotula Peak
+				Milomilo Mountain
+				North Pioa Mountain
+				Olomoana Mountain
+				Olotele Mountain
+				Palapala Mountain
+				Palapalaloa Mountain
+				Piumafua Mountain
+				Pofala Hill
+				Sinapioa Mountain
+				Siona Mountain
+				Solo Hill
+				South Pioa Mountain
+				Sunu`itao Peak
+				Tagau Mountain
+				Tau Mountain
+				Taumata Mountain
+				Tepatasi Mountain
+				Tumutumu Mountain
+				Vaea Hill
+				Vainuu Mountain
+			Swamp (AS)
+				Faimulivai Marsh
+				Lalopapa Marsh
+				Palapalaloa Marsh
+				Ta`ü Marsh
+				Taufusi Marsh
+				Taufusitele Marsh
+				Va`oto
+			Tower (AS)
+				KBQN-AM (Pago Pago)
+				KSBS-FM (Pago Pago)
+				WVUV-AM (Leone)
+				WVUV-FM (Pago Pago)
+			Unknown (AS)
+				Moega-a-uila
+			Valley (AS)
+				Alegā Valley
+				Amalau Valley
+				Happy Valley
+				Malaeimi Valley
+				Punaoa Valley
+				Vaipito Valley
+				`Aoa Valley

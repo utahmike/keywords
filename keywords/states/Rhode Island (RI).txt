@@ -1,0 +1,6381 @@
+Location
+	United States (US)
+		Rhode Island (RI)
+			Airport (RI)
+				Albert Farms Airport
+				Block Island State Airport
+				Boystown Fly-in-Ranch
+				Coventry Airpark
+				Downtown Providence Helistop
+				Keskinen Airport
+				Langworthy Field
+				Newport Airport (historical)
+				Newport State Airport
+				North Central State Airport
+				North Kingstown Emergency Operations Pad
+				One Hospital Trust Airport
+				Promet Airport
+				Quonset Point State Airport
+				Quonset State Airport
+				Quonset State Ang Helipad
+				Richmond Airport
+				Riconn Airport
+				Slocum Airport
+				South County Hospital Airport
+				Theodore Francis Green State Airport
+				Tiverton Airport
+				Westerly State Airport
+				Wgng Airport
+				Willows Resort Airport
+				Wing-Over Farm Airport
+			Area (RI)
+				Blackstone Park
+				Cranston Print Works
+				Devils Foot
+				Eden Park
+				Nine Man Misery (historical)
+				The Plains
+			Bar (RI)
+				Barren Ledge
+				Bass Rock
+				Block Island North Reef
+				Brenton Reef
+				Catumb Rocks
+				Cedar Swamp Ledge
+				Coon Ledge
+				Cormorant Reef
+				Dickens Reef
+				Dolphin Rock
+				East Ground Shoal
+				Flint Point Ledge
+				Fork Rocks
+				Gould Ledge
+				Green Jacket Shoal
+				Greene Ledge
+				Haycock Ledge
+				Hog Island Shoal
+				Hunt Ledge
+				James Ledge
+				Johnson Ledge
+				Lawrence Ledge
+				Long Ledge
+				Middle Ground
+				Musselbed Shoals
+				Nebraska Shoal
+				Ohio Ledge
+				Old Antgonio
+				Old Garden Shoal
+				Pine Hill ledge
+				Quinsnicket Ledge
+				Ragged Limb Ledge
+				Rocky Reef
+				Rumstick Ledge
+				Rumstick Shoal
+				Schuyler Ledge
+				Schyler Ledge
+				Seal Ledge
+				Settlers Rock
+				Slocum Ledge
+				Southeast Ledge
+				Southwest Ledge
+				Squid Ledge
+				Stanton Reef
+				Stub Tree Bar
+				Sugar Reef
+				The Brothers
+				Tracey Ledge
+				Upper Middle Ground
+				Viall Creek Ledge
+				Watch Hill Reef
+			Bay (RI)
+				Academy Cove
+				Allen Cove
+				Allen Harbor
+				Apponaug Cove
+				Babcock Cove
+				Baileys Lower Cove
+				Baileys Upper Cove
+				Balls Cove
+				Belcher Cove
+				Billington Cove
+				Bishop Cove
+				Bissel Cove
+				Block Island Sound
+				Blue Bill Cove
+				Bluff Hill Cove
+				Boiling Lot Cove
+				Boulderwood Cove
+				Brenton Cove
+				Bristol Harbor
+				Brush Neck Cove
+				Bullock Cove
+				Burges Cove
+				Buttonwood Corner
+				Buttonwoods Cove
+				Castle Hill Cove
+				Cat Rock Cove
+				Cedar Island Pond
+				Champlin Cove
+				Champlin Cove (historical)
+				Chase Cove
+				Children Cove
+				Church Cove
+				Coasters Harbor
+				Coddington Cove
+				Coggeshall Cove
+				Colonel Willie Cove
+				Concord Gulf Cove
+				Congdon Cove
+				Coon Cove
+				Copps Cave
+				Copps Cove
+				Corliss Cove
+				Cormorant Cove
+				Corn Cove
+				Cow Cove
+				Cranston Cove
+				Deep Hole
+				Dories Cove
+				Drown Cove
+				Dutch Island Harbor
+				Easton Bay
+				Fishers Island Sound
+				Fishing Cove
+				Flat Cove
+				Flat Cove (historical)
+				Flat Meadow Cove
+				Fogland
+				Fort Cove
+				Foster Cove
+				Galilee Salt Pond Harbor
+				Gates Cove
+				Goose Neck Cove
+				Grace Cove
+				Great Salt Pond
+				Green Hill Cove
+				Greenwich Bay
+				Greenwich Cove
+				Harbor Pond
+				Hull Cove
+				Hundred Acre Cove
+				Hyde Hole
+				Iron Mine Cove
+				Isaiahs Gully
+				Ladd Cove
+				Lighthouse Cove
+				Little Narragansett Bay
+				Little Pond Cove
+				Logwood Cove
+				Long Cove
+				Long Neck Cove
+				Mackerel Cove
+				Mastuxet Cove
+				Mile End Cove
+				Mill Cove
+				Mud Cove
+				Narragansett Bay
+				New Harbor
+				Newport Harbor
+				Occupessatuxet Cove
+				Old Breach Cut
+				Old Orchard Cove
+				Passeonkquis Cove
+				Pawtuxet Cove
+				Perch Cove
+				Pettaquamscutt Cove
+				Point Judith Harbor of Refuge
+				Potter Cove
+				Providence Harbor
+				Rhode Island Sound
+				River Ledge
+				Roiles Harbor
+				Round Cove
+				Sachuest Bay
+				Sakonnet Harbor
+				Sand Bank Cove
+				Sand Beach Cove
+				Sand Hill Cove
+				Sapowet Cove
+				Sassafras Cove
+				Seaweed Cove
+				Segar Cove
+				Sheep Pen Cove
+				Sheep Point Cove
+				Sheffield Cove
+				Silver Spring Cove
+				Smelt Brook Cove
+				Smith Cove
+				South Jerry Cove
+				Split Rock Cove
+				Spring Cove
+				Stallion Cove
+				Stevens Cove
+				Stillhouse Cove
+				Stone Water Fence Cove
+				Sugarloaf Cove
+				Sycamore Cove
+				Tautog Cove
+				The Cove
+				The Pots
+				Thompson Cove
+				Thule Cove
+				Tilson Cove
+				Trims Pond
+				Turner Cove
+				Usher Cove
+				Walker Cove
+				Wanton Cove
+				Warwick Cove
+				Watch Hill Cove
+				Watchemoket Cove
+				Weaver Cove
+				Welcome Cove
+				West Cove
+				Wheatfield Cove
+				Wickford Cove
+				Wickford Harbor
+				Wolcott Cove
+			Beach (RI)
+				A B Carpenters Beach
+				Atlantic Beach
+				Bailey Beach
+				Ballards Beach
+				Barrington Beach
+				Black Rock Beach
+				Block Island State Beach
+				Bonnet Shores Beach
+				Bristol Town Beach
+				Browning Mill Pond Area Beach
+				Burlingame State Park Beach
+				Buttonwoods Beach
+				Calf Pasture Point Beach
+				Captain Roger W Wheeler State Beach
+				Charleston Beach
+				Charlestown Beach
+				Collins Beach
+				Conochet Club Beach
+				Crescent Beach
+				Dunes Club Beach
+				Dunes Park Beach
+				East Beach
+				East Matunuck State Beach
+				Easton Beach
+				Edgewood Beach
+				Fenway Beach
+				Flynns Beach
+				Fogland Beach
+				Frank Moody State Beach
+				Galilee Beach Club Beach
+				Georgiaville Beach
+				Gillerans Pond Beach
+				Goddard Memorial State Park Beach
+				Gooseberry Beach
+				Grimmells Beach
+				Hazard Beach
+				Island Park Beach
+				Juniper Trail Beach
+				King Park Beach
+				Longmeadow Beach
+				Mackeral Cove Beach
+				Mansion Beach
+				Matunuck Beach
+				Misquamicut Fire District Beach
+				Misquamicut State Beach
+				Monhegan Bluffs Beach
+				Mountaindale Beach
+				Nausauket Beach
+				Navy Beach
+				Ninigret Beach
+				North Kingstown Beach
+				North Kingstown Town Beach
+				North Ligth Beach
+				Ocean House Beach
+				Old Salt Work Beach
+				Pebbly Beach
+				Pebby Beach
+				Peckham Beach
+				Plum Beach
+				Plum Point Beach
+				Quonochontaug Beach
+				Rocky Point Beach
+				Roger Wheeler State Beach
+				Roy Carpenters Beach
+				Salty Brine State Beach
+				Sam Ferretti Blue Shutters Town Beach
+				Sand Hill Cove State Beach
+				Sandy Beach
+				Sandy Point Beach
+				Scarborough South State Beach
+				Scarborough State Beach
+				Scotch Beach
+				Seaside Beach Club Beach
+				Seaweed Beach
+				Second Beach
+				Slacks Pond Beach
+				Spring Lake Beach
+				State Park Beach
+				Steers Beach
+				Sunset Beach
+				Teddy Beach
+				Twin Rivers Beach
+				Twin Rivers Beach East
+				Vaills Beach
+				Warren Town Beach
+				Watch Hill Beach Association Beach
+				Weekapaug Beach
+				Weekapaug Inn Beach
+				West Beach
+				Westerly Town Beach
+				Willow Dell Beach
+				YWCA Beach
+			Bench (RI)
+				Allen Ledge
+				America Ledge
+				Brig Ledge
+				Coggeshall Ledge
+				Elbow Ledge
+				Elisha Ledge
+				Foster Ledge
+				Garvy Ledges
+				Great Ledge
+				Halfway Ledge
+				Halfway Ledge (historical)
+				Hemlock Ledges
+				Holden Ledge
+				Hull Ledge
+				Jones Ledge
+				Napatree Point Ledge
+				Pine Hill Ledge
+				Wild Goose Ledge
+			Bend (RI)
+				Silver Hook
+			Bridge (RI)
+				Albion Bridge
+				Arnold Mills Bridge
+				Ashton Viaduct
+				Barrington Bridge
+				Boston and Providence Railroad Bridge
+				Broad Street Bridge
+				Capron Memorial Bridge
+				Church Street Bridge
+				Court Street Bridge
+				Crawford Street Bridge
+				Dexters Bridge (historical)
+				Division Street Bridge
+				Forge Bridge
+				Howard Road Bridge
+				Hunts River Bridge
+				India Bridge (historical)
+				Interlaken Mill Bridge
+				Jamestown Bridge
+				Main Street Bridge
+				Meeting-House Bridge
+				Miles Bridge (historical)
+				Mill Bridge (historical)
+				Mount Hope Bridge
+				Newport Toll Bridge
+				Pawcatuck Bridge
+				Pawtuxet Bridge
+				Peter Crandall Bridge (historical)
+				Point Street Bridge
+				Ponagansett Bridge
+				Red Bridge
+				Sakonnet Bridge
+				Swamp Meadow Covered Bridge
+				Warren Bridge
+				Washington Bridge
+				Weybosset Bridge (historical)
+			Building (RI)
+				A Childs World Day Care Center
+				A Place to Grow
+				A Step Up Day Care Center
+				Action Based Enterprises
+				Adams Memorial Library
+				Advanced Medical Transport Services
+				Alan Shawn Feinstein College of Continuing Education
+				Albion Fire Department
+				Alert Ambulance Service
+				Allenberry Center
+				Alumnae Building
+				American Legion Post Number 14
+				American-French Genealogical Society Library
+				Americas Cup Hall of Fame
+				Andrews Building
+				Andrews House
+				Andrews Memorial Building
+				Annmary Brown Building
+				Annmary Brown Memorial
+				Apponaug Branch Warwick Public Library
+				Archibald Building
+				Arctic Center Child Development Center
+				Arlington Reading Room Cranston Public Library
+				Arnold Building
+				Arnold Lounge
+				Artillery Company of Newport Military Museum
+				Ashamu Dance Building
+				Ashaway Ambulance Association
+				Ashaway Free Library
+				Ashaway Volunteer Fire Association
+				Auburn Branch Cranston Public Library
+				Austin T and June Rockwell Levy Library
+				Babcock-Smith House Museum
+				Barbour Building
+				Barker Playhouse
+				Barrington Community Center
+				Barrington Early Childhood Center
+				Barrington Fire Department
+				Barrington Police Department
+				Barrington Preservation Society Museum
+				Barrington Public Library
+				Barrington Town Hall
+				Barus Building
+				Barus-Holley Building
+				Bayard Ewing Building
+				Beachwood House Senior Center
+				Beautiful Beginnings Child Care Center
+				Belcourt Castle
+				Belton Court
+				Benjamin Church Home for the Aged
+				Benoni-Cooke Building
+				Bibliotheque Mallet
+				Bigelow Lounge
+				Birds Nest
+				Blackstone Valley Community Center
+				Blackstone Valley Historical Society Building
+				Blistein Building
+				Block Island Free Library
+				Block Island Health Services Building
+				Block Island Historical Society Museum
+				Bradford Volunteer Fire Department
+				Breezy Knoll Child Care Center
+				Brick Market House
+				Bright Futures Child Care Center
+				Bright Horizons Family Center
+				Bright Ideas Child Care Center
+				Bristol County Courthouse
+				Bristol County Jail
+				Bristol Customhouse
+				Bristol Customs House (historical)
+				Bristol Fire Department Defiance Hose Company
+				Bristol Fire Department Ever-Ready Engine and Hose Company
+				Bristol Fire Department Hydraulion Engine and Rescue Company
+				Bristol Fire and Rescue Department - Dreadnaught Hook Ladder and Hose Company
+				Bristol Historical and Preservation Society Library
+				Bristol Historical and Preservation Society Museum
+				Bristol Police Department
+				Bristol Rescue Squad
+				Bristol State House Foundation
+				Bristol Town Hall
+				Bronson Building
+				Brown Office Building
+				Brownell Library
+				Bryant College Library
+				Bucklin-Eddy Block
+				Bullocks Point Light
+				Burnside Memorial Building
+				Burrillville Police Department
+				Burrillville Town Hall
+				Buxton Building
+				Cabinet Building
+				Capitol Hill Center
+				Carriage House Day Care Center
+				Carter Day Nursery
+				Caspersen Building
+				Caswell Building
+				Central Center
+				Central Coventry Fire Department Station 1
+				Central Coventry Fire District Station 3
+				Central Coventry Fire District Station 4 Headquarters
+				Central Coventry Fire District Station 5
+				Central Coventry Fire District Station 7
+				Central Falls City Hall
+				Central Falls Fire Department
+				Central Falls Free Public Library
+				Central Falls Police Department
+				Champlin Building
+				Chapin Building
+				Charles Tanner Building
+				Charles W Greene Museum
+				Charlestown - Richmond Fire Station
+				Charlestown Ambulance Rescue Service
+				Charlestown Historical Society Building
+				Charlestown Police Department
+				Charlestown Town Hall
+				Chase-Cory House
+				Chateau Sur-Mer Mansion
+				Chepachet Barracks
+				Chepachet Fire Department
+				Chepachet Meeting House
+				Child Care Connection of East Providence
+				Child Care Connection of East Providence Part II
+				Child Care Connection of Lincoln
+				Child Care Connection of Smithfield
+				Child Care Connection of Warren
+				Child Care Connection of Warwick
+				Childrens Centre of New England
+				Childrens Museum of Rhode Island
+				Chopmist Hill Fire Department
+				Churchill Building
+				Clambake Club of Newport
+				Clark Memorial Library
+				Clemence-Irons House
+				Clifford-Allen-Nightingale Block
+				Colony House
+				Colony House (historical)
+				Community College of Rhode Island Learning Resources Center
+				Comstock Block
+				Congregation Jeshuat Israel Community Center
+				Conimicut Branch Warwick Public Library
+				Conimicut Lighthouse
+				Corliss Brackett Building
+				Corliss House
+				Cormack Planetarium
+				Coventry Fire District Anthony Fire Station
+				Coventry Police Department
+				Coventry Public Library
+				Coventry Town Hall
+				Cranston City Hall
+				Cranston Fire Department Station 1
+				Cranston Fire Department Station 2
+				Cranston Fire Department Station 3
+				Cranston Fire Department Station 4
+				Cranston Fire Department Station 5
+				Cranston Fire Department Station 6
+				Cranston Police Department
+				Cranston Public Library
+				Cranston YMCA
+				Crayons Child Care and Family Services Center
+				Crompton Family Health Services Building
+				Crompton Free Library
+				Cross Mills Fire Station
+				Cross Mills Public Library
+				Culinary Archive and Museum
+				Cumberland Fire District
+				Cumberland Hill Fire Department
+				Cumberland Police Department
+				Cumberland Rescue Service 1
+				Cumberland Rescue Service 2
+				Cumberland Town Hall
+				Daggett House and Loof Carousel
+				Darlington Early Childhood Center
+				David Winton Bell Gallery
+				Davisville Library
+				Deborah Cook Sayles Memorial Library Pawtucket Public Library
+				Deborah Cook Sayles Public Library
+				Department of Veterans Affairs Health Sciences Library
+				Dexter Asylum
+				Diman Building
+				Diocesan Resource Center Office of Religious Education Library
+				Diocese of Providence
+				Doctor Pat Feinstein Child Development Center
+				Dolphin House
+				Dominic Hall
+				Draper Avenue Center
+				Dunns Corner Fire Department Station 1
+				Dunns Corner Fire Department Station 2
+				Dyer Building
+				Earles Block
+				Early Years Learning Center
+				East Greenwich Fire District Station 1
+				East Greenwich Fire District Station 2
+				East Greenwich Free Library
+				East Greenwich Police Department
+				East Greenwich Town Hall
+				East Providence City Hall
+				East Providence Early Childhood Center
+				East Providence Fire Department Station 1 Headquarters
+				East Providence Fire Department Station 2
+				East Providence Fire Department Station 3
+				East Providence Fire Department Station 4
+				East Providence Police Department
+				East Providence Public Library
+				East Smithfield Public Library
+				Edith M Hodgson Memorial Library
+				Edward J Hayden Library Cumberland Public Library
+				Edward King House (historical)
+				Eleazar Arnold House
+				Eleazar Arnold Tavern (historical)
+				Electra Lodge Number 41
+				Elizabeth Building
+				Emery Building
+				Engine Company Number 2
+				Environmental Science Services Library
+				Ericson Athletic Complex
+				Ernest Street Pump Station (historical)
+				Essex Public Library
+				Everett Building
+				Exeter Fire Department 1 Station 1
+				Exeter Fire Department 1 Station 4
+				Exeter Fire Department 2 Station 2
+				Exeter Fire Department 2 Station 3
+				Exeter Patrol Barracks
+				Exeter Rescue Corps
+				Exeter Town Constable
+				Exeter Town Hall
+				Exeter Volunteer Company Number 1
+				Fairmount Branch Library
+				Family Life Center
+				Faunce House
+				Fayerweather House
+				Federal Center
+				Federal Hill House Association Early Learning Center
+				Feinstein Building
+				Fire Station Number 4
+				Firemans Museum
+				First Step at Kingston
+				First Ward Wardroom
+				Foster Ambulance Corps
+				Foster Center Fire Department
+				Foster Police Department
+				Foster Public Library
+				Foster Town Hall
+				Foundry Office Complex
+				Fox Point Branch Providence Public Library
+				Fox Point Center
+				Foxpoint Daycare Center
+				Frank Licht Judicial Complex
+				Friends Meeting House
+				Froebel Hall (historical)
+				Frosty Drew Memorial Nature Center
+				Fuller Branch East Providence Public Library
+				Fulton Building
+				GTECH Child Care Center
+				Gardner Building
+				Garrahy Judicial Complex
+				Gateway Visitors Center
+				George Haile Free Library
+				George and Oliver Earle Warehouse
+				Gerard Building
+				Giddings Building
+				Globe Tavern (historical)
+				Glocester Manton Free Public Library
+				Glocester Police Department
+				Glocester Town Hall
+				Goddard Building
+				Governor Henry Lippitt House Museum
+				Governor Sprague Mansion Museum
+				Governor Stephen Hopkins House Museum
+				Graduate Center Building
+				Grant Building
+				Grayrock
+				Greater Providence Convention and Visitors Bureau
+				Greene Public Library
+				Greenville Fire Station
+				Greenville Public Library
+				Greenwood Volunteer Fire Company
+				Grimshaw-Gudewicz Building
+				Grove Avenue Development Center
+				Growing Children of Providence Day Care Center
+				Growing Children of Rhode Island Day Care Center
+				Hackers Hall
+				Haffenreffer Museum of Anthropology
+				Hampden Meadows Volunteer Fire Company
+				Handicraft Club
+				Harkness Building
+				Harmony Fire Department
+				Harmony Library
+				Harris Institute Library (historical)
+				Harris Warehouse
+				Harrisville Fire Department
+				Hay Building
+				Hay and Owens Building
+				Hazard Memorial Library
+				Hearthside Building
+				Hegeman Building
+				Helme House Gallery
+				Heritage Harbor Museum
+				Herreshoff Marine Museum
+				Hianloland Fire Company Station 2 Rescue 3
+				Hianloland Fire Department Station 1
+				Hog Island Shoal Lighthouse
+				Holy Rosary Church Hall
+				Hope - Jackson Fire Department
+				Hope College
+				Hope Library
+				Hope Valley - Wyoming Fire District Camp Yawgoog Station
+				Hope Valley - Wyoming Fire District Station 1
+				Hope Valley - Wyoming Fire District Station 2
+				Hope Valley Ambulance Squad
+				Hope Valley Barracks
+				Hopkinkton Police Department
+				Hopkins Hill Fire District
+				Hopkinton Town Hall
+				Hoppin House
+				Horace Mann Building
+				Howards Hall
+				Hoyle Tavern
+				Hunter Building
+				In-Sight Library
+				Ina Mosher Health Sciences Library
+				International Tennis Hall of Fame
+				International Tennis Hall of Fame Library
+				Issac Ray Medical Library
+				Ives Row
+				J Pastore Federal Building
+				J W Wilson Building
+				James Maxwell House Museum
+				James P Adams Library
+				Jameson Building
+				Jamestown Emergency Medical Services
+				Jamestown Fire Department
+				Jamestown Fire Department Memorial Museum
+				Jamestown Library
+				Jamestown Museum
+				Jamestown Philomenian Library
+				Jamestown Police Department
+				Jamestown Town Hall
+				Jesse M Smith Memorial Library
+				Jewish Community Center
+				John Brown House Museum
+				John Carter Brown Library
+				John D Rockefeller Junior Library
+				John Hay Library
+				John Hope Day Care Center
+				John Nicholas Brown Center
+				John Waterman Arnold House
+				Johnson and Wales University Library
+				Johnston Child Care Center
+				Johnston Fire Department Station 1
+				Johnston Fire Department Station 2
+				Johnston Fire Department Station 3 Headquarters
+				Johnston Fire Department Station 4
+				Johnston Police Department
+				Johnston Town Hall
+				Jones Warehouses
+				Joseph Brown House
+				Joyful Noise Day Care Center
+				Just For Kids Day Care
+				Kelly House
+				Kennedy Plaza Federal Building
+				Kent County Chamber of Commerce
+				Kent County Courthouse
+				Kent County Memorial Hospital Library
+				Kids Kingdom Day Care Center
+				Kids World Child Care Center
+				Kids Zone Day Care Center
+				Kinder-Care at Work
+				Kinderart Day Care Center
+				King Arms Tavern (historical)
+				Kingscote Mansion
+				Kingston Fire Department
+				Kingston Free Library Branch South Kingston Public Library
+				Kittens and Cubs Day Care Center
+				Knight Memorial Library Branch Providence Public Library
+				Knightsville Branch Cranston Public Library
+				Knightville Meeting House
+				Lake Mishnock Volunteer Fire Department
+				Langworthy Public Library
+				Lederer Theater
+				Leeds Building
+				Leroy Theater
+				Lime Rock Fire Department Headquarters
+				Lime Rock Fire Department Station 2
+				Lincoln Police Department
+				Lincoln Public Library
+				Lincoln Rescue Station 4
+				Lincoln Town Hall
+				Lincoln Woods Barracks
+				Linden Place Museum
+				List Art Building
+				Little Apostles Early Childhood Center
+				Little Compton Fire Department
+				Little Compton Grange Hall
+				Little Compton Police Department
+				Little Compton Town Hall
+				Little Friends Day Care Center
+				Little People of Westerly Day Care Center
+				Little Playmates Day Care Center
+				Littlebrook Kids Day Care Center
+				Littlefield Building
+				London Bridge Child Care Center
+				Lonsdale Fire Department
+				Louttit Library
+				Loving Touch Day Care Center
+				Lowes State Theatre
+				Luce Hall
+				Lyman Hall
+				MacMillan Building
+				Macfarlane Building
+				Machado Building
+				Maddock Alumni Building
+				Manning Hall
+				Manton Free Library
+				Manton Library (historical)
+				Manville Fire Department
+				Marble House
+				Marcy Building
+				Marian J Mohr Memorial Library
+				Market House
+				Marston Boathouse
+				Marston Building
+				Marvel Gym Building
+				Masonic Lodge
+				Masonic Temple
+				Matunuck Volunteer Fire Department
+				Mauran-Balch Block
+				Maxcy Building
+				Mayor Salvatore Mancini Union Free Public Library and Cultural Center
+				Mead Building
+				Meadowcrest Early Childhood Center
+				Med Care Ambulance
+				MedTech Ambulance
+				Meehan Building
+				Meiklejohn Building
+				Memorial Hall
+				Memorial Hospital Health Sciences Library
+				Metcalf Building
+				Metcalf Chemistry Building
+				Metcalf Research Building
+				Middletown Fire Department
+				Middletown Historical Society Building
+				Middletown Police Department
+				Middletown Public Library
+				Middletown Town Hall
+				Mile-and-a-Quarter House
+				Miller Building
+				Miriam Hospital Health Sciences Library
+				Misquamicut Fire Department
+				Moosup Valley Fire Department
+				Morriss Building
+				Mount Hope Child Care Center
+				Mount Hope Maritime Terminal
+				Mount Pleasant Branch Providence Public Library
+				Mount Saint Francis Child Care Center
+				Mowrys Tavern (historical)
+				Museum of Art Rhode Island School of Design
+				Museum of Natural History Library
+				Museum of Natural History and Planetarium
+				Museum of Newport History
+				Museum of Rhode Island History
+				Museum of Work and Culture
+				Museum of Yachting
+				Musselbed Shoals Light Station
+				Narragansett Chamber of Commerce Information Center
+				Narragansett Fire Department Station 1
+				Narragansett Fire Department Station 2
+				Narragansett Fire Department Station 3
+				Narragansett Police Department
+				Narragansett Public Library
+				Narragansett Steam Fire Engine Company
+				Narragansett Town Hall
+				Nasonville Fire Department
+				Nathan Bourne Crocker Library
+				National Foundation for Gifted and Creative Children Library
+				Naval Hospital Medical Library
+				Naval Station Newport Fire Department
+				Naval War College Museum
+				Nayatt House (historical)
+				Nelson Wilmarth Aldrich House
+				Neptune Lodge Number 21
+				New England Ambulance Service
+				New England Institute of Technology Learning Resources Center
+				New Shoreham Fire and Rescue Block Island Station
+				New Shoreham Police Department
+				New Shoreham Town Hall
+				New Vision For Newport County
+				Newport Art Museum
+				Newport Casino
+				Newport City Hall
+				Newport County Chamber of Commerce
+				Newport County Courthouse
+				Newport Fire Department Station 1
+				Newport Fire Department Station 2
+				Newport Fire Department Station 5
+				Newport Historical Society Library
+				Newport Historical Society and Museum
+				Newport Memorial Tower
+				Newport Museum of Costume
+				Newport Police Department
+				Newport Public Library
+				Newport Restoration Foundation
+				Newport Town Hall
+				Nichols Wanton Hunter House
+				Nicholson Building
+				Nickerson Community Center
+				Nightingale-Brown House
+				Norman Bird Sanctuary Natural History Museum
+				North Cumberland Fire Department
+				North Kingstown Fire Department Station 1
+				North Kingstown Fire Department Station 2
+				North Kingstown Fire Department Station 3
+				North Kingstown Free Library
+				North Kingstown Police Department
+				North Kingstown Town Hall
+				North Light Interpretive Center
+				North Providence Fire Department Station 1
+				North Providence Fire Department Station 2
+				North Providence Fire Department Station 3
+				North Providence Fire Department Station 4
+				North Providence Police Department
+				North Providence Town Hall
+				North Scituate Fire Department
+				North Scituate Public Library
+				North Smithfield Fire and Rescue Service Station 1
+				North Smithfield Fire and Rescue Services Station 2 Headquarters
+				North Smithfield Police Department
+				North Smithfield Public Library
+				North Smithfield Town Hall
+				North Tollgate House
+				Northwest Health Center
+				Norwood Branch Warwick Public Library
+				Norwood Building
+				Nyatt Hall
+				Oak Lawn Branch Cranston Public Library
+				Oakland - Mapleville Fire Department Station 1
+				Octagon House
+				Oddfellows Hall
+				Old Colony House
+				Old State House
+				Old Washington County Courthouse
+				Old Washington County Jail
+				Old Yellow Tavern (historical)
+				Oliver Watson House
+				Olney Building
+				Olney Margolies Building
+				Olneys Tavern (historical)
+				Olneyville Branch Providence Public Library
+				Olneyville Center
+				Orwig Music Building
+				Orwig Music Library
+				Owen Building
+				Park Square Childrens Center
+				Partridge Annex Building
+				Partridge Building
+				Pascoag Fire Department
+				Pascoag Fire Department Station
+				Pascoag Public Library
+				Pawtucket Boys Club
+				Pawtucket City Hall
+				Pawtucket Elks Lodge
+				Pawtucket Fire Department Station 1
+				Pawtucket Fire Department Station 2
+				Pawtucket Fire Department Station 3
+				Pawtucket Fire Department Station 4
+				Pawtucket Fire Department Station 5
+				Pawtucket Fire Department Station 6
+				Pawtucket Police Department
+				Pawtucket Public Library
+				Pawtucket Times Building
+				Peace Dale Fire Department
+				Peleg Arnold Tavern
+				Pell Library National Sea Grant Depository Library
+				Pembroke Field House
+				Pembroke Hall
+				Pembroke Library Brown University
+				Pendleton House
+				Peoples Library
+				Perkins Building
+				Peter Green Building
+				Pettaquamscutt Historical Society Building
+				Pettaquamscutt Historical Society Library
+				Phil Weld Memorial Library
+				Phillips Memorial Library
+				Pizzitola Building
+				Pleasant View Day Care Center
+				Poland Building
+				Pomham Rocks Lighthouse
+				Pontiac Free Library Association
+				Portsmouth Abbey School Library
+				Portsmouth Barracks
+				Portsmouth Fire Department
+				Portsmouth Free Public Library
+				Portsmouth Historical Society Building
+				Portsmouth Police Department
+				Portsmouth Town Hall
+				Potterville Fire Department
+				Powder House (historical)
+				Power Street Parking Structure
+				Precious Angels Child Care Center
+				Preservation Society of Newport County
+				Presidents House
+				Primary Colors Childrens Centre of New England
+				Prince Building
+				Prospect Building
+				Providence Art Club
+				Providence Athenaeum
+				Providence Childrens Museum
+				Providence City Hall
+				Providence Civic Center
+				Providence Community Health Center
+				Providence Fire Department Admiral Street Station
+				Providence Fire Department Allens Avenue Station
+				Providence Fire Department Atwells Avenue Station
+				Providence Fire Department Branch Avenue Station
+				Providence Fire Department Broad Street Station
+				Providence Fire Department Brook Street Station
+				Providence Fire Department Hartford Avenue Station
+				Providence Fire Department Humboldt Avenue Station
+				Providence Fire Department Main Street Station
+				Providence Fire Department Messer Street Station
+				Providence Fire Department Mount Pleasant Avenue Station
+				Providence Fire Department Reservoir Avenue Station
+				Providence Fire Department Rochambeau Avenue Station
+				Providence Fire Department Washington Street Station
+				Providence Home for Aged Women (historical)
+				Providence Performing Arts Center
+				Providence Police Department
+				Providence Preservation Society
+				Providence Public Library
+				Prudence Island Volunteer Fire Department
+				Quinnville Fire Department
+				Quonset Air Museum
+				Quonset State Airport Fire Department
+				Red House
+				Redwood Library and Athenaeum
+				Regency Plaza
+				Reservoir Avenue Pumping Station (historical)
+				Rhode Island Black Heritage Society
+				Rhode Island Convention Center
+				Rhode Island Department of Economic Development Research Division Library
+				Rhode Island Department of Elderly Affairs Library
+				Rhode Island Department of State Library
+				Rhode Island Hall
+				Rhode Island Health Center Association
+				Rhode Island Historical Society Building
+				Rhode Island Historical Society Library
+				Rhode Island Hospital Trust Building
+				Rhode Island Jewish Historical Society Library
+				Rhode Island Level 1 Disaster Medical Assistance Team
+				Rhode Island Medical Society Building
+				Rhode Island Office of Housing Energy and Intergovernmental Relations Library
+				Rhode Island Public Expenditure Library
+				Rhode Island Regional Library for the Blind and Physically Handicapped
+				Rhode Island School for the Deaf Library
+				Rhode Island School of Design Library
+				Rhode Island State Archive
+				Rhode Island State Board of Tourism
+				Rhode Island State Home (historical)
+				Rhode Island State House
+				Rhode Island State Institution
+				Rhode Island State Law Library
+				Rhode Island State Library
+				Rhode Island State Police Barracks
+				Rhode Island State Police Headquarters
+				Rhode Island Watercolor Society
+				Richmond - Carolina Fire District Station 1
+				Richmond - Carolina Fire District Station 62
+				Richmond - Carolina Fire District Station 63
+				Richmond Police Department
+				Richmond Town Hall
+				Riverside Branch East Providence Public Library
+				Robert Beverly Hale Memorial Library
+				Robert H Champlin Memorial Library
+				Robinson Hall
+				Rochambeau Branch Providence Public Library
+				Rochambeau Building
+				Rockefeller Library
+				Roger Williams Day Care Center
+				Roger Williams Hospital Health Sciences Library
+				Roger Williams Park Museum of Natural History
+				Roger Williams University Library
+				Roger Williams University School of Law Library
+				Rogers Free Library
+				Rosecliff Mansion
+				Rumford Branch Library East Providence Public Library
+				Sabin Tavern (historical)
+				Saint Aloysius Home
+				Saint Francis Chapel Lending Library
+				Saint Francis Orphanage
+				Saint Joseph Hospital Health Science Library
+				Saint Vincent Home
+				Salomon Building
+				Salve Regina University Library
+				Samuel Whitehorne House
+				Sanford Covell House
+				Sarah Doyle Building
+				Sayles Gym
+				Sayles Hall
+				Saylesville Fire Department
+				Scarboro Beach Bathing Pavilion (historical)
+				Sciences Library Brown University
+				Scituate Ambulance and Rescue Corps
+				Scituate Early Learning Center
+				Scituate Police Department
+				Scituate Town Hall
+				Scituate Town House
+				Sears Building
+				Shakespeare Hall
+				Sharpe Building
+				Sharpe Refectory
+				Shepards Building
+				Silver Lake Community Center
+				Sixth District Court House
+				Slater Building
+				Slater Mill Historic Site Library
+				Smith Hill Branch Providence Public Library
+				Smith-Appleby House
+				Smithfield Fire Department Station 1 Headquarters
+				Smithfield Fire Department Station 2
+				Smithfield Fire Department Station 3
+				Smithfield Police Department
+				Smithfield Town Hall
+				Smiths Blockhouse (historical)
+				Smiths Castle
+				Snug Harbor Volunteer Fire Department
+				South County Art Association
+				South County Center for the Performing Arts
+				South County Museum
+				South Foster Fire Department
+				South Kingston Town Hall
+				South Kingstown Emergency Medical Services
+				South Kingstown Fire Department
+				South Kingstown Police Department
+				South Kingstown Public Library
+				South Providence Branch Providence Public Library
+				Steiger Building
+				Steinert Building
+				Stuart Building
+				Summit Free Library
+				Swearer Center
+				Sydney L Wright Memorial Museum of Indian Artifacts
+				T F Green Building
+				TLC Day Care Center
+				Temple Emanuel Library
+				Temple Shalom Judaica Library
+				Thames Science Center
+				The Art Association of Newport Building
+				The Astors Beechwood Mansion
+				The Breakers
+				The Childrens Place
+				The Doll Museum
+				The Elms Mansion
+				The Growing and Learning Child Care Center
+				The Learning Place
+				The Littlest Angels Day Care Center
+				The Neighborhood Nursery
+				The Shelter
+				Theater by the Sea
+				Thomas Poynton Ives House
+				Tides Family Services Center
+				Tiogue Fire Department
+				Tiverton Fire Department Station 2
+				Tiverton Fire Department Station 3
+				Tiverton Fire Department Station 4
+				Tiverton Historical Society Building
+				Tiverton Police Department
+				Tiverton Town Hall
+				Tockwotton House
+				Tollgate Creative Learning Center II
+				Tomaquag Indian Museum
+				Totally Kids Child Care Center
+				Touisset Fire Station
+				Tower Hill Fire Department
+				Travelers Aid Society of Rhode Island
+				Tri-Town Child Care Center
+				Tri-Town Health Services Center
+				Tuckertown Fire Department
+				Turks Head
+				Turpin Tavern (historical)
+				Twice as Nice Child Care Center
+				Tyler Free Library
+				Union Branch Library
+				United State Court of Appeals First Circuit Satellite Library
+				United State Naval War College Library
+				Universal Ambulance Service
+				University Hall
+				University of Rhode Island Coastal Institute on Narragansett Bay Conference and Visitor Center
+				University of Rhode Island College of Continuing Education Library
+				University of Rhode Island Emergency Medical Services Headquarters
+				University of Rhode Island Environmental Education Center
+				University of Rhode Island Library
+				Valley Falls Fire Department
+				Valley Falls Fire District Office
+				Valley Falls Library
+				Valley Falls Mill Office and Bath House (historical)
+				Varnum House Museum
+				Varnum Memorial Armory
+				Varnum Military Museum
+				Veterans Memorial Auditorium
+				Wakefield Fire Department
+				Wallum Lake Fire Department
+				Walter Building
+				Wanskuck Branch Providence Public Library
+				Wanton-Lyman-Hazard House
+				Warren Fire Department - Massasoit Hook and Ladder Station 1
+				Warren Fire Department - Mechanics Fire Company Station 2
+				Warren Fire Department - Narragansett Engine Company Station 3
+				Warren Fire Department - Rough and Ready Station 5
+				Warren Fire Department - Touisett Fire Company Station 6
+				Warren Fire Department Rescue Station
+				Warren House
+				Warren Police Department
+				Warren Town Hall
+				Warwick City Hall
+				Warwick Fire Department Station 1
+				Warwick Fire Department Station 2
+				Warwick Fire Department Station 3
+				Warwick Fire Department Station 4
+				Warwick Fire Department Station 5
+				Warwick Fire Department Station 6
+				Warwick Fire Department Station 8
+				Warwick Fire Department Station 9
+				Warwick Historical Society Building
+				Warwick Museum
+				Warwick Museum of Art
+				Warwick Musical Theatre
+				Warwick Police Department
+				Warwick Public Library
+				Washington Fire Department
+				Washington Park Branch Providence Public Library
+				Watch Hill Fire Department
+				Watch Hill Lighthouse Museum
+				Waterman Tavern
+				Watson Building
+				Watson Institute
+				Wayland Building
+				Wee Care Day Care Center
+				West Bay Community Action Childrens Center
+				West Glocester Fire Department Station 1
+				West Glocester Fire Department Station 2
+				West Greenwich Fire Department
+				West Greenwich Police Department
+				West Greenwich Rescue 2
+				West Greenwich Town Hall
+				West Kingston Fire Department
+				West Warwick Fire Department Station 1 Headquarters
+				West Warwick Fire Department Station 2
+				West Warwick Fire Department Station 3
+				West Warwick Fire Department Station 4
+				West Warwick Police Department
+				West Warwick Public Library
+				West Warwick Town Hall
+				Westerly Ambulance Corps
+				Westerly Fire Department Station 1 Headquarters
+				Westerly Fire Department Station 2
+				Westerly Hospital Medical Association Library
+				Westerly Memorial Building
+				Westerly Police Department
+				Westerly Preschool Childhood Center
+				Westerly Public Library
+				Westerly Town Hall and Courthouse
+				Westerly-Pawcatuck Area Chamber of Commerc
+				Western Coventry Fire District Station 1
+				Western Coventry Fire District Station 2
+				Western Cranston Learning Center
+				Whipple Tavern (historical)
+				Whispering Pines Conference Center
+				White Horse Tavern (historical)
+				Whitehall Museum
+				Wickford Art Association Gallery and Art Center
+				Wickford Barracks
+				Wickford Town Hall
+				Wilbour Building
+				Wilbur House
+				Willett Free Library
+				William F Flanagan Learning Resources Center
+				William G Braude Library
+				William H Hall Free Library
+				Wilson Building
+				Windmill Cottage
+				Wonderkids Day Care Center
+				Wonderland Early Learning Center
+				Woods-Gerry Gallery
+				Woods-Gerry Mansion
+				Woolley Building
+				Woonsocket City Hall
+				Woonsocket District Courthouse
+				Woonsocket Fire Department Station 1
+				Woonsocket Fire Department Station 2
+				Woonsocket Fire Department Station 3
+				Woonsocket Fire Department Station 4
+				Woonsocket Fire Department Station 6
+				Woonsocket Harris Public Library
+				Woonsocket House
+				Woonsocket Police Department
+				Woonsocket YMCA
+				YMCA
+				YMCA Annex
+				YMCA of South County
+				Zion Bible Institute Library
+			Canal (RI)
+				Blackstone Canal
+			Cape (RI)
+				Adams Point
+				Allen Neck
+				Almy Point
+				Anthony Point
+				Antushantuck Neck
+				Arnold Neck
+				Arnold Point
+				Balls North Point
+				Balls Point
+				Barlows Point
+				Bass Rock
+				Beach Plum Neck
+				Bear Point
+				Beaver Neck
+				Beaverhead
+				Beavertail Point
+				Bensley Point
+				Betty Hull Point
+				Big Rock Point
+				Bishop Point
+				Black Point
+				Black Rock Point
+				Bluff Point
+				Bold Point
+				Bonnet Point
+				Boston Neck
+				Breakwater Point
+				Brenton Point
+				Briggs Point
+				Bristol Neck
+				Bristol Point
+				Brown Point
+				Browning Point
+				Brush Neck
+				Bryer Point
+				Bucklin Point
+				Bull Point
+				Bullock Neck
+				Bullock Point
+				Buttonwood Point
+				Calf Neck
+				Calf Pasture Point
+				Carr Point
+				Case Point
+				Casey Point
+				Castle Hill
+				Cedar Island Peninsula
+				Cedar Point
+				Cedar Tree Point
+				Chase Point
+				Chepiwanoxet Point
+				Cherry Neck
+				Church Point
+				Clark Point
+				Coddington Point
+				Coggeshall Point
+				Cold Spring Point
+				Common Fence Point
+				Conanicut Point
+				Conimicut Point
+				Cormorant Point
+				Corn Neck
+				Cowpen Point
+				Crook Point
+				Crown Point
+				Dickens Point
+				Dyer Point
+				Easton Point
+				Fields Point
+				Flat Meadow Point
+				Flat Point
+				Flint Point
+				Fogland Point
+				Fort Neck
+				Fox Point
+				Frank Point
+				Gaspee Point
+				Goose Neck
+				Goose Point
+				Gould Neck
+				Grace Point
+				Grassy Point
+				Graves Neck
+				Graves Point
+				Great Point
+				Green Hill Point
+				Greene Point
+				Greenwood Point
+				Grove Point
+				Gull Point
+				Hall Point
+				Harbor Neck
+				Harris Point
+				High Hill Point
+				High Neck
+				Horse Neck
+				Horseshoe Point
+				Hummock Point
+				India Point
+				Indian Head Neck
+				Jacobs Point
+				Jerrys Point
+				Kettle Point
+				Knowles Point
+				Lands End
+				Lewis Point
+				Limber Point
+				Little Neck
+				Little Neck Point
+				Little Point Judith
+				Little Tree Point
+				Locke Point
+				Lone Tree Point
+				Long Bar Point
+				Long Neck Goose
+				Long Point
+				Marsh Point
+				Marshneck Point
+				Martin Point
+				Martins Point
+				Matunuck Point
+				McCorrie Point
+				Meadow Point
+				Mill Point
+				Moshassuck
+				Mount Hope Point
+				Nannaquaket Neck
+				Napatree Point
+				Nayatt Point
+				New Meadow Neck
+				Newport Neck
+				North Point
+				Northeast Point
+				Northwest Point
+				Ochre Point
+				Old Harbor Point
+				Pawtuxet Neck
+				Phebes Neck
+				Pickerel Point
+				Pine Hill Point
+				Pine Tree Point
+				Pleasure Lake
+				Plum Beach Point
+				Point Judith
+				Point Judith Neck
+				Point Wharf
+				Point of Trees
+				Pojac Point
+				Popasquash Neck
+				Popasquash Point
+				Poplar Point
+				Potato Point
+				Potowomut Neck
+				Price Neck
+				Providence Point
+				Quahaug Point
+				Quonochontaug Neck
+				Quonset Point
+				Ragged Point
+				Ram Head Point
+				Ram Point
+				Raymonds Point
+				Reeds Point
+				Reel Point
+				Regatta Point
+				Rhodes Point
+				Richmond Point
+				Rocky Point
+				Rome Point
+				Rough Point
+				Rumstick Neck
+				Rumstick Point
+				Rye Point
+				Sabin Point
+				Sachuest Peninsula
+				Sachuest Point
+				Sakonnet Point
+				Sally Rock Point
+				Sand Point
+				Sandy Point
+				Sapowet Point
+				Sassafras Point
+				Sauga Point
+				Schooner Point
+				Second Point
+				Sheep Point
+				Short Point
+				Slocum Point (historical)
+				South Point
+				Southeast Point
+				Southwest Point
+				Spar Point
+				Spink Neck
+				Squally Point
+				Squantum Point
+				Stony Point
+				Stub Point
+				Succotash Point
+				Swan Point
+				Taylor Point
+				The Bonnet
+				The Naps
+				The Tongue
+				Thomas Point
+				Toby Point
+				Toms Point
+				Toweset Point
+				Tuck Point
+				Turner Point
+				Tyler Point
+				Upper Grinnell Point
+				Usher Point
+				Walker Point
+				Warren Point
+				Warwick Neck
+				Warwick Point
+				Watch Hill Point
+				Watchemoket Point
+				Waybaussett Neck
+				Weekapaug Point
+				Whaleboat Point
+				Wheat Point
+				Wild Goose Point
+				Wood Point (historical)
+				Woods Castle
+			Cemetery (RI)
+				Abigal Cemetery
+				Albert Sweet Lot
+				Allen Lot
+				Allen-Pierce Farm Cemetery
+				Ambrose Taylor Lot
+				Amos Whitford Lot
+				Anthony-Arnold Lot
+				Arnold Burying Ground
+				Arnold Cemetery
+				Arnold Lot
+				Arnold Mill Cemetery
+				Arnold-Shearman Lot
+				Austin Cemetery
+				Avis Barber Lot
+				Babcock Family Lot
+				Ballou Cemetery
+				Barber Cemetery
+				Barber Lot
+				Bates Lot
+				Benjamin Lockwood Lot
+				Bennett-Spencer Lot
+				Bethany Cemetery
+				Bitgood Lot
+				Bliven Burial Ground
+				Boone Cemetery
+				Boone Family Lot
+				Boss Lot
+				Brainard Lot
+				Braman Cemetery
+				Braman Lot
+				Bramen Lot
+				Briggs Cemetery
+				Brightman Family Lot
+				Brown and Bucklin Families Cemetery
+				Burdick Cemetery
+				Burdick Lot
+				Burlingame Cemetery
+				Burton Lot
+				Buxton Cemetery
+				Caleb Allen Cemetery
+				Captain Joseph Spencer Lot
+				Captain Randall Holden Junior Lot
+				Captain Samuel Green Lot
+				Card Lot
+				Carpenter Cemetery
+				Carpenter Lot
+				Carr Cemetery
+				Casey Cemetery
+				Cashman Cemetery
+				Caswell Lot
+				Cedar Cemetery
+				Cezar Onion Lot
+				Chadsey-Gardiner Cemetery
+				Chafee Lot
+				Champlin Lot
+				Champlin-Greene Burial Ground
+				Chapman Cemetery
+				Charlestown Indian Burying Ground
+				Chase Cemetery
+				Chepachet Cemetery
+				Chestnut Hill Cemetery
+				Christopher Green Lot
+				Clarks Cemetery
+				Colonel John Waterman Lot
+				Colvin Cemetery
+				Common Ground Cemetery
+				Congdon Cemetery
+				Congdon-Gardiner Cemetery
+				Congregational Sons of Israel Cemetery
+				Congton-Packard Cemetery
+				Cottrell Cemetery
+				Covill Lot
+				Crandall Lot
+				Curtis Maine Lot
+				Daniel Lewis Lot
+				Daniel Peckham Lot
+				David Bennett Lot
+				David Greene Cemetery
+				Davis Cemetery
+				Dawley Lot
+				Dawley-Brown Lot
+				Dawley-Straight Lot
+				Diamond Hill Cemetery
+				Doctor Isaac Collins Lot
+				Dodge Cemetery
+				Dowley Lot
+				East Burial Ground
+				East Greenwich Cemetery
+				East Greenwich Historical Cemetery Number 1
+				East Greenwich Historical Cemetery Number 10
+				East Greenwich Historical Cemetery Number 11
+				East Greenwich Historical Cemetery Number 12
+				East Greenwich Historical Cemetery Number 13
+				East Greenwich Historical Cemetery Number 14
+				East Greenwich Historical Cemetery Number 16
+				East Greenwich Historical Cemetery Number 18
+				East Greenwich Historical Cemetery Number 19
+				East Greenwich Historical Cemetery Number 2
+				East Greenwich Historical Cemetery Number 20
+				East Greenwich Historical Cemetery Number 21
+				East Greenwich Historical Cemetery Number 22
+				East Greenwich Historical Cemetery Number 23
+				East Greenwich Historical Cemetery Number 24
+				East Greenwich Historical Cemetery Number 25
+				East Greenwich Historical Cemetery Number 27
+				East Greenwich Historical Cemetery Number 3
+				East Greenwich Historical Cemetery Number 30
+				East Greenwich Historical Cemetery Number 32
+				East Greenwich Historical Cemetery Number 33
+				East Greenwich Historical Cemetery Number 36
+				East Greenwich Historical Cemetery Number 4
+				East Greenwich Historical Cemetery Number 42
+				East Greenwich Historical Cemetery Number 43
+				East Greenwich Historical Cemetery Number 51
+				East Greenwich Historical Cemetery Number 52
+				East Greenwich Historical Cemetery Number 54
+				East Greenwich Historical Cemetery Number 55
+				East Greenwich Historical Cemetery Number 6
+				East Greenwich Historical Cemetery Number 62
+				East Greenwich Historical Cemetery Number 63
+				East Greenwich Historical Cemetery Number 64
+				East Greenwich Historical Cemetery Number 67
+				East Greenwich Historical Cemetery Number 7
+				East Greenwich Historical Cemetery Number 70
+				East Greenwich Historical Cemetery Number 72
+				East Greenwich Historical Cemetery Number 73
+				East Greenwich Historical Cemetery Number 74
+				East Greenwich Historical Cemetery Number 9
+				Eldred Cemetery
+				Eleazer Slocum Lot
+				Elias Lewis Lot
+				Elm Grove Cemetery
+				Enos-Crandall Lot
+				Evergreen Cemetery
+				Exeter Historical Cemetery
+				Exeter School Cemetery
+				Fenner Lot
+				Fernwood Cemetery
+				Flagg Lane Cemetery
+				Fones Palmer Lot
+				Fones-Brown Cemetery
+				Fones-Haszard Cemetery
+				Foster Kenyon Lot
+				Foster-Spencer Lot
+				Francis Tanner Lot
+				Friends Burial Ground
+				Gardiner Cemetery
+				Gardiner Lot
+				Gardiner-Green Lot
+				Gardner Lot
+				Gate of Heaven Cemetery
+				General George Thurston Lot
+				General Thomas Westcott Lot
+				George Babcock Lot
+				George Thomas Cemetery
+				Glenford Cemetery
+				Glenwood Cemetery
+				Gorton Lot
+				Gorton-Arnold Cemetery
+				Gorton-Wing Lot
+				Governor Benedict Arnold Burying Ground
+				Governor Green Lot
+				Governor Samuel Gorton Lot
+				Governors Graveyard
+				Grace Cemetery
+				Greene Cemetery
+				Greenwood Cemetery
+				Hall Cemetery
+				Hall-Geer Lot
+				Hammond Cemetery
+				Harmony Cemetery
+				Hathaway Cemetery
+				Hawkins Cemetery
+				Hazard Sherman Lot
+				Henry Barber Lot
+				Henry Family Lot
+				Henry Maryott Lot
+				Hezekiah Collins Lot
+				Highland Memorial Park
+				Hill Cemetery
+				Himes Cemetery
+				Hiscox Cemetery
+				Holden-Bicknell-Taylor Cemetery
+				Hopkins Cemetery
+				Hopkins Mills Cemetery
+				Hopkinton Cemetery
+				Howard-Remington Lot
+				Hoxie Family Lot
+				Hoxsie-Cayer Lot
+				Huling Cemetery
+				Hunt Cemetery
+				Hunt-Hall Cemetery
+				Hurst Cemetery
+				Indian Rock Cemetery
+				Intervale Cemetery
+				Irons Cemetery
+				Island Cemetery
+				James Lot
+				Jamestown Town Cemetery
+				Jerauld-Gerald Lot
+				Job Kenyon Lot
+				John Browning Lot
+				John Budlong Lot
+				John Gardiner Cemetery
+				John H Holden Lot
+				John Wightman Cemetery
+				Joseph Bennett Lot
+				Joseph Briggs Lot
+				Joseph Burdick Lot
+				Juniper Hill Cemetery
+				Kenyon Lot
+				Larkin Lot
+				Lawton Cemetery
+				Lawton Foster Lot
+				Lewis Family Cemetery
+				Lewis Lot
+				Lewis-Himes-Tillinghast Lot
+				Lillibridge Burial Ground
+				Lillibridge Cemetery
+				Lillibridge Lot
+				Lincoln Park Cemetery
+				Lippett Lot
+				Little Neck Cemetery
+				Locke Cemetery
+				Lockwood Lot
+				Locust Grove Cemetery
+				Major General George Sears Green Lot
+				Maple Root Cemetery
+				Marble Lot
+				Mary Lewis Lot
+				Metcalf Cemetery
+				Middletown Cemetery
+				Mineral Spring Cemetery
+				Moshassuck Cemetery
+				Mount Saint Marys Cemetery
+				Mowry-Knight-Mott Lot
+				Murre Lot
+				Narragansett Cemetery
+				Nathan Collins Lot
+				Nathan Kinyon Lot
+				Nathaniel Arnold Lot
+				Nathaniel Cook Lot
+				Nathaniel Hall Lot
+				New Pawtuxet Cemetery
+				New Rockland Cemetery
+				Newport Memorial Park
+				Nichols Lot
+				North Burial Ground
+				North Cemetery
+				Notre Dame Cemetery
+				Noyes-Wells Lot
+				OLiver Gardiner Cemetery
+				Oak Grove Cemetery
+				Oak Hill Cemetery
+				Oatley Lot
+				Old Baptist Church Burial Ground
+				Old Baptist Church Yard
+				Old Baptist Meetinghouse Yard
+				Old Burying Ground
+				Old Forge Burial Ground
+				Old Friends Burial Ground
+				Old Gardner Cemetery
+				Old Howard Plot
+				Palatine Cemetery
+				Palmer Family Lot
+				Palmer-Burdick-Appley Lot
+				Pearce Watson Cemetery
+				Peleg Card Cemetery
+				Perkins Family Lot
+				Perkins Lot
+				Perry Lot
+				Peter Davis Lot
+				Phenix-Brown-Hendrick Cemetery
+				Phillips Cemetery
+				Phillips Memorial Cemetery
+				Phillips-Gardiner Cemetery
+				Phillips-Moone-Jenkins Lot
+				Pierce-Phillips Cemetery
+				Pine Grove Cemetery
+				Pocasset Cemetery
+				Pocasset Hill Cemetery
+				Polish Cemetery
+				Portsmouth Friends Cemetery
+				Potter Lot
+				Preacher Smart Burial Yard
+				Princes Hill Cemetery
+				Prophet-Babcock-Holden Lot
+				Quaker Burying Ground
+				Quidnessett Cemetery
+				Ray Lot
+				Remington Cemetery
+				Remington-Arnold Lot
+				Resurrection Cemetery
+				Reverend Sameul Littlefield Lot
+				Reverend Solomon Sprague Lot
+				Reynolds Cemetery
+				Reynolds Lot
+				Reynolds-Johnson Lot
+				Rhode Island Historical Cemetery Cumberland Number 9
+				Rhode Island State Veteran Cemetery
+				Rice Burial Yard
+				Richmond Family Lot
+				Richmond Lot
+				River Bend Cemetery
+				Riverside Cemetery
+				Robert Browning Lot
+				Robert Edmonds Burial Ground
+				Robinson Cemetery
+				Rockville Cemetery
+				Rogers Lot
+				Rose Cemetery
+				Rose Lot
+				Rothburn Cemetery
+				Royal Indian Burial Ground
+				Saint Anns Cemetery
+				Saint Basil Cemetery
+				Saint Columbas Cemetery
+				Saint Francis Cemetery
+				Saint James Cemetery
+				Saint Josephs Cemetery
+				Saint Lukes Cemetery
+				Saint Marys Cemetery
+				Saint Marys Crompton Rectory Cemetery
+				Saint Patricks Cemetery
+				Saint Paul-Updike Cemetery
+				Saint Pauls All Saints Cemetery
+				Saint Sebastian Cemetery
+				Samuel Arnold Lot
+				Sandy Brook Cemetery
+				Sarah Larkin Lot
+				Sedgefield Road Cemetery
+				Sheffield Cemetery
+				Sheldon Lot
+				Sherman Burial Ground
+				Sherman Cemetery
+				Sherman Lot
+				Sherman-Shearman Cemetery
+				Shippee Burial Yard
+				Slocum-Sweet Cemetery
+				Smith Cemetery
+				Smith Lot
+				Smithfield Cemetery
+				South Burial Grounds
+				Spicer Lot
+				Spring Greene Burial Ground
+				Stafford Lot
+				Steere Cemetery
+				Stone Castle Lot
+				Stone Plot
+				Straight Lot
+				Sunderland-Tarbox Lot
+				Swan Point Cemetery
+				Sweet Lot
+				Sweet-Austin Cemetery
+				Sweet-Tripp Lot
+				Taylor Cemetery
+				Tefft Family Cemetery
+				Tennabt Cemetery
+				The Jewish Cemetery
+				Thomas Cemetery
+				Thomas Holden Lot
+				Thomas Rice Lot
+				Thomas Taylor Lot
+				Thomas Wilbur Lot
+				Thomas Wilcox Lot
+				Thompson Wells Lot
+				Tillinghast Family Cemetery
+				Tillinghast Lot
+				Tisdale Lot
+				Tourgee Cemetery
+				Tower Hill Cemetery
+				Trinity Churchyard
+				Tripp Family Lot
+				Tyler Point Cemetery
+				Union Cemetery
+				Utter-Arnold-Rhodes Lot
+				Vaughan-Arnold Cemetery
+				Vincent Gardner Lot
+				Walker Lot
+				Walnut Hill Cemetery
+				Warwick Poor Farm Cemetery
+				Waterman Cemetery
+				Watson Cemetery
+				Welling Cemetery
+				Wells Lot
+				West Greenwich Cemetery
+				Westcott-Brown Lot
+				White Brook Cemetery
+				Whitford Cemetery
+				Whitford Lot
+				Whitman-Thurston Lot
+				Wightman Cemetery
+				Wilbur Lot
+				Wilcox Lot
+				Wilcox-Durfee Lot
+				Wilkinson Cemetery
+				Willcox Lot
+				Willcox-Tate Lot
+				Willettt Carpenter Cemetery
+				William J Cole Lot
+				William Jenison Lot
+				William Reynolds Cemetery
+				Witter Lot
+				Wolf Cemetery
+				Woodlawn Cemetery
+				Woodmansee Lot
+				Worden Lot
+				Young Cemetery
+			Census (RI)
+				Ashaway Census Designated Place
+				Barrington Census Designated Place
+				Bradford Census Designated Place
+				Bristol Census Designated Place
+				Carolina Census Designated Place
+				Charlestown Census Designated Place
+				Chepachet Census Designated Place
+				Clayville Census Designated Place
+				Cumberland Hill Census Designated Place
+				Exeter Census Designated Place
+				Foster Center Census Designated Place
+				Greene Census Designated Place
+				Greenville Census Designated Place
+				Harmony Census Designated Place
+				Harrisville Census Designated Place
+				Hope Valley Census Designated Place
+				Hopkinton Census Designated Place
+				Kingston Census Designated Place
+				Little Compton Census Designated Place
+				Melville Census Designated Place
+				Misquamicut Census Designated Place
+				Narragansett Pier Census Designated Place
+				New Shoreham Census Designated Place
+				Newport East Census Designated Place
+				North Providence Census Designated Place
+				Pascoag Census Designated Place
+				Quonochontaug Census Designated Place
+				Summit Census Designated Place
+				Tiverton Census Designated Place
+				Valley Falls Census Designated Place
+				Wakefield-Peacedale Census Designated Place
+				Watch Hill Census Designated Place
+				Weekapaug Census Designated Place
+				West Greenwich Census Designated Place
+				West Warwick Census Designated Place
+				Westerly Census Designated Place
+				Wyoming Census Designated Place
+			Channel (RI)
+				Bullock Point Reach
+				Catumb Passage
+				Conimicut Point Reach
+				East Passage
+				Entrance Channel
+				Fox Point Reach
+				Fuller Rock Reach
+				Judith Pond
+				Lords Passage
+				Rumstick Neck Reach
+				Sabin Point Reach
+				Sugar Reef Passage
+				The Narrows
+				Watch Hill Passage
+				West Passage
+			Church (RI)
+				A-47 Christian Assembly Church
+				Abundant Life Church
+				All Saints Chapel
+				All Saints Memorial Church
+				Allen African Methodist Episcopal Church
+				Allendale Baptist Church
+				Alpha and Omega Deaf Church
+				Amazing Grace Church
+				American Baptist Church
+				Amicable Church
+				Antioch Church
+				Apostolic Pentecostal Church
+				Armenian Apostolic STS Church
+				Armenian Apostolic Vartanantz Church
+				Armenian Euphrates Evangelical Church
+				Arnold Mills United Methodist Church
+				Ashaway Bible Chapel
+				Assembly of God Church
+				Assembly of God Church of North Providence
+				Assembly of Pentecost Church
+				Assumption of the Blessed Virgin Mary Church
+				Babcock Presbyterian Church
+				Baha'i Faith Church
+				Baptist Church of Warren
+				Barney STreet Sabbatarian Meeting House
+				Barrington Baptist Church
+				Barrington Congregational Church
+				Barrington Presbyterian Church
+				Barrington United Methodist Church
+				Belknap Church
+				Bell Street Chapel
+				Beneficient Congregational Church United Church of Christ
+				Berean Baptist Church
+				Bethany Baptist Church
+				Bethany Church of the Nazarene
+				Bethel African Methodist Episcopal Church
+				Bethesda Christian Fellowship
+				Bible Baptist Church
+				Blessed Sacrament Rectory
+				Brown University Chapel
+				Burrillville United Methodist Church
+				Buttonwoods Bible Chapel
+				Calvary Baptist Church
+				Calvary Covenant Church
+				Calvary Episcopal Church
+				Calvary United Methodist Church
+				Camp Street Community Ministries
+				Carmelite Monastery
+				Casade Oracion Gethsemane Church
+				Cathedral of Saint John the Episcopal
+				Celestial Church of Christ
+				Central Baptist Church
+				Central Congregational Church
+				Central Falls Congregational Church
+				Centro Cristiano de Adoracion
+				Centro Evangelist Church
+				Chapel of the Ministry at Large (historical)
+				Chapel of the Sea
+				Chapin Memorial Chapel
+				Chepachet Union Church
+				Chestnut Hill Baptist Church
+				Chinese Christian Church of Rhode Island
+				Christ Apostolic Church
+				Christ Church of Deliverance
+				Christ Church of Providence
+				Christ Episcopal Church
+				Christ Miracle Vineyard Church
+				Christ Temple
+				Christ United Methodist Church
+				Christ the King Church
+				Christ the King Religious Church
+				Christadelphian Ecclesia Church
+				Christadelthian Ecclesia
+				Christian Assembly of God Church
+				Christs Church
+				Church in North Providence
+				Church of Christ
+				Church of God
+				Church of God Emanuel
+				Church of God and Saints
+				Church of God in Christ
+				Church of God of Prophecy
+				Church of the Advent
+				Church of the Holy Spirit
+				Church of the Lord Jesus
+				Church of the Master Baptist
+				Church of the Mediator
+				Church of the Messiah
+				Church of the Precious Blood
+				Church of the Presentation
+				Church of the Redeemer
+				Church of the Resurrection
+				Church of the Savior (historical)
+				Church of the Transfiguration
+				Cistercian Monastery (historical)
+				Clarke Street Congregational Church
+				Clayville Church
+				Colonial Baptist Church
+				Congdon Street Baptist Church
+				Congregation Beth Sholom
+				Cornerstone Church
+				Covenant Church
+				Covenant Congregational Church
+				Cranston Street Methodist Church
+				Crossroads Covenant Church
+				Curtis Corner Baptist Church
+				Darlington Congregational Church
+				Dormition of the Virgin Mary Church
+				Dunns Corners Community Church
+				East Greenwich Baptist Church
+				East Greenwich United Methodist Church
+				Ebenezer Baptist Church
+				Edgewood Congregational United Church
+				Elder Ballou Meetinghouse (historical)
+				Elder Gorton Meeting House (historical)
+				Elmwood Avenue Church of God
+				Emanuel Lutheran Church
+				Emmanuel Baptist Church
+				Emmanuel Church
+				Emmanuel Seventh Day Adventist Church
+				Ephese Seventh Day Adventist French Church
+				Epworth United Methodist Church
+				Esperanza de Vida
+				Evangelical Friends Church
+				Faith Lutheran Brethren Church
+				Faith Presbyterian Church
+				Faith and Hope Baptist Church
+				Fellowship of House Church
+				First Baptist Church
+				First Baptist Church in America
+				First Baptist Church in Wickford
+				First Baptist Church of Charlestown at Quonochontaug
+				First Baptist Church of North Kingstown
+				First Baptist Church of Pawtucket
+				First Church of Christ Scientist
+				First Church of God
+				First Church of the Nazarene
+				First Congregational Church
+				First Evangelical Lutheran Church
+				First Korean Church
+				First Pentecostal Church
+				First Tabernacle Church
+				First Unitarian Church of Providence
+				First United Methodist Church of Warren
+				First Universalist Church
+				First Universalist Church of Burrillville
+				Four Corners Community Chapel
+				Fourth Baptist Church
+				Franciscan Convent
+				Franciscan Missionaries of Mary
+				Free Will Baptist Church
+				Freedom Road Baptist Church
+				Frenchtown Baptist Church
+				Friends Meeting House (historical)
+				Friends Meetinghouse
+				Friends Meetinghouse (historical)
+				Friendship Baptist Church
+				Georgiaville Baptist Church
+				Glad Tidings Assembly of God Church
+				Gloria Dei Evangelical Lutheran Church
+				Good News Baptist Church
+				Good Shepherd Church
+				Gosepel Tabernacle Church
+				Grace Chapel Assembly of God Church
+				Grace Christian Fellowship Church
+				Grace Church (historical)
+				Grace Episcopal Church
+				Grace Harbor Community Church
+				Grace United Methodist Church
+				Great Friends Meeting House
+				Greek Orthodox Annunciation Church
+				Greek Orthodox Assumption Church
+				Greenville Baptist Church
+				Greenwood Community Church
+				Harbor Church
+				Harmony Chapel
+				Harvest Chapel
+				Haven United Methodist Church
+				Hillside Baptist Church
+				Holy Angels Roman Catholic Church
+				Holy Cross Church
+				Holy Cross Church of God
+				Holy Family Church
+				Holy Order of Cherubim Church
+				Holy Rosary Church
+				Holy Temple Church of God in Christ
+				Holy Trinity Church Complex
+				Hood Memorial African Methodist Episcopal Church
+				Hope Baptist Church
+				Hopkins Hollow Church
+				House of Faith Church
+				House of Prayer Church
+				Iglesia Evangelica Emmanuel
+				Iglesia Evangelica el Mesias
+				Iglesia Pentecostal Calvario
+				Iglesia de Cristo Mi-el
+				Immaculate Conception Church
+				International Alliance Church
+				Jesus Marie Convent
+				Keys Memorial Church of God
+				Kingdom Hall of Jehovahs Witnesses
+				Kings Church
+				Kingston Congregational Church
+				Knightsville-Franklin Congregation Church
+				La Iglesia de Dios
+				Liberty Church
+				Lighthouse Family Worship Center
+				Lincoln Christian Fellowship
+				Lincoln Seventh Day Adventist Church
+				Lonsdale Baptist Church
+				Lutheran Church of the Good Shepherd
+				Maranatha Tabernacle Church of God
+				Marantha Tabernacle Church
+				Mathewson Street United Methodist Church
+				Melrose Church of God
+				Meshanticut Park Baptist Church
+				Methodist Church of Asbury
+				Middletown Baptist Church
+				Mount Calvary Church
+				Mount Hope Community Baptist Church
+				Mount Pleasant Baptist Church
+				Mount Saint Rita Convent
+				Mount Vernon Church
+				Mount Zion African Methodist Episcopal Church
+				Mount Zion Church of God
+				Movimiento Pentecostal Monte Sinai
+				Muslim Community Center of Rhode Island
+				Narragansett Church
+				Narragansett Indian Church
+				Nazarene Emmanuel Church
+				New Covenant Worship Center
+				New Hope Baptist Church
+				New Hope Chapel
+				New Hope Christian Church
+				New Jerusalem Church of God
+				New Life Assembly Church
+				Newman Church
+				Newport Congregational Church
+				North Foster Baptist Church
+				North Kingstown Assembly of God
+				North Kingstown United Methodist Church
+				North Tiverton Baptist Church
+				Notre Dame Church (historical)
+				Old Congregational Church
+				Old Narragansett Episcopal Church
+				Old Sabbatarian Meeting-House
+				Old Stone Church
+				Olney Street Baptist Church
+				Our Lady of Consolation Church
+				Our Lady of Lourdes Church Complex
+				Our Lady of Mount Carmel Church
+				Our Lady of Mount Carmel Convent
+				Our Lady of Victory Church
+				Our Redeemer Lutheran Church
+				Outreach Ministries
+				Pascoag Community Baptist Church
+				Pawcatuck Seventh Day Baptist Church
+				Pawtucket Congregational Church
+				Pawtuxet Baptist Church
+				Peace Dale Congregational Church
+				Pentecostal Church of God
+				People of Gods Love Church
+				Peoples Baptist Church
+				Perryville Baptist Church
+				Phenix Baptist Church
+				Phillips Memorial Baptist Church
+				Pilgrim Lutheran Church
+				Pilgrims Baptist Church
+				Pine Tree Chapel
+				Portsmouth Evangelical Friends Meetinghouse
+				Primitive Methodist Church
+				Providence Assembly of God Church
+				Providence Baptist Church
+				Providence Church of God
+				Providence Friends Meeting House
+				Providence Korean United Methodist Church
+				Providence Presbyterian Church
+				Providence Spanish Seventh Day Adventist Church
+				Providence Zen Center
+				Quaker Meeting House (historical)
+				Quidnessett Baptist Church
+				Redeemed Christian Church of God
+				Redeemer Church
+				Refuge Deliverance Tabernacle
+				Reorganized Church of Jesus
+				Restoration House
+				Rhode Island State Council of Churches
+				Rice City Baptist Church
+				River of Life Church
+				Riverpoint Congregational Church
+				Riverside Congregational Church
+				Rockville Seventh Day Baptist Church
+				Sacred Heart Rectory
+				Saint Adalberts Church Center
+				Saint Aidans Rectory
+				Saint Alexanders Roman Catholic Church
+				Saint Ambrose Church
+				Saint Andrew Lutheran Church
+				Saint Andrews Episcopal Church
+				Saint Andrews by the Sea Church
+				Saint Anns Church Complex
+				Saint Anns Rectory
+				Saint Anthonys Church
+				Saint Anthonys Greek Orthodox Church
+				Saint Augustines Church
+				Saint Bartholomews Church
+				Saint Benedicts Church
+				Saint Bernard Roman Catholic Church
+				Saint Casimirs Roman Catholic Church
+				Saint Catherine Church
+				Saint Charles Borromeo Church Complex
+				Saint Columbas Chapel
+				Saint Davids Episcopal Church
+				Saint Edwards Rectory
+				Saint Elizabeths Church
+				Saint Ephraims Church
+				Saint Francis Cemetery Chapel
+				Saint Francis Chapel
+				Saint Francis Church
+				Saint Francis de Sales Roman Catholic Church
+				Saint Georges Church
+				Saint Georges Roman Catholic Church
+				Saint James Episcopal Church
+				Saint James Lutheran Church
+				Saint Jean Baptist Church
+				Saint Jean Baptiste Roman Catholic Church
+				Saint Joan Church
+				Saint John Church
+				Saint John the Baptist Church
+				Saint John the Divine Episcopal Church
+				Saint Johns Church
+				Saint Johns Episcopal Church
+				Saint Johns Rectory
+				Saint Josephs Chapel Roman Catholic Church
+				Saint Josephs Church
+				Saint Josephs Church Complex
+				Saint Josephs Rectory
+				Saint Josephs Roman Catholic Church
+				Saint Judes Rectory
+				Saint Lawrence Parish Center
+				Saint Leo Church
+				Saint Lukes Episcopal Church
+				Saint Lukes Roman Catholic Church
+				Saint Madeleines Church
+				Saint Mark Church
+				Saint Mark Evangelical Lutheran Church
+				Saint Marks Episcopal Church
+				Saint Martins Church
+				Saint Mary Star of the Sea Roman Catholic Church
+				Saint Mary and Saint Mena Orthodox Church
+				Saint Mary of the Bay Roman Catholic Church
+				Saint Marys Antiochian Church
+				Saint Marys Church
+				Saint Marys Church of the Immaculate Conception
+				Saint Marys Episcopal Church
+				Saint Marys Greek Orthodox Church
+				Saint Marys Home
+				Saint Mathews Episcopal Church
+				Saint Matthew Trinity Lutheran Church
+				Saint Matthews Church
+				Saint Matthews Episcopal Church
+				Saint Michaels Convent
+				Saint Michaels Episcopal Church
+				Saint Michaels Roman Catholic Church
+				Saint Michaels Ukranian Orthodox Church
+				Saint Patricks Church
+				Saint Patricks Church Hispanic Ministry
+				Saint Patricks Convent
+				Saint Pauls Church
+				Saint Pauls Church (historical)
+				Saint Pauls Community Church
+				Saint Pauls Episcopal Church
+				Saint Pauls Evangelical Lutheran Church
+				Saint Pauls Holiness Church
+				Saint Pauls United Methodist Church
+				Saint Peters By-The-Sea Episcopal Church
+				Saint Peters Lutheran Church
+				Saint Peters and Saint Andrews Church
+				Saint Puis X Church
+				Saint Raymonds Church
+				Saint Rocco Church
+				Saint Sahag and Saint Mesrob Armenian Church
+				Saint Sebastians Rectory
+				Saint Spyridon Greek Orthodox Church
+				Saint Stanislaus Parish Hall
+				Saint Stephens Church
+				Saint Stephens Ukranian Orthodox Church
+				Saint Theresa Church
+				Saint Thomas Episcopal Church
+				Saint Thomas More Church
+				Saint Thomas the Apostle Roman Catholic Church
+				Saint Timothy Church
+				Saint Timothys Church
+				Saints Peter and Paul Cathedral
+				Salem Gosel Mission
+				Salvation Army
+				Sayles Memorial Church
+				Saylesville Meeting House
+				Science of Mind Church
+				Seamens Church Institute of Newport
+				Second Baptist Church
+				Second Baptist Church (historical)
+				Second Pentecostal Church
+				Seventh Day Adventist Church
+				Seventh Day Baptist Church
+				Shalom Ministries
+				Sharp Street Church
+				Shaw Memorial Church
+				Sheldon Street Church
+				Shepherd of the Valley Church
+				Shiloh Church
+				Sixth District Church
+				Slatersville Congregational Church
+				Smithfield Avenue United Church of Christ
+				Smithfield Friends Meeting House
+				Snows Meeting House (historical)
+				Society of Friends Church
+				Sons of Jacob Synagogue
+				South County Church of Christ
+				Spirit and the Word Church
+				Spring Green Memorial Church
+				Star of Jacob Church
+				Stone Chapel
+				Swedish United Methodist Church
+				Tabernacle Baptist Church
+				Tabernacle Baptist Church West Side
+				Temple Beth El
+				Temple Emanuel
+				Temple Jeshuath Israel
+				Temple Shalom
+				Temple Sinai Suburban Reform Temple
+				Temple Torat Yisrael
+				The Church of Jesus Christ of Latter Day Saints
+				The Rhode Island Fisherman and Whale Museum
+				Touro Synagogue
+				Trinity Assembly of God Church
+				Trinity Church
+				Trinity Episcopal Church
+				Trinity Episcopal Church (historical)
+				Trinity Lutheran Church
+				Trinity Presbyterian Church
+				Trinity United Methodist Church
+				Trumpet of Faith Pentecostal Church
+				Unification Church of Rhode Island
+				Union Chapel
+				Union Church
+				Unitarian Universalist Congregation of South County
+				United Baptist Church
+				United Brothers Synagogue
+				United Church of Christ
+				United First Born Church of Jesus Christ
+				United First Born of Jesus Church
+				United Pentecostal Church
+				United Presbyterian Church
+				Universal Christian Assembly Church
+				Universalist Church (historical)
+				Vendata Society of Providence
+				Victory Assembly of God Church
+				Wakefield Baptist Church
+				Warren Baptist Church
+				Warren United Methodist Church
+				Warwick Bible Chapel
+				Warwick Central Baptist Church
+				Warwick Christian Fellowship Church
+				Washington Park United Methodist Church
+				West Exeter Church
+				West Greenwich Baptist Church
+				West Kingston Baptist Church
+				West Warwick Church of God
+				Westminster Unitarian Church (historical)
+				Williams Church
+				Woodridge Church
+				Word of Life Covenant Church
+				Zion Episcopal Church
+				Zion Korean United Methodist Church
+			Civil (RI)
+				Arlington (historical)
+				Bristol County
+				City of Central Falls
+				City of Cranston
+				City of East Providence
+				City of Newport
+				City of Pawtucket
+				City of Providence
+				City of Warwick
+				City of Woonsocket
+				Dryden Heights (historical)
+				Dugway
+				Federal Hill (historical)
+				Kent County
+				Louisquisset
+				Narragansett Reservation
+				Newport County
+				North Ferry
+				Providence County
+				Sanford Bound
+				South Auburn
+				South Warren
+				State of Rhode Island and Providence Plantations
+				Town of Barrington
+				Town of Bristol
+				Town of Burrillville
+				Town of Charlestown
+				Town of Coventry
+				Town of Cumberland
+				Town of East Greenwich
+				Town of Exeter
+				Town of Foster
+				Town of Glocester
+				Town of Hopkinton
+				Town of Jamestown
+				Town of Johnston
+				Town of Lincoln
+				Town of Little Compton
+				Town of Middletown
+				Town of Narragansett
+				Town of New Shoreham
+				Town of North Kingstown
+				Town of North Providence
+				Town of North Smithfield
+				Town of Portsmouth
+				Town of Richmond
+				Town of Scituate
+				Town of Smithfield
+				Town of South Kingstown
+				Town of Tiverton
+				Town of Warren
+				Town of West Greenwich
+				Town of West Warwick
+				Town of Westerly
+				Washington County
+				West Arlington
+			Cliff (RI)
+				Clay Head
+				Ferry Cliff
+				Forty Steps
+				Lion Head
+				Marys Seat
+				Mohegan Bluffs
+				Rams Head
+				The Bluff
+				Tree Point Rocks
+				Usher Rocks
+			Crossing (RI)
+				Interchange 1
+				Interchange 10
+				Interchange 10A
+				Interchange 10B
+				Interchange 11
+				Interchange 12
+				Interchange 12A
+				Interchange 12B
+				Interchange 13
+				Interchange 14
+				Interchange 14A
+				Interchange 14B
+				Interchange 15
+				Interchange 17
+				Interchange 19
+				Interchange 1A
+				Interchange 1B
+				Interchange 2
+				Interchange 20
+				Interchange 21
+				Interchange 22
+				Interchange 22A
+				Interchange 22B
+				Interchange 22C
+				Interchange 28
+				Interchange 29
+				Interchange 2A
+				Interchange 2B
+				Interchange 3
+				Interchange 3A
+				Interchange 3B
+				Interchange 4
+				Interchange 4A
+				Interchange 4B
+				Interchange 5
+				Interchange 5A
+				Interchange 5B
+				Interchange 6
+				Interchange 7
+				Interchange 7A
+				Interchange 7B
+				Interchange 8
+				Interchange 8A
+				Interchange 8B
+				Interchange 9
+				Interchange 9A
+				Interchange 9B
+				Interchange Eighteen
+				Interchange Sixteen
+				Interchange Twenty five
+				Interchange Twenty four
+				Interchange Twenty seven
+				Interchange Twenty six
+				Interchange Twenty-three
+				Interchanges Twenty-one and Twenty-two
+			Dam (RI)
+				Albion Dam
+				Aldersgate Lake Dam
+				Allendale Pond Dam
+				Almy Reservoir Dam
+				Alton Pond Dam
+				Arctic Dam
+				Arnold Pond Dam
+				Ashton Dam
+				Ashville Pond Dam
+				Barden Reservoir Dam
+				Barney Pond Dam
+				Bellville Pond Dam
+				Black Rock Reservoir Dam
+				Blue Pond Dam
+				Boone Lake Dam
+				Bowdish Reservoir Dam
+				Breakheart Pond Dam
+				Browning Mill Pond Dam
+				Buck Hill Pond Dam
+				Burlingame Reservoir Upper Dam
+				Canada Upper Pond Dam
+				Carr Pond Dam
+				Centerville Pond Dam
+				Central Falls Dam
+				Cherry Valley Pond Dam
+				Clarkville Pond Dam
+				Coomer Lake Dam
+				Coventry Reservoir Dam
+				Cranston Print Works Pond Dam
+				Crompton Lower Dam
+				Cunliff Pond Dam
+				Curran Lower Reservoir Dam
+				Curran Upper Reservoir Dam
+				Diamond Hill Reservoir Dam
+				Easton Pond South Dam
+				Eisenhower Lake Dam
+				Flat River Reservoir Dam
+				Forestdale Pond Dam
+				Fox Point Hurricane Barrier
+				Fruit of the Loom Dam
+				Gainer Memorial Dam
+				Gardiner Pond Dam
+				Georgiaville Pond Dam
+				Glen Rock Reservoir Dam
+				Gorham Farm Pond Dam
+				Gorton Pond Dam
+				Great Swamp Goose Marsh Dam
+				Green End Pond Dam
+				Happy Hollow Pond Dam
+				Harold E Watson Reservoir Dam
+				Harrisville Pond Dam
+				Hawkins Pond Dam
+				Hope Dam
+				Hopkins Mill Pond Dam
+				Horseshoe Dam
+				Horseshoe Falls Dam
+				Indian Lake Dam
+				James V Turner Reservoir Dam
+				Jamestown Reservoir Dam
+				Keech Pond Dam
+				Kimball Reservoir Dam
+				Lake Washington Dam
+				Lawton Valley Reservoir Dam
+				Locustville Pond Dam
+				Long Pond Dam
+				Lymansville Dam
+				Manville Dam
+				Metcalf Wildlife Marsh Dam
+				Mill Pond Dam
+				Millbrook Pond Dam
+				Moswansicut Pond Dam
+				Mount Tom Club Wildlife Marsh Dam
+				Mountaindale Reservoir Dam
+				Mower Pond Dam
+				Natick Pond Dam
+				Nelson Pond Dam
+				Nichols Pond Dam
+				Nonquit Pond Dam
+				Oak Swamp Reservoir Dam
+				Oakland Pond Dam
+				Olney Pond Dam
+				Omega Pond Dam
+				Pascoag Reservoir Upper Dam
+				Pawtucket Reservoir Dam
+				Peace Dale Pond Dam
+				Ponaganset Reservoir Dam
+				Potowomut Pond Dam
+				Potter Hill Dam
+				Pratt Dam
+				Primrose Pond Dam
+				Quidnick Reservoir Dam
+				Rawson Pond Dam
+				Robin Hollow Pond Dam
+				Saint Marys Pond Dam
+				Silver Spring Lake Dam
+				Simmons Lower Reservoir Dam
+				Simmons Pond Dam
+				Simmons Upper Reservoir Dam
+				Sisson Pond Dam
+				Slack Reservoir Dam
+				Slatersville Reservoir Lower Dam
+				Slatersville Reservoir Middle Dam
+				Slatersville Reservoir Upper Dam
+				Slocum Reservoir Dam
+				Smith and Sayles Reservoir Dam
+				Sprague Lower Reservoir Dam
+				Spring Lake Dam
+				Stillwater Pond Dam
+				Stillwater Reservoir Dam
+				Sucker Pond Dam
+				Tarbox Pond Dam
+				Tarkiln Pond Dam
+				Ten Mile Reservation Dam
+				Tiogue Lake Dam
+				Upper Dam Pond Dam
+				Upper Sprague Reservoir Dam
+				Valley Falls Pond Dam
+				Wallum Lake Dam
+				Warren Reservoir Lower Dam
+				Warren Reservoir Upper Dam
+				Washington Pond Upper Dam
+				Waterman Pond Dam
+				Waterman Reservoir Dam
+				Wenscott Reservoir Dam
+				Wertz and Viall Pond Dam
+				Westconnaug Reservoir Dam
+				White Rock Dam
+				Wilbur Pond Dam
+				Wilson Reservoir Dam
+				Wincheck Pond Dam
+				Wood River Junction Dam
+				Woodville Pond Dam
+				Woonsocket Reservoir Number 3 Dam
+				Wyoming Pond Upper Dam
+				Yawgoog Pond Dam
+				Yorker Mill Pond Dam
+			Falls (RI)
+				Albion Falls
+				Horseshoe Falls
+				Pawtucket Falls
+				Stepstone Falls
+				Woonsocket Falls
+			Flat (RI)
+				Borland Wood
+			Forest (RI)
+				George Washington Memorial State Forest
+				Wickaboxet State Forest
+			Gut (RI)
+				Bristol Narrows
+				Charlestown Breachway
+				Mill Gut
+				Quonochontaug Breachway
+				Quoquasset Inlet
+				The Breachway
+				The Gut
+				The Narrows
+				Weekapaug Breachway
+			Harbor (RI)
+				Old Harbor
+			Hospital (RI)
+				Butler Hospital
+				Chad Brown Health Center
+				Chapin Hospital
+				Cranston General Hospital (historical)
+				Crawford Allen Hospital
+				Dexter Asylum (historical)
+				Eleanor Slater Hospital
+				Emma Pendleton Bradley Hospital
+				Fogarty Memorial Hospital
+				Hasbro Children's Hospital
+				Health Center of South County
+				Homeopathic Hospital (historical)
+				Kent County Memorial Hospital
+				Lakeside Preventorium (historical)
+				Landmark Medical Center
+				Landmark Medical Center Fogarty Campus
+				Memorial Hospital of Rhode Island
+				Miriam Hospital
+				Naval Health Clinic New England
+				Newport Hospital
+				Notre Dame Ambulatory Center
+				Our Lady of Fatima Hospital
+				Providence Hospital
+				Providence Veterans Affairs Medical Center
+				Rehabilitation Hospital of Rhode Island
+				Rhode Island Hospital
+				Rhode Island Soldiers Home
+				Rhode Island State Hospital
+				Rhode Island State Hospital (historical)
+				Roger Williams Medical Center
+				Saint Joseph Center for Health and Human Services
+				Sargent Rehabilitation Center
+				Smithfield Asylum
+				South County Hospital
+				Southern New England Rehabilitation Center
+				Tavares Pediatric Center
+				WellOne Primary Medical Care Center North Kingstown
+				Westerly Hospital
+				Women and Infants Hospital of Rhode Island
+				Wood River Health Services
+				Zambarano Memorial Hospital
+			Island (RI)
+				Albro Island
+				Barker Island
+				Beach Island
+				Beef Island
+				Bill Island
+				Bills Island
+				Block Island
+				Browning Isles (historical)
+				Bush Island
+				Castle Island
+				Cedar Island
+				Coasters Harbor Island
+				Conanicut Island
+				Cornelius Island
+				Crab Island
+				Cranberry Island
+				Cummock Island
+				Despair Island
+				Dutch Island
+				Dyer Island
+				East Island
+				Flower Island
+				Fort Island
+				Fox Island
+				Gardner Island
+				Gingerbread Island
+				Goat Island
+				Goose Island
+				Gooseberry Island
+				Gould Island
+				Governors Island
+				Great Island
+				Greene Island
+				Happy Islet
+				Harbour Island
+				Harvey Island
+				Hazard Island
+				Heather Island
+				Hell Island
+				Hen Island
+				Hog Hill Island
+				Hog Island
+				Hope Island
+				Horace Island
+				Horton Island
+				Jacks Island
+				Jacob Island
+				Jonathan Island
+				Kedinker Island
+				Little Comfort Island
+				Little Cormorant Rock
+				Little Ida Lewis Rock
+				Little Island
+				Marsh Island
+				Oak Island
+				Old Pier Rock
+				Page Island
+				Pancake Island
+				Patience Island
+				Phillips Island
+				Plato Island
+				Pomham Rocks Island
+				Pork Barrel Island
+				Potato Island
+				Prudence Island
+				Rabbit Island
+				Ram Island
+				Rat Island
+				Rhode Island
+				Rock Island
+				Rocky Island
+				Rockytop Island
+				Rose Island
+				Rye Island
+				Sagebed Island
+				Sakonnat Rocks (historical)
+				Sassafras Island
+				Seal Island
+				Sedge Beds Island
+				Shell Island
+				Skippers Island
+				Snake Island
+				Spar Island
+				Spectacle Island
+				Star Island
+				Starve Goat Island (historical)
+				Stevens Island
+				Stony Reef
+				Sunshine Island (historical)
+				The Hummocks
+				Tommy Island
+				Twin Islands
+				Walker Island
+				Ward Island
+				West Island
+				Whortleberry Island
+			Lake (RI)
+				Almy Pond
+				Alton Pond
+				Annaquatucket Mill Pond
+				Asa Pond
+				Ashville Pond
+				Austin Farm Pond
+				Bailey Pond
+				Ball Pond
+				Barber Pond
+				Beach Pond
+				Bellefont Pond
+				Belleville Pond
+				Benedict Pond (historical)
+				Betty Pucky Pond
+				Blackamore Pond
+				Blue Pond
+				Boat House Gully
+				Boon Lake
+				Breakheart Pond
+				Briggs Marsh
+				Briggs Pond
+				Bull Head Pond
+				Canob Pond
+				Carbuncle Pond
+				Card Ponds
+				Carls Pond
+				Carolina Trout Pond
+				Carr Pond
+				Catch Pond
+				Cedar Swamp Pond
+				Centerdale Mill Pond
+				Central Pond
+				Chapman Pond
+				Clayhead Swamp
+				Conley Pond
+				Continental Pond
+				Crab Pond
+				Creamer Pond
+				Crescent Lake
+				Cross Mills Pond
+				Crystal Lake (historical)
+				Cunliff Lake
+				Dam Pond
+				Davol Pond
+				Deep Pond
+				Deep Spring Lake
+				Dees Tug Hole
+				Dexter Pond
+				Diamond Pond
+				Doctor Lewis Pond
+				Duck Cove
+				Duck Pond
+				Duck Pond (historical)
+				Duck Ponds
+				Dyer Pond
+				Edgewood Lake
+				Edwards Pond
+				Eisenhower Lake
+				Ell Pond
+				Elm Lake
+				Factory Pond
+				Fenner Pond
+				Fones Pond
+				Fox Hill Pond
+				Fresh Pond
+				Fry Pond
+				Frying Pan Pond
+				Frys Pond
+				Garden Pond
+				Gates Pond
+				Georgian Swamp
+				Gilbanes Pond
+				Gorton Pond
+				Gould Pond
+				Grass Pond
+				Grassy Pond
+				Grays Mill Pond
+				Great Grass Pond
+				Green Hill Pond
+				Grist Mill Pond
+				Hallville Pond
+				Hannah Clarkin Pond
+				Hawkins Pond
+				Hazard Pond
+				Hot House Pond
+				Hundred Acre Pond
+				Huron Pond
+				Indian Lake
+				James Pond
+				Jenkins Pond
+				Jenny Pond
+				John E's Pond
+				Kettle Hole Pond
+				King Pond
+				King Tom Pond
+				Koszela Pond
+				Lake Bel Air
+				Lake Canonchet
+				Lake Mishnock
+				Lake Washington
+				Lapham Pond
+				Larkin Pond
+				Lawton Valley Reservoir
+				Lillibridge Pond
+				Lily Pond
+				Little Grass Pond
+				Little Huron Pond
+				Little Maschaug Pond
+				Little Neck Pond
+				Little Pond
+				Little Round Top Pond
+				Little Sachem Pond
+				Little Wash Pond
+				Locustville Pond
+				Long Lot Pond
+				Long Pond
+				Long Pond (historical)
+				Lymansville Pond
+				Madison Pond
+				Manton Pond
+				Manville Pond
+				Maple Lake
+				Maschaug Pond
+				Mashapaug Pond
+				Matteson Pond
+				Meadow Brook Pond
+				Melville Ponds
+				Meshanticut Lake
+				Mickill Pond
+				Middle Pond
+				Mill Pond
+				Millbrook Pond
+				Mitchell Pond
+				Money Pond
+				Moscow Ponds
+				Moswansicut Pond
+				Nag Pond
+				Nannaquaket Pond
+				Natick Pond
+				Ninigret Pond
+				No Bottom Pond
+				Nonquit Pond
+				Oak Hill Pond
+				Omega Pond
+				Pasquiset Pond
+				Payne Pond
+				Peck Pond
+				Peckham Pond
+				Peddlers Pond
+				Perry Pond
+				Phelps Pond
+				Phillips Pond
+				Plain Pond
+				Pocasset Pond
+				Point Judith Pond
+				Polo Lake
+				Posneganset Pond
+				Potowomut Pond
+				Potter Pond
+				Prince Pond
+				Print Works Pond
+				Quicksand Pond
+				Quinsnicket Lake
+				Quonochontaug Pond
+				Randall Pond
+				Rathbon Pond
+				Reynolds Pond
+				Richmond Hill
+				Rodman Pond
+				Roosevelt Lake
+				Round Pond
+				Rum Pond
+				Sachem Pond
+				Saint Marys Pond
+				Sand Pond
+				Sandhill Pond
+				Sands Pond
+				Sandy Pond
+				Saugatucket Pond
+				Saw Mill Pond
+				School House Pond
+				Scotch Pond (historical)
+				Sebille Pond
+				Secret Lake
+				Shippee Sawmill Pond
+				Siahs Swamp
+				Silver Lake
+				Silver Spring Lake
+				Simmons Pond
+				Sisson Pond
+				Sneech Pond
+				Social Pond
+				Spear Pond
+				Spectacle Pond
+				Spectacle Ponds
+				Sprague Pond
+				Spring Grove Pond
+				Spring House Ice Pond
+				Spring Lake
+				Spring Pond
+				Stafford Pond
+				Stone Pond
+				Teal Pond
+				Tepee Pond
+				The Gut
+				Thirty Acre Pond
+				Three Ponds
+				Tillinghast Pond
+				Tippecansett Pond
+				Tongue Pond
+				Town Pond
+				Trustom Pond
+				Tucker Pond
+				Tunipus Pond
+				Turtle Pond
+				Upper Deep Hole
+				Upper Pond
+				Warwick Pond
+				Wash Pond
+				Watch House Pond
+				Watchaug Pond
+				Waterman Pond
+				Wells Pond
+				Wesquage Pond
+				White Pond
+				Whites Pond
+				Wickaboxet Pond
+				Wilbur Pond
+				Williams Pond
+				Winnapaug Pond
+				Worden Pond
+				Yard Pond
+				Yawgoo Mill Pond
+				Yawgoo Pond
+				Yawgoog Pond
+				York Pond
+			Locale (RI)
+				A F Cappelli Block Historic District
+				Abbott Run Cotton Mill (historical)
+				Adams Shopping Plaza Shopping Center
+				Agawan Hunt Club Golf Course
+				Airport Shopping Center
+				Albion Mill (historical)
+				Allendale Mill (historical)
+				Allens Corner
+				Allens Grist Mill
+				Allenville Mill (historical)
+				Alpine Country Club
+				Ames Plaza Shopping Center
+				Ann Street Pier
+				Ann and Hope Mill (historical)
+				Ann and Hope Shopping Center
+				Ann and Hope Street Shopping Center
+				Apple Valley
+				Apple Valley Mall Shopping Center
+				Appleland Orchard
+				Aquidneck Shopping Centre
+				Army and Naval YMCA
+				Ashton Mill (historical)
+				Athenaeum Row
+				Balm of Gilead Corner
+				Banisters Wharf (historical)
+				Baptist Plantations
+				Barden Orchards
+				Barrington Yacht Club
+				Bayside Country Club
+				Beavertail Light
+				Bedrock Farm
+				Bellevue Shopping Center
+				Belmont Shoppers Park Shopping Center
+				Berkeley Mill (historical)
+				Bernon Mill (historical)
+				Birch Swamp Corner
+				Blanchard Orchards
+				Block Island Ferry Dock
+				Block Island North Lighthouse
+				Block Island Southeast Lighthouse
+				Bolton Bleachery (historical)
+				Borden Mill (historical)
+				Borrelli Tree Farm
+				Boughs And Berry Farm
+				Boulder HIlls Country Club
+				Boulevard Plaza Shopping Center
+				Bourne Mill (historical)
+				Bowens Wharf
+				Boyden Heights
+				Boyds Mill (historical)
+				Boyds Old Windmill (historical)
+				Branch Avenue Plaza Shopping Center
+				Brenton Reef Light Ship
+				Brewers Sakonnet Marina
+				Brick Market
+				Bridge Mill Power Plant
+				Briggs Beach
+				Bristol Ferry
+				Bristol Ferry Lighthouse (historical)
+				Bristol Golf Club
+				Bristol Poor Farm (historical)
+				Bristol Shopping Center
+				Bristol Waterfront Historic District
+				Bristol Yacht Club
+				Broadway-Armory Historic District
+				Brown Howard Wharf
+				Brown Stadium
+				Browning Beach
+				Browns Lane Plaza Shopping Center
+				Budlong Farm
+				Burlingame Brook
+				Burnt Swamp Corner
+				Burrows Block Historic District
+				Buttonwoods Plaza Shopping Center
+				Buttonwoods Shopping Center
+				Camp Bosco
+				Camp E-Hun-Tee
+				Camp Fire Girls Camp (historical)
+				Camp Fuller
+				Camp Hoffman
+				Camp Massasoit
+				Camp Saugatucket
+				Camp Shepard
+				Camp Swamp (historical)
+				Canochet Station
+				Cards Camp
+				Cards Saw Mill (historical)
+				Carolina Mill (historical)
+				Carolina Station
+				Carousel Village
+				Carpenters Grist Mill
+				Carpenters Mills (historical)
+				Castle Hill Coast Guard Station
+				Castle Hill Light
+				Champlins Dock
+				Chapel Four Corners
+				Charlestown Driving Range
+				Cherry Valley Beach
+				Christiansens Orchards
+				Christines Landing
+				Church Hill Industrial District
+				Clapps Acid Factory (historical)
+				Clocktower Square Shopping Center
+				Coddington Wharf
+				Coggeshall Farm Museum
+				Cohoes Commons Shopping Center
+				College Hill
+				Colonial Shopping Center
+				Columbia Park
+				Comstock Golf Course (historical)
+				Conanicut Island Light (historical)
+				Conrad Cove
+				Cooke Store (historical)
+				Corey Lane (historical)
+				Corliss Landing Shopping Center
+				Coventry Center
+				Cowesett Pound
+				Cowessett Corners Shopping Center
+				Cranston Country Club
+				Cranston Print Works (historical)
+				Cranston Stadium
+				Crazy Corners
+				Crescent Park Carousel
+				Cross Mills (historical)
+				Crossroad Commons Shopping Center
+				Cumberland Grange Number 2
+				Cumberland Plaza Shopping Center
+				Dale Carlia Shopping Center
+				Dame Farm And Orchards
+				Davis Mill (historical)
+				Davisville Depot
+				Davol Square Marketplace Shopping Center
+				Deep Hole Public Fishing Area
+				Dermksien Orchard
+				Dexter Quarry
+				Dexter Training Ground
+				Diamond Hill Vineyards
+				Dunnell Print Works (historical)
+				Dutch Island Light
+				Dyerville Mill (historical)
+				East Greenwich Golf Course
+				East Greenwich Market Place Shopping Center
+				East Passage Yachting Center
+				Eastgate Shopping Center
+				Easton Farm (historical)
+				Echo Hill Farm (historical)
+				Edgewood Yacht Club
+				Elder Mattesons Grist Mill (historical)
+				Ellerys Ferry Wharf (historical)
+				Elmwood Station (historical)
+				Escobar Highland Farm
+				Exchange Place
+				Exeter Country Club
+				Fairlawn Golf Course
+				Fall River Iron Works
+				Federal Hill
+				Fiddlesticks Recreational Sports Facility
+				Fisher Country Club
+				Flying Horse Carousel
+				Fogland Ferry (historical)
+				Follett-Carpenter House and Farm
+				Fort Adams
+				Fort Adams Light
+				Fox Point Observatory
+				Franklin Farm (historical)
+				Franklin Shopping Plaza Shopping Center
+				Frenchtown Plaza Shopping Center
+				Frosty Drew Observatory
+				Fuller Iron Works (historical)
+				Fuller Rock Light
+				Garden City Center Shopping Center
+				Gardners Wharf (historical)
+				Gateway Shopping Center
+				General Nathaniel Green Homestead
+				Gilbert Stuart Birthplace and Snuff Mill
+				Glenark Mills (historical)
+				Globe Mill (historical)
+				Glocester Town Pound (historical)
+				Gloucester Country Club
+				Goat Island Yacht Club
+				Goddard Park Golf Courses
+				Goddard State Park Golf Course
+				Gould Island Light (historical)
+				Governor Francis Shopping Center
+				Governor Gorton Farm
+				Grand Central Shopping Center
+				Granite Hills Shopping Center
+				Granite Mill (historical)
+				Granite Street Shopping Center
+				Grant Railroad Station
+				Grays Store (historical)
+				Green End Fort
+				Green Hill Beach
+				Green Valley Golf Course
+				Greenes Mill (historical)
+				Greenvale Vineyards
+				Greenville Shopping Center
+				Greenwich Print Works (historical)
+				Gull Rocks Light (historical)
+				H K Jenks Forge
+				Hackers Wharf (historical)
+				Hamlet Mill (historical)
+				Hammersmith Farm
+				Hammonds Mill (historical)
+				Hanora Mills
+				Harbor Junction Pier
+				Harrisville Mill (historical)
+				Hazard Brothers Orchard
+				Hazard Farm (historical)
+				Hazards Indian Rock Orchard
+				Hill Orchards
+				Hilltop Tree Farm
+				Hope Furnace (historical)
+				Hope Street Shopping Center
+				Howard Wharf
+				Howlands Ferry
+				Hulings Corner
+				Ida Lewis Rock Light (historical)
+				Ida Lewis Yacht Club
+				Independence Mill (historical)
+				Jamestown Golf Course
+				Jamestown Wastewater Treatment Facility
+				Jamestown Windmill (historical)
+				Jamestown-Newport Ferry (historical)
+				Jamestown-Saunderstown Ferry (historical)
+				Jaswells Farm
+				Jenckesville Mill (historical)
+				Jenkes Mill (historical)
+				John Smiths Grist Mill (historical)
+				Johnston Plaza Shopping Center
+				Kelleys Ferry
+				Kenyon Grist Mill
+				Kingston Fairgrounds
+				Kingstown Plaza Shopping Center
+				Knight Farm
+				Ladd Observatory
+				Lafayette State Trout Hatchery
+				Lakeside Shopping Center
+				Laurel Lane Golf Course
+				Lees Wharf
+				Lexington Building Shopping Center
+				Lime Rock Light
+				Lincoln Center Mall Shopping Center
+				Lincoln Country Club
+				Lincoln Mall Shopping Center
+				Lincoln Shopping Center
+				Lindhbrook Country Club
+				Lippitt Mill (historical)
+				Locustville Pond Public Fishing Area
+				Long Wharf
+				Long Wharf Mall Shopping Center
+				Lonsdale Mill (historical)
+				Lonsdale Station (historical)
+				Lopezs Wharf (historical)
+				Louisquissett Golf Course
+				Mall at Newport
+				Maltbones Wharf (historical)
+				Mammoth Mill (historical)
+				Manville Mill (historical)
+				Mapleshade farm
+				Martins Ferry (historical)
+				Matteo's Farm
+				McCoy Stadium
+				Meadow Brook Golf Club
+				Meadowbrook Shopping Center
+				Meadowlark Campground
+				Melody Hill Golf Course
+				Melville Ponds Campground
+				Metacomet Country Club
+				Metcalf Field
+				Middletown Campground
+				Middletown Plaza Shopping Center
+				Midville Country Club
+				Mill River Square Shopping Center
+				Mineral Spring Plaza Shopping Center
+				Miskiania Camp
+				Misquamicut Club Golf Course
+				Montaup Country Club
+				Moonstone Beach
+				Moores Corner (historical)
+				Moses Brown Farm (historical)
+				Mount Hope Farm (historical)
+				Mount Vernon
+				Mount Vernon Camp
+				Mountaindale
+				Mowrys Corners
+				Muddy Bridge Dock (historical)
+				Napatree Beach
+				Narragansett Boiler Works (historical)
+				Narragansett Brick Works (historical)
+				Narragansett Electric Plant Manchester Street Powerhouse
+				Narragansett Electric Plant South Street Station
+				Narragansett Ferry (historical)
+				Narragansett Indian Longhouse and Cultural Center
+				Narragansett Marine Lab
+				Narragansett Park Plaza Shopping Center
+				Narragansett Pier Life Saving Station
+				Narragansett Yacht Club
+				Narrow Lane Farm
+				Narrow Passage Ferry (historical)
+				Nayatt Landing
+				Nayatt Point Lighthouse
+				Nayatt Point Lighthouse (historical)
+				New York Place Plaza Shopping Center
+				Newport Butterfly Farm
+				Newport Country Club
+				Newport Harbor Light
+				Newport Harbor Lighthouse
+				Newport Ship Yard
+				Newport Vineyards and Winery
+				North Kingston Shopping Center
+				North Kingstown Golf Course
+				O'Bannon Mill (historical)
+				Oak Harbor Village Shopping Center
+				Oak Valley
+				Oakland Beach
+				Ocean State Plaza Shopping Center
+				Ok-wa-nessett Camp
+				Old Exeter Poor Farm (historical)
+				Old Harbor (historical)
+				Old Meetinghouse
+				Old Plum Beach Ferry (historical)
+				Old Stone Mill
+				Old Stone Orchard
+				Old Windmill
+				Oliver Watson Farm (historical)
+				One Mile Corner
+				Overings Wharf (historical)
+				Park N Shop Center Shopping Center
+				Park Square Plaza Shopping Center
+				Pawtuxet Reservation
+				Pawtuxet River Reservation
+				Pawtuxet Yacht Club
+				Peace Dale Museum of Primitive Culture and Nineteenth Century Mill Village
+				Peases Wharf (historical)
+				Pepper Pond Camp
+				Perry Mill (historical)
+				Perry Mill Wharf
+				Perryville State Trout Hatchery
+				Phantom Farm
+				Pilgrim Acres Shopping Center
+				Pirate Cave
+				Pirate Cove Marina
+				Pitts Head Tavern
+				Plum Beach Lighthouse
+				Pocasset Golf Course
+				Poham Rocks Light House
+				Point Judith Country Club
+				Point Judith Lighthouse
+				Point Pleasant Farm (historical)
+				Ponagansett Public Fishing Area
+				Pond Plaza Shopping Center
+				Pond View Country Club
+				Pontiac Mills (historical)
+				Poplar Point Lighthouse (historical)
+				Portsmouth Shopping Plaza Shopping Center
+				Portsmouth Station (historical)
+				Potowomut Golf Club
+				Providence Place Mall Shopping Center
+				Providence Plaza Shopping Center
+				Providence Station
+				Providence Steamboat Dock (historical)
+				Prudence Island Ferry
+				Prudence Island Lighthouse
+				Quidnesset Golf and Country Club
+				Quonset View Farm
+				Rawsons Mill (historical)
+				Redwoods Wharf (historical)
+				Reservoir Plaza Shopping Center
+				Rheems Shipyard (historical)
+				Rhode Island Country Club
+				Rhode Island Mall Shopping Center
+				Rhode Island Yacht Club
+				Rhodes on the Pawtuxet
+				Richmond Country Club
+				Richmond Grange
+				Richmond Square Shopping Center
+				Robbers Corner (historical)
+				Rocky Brook Orchard
+				Rocky Hill Fairgrounds
+				Rocky Point Amusement Resort
+				Rodman Mill (historical)
+				Roger Williams Park Railroad Station
+				Rolling Greens Golf Course
+				Romes Wharf (historical)
+				Rose Island Light (historical)
+				Round Top Fishing Area
+				Russo Playground
+				Sabin Point Lighthouse
+				Sachuest Golf Club (historical)
+				Saint Elizabeth Home
+				Saint Savios Boys Center
+				Sakannet Vineyards
+				Sakonnet Golf Course
+				Sakonnet Light
+				Salt Pond Shopping Center
+				Sanford-Covell Villa Marina
+				Saunderstown Yacht Club
+				Sayer Wharf
+				Scotts Wharf
+				Scrabbletown
+				Seaview Country Club
+				Seven Cedars Christmas Tree Farm
+				Shannock Mill Complex
+				Shippees Mill (historical)
+				Shopperstown Shopping Center
+				Silas Casey Farm
+				Silver Lake Plaza Shopping Center
+				Silver Spring Golf Course
+				Silver Spring Lake Public Fishing Area
+				Slater Mill (historical)
+				Slatersville Plaza Shopping Center
+				Slocums Wharf (historical)
+				Smith Swimming Pool
+				Smiths Trading Post (historical)
+				Snowhurst Farms
+				South County Museum at Conochet Farms
+				South Shore Beach
+				Spencer Mill
+				Spring Wharf
+				State Pier Number 5
+				Steere Orchard
+				Summit
+				Sunset Orchards
+				Sweet Berry Farm
+				Taylors Wharf (historical)
+				Ted Hood Marine Complex
+				The Arcade Shopping Center
+				The Pavilion Shopping Center
+				The Point
+				The Shrine
+				The Towers (historical)
+				The Wakefield Mall Shopping Center
+				Third Beach
+				Tiffany Plaza Shopping Center
+				Tillinghast Cotton Mill Twine Factory (historical)
+				Tillinghast Wharf (historical)
+				Town Hall Center Shopping Center
+				Trout Brook Horse Farm
+				United States Navay Pier 2
+				United States Navy Pier 1
+				United States Weather Bureau Station
+				Unity Furnace (historical)
+				University Heights Shopping Center
+				Upper Iron Works (historical)
+				Valley Country Club on Ledgemont
+				Valley Falls Mills (historical)
+				Valley Queen Mill (historical)
+				Van Wickle Gates
+				Van Zandt Pier
+				Waites Wharf
+				Walkers Farm
+				Walnut Hill Plaza Shopping Center
+				Wampanoag Mall Shopping Center
+				Wannamoisett Country Club
+				Wantons Wharf (historical)
+				Wanumetonomy Golf Club
+				Warwick Commons Shopping Center
+				Warwick Country Club
+				Warwick Light
+				Warwick Mall Shopping Center
+				Warwick Sportsmans Club
+				Washington Square
+				Watch Hill Lighthouse
+				Waterman Four Corners
+				Watson Pier
+				Wayland Square Shopping Center
+				Weekapaug Yacht Club
+				West Greenwich Center
+				West Pontiac Railroad Station
+				West Side Life Saving Station
+				West Warwick Country Club
+				West Warwick Railroad Station
+				Westerly Yacht Club
+				Westgate Shopping Center
+				Westwood Camp
+				What Cherr Farm (historical)
+				White City Shopping Center
+				White Oak Farm
+				Whitmans Corner (historical)
+				Wickford Commons Mall
+				Wickford Lighthouse
+				Wickford Yacht Club
+				Wiles Barre Pier
+				Wilkinson Mill (historical)
+				Winnapaug Golf Course
+				Woodland Golf and Country Club
+				Yawgoo Valley Ski and Recreation Area
+				Yawgoog Scout Camp (historical)
+				Yorktown Shopping Center
+				Young Family Farm
+			Military (RI)
+				Battery Connell (historical)
+				Battery Crawford (historical)
+				Battery Wooster (historical)
+				Beaver Tail Fort (historical)
+				Bristol Ferry Fort (historical)
+				Camp Endicott (historical)
+				Camp Thomas (historical)
+				Charlestown Naval Auxiliary Air Station (historical)
+				Conanicut Battery (historical)
+				Davisville Construction Battalion Center
+				Davisville Naval Construction Battalion Center (historical)
+				Fort Barton (historical)
+				Fort Daniel (historical)
+				Fort Dumpling (historical)
+				Fort Dumplings (historical)
+				Fort Greble (historical)
+				Fort Hamilton (historical)
+				Fort Mansfield (historical)
+				Fort Nathaniel Greene (historical)
+				Fort Philip Kearney (historical)
+				Fort Sullivan (historical)
+				Fort Woolcot (historical)
+				Fox Hill Fort (historical)
+				Hillsgrove Army Air Field (historical)
+				Naval Air Station Quonset Point (historical)
+				Naval Station Newport
+				Naval Training Station Newport (historical)
+				Newport Artillery Company Armory (historical)
+				Newport Naval Air Facility (historical)
+				Owls Nest Fort (historical)
+				Pawtucket Armory (historical)
+				Quonset Air Guard Base
+				The Kentish Guards Armory (historical)
+				Westerly Armory (historical)
+				Westerly Naval Auxiliary Air Station (historical)
+			Mine (RI)
+				Cojoot Mine (historical)
+				Conklin Limestone Quarry
+				Jackson Quarry
+				Portsmouth Coal Mines (historical)
+				Smith Granite Quarry (historical)
+				Sullivan Quarries (historical)
+			Park (RI)
+				Abbott Park
+				Adventureland Amusement Park
+				Albion Historic District
+				Aldrich Field (historical)
+				Allen Street Historic District
+				Apponaug Historic District
+				Arcadia Management Area
+				Arnold Mills Historic District
+				Artillery Park
+				Ashton Historic District
+				Atlantic Beach Amusement Park
+				Audubon Society George B Parker Woodland
+				Barrington Civic Center Historic District
+				Barry Field
+				Bay Island Park
+				Bay Island Park South Prudence Island
+				Beach Pond Forest Environment Site
+				Bellevue Avenue Historic District
+				Bellevue Avenue-Casino Historic District
+				Benedict Memorial
+				Benefit Square
+				Berkeley Mill Village Historic District
+				Big River State Management Area
+				Black Farm State Management Area
+				Black Hut State Management Area
+				Blithewold Mansion and Gardens
+				Block Island National Wildlife Refuge
+				Bold Point Park
+				Brick Market Place
+				Bridgham-Arch-Wilson Street Historic District
+				Bristol Playground
+				Bristol Town Common
+				Buck Hill State Management Area
+				Bucklin Park
+				Bucks Horn Park
+				Burlingame Management Area
+				Burlingame State Management Area
+				Burlingame State Park
+				Burnside Park
+				Butterfly Zoo
+				Buttonwoods Beach Historic District
+				Canochet Memorial
+				Carbuncle Pond Management Area
+				Cardines Field
+				Carolina Management Area
+				Carolina Village Historic District
+				Carrie Brown Bajnotti Memorial Fountain
+				Casimir Pulaski Memorial State Park
+				Cass Park
+				Cathedral Square
+				Cato Hill Historic District
+				Central Falls Mill Historic District
+				Central Street Historic District
+				Central Street School Historic District
+				City Hall Park
+				Clayville Historic District
+				Cocumscussoc State Park
+				Cold Spring Park
+				College Green
+				College Hill Historic District
+				Collier Park
+				Colt State Park
+				Columbus Square
+				Conimicut Point Park
+				Conlan Junior Memorial Park
+				Corliss Park (historical)
+				Cottrell Field
+				Court Square
+				Crescent Park
+				Customhouse Historic District
+				Daughters of the American Revolution Memorial
+				Davis Memorial Wildlife Refuge
+				Davis Park
+				Davisville Historic District
+				Dawley Memorial State Park
+				DePasquale Plaza
+				Diamond Hill State Park
+				Dodsworth Beach State Park
+				Downtown Providence Historic District
+				Doyle Avenue Historic District
+				Dunnell Park
+				Durfee Hill Management Area
+				Dutch Island Management Area
+				Dyer Avenue Playground
+				Dyerville State Park
+				Earlscourt Historic District
+				East Greenwich Historic District
+				Ebenezer Knight Dexter Statue
+				Eisenhower Park
+				Elmwood Historic District
+				Emile Reuker Wildlife Refuge
+				Enchanted Forest
+				Fay Memorial Field
+				Fenner Park
+				Feurer Park
+				Fishermans Memorial State Park
+				Fisherville Brook Wildlife Refuge
+				Fleet Skating Center
+				Forestdale Mill Village Historic District
+				Forge Road Historic District
+				Fort Adams State Park
+				Fort Wetherill State Park
+				Forys Playground
+				Foster Center Historic District
+				Franklin Square
+				Freebody Park
+				Freeman Park
+				Galilee Bird Sanctuary
+				Gardner Jackson Park
+				General Ambrose Burnside Equestrian Statue
+				General Stanton Monument
+				George Washington Memorial Park
+				Georgiaville Historic District
+				Glen Farm
+				Globe Park
+				Goddard Memorial State Park
+				Grace Square
+				Grassy Plains Park
+				Great Swamp Fight Site
+				Great Swamp Wildlife Reservation
+				Green Animals Topiary Garden
+				Haines Memorial State Park
+				Hamilton Mill Village Historic District
+				Harrisville Historic District
+				Hayward Park
+				Heatherman Memorial Park
+				Heritage Park
+				Hope-Power-Cooke Streets Historic District
+				Hopkins Mill Historic District
+				Hopkins Park
+				Hopkinton City Historic District
+				Hoyle Square
+				Hunter Playfield
+				India Point Park
+				Indian Cedar Swamp Management Area
+				Island Place Historic District
+				J L Curran Park
+				J Paul Braga Junior Memorial Field
+				Jenks Park
+				John D Memorial Park
+				Johnston Memorial Park
+				Kay Street-Catherine Street-Old Beach Road Historic District
+				Keeney Quad
+				Kennedy Plaza
+				Kimball Wildlife Refuge
+				King Park
+				Kingston Village Historic District
+				LaSalle Square
+				Lehigh Hill Park (historical)
+				Limerock Village Historic District
+				Lincoln Field
+				Lincoln Greyhound Park
+				Lincoln Woods State Park
+				Lippitt Memorial Park
+				Little Compton Historic District
+				Long Wharf Mill
+				Lonigan Memorial Park
+				Lonsdale Historic District
+				Main Street Historic District
+				Major Henry H Young Memorial
+				Market Square
+				Marsh Meadows Wildlife Preserve
+				Memorial Park
+				Memorial Square
+				Memorial to Black Soldiers
+				Merino Park
+				Meshanticut State Park
+				Middletown Square
+				Mooseup Valley Historic District
+				Morton Park
+				Moshassuck Square Historic District
+				Murphy Field
+				Narragansett Indian Monument
+				Narragansett Rack Track (historical)
+				Neutaconkanut Hill Park
+				Newport Historic District
+				Newton Swamp Management Area
+				Nicholas Farm Management Area
+				Ninigret National Wildlife Refuge
+				Ninigret Park
+				Ninigret State Conservation Area
+				Ninigret Statue
+				Norman Bird Sanctuary
+				North End Historic District
+				North Smithfield Wildlife Marsh
+				O Brian Memorial Park
+				Oak Hill Park
+				Oak Lawn Village Historic District
+				Oakland Avenue Historic District
+				Ocean Drive Historic District
+				Ocean Drive State Park
+				Ocean Road Historic District
+				Ochre Point-Cliffs Historic District
+				Old Ashton Historic District
+				Old Harbor Historic District
+				Old Mountain Field
+				Olney Street-Alumni Avenue Historic District
+				Osamequin Nature Trails and Bird Sanctuary
+				Pacheco Park
+				Packer State Fishing Access
+				Paradise Valley Park
+				Parkis-Comstock Historic District
+				Pascoag Race Track (historical)
+				Pawcatuck River State Wildlife Management Area
+				Pawtuxet Memorial Park
+				Pawtuxet State Park
+				Pawtuxet Village Historic District
+				Peace Dale Historic District
+				Peck Center Playground
+				Pekin Street Historic District
+				Peter Randall State Park
+				Pettaquamscutt Cove National Wildlife Refuge
+				Pettaquamscutt Park
+				Pierce Memorial Field
+				Pine Street Historic District
+				Powder Mill Ledges Wildlife Refuge
+				Power Street-Cooke Street Historic District
+				Prospect Terrace Park
+				Providence Jewelry Manufacturing Historic District
+				Pulaski Square
+				Quality Hill Historic District
+				Queen Anne Square
+				Queens Fort (historical)
+				Rhodes Street Historic District
+				Rhodes on the Pawtuxet (historical)
+				Rice City Historical District
+				Richard Smiths Grove
+				River Island Park
+				Riverside Field
+				Rochambeau Statue and Monument
+				Rock Point Amusement Park
+				Rockville Management and Public Fishing Area
+				Rockville State Management Area
+				Rockwell Park
+				Roger Williams National Memorial
+				Roger Williams Park
+				Roger Williams Park Historic District
+				Roger Williams Park Zoo
+				Roger Williams Square
+				Rogers Williams Park
+				Rumford Chemical Works and Mill House Historic District
+				Rumford Historic District
+				Ryan Park
+				Sabin Point Park
+				Sachuest Point National Wildlife Refuge
+				Sahnnock Historic District
+				Salter Grove State Park
+				Sapowet Marsh Wildlife Preserve
+				Saunderstown Historic District
+				Saylesville Historic District
+				Seekonk River Park
+				Shady Lea Historic District
+				Slater Memorial Park
+				Slater Park
+				Slatersville Historic District
+				Slatersville Village Green
+				Smithville-North Scituate Historic District
+				Social Park
+				Soldiers and Sailors Monument
+				South Central Falls Historic District
+				South Main Street Historic District
+				South Shore Management Area
+				South Street Historic District
+				Sowans Playground
+				Sprague Memorial Field
+				Sprague Park
+				Sprague Playground
+				Squantum Woods State Park
+				Stillhouse Cove Park
+				Stimson Avenue Historic District
+				Storer Park
+				Succotash Marsh State Management Area
+				Tiverton Four Corners Historic District
+				Tockwotton Park
+				Touisset Wildlife Refuge
+				Touro Park
+				Towers Historic District
+				Trigg Memorial Park
+				Trinity Square
+				Troop C Park (historical)
+				Trustom Pond National Wildlife Refuge
+				Tucker Field
+				Union Village Historic District
+				Usquepaug Road Historic District
+				Valley Falls Heritage Park
+				Vartan Gregorian Quad
+				Veterans Memorial Park
+				Veterans Park
+				Walley Park
+				Wanskuck Historic District
+				Wanskuck Park
+				Warren Common
+				Warrens Waterfront Historic District
+				Washington Square
+				Watch Hill Historic District
+				Waterplace Park
+				Weetamoo Woods
+				Wesleyan Avenue Historic District
+				West River Reservation (historical)
+				Westerly Downtown Historic District
+				Whitherby Park
+				Wickford Historic District
+				Wilcox Arboretum
+				Wilcox Park Historic District
+				Wilkinson Park
+				Windmill Hill Historic District
+				Witherby Park
+				Wood State Hunting and Fishing Area
+				Woody Hill Management Area
+				Woody Hill State Management Area
+				Woonasquatucket Park
+				World War II Memorial
+				Wriston Quad
+				Wyoming Village Historic District
+			Pillar (RI)
+				Allen Rock
+				Almy Rock
+				Barden Rock
+				Bass Rock
+				Beach Rock
+				Bears Den
+				Bench Mark
+				Bill Dyer Rock
+				Bishop Rock
+				Black Point Rock
+				Black Rock
+				Blackstone Rock
+				Bog Rock
+				Box Rock (historical)
+				Bulkhead (historical)
+				Butter Ball Rock
+				Calf Pasture Rock
+				Catumb Rocks
+				Champlin Rock
+				Charles Rock
+				Church Rocks
+				Citing Rock
+				Clump Rock
+				Clump Rocks
+				Coblin Rock
+				Cold Spring Rock
+				Cormorant Rock
+				Coronation Rock
+				Crack Rock
+				Creek Rock (historical)
+				Crying Rocks
+				Cullywaugh Rocks
+				Dennison Rock
+				Deyer Rock
+				Dick Rock
+				Drum Rock
+				Elbow Rock
+				Ellison Rock
+				Fiske Rock
+				Flat Rock
+				Flint Rock
+				Fowler Rock
+				Fowler Rocks
+				Fuller Rock
+				Gangway Rock
+				General Rock
+				Goat Rock
+				Grove Point Rock
+				Gull Rock
+				Gull Rocks
+				Gunning Rock
+				Halfway Rock
+				Hanging Rock
+				Hannah Robinson Rock
+				Haul Rock
+				High Rock
+				Hipses Rock
+				Hitch Up Rock
+				Ida Lewis Rock
+				Indian Rock
+				Island Rocks
+				Kettle Bottom Rock
+				Kings Rocks
+				Lanquissy Rocks (historical)
+				Lantern Rock
+				League Rock
+				Little League Rock
+				Little Whale
+				Long Pond Rock
+				Long Rock
+				Longmeadow Rock
+				Lovett Rock
+				Manney Rock
+				Midship Rock
+				Mill Rock
+				Mitchell Rock
+				Mount Tom Rock
+				Newton Rock
+				Old Ballast Rock
+				Old Bay Rock
+				Old Briton Rock
+				Old Bull Rock
+				Old Daniel Rock
+				Old Gay Rock
+				Old Sergeant
+				Old Sow Rock
+				Old Whale Rock
+				Packard Rocks
+				Paradise Rocks
+				Peaked Rock
+				Penivs Rock
+				Pettaquamscutt Rock
+				Pomham Rocks
+				Potowomut Rocks
+				Purgatory
+				Quahaug Rock
+				Red Rock
+				Rhodes Folly Rock
+				River Rock
+				Roaring Bull
+				Round Rock
+				Rumstick Rock
+				Saint Patrick Rock
+				Sakonnet Rocks
+				Sally Rock
+				Sassamore Rock
+				Scragg Rock
+				Scup Rock
+				Seal Rock
+				Sheep Pen Rock
+				Sinker Rock
+				Snores Rocks
+				Spouting Rock
+				Spring Rock
+				Supp Rock
+				The Blunders
+				The Brothers
+				The Clump
+				The Hummocks
+				The Sisters
+				Three Sisters
+				Thurston Northrup Rocks
+				Tom Congdon Rock
+				Van Buren Rock
+				Whale Rock
+				White Flint Rock
+				White Rocks
+				Wildcat Rock
+			Populated Place (RI)
+				Abbott Run
+				Adamsville
+				Albion
+				Allendale
+				Allenton
+				Alton
+				Annaquatucket
+				Annawomscutt
+				Anthony
+				Apponaug
+				Arcadia
+				Arctic
+				Arkwright
+				Armington Corner
+				Arnold Mills
+				Arnolda
+				Ashaway
+				Ashland (historical)
+				Ashton
+				Auburn
+				Austin
+				Avondale
+				Bahia Corner
+				Barberville
+				Barrington
+				Bartons Corner
+				Bay Spring
+				Bayside
+				Beach Terrace
+				Beaver Tail (historical)
+				Bellefonte (historical)
+				Belleville
+				Berkeley
+				Bernon Mill Village (historical)
+				Bethel
+				Birch Hill (historical)
+				Biscuit City (historical)
+				Bishop Heights
+				Black Plain
+				Bliss Corners
+				Bonnet Shores
+				Bradford
+				Branch Village
+				Brenton Village
+				Bridgeport (historical)
+				Bridgeton
+				Bridgetown
+				Bristol
+				Bristol Ferry
+				Bristol Highlands
+				Bristol Township
+				Brudickville
+				Bungtown (historical)
+				Burdickville
+				Buttonwoods
+				Canonchet
+				Carolina
+				Carpenters Corner
+				Centerdale
+				Centerville
+				Central Falls
+				Charlestown
+				Charlestown Beach
+				Chaubatick (historical)
+				Chepachet
+				Chepiwanoxet
+				Cherry Valley
+				Chopmist
+				Christian Hill
+				Clarks Village
+				Clarkville
+				Clayville
+				Clyde
+				Coaxet (historical)
+				Cocumscussoc (historical)
+				Coggeshall
+				Cold Spring Beach
+				Coles
+				Columbia Heights
+				Colvintown
+				Common Fence Point
+				Comstock Gardens
+				Conanicut Park
+				Congdon Hill (historical)
+				Conimicut
+				Cooks Corner
+				Cork Hill (historical)
+				Coventry
+				Cowesett
+				Cowsumpsit (historical)
+				Cranston
+				Cranstons Corner (historical)
+				Crompton
+				Crossways (historical)
+				Cumberland
+				Cumberland Hill
+				Cumberland Mills
+				Curtis Corner
+				Darlington
+				Davisville
+				Diamond Hill
+				Dunn Corner
+				Dunn Landing
+				Dyerville
+				Eagleville
+				East Greenwich
+				East Natick
+				East Providence
+				East Providence Center
+				East Warren
+				Edgewood
+				Ellis Flats
+				Elmdale (historical)
+				Elmhurst (historical)
+				Elmwood
+				Escoheag
+				Esmond
+				Exeter
+				Fairbanks Corner
+				Fairlawn
+				Field Station (historical)
+				Fisherville
+				Fiskeville
+				Folly Landing
+				Forestdale
+				Fort Hill (historical)
+				Fort Ninigret
+				Foster
+				Foster Center
+				Fountain Spring
+				Foxes Hill
+				Frenchtown
+				Fruit Hill
+				Frys Corner
+				Galilee
+				Garden City
+				Gardners Corner
+				Gazzaville
+				Geneva
+				Georgiaville
+				Glen Rock
+				Glendale
+				Globe
+				Gortons Corner
+				Gould
+				Graniteville
+				Grants Mills
+				Grayville
+				Green Hill
+				Greene
+				Greenville
+				Greenwood
+				Greystone
+				Hamilton
+				Hamiltons Corner
+				Hamlet
+				Hampden Meadows
+				Happy Hollow
+				Harmony
+				Harris
+				Harrisdale
+				Harrisville
+				Haversham
+				Highland Beach
+				Hillsdale
+				Hillsgrove
+				Homestead
+				Hope
+				Hope Valley
+				Hopkins Hollow
+				Hopkins Mills
+				Hopkinton
+				Horn Heap
+				Howard
+				Hoxsie
+				Hughesdale
+				Hunts Mill
+				Huntsville
+				Ike Shippee Corner
+				Indian Lake Shores
+				Ingrams Corner
+				Isaacs Corner
+				Island Park
+				Jackson
+				Jamestown
+				Jamestown Shores
+				Jerusalem
+				Kent (historical)
+				Kent Corner
+				Kent Heights
+				Kenyon
+				Kettle Corner
+				Kiefer Park
+				Kikemuit (historical)
+				Kingston
+				Kingston Station
+				Kitts Corner
+				Knightsville
+				Lafayette
+				Lakewood
+				Langworthy Corner
+				Laurel Hill
+				Laurel Park
+				Lawtons
+				Leonard Corner
+				Lewis City
+				Liberty
+				Lime Rock
+				Lincoln Park
+				Lippitt
+				Lippitt Estate
+				Little Compton
+				Lockwood Corner
+				Locustville
+				Longmeadow
+				Lonsdale
+				Luthers Corners
+				Lymansville
+				Manton
+				Manville
+				Mapleville
+				Marieville
+				Matunuck
+				Maushapogue (historical)
+				Maxfields Corner
+				McGowan Corners
+				Meadow View
+				Melville
+				Merino
+				Meshanticut
+				Metaubscot (historical)
+				Middletown
+				Mill Village (historical)
+				Millville
+				Misquamicut
+				Mittaubscut (historical)
+				Mohegan
+				Monastery Heights
+				Montop (historical)
+				Mooresfield
+				Moosehorn Corner
+				Moosup Valley
+				Moscow
+				Mount View
+				Nag Creek
+				Narraganset (historical)
+				Narragansett
+				Narragansett Beach
+				Narragansett Pier
+				Narragansett Terrace
+				Nasonville
+				Natick
+				Nausauket
+				Nayatt
+				New Shoreham
+				New Shoreham Center
+				Newport
+				Nichols Corner
+				Nooseneck
+				North Foster
+				North Kingstown
+				North Providence
+				North Quidnessett
+				North Scituate
+				North Smithfield
+				North Tiverton
+				Norwood
+				Oak Valley
+				Oakland
+				Oakland Beach
+				Oaklawn
+				Old Buttonwoods
+				Old Harbor Landing
+				Old Warwick
+				Olneyville
+				Omega (historical)
+				Palace Garden
+				Paradise Mobile Home Park
+				Pascoag
+				Pawcatuck (historical)
+				Pawtucket
+				Pawtuxet
+				Peace Dale
+				Peck Corner
+				Perryville
+				Pettaconsett
+				Pettaquamscutt Lake Shores
+				Phenix
+				Phillipsdale
+				Pine Hill
+				Places Corner
+				Pleasant View
+				Plum Beach
+				Plum Point
+				Pocasset
+				Pocasset (historical)
+				Pocasset Heights
+				Point Judith
+				Pokanoket (historical)
+				Pomecanset (historical)
+				Ponaganset (historical)
+				Pontiac
+				Portsmouth
+				Portsmouth Park
+				Potowomut
+				Potter Hill
+				Pottersville
+				Potterville
+				Primrose
+				Providence
+				Prudence Park
+				Purgatory
+				Quidnessett
+				Quidnick
+				Quinnville
+				Quonochontaug
+				Quonochontaug Beach (historical)
+				Red Village (historical)
+				Rice City
+				Richmond (historical)
+				River Point
+				River View
+				Riverside
+				Rockland (historical)
+				Rockville
+				Rocky Brook
+				Rocky Point
+				Rodman Crossing (historical)
+				Round Top
+				Rumford
+				Sachuest
+				Sakonnet
+				Sand Beach
+				Saunderstown
+				Saundersville
+				Sayles Bleachery
+				Saylesville
+				Saylesville Highlands
+				Scarborough Hills
+				Seaweed Beach
+				Shady Harbor
+				Shady Lea
+				Shannock
+				Shawmut (historical)
+				Shawomet
+				Shelter Harbor
+				Shippee Corner
+				Shore Acres
+				Silver Hook
+				Silver Lake
+				Silver Spring
+				Simmons Corner
+				Simmonsville
+				Six Corners
+				Slatersville
+				Slocum
+				Smithfield
+				Snug Harbor
+				Social
+				Sockanosset
+				Somerville (historical)
+				South Ferry
+				South Foster
+				South Hopkinton
+				South Portsmouth
+				South Scituate (historical)
+				Sowams (historical)
+				Spencers Corner
+				Spragueville
+				Spring Green
+				Spring Grove
+				Spring Lake
+				Squantum
+				Stillmanville
+				Stillwater
+				Stone Bridge Village (historical)
+				Summit
+				Tarbox Corner
+				Tarkiln
+				Thatch Cove (historical)
+				The Hummocks
+				Thornton
+				Tiverton
+				Tiverton Four Corners
+				Touisset Highlands
+				Tower Hill (historical)
+				Tripps Corner
+				Tuckertown
+				Tuckertown Four Corners
+				Tug Hollow
+				Union Village
+				Usquepaug
+				Valley Falls
+				Vaughn Hollow
+				Vernon
+				Vue de l'eau
+				Wakefield
+				Waldron Corners
+				Wallum Lake (historical)
+				Wanskuck
+				Warren
+				Warwick
+				Washington
+				Washington Park
+				Watch Hill
+				Watchemoket
+				Waterford
+				Wayland
+				Wayland (historical)
+				Weekapaug
+				Wekapaug (historical)
+				Wescott Beach
+				West Barrington
+				West Glocester
+				West Greenville
+				West Greenwich
+				West Kingston
+				West Warwick
+				Westcott
+				Westerly
+				Whale Rock Light (historical)
+				Whipple
+				White Rock
+				Whitehall
+				Wickford
+				Wickford Junction
+				Wightmans Corner
+				Wildes Corner
+				Williams Mill
+				Wood River Junction
+				Woodlawn
+				Woods Corner
+				Woodville
+				Woonsocket
+				Wyoming
+			Post Office (RI)
+				Abbott Run Post Office (historical)
+				Adamsville Post Office
+				Adin Post Office (historical)
+				Albion Post Office
+				Allenton Post Office (historical)
+				Alton Post Office (historical)
+				Anthony Post Office (historical)
+				Apponaug Post Office (historical)
+				Apponaug Station Post Office
+				Arcadia Post Office (historical)
+				Arctic Post Office (historical)
+				Arlington Post Office
+				Arnold Mills Post Office (historical)
+				Ashaway Post Office
+				Ashland Post Office (historical)
+				Ashton Post Office (historical)
+				Auburn Post Office (historical)
+				Austin Post Office (historical)
+				Avondale Post Office
+				Barberville Post Office
+				Barrington Post Office
+				Bliss Four Corners Post Office (historical)
+				Bridgeton Post Office (historical)
+				Bristol Ferry Post Office (historical)
+				Bristol Post Office
+				Broadway Post Office
+				Brown Station Post Office
+				Buttonwoods Post Office (historical)
+				Canochet Post Office (historical)
+				Carolina Post Office
+				Centerdale Post Office
+				Centerville Post Office (historical)
+				Central Falls Post Office
+				Charlestown Post Office
+				Chepachet Post Office
+				Chopmist Post Office (historical)
+				Clayville Post Office
+				Clayville Post Office (historical)
+				Coddington Point Station Post Office
+				Coggeshall Post Office
+				Conimicut Post Office (historical)
+				Coventry Center Post Office (historical)
+				Cowesett Post Office (historical)
+				Cranston Post Office
+				Crompton Post Office (historical)
+				Cumberland Hill Post Office (historical)
+				Cumberland Post Office
+				Cumberland Station Post Office
+				Darlington Post Office
+				Davisville Post Office (historical)
+				Diamond Hill Post Office (historical)
+				Drownville Post Office (historical)
+				East Bay Post Office
+				East Cumberland Post Office (historical)
+				East Greenwich Post Office
+				East Matanuck Post Office
+				East Providence Centre Post Office (historical)
+				East Providence Station Post Office
+				East Side Station Post Office
+				Elmhurst Post Office (historical)
+				Elmwood Station Post Office
+				Esmond Post Office (historical)
+				Exeter Post Office
+				Fiskeville Post Office
+				Fleet Station Post Office (historical)
+				Forestdale Post Office
+				Fort Greble Post Office (historical)
+				Foster Post Office
+				Frenchtown Post Office (historical)
+				Fulling Mills Post Office (historical)
+				Garden City Post Office
+				Garden City Station Providence Post Office
+				Georgiaville Post Office
+				Glendale Post Office
+				Gould Post Office (historical)
+				Grants Mills Post Office (historical)
+				Green Hill Post Office (historical)
+				Greene Post Office
+				Greenville Post Office
+				Greenwich Post Office (historical)
+				Greenwood Post Office (historical)
+				Greystone Post Office (historical)
+				Hamilton Post Office (historical)
+				Harmony Post Office
+				Harrisville Post Office
+				Haversham Post Office (historical)
+				Hillsgrove Post Office (historical)
+				Hope Post Office
+				Hope Valley Post Office
+				Hopkinton Post Office
+				Howard Post Office (historical)
+				Hoxsie Post Office (historical)
+				Hughesdale Post Office (historical)
+				Island Park Post Office (historical)
+				Jamestown Post Office
+				Johnson Station Providence Post Office
+				Johnston Post Office
+				Kent Post Office (historical)
+				Kenyon Post Office
+				Kingston Station Wakefield Post Office
+				Kingstown Post Office (historical)
+				LaFayette Post Office
+				Lakewood Post Office (historical)
+				Liberty Post Office
+				Lincoln Post Office
+				Lincoln Station Pawtucket Post Office
+				Little Compton Post Office
+				Longmeadow Post Office (historical)
+				Lonsdale Post Office (historical)
+				Lymanville Post Office (historical)
+				Manton Post Office (historical)
+				Manville Post Office
+				Mapleville Post Office
+				Matanuck Post Office
+				Melville Post Office (historical)
+				Meshanticut Post Office (historical)
+				Middletown Post Office (historical)
+				Middletown Station Post Office
+				Moosup Valley Post Office
+				Mumfords Mill Post Office (historical)
+				Narragansett Pier Post Office (historical)
+				Narragansett Post Office
+				Narragansett Station Wakefield Post Office
+				Nasonville Post Office
+				Natick Post Office (historical)
+				Naval Training Station Post Office
+				Nayatt Point Post Office (historical)
+				Newport Post Office
+				Nooseneck Hill Post Office (historical)
+				North Kingstown Post Office
+				North Scituate Post Office
+				North Station Post Office
+				North Tiverton Post Office
+				Norwood Post Office (historical)
+				Noyes Beach Post Office (historical)
+				Oak Lawn Post Office (historical)
+				Oakland Beach Post Office (historical)
+				Oakland Post Office
+				Olneyville Post Office
+				Palace Gardens Post Office (historical)
+				Pascoag Post Office
+				Pawtucket Post Office
+				Peace Dale Post Office (historical)
+				Perrysville Post Office
+				Phenix Post Office (historical)
+				Phillipsdale Post Office
+				Pilgrim Post Office
+				Pinehill Post Office (historical)
+				Point Judith Post Office (historical)
+				Pomham Post Office (historical)
+				Pontiac Post Office (historical)
+				Portsmouth Grove Post Office (historical)
+				Portsmouth Post Office
+				Potowomut Post Office (historical)
+				Potter Hill Post Office (historical)
+				Potterville Post Office (historical)
+				Providence Post Office
+				Prudence Island Post Office
+				Prudence Post Office (historical)
+				Quonochontaug Post Office (historical)
+				Quonset Point East Greenwich Post Office (historical)
+				Rice City Post Office (historical)
+				Richard L Cevoli Post Office
+				Richmond Post Office (historical)
+				River Point Post Office (historical)
+				Riverside Post Office
+				Rockland Post Office (historical)
+				Rockville Post Office
+				Rocky Brook Post Office (historical)
+				Rumford Post Office
+				Rumford Post Office (historical)
+				Rumford Station Post Office
+				Sakonnet Post Office
+				Saunderstown Post Office
+				Saylesville Post Office (historical)
+				Saylesville Station Pawtucket Post Office (historical)
+				Scarborough Beach Post Office (historical)
+				Scituate Post Office (historical)
+				Shannock Post Office
+				Showomet Post Office (historical)
+				Slaterville Post Office
+				Slocum Post Office
+				Smithfield Post Office
+				Smithfield Post Office (historical)
+				South Ferry Post Office (historical)
+				South Foster Post Office (historical)
+				South Kingston Post Office (historical)
+				South Pier Post Office (historical)
+				South Portsmouth Post Office (historical)
+				South Scituate Post Office (historical)
+				Stillwater Post Office
+				Summit Post Office (historical)
+				Tarkiln Post Office
+				Thornton Post Office (historical)
+				Tiverton Four Corners Post Office (historical)
+				Tiverton Post Office
+				Tower Hill Post Office
+				Usquepaugh Post Office (historical)
+				Valley Falls-Lonsdale Station Pawtucket Post Office
+				Vernon Post Office (historical)
+				Wakefield Post Office
+				Wallum Lake Post Office (historical)
+				Warren Post Office
+				Warwick Post Office
+				Warwick Post Office (historical)
+				Washington Park Station Post Office
+				Washington Post Office (historical)
+				Watch Hill Post Office
+				Weekapaug Post Office
+				West Barrington Post Office (historical)
+				West Glocester Post Office (historical)
+				West Greenwich Center Post Office (historical)
+				West Kingston Post Office
+				West Warwick Post Office
+				Westerly Post Office
+				Weybosset Hill Post Office
+				White Rock Post Office
+				Wickford Post Office
+				Wood River Junction Post Office
+				Woodville Post Office (historical)
+				Woonsocket Post Office
+				Wyoming Post Office
+			Range (RI)
+				The Hills
+			Reservoir (RI)
+				Aldersgate Lake
+				Allendale Mill Pond
+				Almy Reservoir
+				Annaquatucket Reservoir
+				Arnold Mills Reservoir
+				Arnold Pond
+				Barden Reservoir
+				Barney Pond
+				Benjamin Pond (historical)
+				Betty Pond
+				Big Round Top Pond
+				Black Rock Reservoir
+				Blackstone Pond
+				Blackstone River Reservoir
+				Bleachery Pond
+				Boone Lake
+				Booth Pond
+				Bowdish Reservoir
+				Box Pond (historical)
+				Branch River
+				Brickyard Pond
+				Browning Mill Pond
+				Buck Hill Pond
+				Burlingame Pond
+				Burlingame Reservoir
+				Butterfly Pond
+				Canada Pond
+				Capron Pond
+				Capwell Mill Pond
+				Carr Pond
+				Central Pond
+				Cherry Valley Pond
+				Clark Pond
+				Clarkville Pond
+				Coomer Lake
+				Coventry Reservoir
+				Cranberry Pond
+				Cranston Print Works Pond
+				Curran Lower Reservoir
+				Curran Upper Reservoir
+				Darling Pond
+				Dawley Pond
+				Diamond Hill Reservoir
+				Duck Pond
+				Easton Pond
+				Echo Lake
+				Flat River Reservoir
+				Flat Top Pond
+				Forestdale Pond
+				Fruit Hill Reservoir
+				Gardiner Pond
+				Geneva Pond
+				Georgiaville Pond
+				Gilleran Pond
+				Glen Rock Reservoir
+				Gorham Farm Pond
+				Great Swamp Goose Marsh
+				Green End Pond
+				Greystone Mill Pond
+				Happy Hollow Pond
+				Harold E Watson Reservoir
+				Harris Pond
+				Harrisville Mill Pond
+				Hawkins Pond
+				Hopkins Mills Pond
+				Howard Pond
+				Hughesdale Pond
+				Indian Run Reservoir
+				Ishmael Lake
+				James V Turner Reservoir
+				Jamestown Reservoir
+				John L Curran Lower Reservoir
+				John L Curran Upper Reservoir
+				Jongue Pond (historical)
+				Keech Pond
+				Kimball Reservoir
+				Lake Aldersgate
+				Lake Washington
+				Laportes Pond
+				Leonard Pond (historical)
+				Long Pond (historical)
+				Longview Reservoir
+				Lower Rochambeau Pond
+				Lyman Mill Pond
+				Maple Root Pond
+				Meaders Pond
+				Metcalf Wildlife Marsh
+				Middle Dam Pond
+				Mill Pond
+				Mill Tail Swamp and Pond
+				Miscoe Lake
+				Money Swamp Pond
+				Mount Tom Club Wildlife Marsh
+				Mountaindale Reservoir
+				Natick Pond
+				Nelson Pond
+				New Pond
+				Nichols Pond
+				Oak Swamp Reservoir
+				Olney Pond
+				Pascoag Reservoir
+				Pawtucket Reservoir
+				Pawtuxet River
+				Pawtuxet River-South Branch
+				Peace Dale Reservoir
+				Pearce Pond
+				Peck Pond
+				Peeptoad Pond
+				Pine Swamp Reservoir
+				Ponaganset Reservoir
+				Potowomut Pond
+				Pratt Pond
+				Primrose Pond
+				Quidnick Reservoir
+				Ralphs Pond
+				Rawson Pond
+				Reservoir Number 1
+				Reservoir Number 2
+				Reynolds Pond
+				Robin Hollow Pond
+				Rochambeau Ponds
+				Rocky Brook Reservoir
+				Rodman Mill Pond
+				Ross Pond
+				Saint Marys Pond
+				Saw Mill Pond
+				Scituate Reservoir
+				Scott Pond
+				Shingle Mill Pond
+				Simmons Lower Reservoir
+				Simmons Upper Reservoir
+				Slack Reservoir
+				Slatersville Reservoir Upper
+				Slatersville Reservoirs
+				Slattersville Reservoir
+				Slocum Reservoir
+				Smith and Sayles Reservoir
+				Sprague Lower Reservoir
+				Sprague Upper Reservoir
+				Spring Green Pond
+				Spring Grove Pond
+				Steeres Pond
+				Stillwater Pond
+				Stillwater Reservoir
+				Stone Dam Pond
+				Stump Hill Reservoir
+				Stump Pond
+				Sucker Pond
+				Sweet Pond
+				Sylvestre Pond
+				Tarbox Pond
+				Tarkiln Pond
+				Ten Mile River Reservation
+				The Reservoir
+				Tiogue Lake
+				Todds Pond
+				Town Pond
+				Trout Brook Pond
+				Upper Canada Pond
+				Upper Dam Pond
+				Upper Slatersville Reservoir
+				Upper Sprague Reservoir
+				Valley Falls Pond
+				Volpes Pond
+				Wakefield Mill Reservoir
+				Wakefield Pond
+				Wallum Lake
+				Wanskuck Pond
+				Warren Reservoir
+				Warren Reservoir Upper
+				Waterman Reservoir
+				Watson Reservoir
+				Wenscott Reservoir
+				Wertz and Viall Pond
+				Westconnaug Reservoir
+				Whipple Pond (historical)
+				Whipples Pond
+				Whitford Pond
+				Wilbur Pond
+				Willett Pond
+				Wilson Reservoir
+				Wincheck Pond
+				Woodville Pond
+				Woonsocket Reservoir Number One
+				Woonsocket Reservoir Number Three
+				Woonsocket Reservoir Number Two
+				Wyoming Pond
+				Yorker Mill Pond
+			School (RI)
+				A Precious Moment Child Academy
+				Academy Avenue School
+				Academy for Little Children of Cumberland
+				Agnes B Hennessey School
+				Agnes E Little School
+				Aim High Early Learning Center
+				Alan Shawn Feinstein Elementary School
+				Alan Shawn Feinstein School
+				Aldrich Junior High School
+				Alfred Lima Senior Elementary School
+				Alfred Lima Senior Elementary SchoolAnnex
+				Alice M Waddington School
+				All Saints Academy
+				Alperin Schechter Day School
+				Alpine Preschool
+				Alternate Learning Project School
+				America Street School (historical)
+				Andrews School
+				Angell District School Number 29 (historical)
+				Anna M McCabe School
+				Anthony Carnevale Elementary School
+				Apponaug Christian Academy
+				Aquidneck Elementary School
+				Aquidneck Island Christian Academy
+				Aquidneck School
+				Archie R Cole Junior High School
+				Arlington School
+				Asa Messer Annex
+				Asa Messer School
+				Ashaway Elementary School
+				Ashton School
+				Austin School (historical)
+				Austin T Levy School
+				B F Norton Elementary School
+				Babcock Middle School
+				Barbara Tufts Cooperative Preschool
+				Barrington Christian Academy
+				Barrington College
+				Barrington High School
+				Barrington Middle School
+				Beacon Avenue School
+				Beacon Charter School
+				Beginnings the Childrens School
+				Bell Schoolhouse (historical)
+				Benefit Street School (historical)
+				Bennett Avenue School
+				Berkeley School
+				Berkeley School (historical)
+				Bernon Heights School
+				Birch Vocational Center
+				Birchwood School
+				Bishop Francis P Keough Regional High School
+				Bishop Hendricken High School
+				Bishop McVinney Regional Elementary School
+				Blackrock School
+				Blackstone Academy Charter School
+				Blessed Sacrament School
+				Block Island Early Learning Center
+				Block Island School
+				Bourdon Boulevard Center Woonsocket Head Start
+				Bradford School
+				Bradley School
+				Brick School House (historical)
+				Brightridge School
+				Broad Rock Middle School
+				Broad Street School
+				Brown Avenue School
+				Brown Play School
+				Brown University
+				Brown-Fox Point Early Childhood Education Center
+				Bryant College
+				Building Blocks Child Care Center
+				Burns School
+				Burrillville High School
+				Burrillville Middle School
+				Burton School (historical)
+				Buttonwoods Bible Chapel Pre-School
+				Buttonwoods School
+				Buttonwoods School for Young Children
+				Byfield School
+				CVS Highlander Charter School
+				Callender School
+				Camden Avenue School
+				Candy Cane Preschool
+				Cane Educational Center
+				Captain G Harold Hunt School
+				Captain Isaac Paine School
+				Carey School
+				Carl G Lauro Memorial School
+				Carousel Nursery
+				Cass Park Center Woonsocket Head Start
+				Cedar Hill School
+				Cedar-Hurst School
+				Center for Individualized Training and Education
+				Centerdale School
+				Centerville Road Child Development Center
+				Central Falls Junior-Senior High School
+				Central Grammar School (historical)
+				Central High School
+				Central Nursery School
+				Central Street School
+				Centredale School
+				Chariho Area Career and Technical Center
+				Chariho Regional High School
+				Chariho Regional Middle School
+				Charles Fortes Academy
+				Charles Fortes Academy Annex
+				Charlestown Elementary School
+				Charlestown Historical Society Schoolhouse (historical)
+				Charlestown School
+				Cherry Hill Preschool
+				Chester W Barrows School
+				Chestnut Hill School (historical)
+				Child Care Connection
+				Child Street School
+				Christopher Rhodes School
+				Citizens Memorial School
+				Clark School (historical)
+				Classical High School
+				Clayville Elementary School
+				Coggeshall School
+				Colt-Andrews School
+				Community Christian School
+				Community College of Rhode Island
+				Community College of Rhode Island Liston Campus
+				Community Preparatory School
+				Community School
+				Compass Charter School
+				Cornerstone School
+				Cotrell F Hoxsie School
+				Country Day School
+				Countryside Childrens Center
+				Covell Street School
+				Covenant Cooperative Nursery School
+				Coventry High School
+				Coventry Middle School
+				Cowden Street School
+				Cranston Area Career and Technical Center
+				Cranston High School East
+				Cranston High School West
+				Cranston-Calvert School
+				Cranston-Johnston Catholic Regional School
+				Creative Activities Center
+				Cumberland High School
+				Cumberland Hill Annex
+				Cumberland Hill School
+				Cumberland Middle School
+				Cumberland Preschool Center
+				Curtis Corner Middle School
+				Curvin McCabe School
+				Daniel D Waterman School
+				Davisville Elementary School
+				Davisville Middle School
+				De La Salle Academy
+				District 14 Schoolhouse
+				District Four School (historical)
+				District Schoolhouse Number 2 (historical)
+				District Six Schoolhouse (historical)
+				Doctor Earl F Calcutt Middle School
+				Doctor Edward A Ricci School
+				Doctor Harry L Halliwell Memorial School
+				Doctor Joseph A Whelan Elementary School
+				Doctor Joseph H Ladd School
+				Doctor M H Sullivan School
+				Doctor Martin Luther King School
+				Doric Day Nursery School
+				Drum Rock Elementary School
+				Dunns Corner School
+				Dunns Corners Church Preschool
+				Dutemple School
+				E G Robertson School
+				East Bay Educational Collaborative School
+				East Greenwich Cooperative Childrens Center
+				East Greenwich High School
+				East Greenwich Preschool
+				East Providence Area Career and Technical Center
+				East Providence High School
+				East Side Nursery School
+				Eddy Street Learning Center
+				Eden Park School
+				Edgewood Highland School
+				Edgewood Highlands School
+				Edmund W Flynn School
+				Edward R Martin Junior High School
+				Edward S Rhodes School
+				Eleanor Briggs School
+				Elizabeth Baldwin School
+				Ella Risk School
+				Elmhurst Academy
+				Elmhurst School
+				Emma G Whiteknact School
+				Emmanual Nursery School
+				Esek Hopkins Middle School
+				Exeter-Greenwich Regional Junior High School
+				Exeter-West Greenwich Regional High School
+				Fairlawn Elementary School
+				Faith Nursery School
+				Fallon Memorial School
+				Fallon School
+				Father Holland Catholic Regional Elementary School
+				Father John Doyle School
+				Feinstein High School
+				Fifth Avenue School
+				Fifth Avenue School (historical)
+				Fishing Cove Elementary School
+				Flat Rock Middle School
+				Flora S Curtis Memorial School
+				Flynn Annex
+				Flynn Annex II
+				Fogarty Memorial School
+				Forest Avenue Elementary School
+				Forest Avenue School
+				Forest Park School
+				Fort Barton School
+				Four Corners Early Learning Center
+				Fox Point School
+				Francis B Sargent Rehabilitation Center
+				Francis J Varieur School
+				Francis School
+				Frank E Thompson Middle School
+				Frenchtown School
+				Frenchtown School for Young Children
+				Friends Boarding School (historical)
+				Friends House Day Care and Kindergarten
+				Friends School
+				Froebel School (historical)
+				Future Scholars Preschool
+				Garden City School
+				Garretson Memorial Day Nursery
+				Garvin Memorial School
+				George C Calef School
+				George H Triplett School
+				George Hanaford School
+				George J Peters School
+				George J West School
+				George N Hunt Campus School
+				George T Baker School (historical)
+				Gilbert Stuart Middle School
+				Gingerbread House Nursery School
+				Gladstone Street School
+				Glen Hills School
+				Globe Park School
+				Goff Junior High School
+				Good Shepherd Regional Middle School
+				Gordon School
+				Gorton Junior High School
+				Governor Christopher and Lola Del Sesto Middle School
+				Graniteville School
+				Greater Woonsocket Catholic Regional Schol
+				Green Acres Country Day School
+				Green School
+				Greenbush Elementary School
+				Greene High School
+				Greenwich Village Nursery and Kindergarten
+				Greenwood School
+				Greystone School
+				Grove Avenue School
+				Grove Street School
+				Guiteras School
+				Hall School (historical)
+				Hamilton Elementary School
+				Hamlet Learning Center
+				Hampden Meadows School
+				Hampton Meadows School
+				Happy Hearts Learning Center
+				Happy Hollow Nursery School
+				Harmony Hill School
+				Harold F Scott School
+				Harris School
+				Harrison Street High School
+				Harrisville Pre-School
+				Harrisville Preschool
+				Harry Kizirian Elementary School
+				Hatch School
+				Hayman School
+				Hazard School
+				Health and Science Technology Academy
+				Henry Barnard School
+				Henry J Winters School
+				Heritage Park Early Learning Center
+				Histrionic Academy (historical)
+				Hitty Corner School (historical)
+				Holliman School
+				Holy Angels Church Education Center
+				Holy Ghost School
+				Holy Name of Jesus School
+				Hope Elementary School
+				Hope High School
+				Hope Highlands Elementary School
+				Hope Valley Elementary School
+				Hopkins Hill School
+				Horton School
+				Hoskins School
+				Howard Hathaway School
+				Howland School
+				Hugh B Bain Middle School
+				Hugh Cole School
+				Hunt School
+				Hutchinson School
+				Immaculate Conception Academy
+				International Charter School
+				International Yacht Restoration School
+				Irving S Cook School
+				Ivy League Preschool
+				Jack and Jill on the Hill Preschool
+				James H Eldredge School
+				James L Hanley Career and Technical Center
+				James L Maher School
+				James L McGuire School
+				James R D Oldham School
+				Jamestown Primary School (historical)
+				Jamestown School at Lawn
+				Jamestown School-Melrose
+				Jamestown-Lawn School
+				Jewish Community Center of Rhode Island Preschool
+				John F Deering Middle School
+				John F Deering Middle School Annex
+				John F Horgan Elementary School
+				John F Kennedy Elementary School
+				John F Kennedy School
+				John Greene School
+				John W Horton School
+				John Wickes School
+				Johnson and Wales University
+				Johnston Senior High School
+				Joseph H Gaudet Middle School
+				Joseph Jenks Junior High School
+				Joyful Learning Child Academy
+				Kendall-Dean School
+				Kendrick Avenue School
+				Kent Heights School
+				Kenyon Street School
+				Kevin K Coleman Elementary School
+				Kickemuit Middle School
+				Kids Quarters Pre-School
+				Kings Kids Elementary School
+				Kingston Hill Academy
+				Kitts Corner School (historical)
+				Knotty Oak Middle School
+				Kwan Um Zen School
+				LaSalle Academy
+				Lad and Lassie Preschool
+				Lapham Institute (historical)
+				Laurel Hill Annex
+				Laurel Hill Avenue School
+				Leander Peck Memorial School
+				Lenthal School
+				Leo A Savoie School
+				Leviton I School
+				Leviton II School
+				Lexington Avenue School
+				Liddle Tots Preschool
+				Lincoln Central Elementary School
+				Lincoln Middle School
+				Lincoln School
+				Lincoln School (historical)
+				Lincoln Senior High School
+				Lincoln Seventh Day Adventist School
+				Lippitt Hill School
+				Lippitt School
+				Little Compton Nursery School
+				Little Flower Preschool
+				Little Oaker Preschool
+				Little Peoples Nursery
+				Little Red Hen Preschool and Kindergarten
+				Littlebrook Child Development Center
+				Lonsdale Elementary School
+				Lower Point Judith Schoolhouse
+				Lymansville School
+				M Virginia Cunningham School
+				Main Street School
+				Mann School (historical)
+				Maple Avenue School
+				Margaret I Robertson School
+				Marieville Elementary School
+				Mary E Fogerty School
+				Mary V Quirk School
+				Mason School
+				Massie E Quinn Elementary School
+				Masters Regional Academy
+				Matunuck School
+				McFee School
+				Meadowbrood Waldorf School
+				Meadowbrook Farms School
+				Meadowcrest School
+				Meeting Street School
+				Melville Elementary School
+				Mercymount Country Day School
+				Merino School
+				Merrymount School
+				Meshanicut Park Nursery School
+				Metcalf School
+				Metropolitan Regional Career and Technical Center
+				Middle District-Taft School (historical)
+				Middletown High School
+				Mildred E Lineham School
+				Monsigner Bove School
+				Monsignor Gadoury Regional Primary School
+				Monsignor Matthew F Clarke Catholic Regional School
+				Montessori Centre of Barrington
+				Montessori Childrens House
+				Montessori Toddlers Plus
+				Moses Brown Prepatory School
+				Mount Hope High School
+				Mount Pleasant Academy
+				Mount Pleasant High School
+				Mount Saint Charles School
+				Mumford School
+				Myron J Francis Elementary School
+				Narragansett Elementary School
+				Narragansett High School
+				Narragansett Pier School
+				Nathan Bishop Middle School
+				Nathaniel Greene Middle School
+				Nayatt School
+				New England Institute of Technology
+				New England Laborers-Cranston Construction Academy
+				New Pride School of Hillside
+				Newport County Career and Technical Center
+				Newport County Catholic Regional School
+				Nicholas A Ferri Middle School
+				Nonquit School
+				North Cumberland Middle School
+				North Kingston Day Care and Pre-School
+				North Kingstown Day Care and Preschool
+				North Kingstown Senior High School
+				North Providence High School
+				North Scituate Elementary School
+				North Smithfield Elementary School
+				North Smithfield Junior-Senior High School
+				Northern Lincoln Elementary School
+				Northern Rhode Island Collaborative School
+				Norwood Avenue School
+				Norwood School
+				Notre Dame Regional School
+				Number 8 School (historical)
+				Nuweetooun School
+				Oak Haven School
+				Oak Lawn School
+				Oakland Beach Elementary School
+				Ocean Tides School
+				Old Center School House
+				Old Country Road School
+				Old Schoolhouse
+				Oliphant School
+				Oliver Hazard Perry Middle School
+				Oliver School
+				Orchard Farms Elementary School
+				Orchard Street School
+				Orlo Avenue School
+				Our Lady of Consolation School
+				Our Lady of Fatima High School
+				Our Lady of Loreto School
+				Our Lady of Mercy Regional School
+				Our Lady of Mount Carmel School
+				Our Lady of Victories Regional Primary School
+				Overbrook Academy
+				Oxford Street School
+				PTC Elementary School
+				Paintbox School
+				Paradise School
+				Park School
+				Park View Middle School
+				Pathways Strategic Teaching Center of Kent County
+				Paul Cuffee Charter School
+				Pawcatuck Academy (historical)
+				Pawtucket Day Child Development Center
+				Pawtuxet Academy (historical)
+				Peace Dale Early Learning Center
+				Peace Dale Elementary School
+				Peaked Top School (historical)
+				Pembroke College
+				Pied Piper School
+				Pilgrim High School
+				Pine Harbor School
+				Pippin Orchard School
+				Play Plus Preschool
+				Play and Learn Preschool
+				Playschool of Warwick
+				Pleasant View School
+				Pocasset School
+				Ponaganset High School
+				Ponaganset Middle School
+				Portsmouth Abbey School
+				Portsmouth High School
+				Portsmouth Middle School
+				Portsmouth Nursery School
+				Pothier School
+				Potowomut School
+				Potter School
+				Potter-Burns School
+				Prescott Middle School
+				Prime Time Preschool
+				Primrose Hill School
+				Princes Hill Family and Day School for Advanced Studies
+				Priory School
+				Progressive Learning for Children School
+				Providence Academy of International Studies
+				Providence College
+				Providence Country Day School
+				Providence Hebrew Day School
+				Providence Reform School (historical)
+				Prudence School
+				Pullen Corner School (historical)
+				Puss n Boots Nursery School
+				Quarry Hill School (historical)
+				Quest Montessori School
+				Quidnessett Elementary School
+				Quidnessett School for Young Children
+				Quonset School
+				Raggedy Ann Nursery School
+				Raggedy Ann and Andy Nursery School
+				Ralph Street School
+				Randall Holden School
+				Raymond C LaPerche School
+				Red Brick Nursery School
+				Red Schoolhouse (historical)
+				Reform School (historical)
+				Reservoir Avenue School
+				Reynolds School
+				Rhode Department of Corrections School
+				Rhode Island College
+				Rhode Island College Cooperative Preschool
+				Rhode Island School of Design
+				Rhode Island State Home for Children
+				Rhode Island State School (historical)
+				Rhode Island State School for the Deaf
+				Rhode Island Training School for Youth
+				Rhodes School
+				Rhyme and Reason Nursery School
+				Richmond Elementary School
+				Riverpoint Kindergarten and Nursery School
+				Riverside Junior High School
+				Robert F Kennedy School
+				Robert L Bailey II Elementary School
+				Rockwell School
+				Rocky Hill School
+				Roger Williams Hospital
+				Roger Williams Middle School
+				Roger Williams University
+				Rogers High School
+				Ruggles Street School
+				Ruhlins River School (historical)
+				Rumford Day Nursery School
+				Rumford Day Nursery School Number 3
+				Sackett Street School
+				Sacred Heart School
+				Saing Georges School
+				Saint Andrew Preschool
+				Saint Andrews School
+				Saint Anns School
+				Saint Anthonys School
+				Saint Augustine School
+				Saint Bartholomew School
+				Saint Bartholomews School
+				Saint Bernards School
+				Saint Brendans School
+				Saint Catherines Academy
+				Saint Cecilia School
+				Saint Charles School
+				Saint Clares High School
+				Saint Columbans Seminary
+				Saint Davids Play School
+				Saint Edwards School
+				Saint Elizabeth Ann Seton Academy
+				Saint Elizabeths School
+				Saint Francis School
+				Saint Georges School
+				Saint John the Baptist School
+				Saint Joseph School
+				Saint Joseph of Cluny Sisters School
+				Saint Josephs School
+				Saint Kevin School
+				Saint Leo School
+				Saint Louis School
+				Saint Lukes School
+				Saint Margarets School
+				Saint Marks School
+				Saint Martins School
+				Saint Mary School
+				Saint Marys School
+				Saint Matthews School
+				Saint Michaels Country Day School
+				Saint Michaels School
+				Saint Michaels Schools
+				Saint Patrick School
+				Saint Patricks High School
+				Saint Patricks Parochial School
+				Saint Patricks School
+				Saint Paul Nursery
+				Saint Pauls Nursery School
+				Saint Pauls School
+				Saint Peter School
+				Saint Peters Play School
+				Saint Peters School
+				Saint Philip School
+				Saint Philips Day Nursery School
+				Saint Philomena School
+				Saint Pius School
+				Saint Pius V School
+				Saint Puis X School
+				Saint Raphael Academy
+				Saint Rocco School
+				Saint Rose of Lima School
+				Saint Teresas High School
+				Saint Theresa School
+				Saint Thomas School
+				Saint Vincent Center School
+				Sakonnet Early Learning Center
+				Salve Regina University
+				Samuel Slater Junior High School
+				Samuel W Bridgham Middle School
+				San Miguel Education Center
+				San Miguel School
+				Sand Castle Preschool
+				Sanders School
+				Sarah Dyer Barnes School
+				Saylesville Elementary School
+				Scallop Shell Day Care Center
+				School One
+				Schoolhouse Number 2 (historical)
+				Scituate High School
+				Scituate Junior High School
+				Sea Breeze Early Learning Center
+				Sea Rangers Nursery School
+				Sea Side Nursery
+				Second Avenue School
+				Seminary of Our Lady of Providence
+				Shea Senior High School
+				Sheffield School
+				Sherman School
+				Shining Star Preschool
+				Silveira Kindergarten and Nursery School
+				Silver Spring School
+				Slatersville Preschool
+				Smith Hill Early Childhood Learning Center
+				Smith Street Primary School
+				Smithfield Academy (historical)
+				Smithfield Avenue Nursery School
+				Smithfield Senior High School
+				Smithville Seminary
+				Social Street School
+				Sockanosset School for Boys (historical)
+				Sophia Academy
+				South County Montessori School
+				South Kingston High School
+				South Kingstown Junior High School
+				South Road Elementary School
+				South Shore School
+				Southern Rhode Island Regional Collaborative School
+				Southernmost Schoolhouse (historical)
+				Sowans Elementary School
+				Spring Green Preschool
+				Spring Lake School (historical)
+				Springbrook Elementary School
+				Springfield Middle School
+				Spurwick School II
+				Spurwink School II
+				Stadium School
+				State Street Elementary School
+				Steere Farm Elementary School
+				Stephen Olney School
+				Stone Hill School
+				Stone School (historical)
+				Stony Lane School
+				Story Land Preschool
+				Summer Street School
+				Summit Ave School
+				Sunrise Academy
+				Sunshine Child Development Center
+				Sunshine Preschool
+				Sweet Peas Village School
+				Sweet Peas Village School Annex
+				Taft Avenue Daycare Center
+				Tavares Pediatric Center School
+				Temple Sinai Nursery School
+				Textron Chamber of Commerce Academy
+				The Academy for Little Children
+				The Cedar-Hurst School
+				The Charlotte Woods Elementary School
+				The Farm School
+				The French American School of Rhode Island
+				The Gordon School
+				The Groden Center School
+				The Little Red Schoolhouse
+				The Little Shepard Preschool
+				The Livingston Center for Early Childhood
+				The Montessori School
+				The Pennefield School
+				The Poplar School
+				The Prout School
+				The Providence Center School
+				The Red Brick Nursery
+				The Sergeant Cornel Young Junior Elementary School
+				The Storks Nest Child Academy
+				The Storks Nest Child Academy II
+				The Storks Nest Child Academy III
+				The Wheeler School
+				The Wolf School
+				Thompson School
+				Thornton School
+				Thurber Avenue School
+				Times 2 Academy
+				Tiogue School
+				Tiverton High School
+				Tiverton Middle School
+				Toll Gate High School
+				Tots Cooperative Nursery School
+				Tower School (historical)
+				Tower Street School
+				Trinity Christian Academy
+				Trinity Lutheran Preschool
+				Trinity School House (historical)
+				Tripps Corner Schoolhouse (historical)
+				Union School
+				Union School (historical)
+				United States Naval War College
+				University Grammar School (historical)
+				University of Rhode Island
+				University of Rhode Island Alton Jones Campus
+				University of Rhode Island Bay Campus
+				University of Rhode Island Child Development Center
+				University of Rhode Island Kingston Campus
+				Valley Community School
+				Valley Community and Day School
+				Valley Falls School
+				Vartan Gregorian Elementary School
+				Veazie Annex Number One
+				Veazie Annex Number Two
+				Veazie Street School
+				Veterans Memorial Elementary School
+				Village Cooperative Nursery School
+				Vincent J Gallagher Middle School
+				Viola M Berard School
+				W R Watters School
+				Wakefield Elementary School
+				Wakefield Hills Elementary School
+				Walley School
+				Walter E Ranger School
+				Wanskuck Boys School
+				Warwick Area Career and Technical Center
+				Warwick Neck School
+				Warwick Veterans Memorial High School
+				Washington Academy (historical)
+				Washington Oak School
+				Washington Park Preschool
+				Watch the Lamb Preschool
+				Wawaloam School
+				Webster Avenue School
+				Wellspring Community School
+				West Bay Area Career and Technical Center
+				West Bay Christian Academy
+				West Bay Collaborative School
+				West Broadway School
+				West Glocester Elementary School
+				West Kingston Elementary School
+				West Warwick Senior High School
+				Westerly High School
+				Westerly Junior High School
+				Westerly-Pawcatuck YMCA Preschool
+				Western Coventry School
+				Western Hill Elementary School
+				Western Hill Middle School
+				Wheeler School
+				Wickford Elementary School
+				Wickford Middle School
+				Wickford Nursery School
+				Wilbur and McMahon School
+				Wilbur and McMahons School
+				William D'Abate School
+				William E Tolman Senior High School
+				William F Blackstone School (historical)
+				William J Underwood School
+				William L Callahan School
+				William M Davies Junior Career-Technical High School
+				William Winsor School
+				Williams School
+				Windmill Hill School
+				Windmill Street School
+				Windmill Street School Annex Number 1
+				Winman Junior High School
+				Winners Circle School
+				Winsor Hill School
+				Wionkhiege District Number 12 Schoolhouse (historical)
+				Witherbee School
+				Wood River Preschool
+				Woodlawn Catholic Regional School
+				Woodridge School
+				Woonsocket Area Career and Technical School
+				Woonsocket High School
+				Woonsocket Middle School
+				Wyman School
+				YMCA Nursery School
+				YMCA of Northern Rhode Preschool and Kindergarten
+				Yawgoo School (historical)
+			Spring (RI)
+				Boiling Spring
+				Dead Man Spring
+				Elizabeth Spring (historical)
+				Gin Spring
+				Goose Nest Spring
+				Gunbarrel Spring
+				Massasoit Spring
+				Niles Spring
+				Roger Williams Spring (historical)
+			Stream (RI)
+				Abbott Run
+				Adamsville Brook
+				Aguntang Brook
+				Airport Creek
+				Alewife Brook
+				Allan Richard Brook
+				Almy Brook
+				Angell Brook
+				Annaquatucket River
+				Annawomscutt Brook
+				Ash Swamp Brook
+				Ashaway River
+				Assapumpset Brook
+				Bailey Brook
+				Baker Brook
+				Baker Creek
+				Barker Brook
+				Barrington River
+				Bear Brook
+				Bear Tree Brook
+				Beaver River
+				Beverage Brook
+				Big River
+				Black Rock Brook
+				Blackstone River
+				Bloody Brook
+				Boiling Spring Brook
+				Borden Brook
+				Boyd Brook
+				Branch River
+				Brandy Brook
+				Breakheart Brook
+				Brown Creek (historical)
+				Browns Brook
+				Brushy Brook
+				Buckeye Brook
+				Bucks Horn Brook
+				Bullhead Brook
+				Burlingame Brook
+				Burnt Swamp Brook
+				Canonchet Brook
+				Card Machine Brook
+				Carder Creek
+				Carr River
+				Catamint Brook
+				Cedar Brook
+				Cedar Swamp Brook
+				Chepachet River
+				Cherry Brook
+				Chickasheen Brook
+				Chipuxet River
+				Chockalog River
+				Clarke Brook
+				Clear River
+				Cocumcussoc Brook
+				Cold Brook
+				Cold Spring Brook
+				Colvin Brook
+				Coney Brook
+				Congdon River
+				Cork Brook
+				Cranberry Brook
+				Crooked Brook
+				Crookfall Brook
+				Cutler Brook
+				Dark Entry Brook
+				Dawley Brook
+				Dead Man Brook
+				Diamond Brook
+				Dolly Cole Brook
+				Dry Arm Brook
+				Dry Brook
+				Dundery Brook
+				Dutemple Brook
+				East Sneech Brook
+				Eldridge Creek (historical)
+				Factory Brook
+				Fisherville Brook
+				Flat River
+				Fogland Creek
+				Founders Brook
+				Frenchtown Brook
+				Fresh Meadow Brook
+				Fry Brook
+				Furnace Hill Brook
+				Genesee Brook
+				Glen Rock Brook
+				Goat Rock Brook
+				Gould Brook
+				Great Creek
+				Green Fall River
+				Hall Creek
+				Halls Creek
+				Hannah Brook
+				Hanton Brook
+				Hardig Brook
+				Harris Brook
+				Hawkins Brook
+				Hawkinson Brook
+				Heath Brook
+				Hemlock Brook
+				Herring Brook
+				Hunt Brook
+				Hunt River
+				Huntinghouse Brook
+				Huntington Brook
+				Indian Brook
+				Indian Run
+				Iron Mine Brook
+				Jamestown Brook
+				Kelley Brook
+				Kent Brook
+				Kickamuit River
+				Killy Brook
+				Knowles Brook
+				Lame Tom Brook
+				Latham Brook
+				Leeson Brook
+				Leland Brook
+				Lippitt Brook
+				Little Brook (historical)
+				Little Creek
+				Little Orchard Brook
+				Locke Brook
+				Lockwood Brook
+				Log House Brook
+				Long Brook
+				Maidford River
+				Maiford River
+				Marys Creek
+				Mashapaug Brook
+				Maskerchugg River
+				Mastuxet Brook
+				Mattatuxet River
+				Mattetee Swamp Brook
+				Mawney Brook
+				McCuster Brook
+				McGowan Brook
+				Meadow Brook
+				Meshanticut Brook
+				Metacomet Brook
+				Mile Brook
+				Mill Creek
+				Mill River
+				Millers River
+				Mink Brook
+				Mishnock River
+				Monastery Brook
+				Moscow Brook
+				Moshassuck River
+				Mosquitohawk Brook
+				Mowry Brook
+				Mowry Paine Brook
+				Mud Bottom Brook
+				Mud Brook
+				Mussachuck Creek
+				Mussey Brook
+				Negro Sawmill Brook
+				Nine Foot Brook
+				Nipmuc River
+				Nooseneck River
+				North Branch Pawtuxet River
+				Old Hickory Brook
+				Old Mill Creek
+				Pachet Brook
+				Paine Brook
+				Palmer River
+				Paquantuck Brook
+				Paradise Brook
+				Parmenter Brook
+				Parris Brook
+				Pascoag River
+				Pasquiset Brook
+				Pawcatuck River
+				Pawtuxet River
+				Peckham Brook
+				Peeptoad Brook
+				Pendock Brook
+				Perry Healy Brook
+				Peters River
+				Pettaquamscutt River
+				Phillips Brook
+				Pierce Brook
+				Pine River
+				Pine Swamp Brook
+				Pleasant Valley Stream
+				Pocasset River
+				Ponaganset River
+				Poor Farm Brook
+				Poquiant Brook
+				Potowomut River
+				Potterville Brook
+				Providence River
+				Quaket Creek
+				Quaket River
+				Queen River
+				Queens Fort Brook
+				Quidnick Brook
+				Quonopaug Brook
+				Raccoon Brook
+				Rake Factory Brook
+				Rankin Brook
+				Reaper Brook
+				Red Brook (historical)
+				Reuben Brown Brook
+				Roaring Brook
+				Round Top Brook
+				Rouse Creek
+				Runnins River
+				Rush Brook
+				Sakonnet River
+				Sandhill Brook
+				Sapowet Creek
+				Saugatucket River
+				Saunders Brook
+				Scockanoxet Brook
+				Scott Brook
+				Scrabbletown Brook
+				Seekonk River
+				Shady Oak Brook
+				Sherman Brook
+				Shewatuck Brook (historical)
+				Shinscot Brook
+				Shippee Brook
+				Shreeves Creek (historical)
+				Silver Creek
+				Simmons Brook
+				Sin and Flesh Brook
+				Sisson Brook
+				Smelt Brook
+				Soakhide Brook
+				Sodom Brook
+				South Branch Pawtuxet River
+				Sprague Brook
+				Spring Brook
+				Spring Gutter Brook (historical)
+				Spruce Brook
+				Stillwater River
+				Stingo Brook
+				Sucker Brook
+				Swamp Brook
+				Sylvys Brook
+				Taney Brook
+				Tanyard Brook
+				Tarkiln Brook
+				Ten Mile River
+				Threadmill Brook
+				Three Ponds Brook
+				Tibbets Creek
+				Tinkerville Brook
+				Tomaquag Brook
+				Trout Brook
+				Tucker Brook
+				Tunk Brook
+				Turkey Meadow Brook
+				Tuscatucket Brook
+				Uptown Creek
+				Usquepaug River
+				Vals Creek
+				Viall Creek (historical)
+				Walker Creek
+				Wannuchecomecut Brook
+				Warner Brook
+				Warren River
+				Warwick Brook
+				West Meadow Brook
+				West River
+				West Sneech Brook
+				Westconnaug Brook
+				Whaley Brook
+				Whipple Brook
+				White Brook
+				White Horn Brook
+				White Wine Brook
+				Wilbur Hollow Brook
+				Wine Brook
+				Winsor Brook
+				Wood River
+				Woody Hill Brook
+				Woonasquatucket River
+				Yawgunsk Brook
+			Summit (RI)
+				Absalona Hill
+				Acote Hill
+				Almy Hill
+				Andrews Hill
+				Applehouse Hill
+				Badger Mountain
+				Bailey Hill
+				Baileys Butts
+				Bald Hill
+				Barber Heights
+				Barbs Hill
+				Bare Rock
+				Barker Hill
+				Beach Plum Hill
+				Beacon Hill
+				Beacon Pole Hill
+				Bear Hill
+				Bennett Hill
+				Benson Mountain
+				Big Hill
+				Big White Hill
+				Birch Hill (historical)
+				Biscuit Hill
+				Black Plain Hill
+				Blackberry Hill
+				Bliss Hill
+				Bluff Head
+				Bluff Hill
+				Border Hill
+				Boston Hill
+				Bowen Hill
+				Bradley Hill
+				Breakheart Hill
+				Briggs Corner
+				Brightman Hill
+				Broad Hill
+				Brush Hill
+				Buck Hill
+				Bumpin Hill
+				Burnt Hill
+				Burr Hill
+				Bush Lot Hill
+				Butts Hill
+				Carbuncle Hill
+				Casey Hill
+				Castle Hill
+				Cat Hill
+				Cat Rocks
+				Catamint Hill
+				Champlin Hill
+				Chase Hill
+				Cherry Tree Hill
+				Chopmist Hill
+				Cobble Hill
+				Cocumcussoc
+				College Hill
+				Congdon Hill
+				Cook Hill
+				Cooky Hill
+				Coon Hill
+				Cooper Hill
+				Copper Mine Hill
+				Cranberry Hill
+				Cucumber Hill
+				Cumberland Hill
+				Den Hill
+				Dexters Ledge
+				Diamond Hill
+				Drum Rock Hill
+				Dugaway Hill
+				Dumping Rock
+				Durfee Hill
+				Dye Hill
+				Escoheag Hill
+				Exeter Hill
+				Fenner Hill
+				Ferry Hill
+				Field Hill
+				Forge Hill
+				Fort Butts
+				Fort Hill
+				Fort Wetherill
+				Fox Hill
+				Freebody Hill
+				Fruit Hill
+				Gazza Hill
+				Great Neck
+				Green Hill
+				Gunners Hill
+				Halfmile Hill
+				Hammitt Hill
+				Hammond Hill
+				Harbor Hill
+				Harkney Hill
+				High Point
+				Honeyman Hill
+				Hopkins Hill
+				Horn Hill
+				Hornbeam Chapel
+				Howard Hill
+				Huckleberry Hill
+				Hungry Hill
+				Hunting Hill
+				Indian Burying Hill
+				Iron Rock Hill
+				Jenckes Hill
+				Jerimoth Hill
+				Jiley Hill
+				Jobs Hill
+				Jumping Hill
+				Juniper Hill
+				Keech Hill
+				Kenyon Hill
+				King Phillips Chair
+				Kingston Hill
+				Lawton Hill
+				Lehigh Hill
+				Lippitt Hill
+				Little Sugarloaf Hill
+				Logee Hill
+				Maxon Hill
+				McSparran Hill
+				Meetinghouse Hill
+				Miantonomi Hill
+				Molasses Hill
+				Mount Hope
+				Mount Hygeia
+				Mount Misery
+				Mount Moriah
+				Mount Pleasant
+				Mount Tom
+				Mouwneit Hill
+				Nannaquaket Hill
+				Natick Hill
+				Neutaconkanut Hill
+				Nipmuc Hill
+				Nipsachuck Hill
+				Nockum Hill
+				Nooseneck Hill
+				Nootas Hill
+				Oak Hill
+				Peck Hill
+				Penny Hill
+				Pilot Hill
+				Pine Hill
+				Plover Hill
+				Pocasset Hill
+				Poker Hill
+				Pork Hill
+				Potter Hill
+				Pray Hill
+				Premisy Hill
+				Primrose Hill
+				Prince Hill
+				Quaker Hill
+				Quinsnicket Hill
+				Rabbit Hill
+				Raccoon Hill
+				Ridge Hill
+				Rock Hill
+				Rocky Hill
+				Rose Hill
+				Round Hill
+				Round Rocks
+				Sand Hill (historical)
+				Sandy Hill
+				Saw Mill Hill
+				Sayles Hill
+				Secesakut Hill
+				Shannock Hill
+				Sherman Hill
+				Shrub Hill
+				Shumunkanuc Hill
+				Sickkibunkiaut Hill
+				Simmons Hill
+				Skunk Hill
+				Slate Hill
+				Smith Hill
+				Snake Den
+				Snake Hill
+				Sockanosset Hill
+				Spencer Hill
+				Sprague Hill
+				Steere Hill
+				Stook Hill
+				Strawberry Hill
+				Streeter Hill
+				Stump Hill
+				Suckatunkanuc Hill
+				Sugarloaf Hill
+				Summit Hill
+				Sunset Hill
+				Sutamachute Hill
+				Swede Hill
+				Tablerock Hill
+				Tallow Hill
+				Tefft Hill
+				The Dumplings
+				The Mount
+				Thompson Hill
+				Tobey Neck
+				Tourtellotte Hill
+				Tower Hill
+				Townsend Hill
+				Tracy Hill
+				Tunk Hill
+				Turkey Hill
+				Twomile Corner
+				Watch Hill
+				Waterman Hill
+				Wayboussett Hill
+				Weaver Hill
+				Weeks Hill
+				Whipple Hill
+				Whites Hill
+				Whortleberry Hill
+				Wilbur Hill
+				Wilcox Hill
+				Windmill Hill
+				Wionkhiege Hill
+				Witch Hill
+				Wolf Hill
+				Wolf Rocks
+				Woody Hill
+				Woonsocket Hill
+				Yorker Hill
+			Swamp (RI)
+				Ambrose Swamp
+				Arrow Swamp
+				Ash Swamp
+				Balm of Gilead Swamp
+				Basket Swamp
+				Bear Swamp
+				Black Swamp
+				Brayton Meadows
+				Brickhouse Swamp (historical)
+				Brush Meadow Swamp
+				Cat Swamp (historical)
+				Cedar Swamp
+				Coonimus Swamp
+				Cotton Swamp
+				Cranberry Bog
+				Crows Swamp
+				Crying Bog
+				Dark Swamp
+				Dawley Swamp
+				Dead Swamp
+				Fish Hill
+				Forestack Meadow (historical)
+				Franklin Swamp
+				Fresh Swamp
+				Genesee Swamp
+				Great Cedar Swamp
+				Great Swamp
+				Great Swamp (historical)
+				Green Hill Swamp
+				Hessians Hole
+				Honeypot Swamp
+				Indian Cedar Swamp
+				Locke Swamp
+				Malavary Swamp
+				Mary C Donovan Marsh
+				Mattetokomitt Swamp
+				Mill Tail Swamp
+				Mishnock Swamp
+				Money Swamp
+				Moonshine Swamp
+				Moran Swamp
+				Mowry Meadow
+				New Meadow Hill Swamp
+				Niles Swamp
+				Nipsachuck Swamp
+				Pine Swamp
+				Pocasset Cedar Swamp
+				Porters Pond
+				Rossis Swamp
+				Round Swamp
+				Rumley Marsh (historical)
+				Schoolhouse Swamp
+				Schwindel Swamp
+				Sheep Pen Swamp
+				Tank Swamp
+				Town Line Swamp
+			Tower (RI)
+				Aldrich Tower
+				Beacon Hill Stone Tower
+				Bowen Hill Lookout Tower
+				Carrie Tower
+				Chopmist Fire Lookout Station
+				Cogswell Tower
+				Hannah Robinson Obeservation Tower
+				Pine Hill Lookout Tower
+				WADK-AM (Newport)
+				WARV-AM (Warwick)
+				WARV-AM (Warwick-East Greenwich)
+				WBRU-FM (Providence)
+				WCVY-FM (Coventry)
+				WDOM-FM (Providence)
+				WEAN-AM (Providence)
+				WERI-AM (Westerly)
+				WERI-FM (Westerly)
+				WGNG-AM (Pawtucket)
+				WHIM-AM (East Providence)
+				WHIM-AM (Providence)
+				WHJJ-AM (Providence)
+				WHJY-FM (Providence)
+				WICE-AM (Providence)
+				WJAR-TV (Providence)
+				WJHD-FM (Portsmouth)
+				WJMF-FM (Smithfield)
+				WKFD
+				WKRI-AM (West Warwick)
+				WLKW-AM (Providence)
+				WLKW-FM (Providence)
+				WMYD-AM (Wickford)
+				WPJB-FM (Providence)
+				WPRI-TV (Providence)
+				WPRO-AM (Providence)
+				WPRO-FM (Providence)
+				WRIB-AM (Providence)
+				WRIU-FM (Kingston)
+				WSBE-TV (Providence)
+				WSTG-TV (Providence)
+				WWON-AM (Woonsocket)
+				WWON-FM (Woonsocket)
+			Trail (RI)
+				Border Trail
+				Clayhead Nature Trail
+				Munyan Trail
+				Ross Trail
+				Walkabout Trail
+			Valley (RI)
+				Austin Hollow
+				Blackstone Gorge
+				Lawton Valley
+				Pawtuxet Valley
+				Robin Hollow
+				Rodman Hollow
+				Scott Hollow
+				The Glen
+			Woods (RI)
+				Buck Hill
+				Genesee Woods
+				Hellburn Woods (historical)
+				Lincoln Woods
+				Sawdy Woods
+				Wilbours Woods

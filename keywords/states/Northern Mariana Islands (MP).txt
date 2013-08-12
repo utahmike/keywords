@@ -1,0 +1,619 @@
+Location
+	United States (US)
+		Northern Mariana Islands (MP)
+			Airport (MP)
+				Kagman Field (historical)
+				Kobler Field (historical)
+				North Field
+				North Field (historical)
+				Rota Airport
+				Saipan International Airport
+				Tinian Airport
+				West Field
+			Area (MP)
+				Death Valley
+			Bar (MP)
+				Coral Gardens
+				Okino Reef
+				Schildkrote Rock
+				Supply Reef
+				Tatsumi Reef
+				Zealandia Bank
+			Basin (MP)
+				Banaderon Nunu
+				Dagu
+				Gampapa'
+				Hoyon As Lito' Kattan
+				I Chenchon
+				I Maddock
+				Kanadan Makpo'
+				Mulatu
+				Sabanan Rapugao
+			Bay (MP)
+				Apaan Bay
+				Aratsu-wan
+				Asiga Bay
+				Bahia Fanonchuluyan
+				Bahia Laolao
+				Fina' Atkos
+				Lagunan Chalan Kanoa
+				Lagunan Garapan
+				Lagunan Tanapag
+				Outer Cove
+				Pariyaaru
+				Periiruu
+				Sarahai
+				Sasanhaya
+				Tinian Harbor
+				Unairikiki
+			Beach (MP)
+				Agingan
+				Apansanmeena
+				Apansantate
+				Boy Scout Beach
+				Chalan Lao Lao Beach
+				Degusa
+				Forbidden Beach
+				Kammer Beach
+				Kilili Beach
+				Kokomo Beach
+				Lalayak Beach
+				Leprosarium Beach
+				Micro Beach
+				Mochong Beach
+				Oleai Beach
+				Opyan
+				Puerto Rico
+				Saddok Tasi
+				San Jose Beach
+				Tachogna Beach
+				Taga Beach
+				Tanapag
+				Tarage
+				Teteto Beach
+				Tweksberry Beach
+				Two Brothers Beach
+				Unai Achugao
+				Unai Afetna
+				Unai Asiga
+				Unai Babui
+				Unai Baput
+				Unai Chalan Kanoa
+				Unai Chalan Kiya
+				Unai Chiget
+				Unai Chulu
+				Unai Dandan
+				Unai Dangkolo
+				Unai Denikuio Agingan
+				Unai Dikike' Agingan
+				Unai Dikike'Matuis
+				Unai Fanhang
+				Unai Fanochuluyan
+				Unai Hakmang
+				Unai Halaihai
+				Unai I Hasngot
+				Unai Laggua
+				Unai Lamlam
+				Unai Laolao
+				Unai Laolao Kattan
+				Unai Makpe'
+				Unai Masalok
+				Unai Nanasu
+				Unai Opyan
+				Unai Papao
+				Unai Peo
+				Unai Talofo'fo'
+				Unai Tanapag
+				Unai Tuturam
+			Bench (MP)
+				Hakmang
+				I Fadang
+			Building (MP)
+				Horiguchi Building
+				Nauru Building
+				Rota Public Library
+				Tinian Public Library
+			Cape (MP)
+				Afuefuniya Point
+				Asuzudo Point
+				Banaderu
+				Bandera Peninsula
+				I Naftan
+				Mochon Point
+				Nafutan Peninsula
+				Piarama
+				Pontanjaburo
+				Puntan Achugao
+				Puntan Afetna
+				Puntan Agingan
+				Puntan As Fani
+				Puntan Asiga
+				Puntan Atgidon
+				Puntan Bapot
+				Puntan Barangka
+				Puntan Carolinas
+				Puntan Chiget
+				Puntan Dandan
+				Puntan Diapblo
+				Puntan Do'gas
+				Puntan Fanonchuluyan
+				Puntan Fina'atkos
+				Puntan Flores
+				Puntan Gloria
+				Puntan Haiña
+				Puntan Hakmang
+				Puntan Halaihai
+				Puntan I Maddock
+				Puntan I Naftan
+				Puntan Kastiyu
+				Puntan Laggua
+				Puntan Laggua Kattan
+				Puntan Lamanibot Sampapa'
+				Puntan Lamanibot Sanhilo
+				Puntan Laolao Kattan
+				Puntan Makpe'
+				Puntan Malilok
+				Puntan Masalok
+				Puntan Muchot
+				Puntan Nanesu
+				Puntan Opyan
+				Puntan Pona
+				Puntan Sabaneta
+				Puntan Sagua'gahga
+				Puntan Sailigai
+				Puntan Senhanom
+				Puntan Susupi
+				Puntan Tahgong
+				Puntan Taipingot
+				Puntan Tangke
+				Puntan Unai Opyan
+				South Point
+			Census (MP)
+				Capital Hill Census Designated Place (historical)
+				Chalan Kanoa Census Designated Place (historical)
+				Dandan Census Designated Place (historical)
+				Garapan Census Designated Place (historical)
+				Gualo Rai Census Designated Place (historical)
+				Kagman Census Designated Place (historical)
+				Koblerville Census Designated Place (historical)
+				Navy Hill Census Designated Place (historical)
+				San Antonio Census Designated Place (historical)
+				San Jose Census Designated Place (historical)
+				San Roque Census Designated Place (historical)
+				San Vicente Census Designated Place (historical)
+				Songsong Census Designated Place (historical)
+				Susupe Census Designated Place (historical)
+				Tanapag Census Designated Place (historical)
+			Channel (MP)
+				Buritoma
+				Dekairu
+				Fuwaebosu
+				Saipan Channel
+				Tinian Channel
+			Church (MP)
+				Mount Carmel Cathedral
+				Our Lady of Lourdes Shrine
+				San Francisco De Borja Church
+			Civil (MP)
+				District 10
+				District 11
+				District 2
+				District 3
+				District 4
+				District 6
+				District 8
+				District 9
+				Northern Islands District
+			Cliff (MP)
+				Banzai Cliff
+				Laderan Adilok
+				Laderan Agingan
+				Laderan Apaka
+				Laderan As Taman
+				Laderan Banaderu
+				Laderan Bapot
+				Laderan Carolinas Sampapa'
+				Laderan Carolinas Sanhilo'
+				Laderan Chiget
+				Laderan Dagu
+				Laderan Dandan
+				Laderan Gayan
+				Laderan Gntot
+				Laderan Gonna'
+				Laderan Hakmang
+				Laderan I Akgak
+				Laderan I Da'ok
+				Laderan I Etdot
+				Laderan I Ifa
+				Laderan I Maddock
+				Laderan I Naftan
+				Laderan Kalaberan Kattan
+				Laderan Kalaberan Lichan
+				Laderan Laggun
+				Laderan Laolao
+				Laderan Lasu
+				Laderan Machiget
+				Laderan Mahalang
+				Laderan Makpe'
+				Laderan Mangpang
+				Laderan Masalok
+				Laderan Opyan
+				Laderan Papao
+				Laderan Rueda
+				Laderan Takpochao
+				Laderan Tangke
+				Landeran Achugao
+				Suicide Cliff
+			Flat (MP)
+				Susupi
+			Forest (MP)
+				Marpi Commonwealth Forest
+			Gap (MP)
+				Kalabera Pass
+				Minachage
+			Harbor (MP)
+				Agrihan Anchorage
+				East Harbor
+				Puetton Tanapag
+				Saipan Harbor
+				Sasanlagu
+				West Harbor
+			Hospital (MP)
+				Commonwealth Health Center
+				Leprosarium
+				Tinian Health Center
+			Island (MP)
+				Agrihan
+				Aguijan Island
+				Alamagan Island
+				Anatahan Island
+				Angyuta Island
+				Asuncion Island
+				East Island
+				Farallon de Medinilla
+				Farallon de Pajaros
+				Guguan Island
+				Hira Rock
+				Isleta Maigo Fahang
+				Isleta Maigo' Lu'ao
+				Isleta Managaha
+				Mariana Islands
+				Maug Islands
+				Naftan Rock
+				North Island
+				Pagan Island
+				Rota
+				Saipan Island
+				Sanmeina
+				Sarigan Island
+				Tinian Island
+				Togari Rock
+				West Island
+			Lake (MP)
+				Hagoi
+				Hagoi Susupi
+				Lagona Lake
+			Locale (MP)
+				American Marianas Memorial Park
+				Bar-K Ranch
+				Camp Calhoun (historical)
+				Government Pier
+				Hafadai Shopping Center
+				House of Taga Historical Site
+				Joeten Shopping Center
+				Lower Base Industrial Park
+				Marianas Country Club
+				Saipan Country Club
+				Smiling Cove Marina
+				Town House Shopping Center
+				Trust Territory of the Pacific Islands Headquarters (historical)
+			Military (MP)
+				Naval Air Base Tinian (historical)
+				Naval Base Tinian (historical)
+			Mine (MP)
+				Taga Stone Quarry
+			Park (MP)
+				American Memorial Park
+				Beach Park
+				Bird Island Public Wildlife Area
+				Civic Center Park
+				Commonwealth Botanical Gardens
+				Court of Honor Memorial
+				I Chenchon Bird Sanctuary
+				Last Command Post Park
+				Lighthouse Marine Reserve
+				Pinatang Park
+				Rota Recreation Center
+				Sabana Conservation Area
+				Sasanhaya Fish Reserve
+				Sugar King Park
+				Tachogna Beach Park
+				Taga Beach Park
+				Unain Man Amko Beach Park
+				Wedding Cake Conservation Area
+			Plain (MP)
+				As Gonna
+				As Lito
+				Gonna
+			Populated Place (MP)
+				Afetna
+				Capital Hill
+				Capitol Hill
+				Chalan Kanoa
+				Chalan Kiya
+				Chalan Laolao
+				Chalan Pi'ao
+				Chalan Pupulu
+				Dandan
+				Garapan
+				Gualo Rai
+				Kagman
+				Koblerville
+				Marasu
+				Navy Hill
+				Oleai
+				Puetto
+				Rugi (historical)
+				San Antonio
+				San Jose
+				San Roque
+				San Vicente
+				San Vincente
+				Shinaparu (historical)
+				Shomushon
+				Sinapalo
+				Songsong
+				Susupe
+				Susupi
+				Takucho (historical)
+				Tanapag
+				Taruga (historical)
+				Tatgua (historical)
+				Teruson (historical)
+			Post Office (MP)
+				Rota Post Office
+				Saipan Post Office
+				Tinian Post Office
+			Ridge (MP)
+				Purple Heart Ridge
+			School (MP)
+				Admiral HG Hopwood Junior High School
+				Garapan Elementary School
+				Gregorio T Camacho Elementary School
+				Marianas High School
+				Mount Carmel School
+				Oleai Elementary School
+				Rota Elementary School
+				Rota High School
+				San Antonio Elementary School
+				San Vicente Elementary School
+				Tanapag Elementary School
+				William S Reyes Elementary School
+			Slope (MP)
+				Achugao
+				Aga'tasi
+				Agusan
+				Aila
+				Alaguan
+				Alesna
+				Apanon
+				Appla'tatgua
+				As Akina
+				As Akoddo'
+				As Bake
+				As Dudo'
+				As Falipe
+				As Funta
+				As Mahettok
+				As Matmos
+				As Mundo
+				As Onan
+				As Palacios
+				As Palomo
+				As Petdida
+				As Pupuenge
+				As Rapugao
+				As Rosalia
+				As Teo'
+				Atgidon
+				Baba'
+				Banaderon Lemmai
+				Barangka
+				Bateha
+				Chacha
+				Chalan Famalaoan
+				Dandan
+				Duge'
+				Esong
+				Falagon
+				Fananganan
+				Fanlagon
+				Fanochuluyan
+				Fina' Sisu
+				Finagtan
+				Finata
+				Gaganen Hulo'
+				Gagani
+				Gayaugan
+				Goanan
+				Gua'a'
+				Gualo' Rai
+				Halaihai
+				Ha‘ofna
+				I Akgak
+				I Batko
+				I Chiugai'
+				I Hasngot
+				I Koridot
+				I Lisong
+				I Liyang
+				I Maddock
+				I Pitot
+				Ilek
+				Inayan
+				Isang
+				Ka'an
+				Kahet
+				Kalabera
+				Kannat Tapbla
+				Lalayak
+				Lamanibot
+				Lamen
+				Laolao
+				Laolao Kattan
+				Lempanai
+				Liyo
+				Lupok
+				Ma'ya
+				Mahalang
+				Makpe'
+				Mananana
+				Masalok
+				Matansa
+				Matpo
+				Miigao
+				Mochong
+				Okgok
+				Pali'i
+				Papago'
+				Payapai
+				Pekngasu
+				Poddong
+				Pugua'
+				Puntan Diapblo
+				Rueda
+				Sabanan Achugao
+				Sabanan Dandan
+				Sabanan Etdot
+				Sabanan Fiiang
+				Sabanan Gallego
+				Sabanan Hakmang
+				Sabanan Laolao
+				Sabanan Nanasu
+				Sabanan Talufo'fo'
+				Sabaneta
+				Sabanetan Asiga
+				Sabanetan Chiget
+				Sabanetan Famalao'an
+				Sabanetan Mangpang
+				Sabanetan Tahgong
+				Sabanetan Unai Babui
+				Sabanetan Unai Lamlam
+				Sagua Pakpak
+				Sagua'
+				Sailigai Hulo'
+				Sailigai Papa'
+				Sakaya
+				Santa Cruz
+				Sayan Gigani
+				Songton
+				Tachok
+				Tachungnya
+				Tagalo' Ogso
+				Tai'apu
+				Taimama'
+				Takpochao
+				Taksunok
+				Takta
+				Talakhaya
+				Talo'
+				Talufo'fo'
+				Tangke
+				Tatachok
+				Tatgua
+				Te'lang
+				Tenetu
+				Tete'to
+				Tetohge
+				Tuturam
+				Ugis
+				Unai Dangkolo
+				Uyulan
+				Uyulan Hulo'
+				Yuyu'an
+			Spring (MP)
+				Bo'bo' Achugao Haya
+				Bo'bo' Achugao Lagu
+				Bo'bo' Agatan
+				Bo'bo' Mames
+				Bo'bo' Papago'
+				Bo'bo'As Teo'
+				Bobo Achugao
+			Stream (MP)
+				Da‘ok, Kannat I
+				Denne‘, Saddok I
+				Do‘gas, Saddok
+				Kannat As Frailan
+				Kannat Falipe
+				Kannat Fanaganan Kattan
+				Kannat Fanaganan Lichan
+				Kannat Fanhang Kattan
+				Kannat Fanhang Lichan
+				Kannat Fanochuluyan
+				Kannat Gloria
+				Kannat Halaihai
+				Kannat I Apikot
+				Kannat I Etdot
+				Kannat I Pitot
+				Kannat Laolao
+				Kannat Laremies
+				Kannat Nanasu
+				Kannat Papao
+				Kannat Rueda
+				Kannat Taddong Laolao
+				Kannat Taddong Mahettok
+				Kannat Taddong Rapugao
+				Kannat Tapblan Kattan
+				Kannat Tapblan Lichan
+				Makpe‘, Kannat
+				Ogo Stream
+				Papago‘, Kannat Taddong
+				Saddock Mames
+				Saddok As Agatan
+				Saddok I Hasngot
+				Talufo‘fo‘, Saddok
+			Summit (MP)
+				Ahyi Seamount
+				Alutom
+				As Matuis
+				As Niebes
+				Bandeera
+				Carolinas
+				Ginalangan
+				I Denne'
+				Kastiyu
+				Kutake Yashi
+				Lasu
+				Maga
+				Makhahnas Seamount
+				Maru Mountain
+				Mount Pagan
+				Mount Petosukara
+				Naftan
+				Okso Frailon
+				Okso' Achugao
+				Okso' Do'gas
+				Okso' Gualo' Rai
+				Okso' Laolao
+				Okso' Takpochao
+				Okso' Talufo'fo
+				Okso' Tipo'Poli
+				Pidos Kalaho
+				Piña
+				Sabana
+				Sabanan I Lipiog
+				Sinapalu
+				Taipingot
+				Togari Mountain
+			Swamp (MP)
+				Pontamucho Swamp
+				Sisonyan Makpo'
+			Tower (MP)
+				KCNM-AM (Saipan)
+				KSAI-AM (Saipan)
+				KZMI-FM (Garapan-Saipan)
+			Valley (MP)
+				Kannat Masalok
+				Kannat Taddong
+			Well (MP)
+				Makpo' Wells

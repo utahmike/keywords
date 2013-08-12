@@ -1,0 +1,7313 @@
+Location
+	United States (US)
+		Puerto Rico (PR)
+			Airport (PR)
+				Adjuntas Airport
+				Aeropuerto Borinquen
+				Aeropuerto International de Isla Verde
+				Aeropuerto Santa Isabel
+				Aeropuerto de Dorado
+				Aeropuerto de Isla Grande
+				Aeropuerto de Salinas
+				Antonio (Nery) Juarbe Pol Airport
+				Antonio Rivera Rodriguez Airport
+				Banco Popular Center Heliport
+				Baxter-Aibonito Heliport
+				Baxter-Carolina Heliport
+				Bayamon Regional Hospital Heliport
+				Benjamin Rivera Noriega Airport
+				Boqueron Airport
+				Camp Garcia Vieques Airport
+				Cullingford Field Airport
+				Cuylers Airport
+				Diego Jimenez Torres Airport
+				Eugenio Maria de Hostos Airport
+				Fajardo Harbor Seaplane Base
+				Fernando Luis Ribas Dominicci Airport
+				Fort Buchanan Heliport
+				Humacao Airport
+				Insular Government Number Two Heliport
+				Jose Aponte de la Torre Airport
+				Labadie Airport
+				Lajas Airpark
+				Losey Army Airfield (historical)
+				Luis Munoz Marin International Airport
+				Mercedita Airport
+				Old San Juan Heliport
+				Orama-Jayuya Heliport
+				Orocovis Health Center Heliport
+				PRTC Office Building Heliport
+				Patillas Airport
+				Pista de Aterrizaje (historical)
+				Rafael Hernandez Airport
+				Rexach Office Building Heliport
+				San Juan Steam Plant Heliport
+				Squibb Heliport
+				State Government Number One Heliport
+				Villa Marina Heliport
+			Area (PR)
+				Caribbean Region - 2-digit Hydrologic Unit Code - 21
+				Frontón de La Brea
+				La Hamaca
+			Bar (PR)
+				Arrecife Algarrobo
+				Arrecife Baúl
+				Arrecife Cardona
+				Arrecife Coral
+				Arrecife Corona
+				Arrecife Corona Carrillo
+				Arrecife Enmedio
+				Arrecife Fanduco
+				Arrecife Guayama
+				Arrecife Guayanilla
+				Arrecife Laurel
+				Arrecife Lima
+				Arrecife Mareas
+				Arrecife Margarita
+				Arrecife Mata Caballos
+				Arrecife Media Luna
+				Arrecife Mosquito
+				Arrecife Peregrina
+				Arrecife Ratones
+				Arrecife Romero
+				Arrecife Roncador
+				Arrecife Sargent
+				Arrecife Unitas
+				Baja Mondongo
+				Bajo Amarillo
+				Bajo Blake
+				Bajo Camaron
+				Bajo Cardona
+				Bajo Casabe
+				Bajo Chinchorro del Norte
+				Bajo Chinchorro del Sur
+				Bajo Comandante
+				Bajo Corona Larga
+				Bajo Enmedio
+				Bajo Grouper
+				Bajo Holiday
+				Bajo Laja
+				Bajo Merail
+				Bajo Palo
+				Bajo Ramito
+				Bajo Román
+				Bajo San Agustin
+				Bajo Santa Elena
+				Bajo Tablazo
+				Bajo Tasmanian
+				Bajo de Almodóvar
+				Bajo del Río
+				Bajos Resuello
+				Cayo Viejo
+				Corona La Laja
+				Ensanada Claque
+				Escollo Grande
+				Escollo Mojlganga
+				Escollo Rodriguez
+				Escollo de Arenas
+				Las Coronas
+				Las Hojitas
+				Manchas Banks
+				Manchas Chicas
+				Manchas Exteriores
+				Manchas Grandes
+				Manchas Interiores
+				Pasaje Radas Roosevelt
+				Piragua de Adentro
+				Roca Ahogado
+				Roca Blanca
+				Roca Descubridor
+				Turrumoto I
+			Basin (PR)
+				Bano de Oro
+				Candil Pantano
+				Charca La Tembladera
+				Hoya Caña
+				Los Corrales de los Indios
+				Los Sumideros
+				Tres Pueblos Sinkhole
+			Bay (PR)
+				Anclaje Isabela
+				Anclaje Sardinera
+				Bahia de Guanica
+				Bahia de Ponce
+				Bahía Algodones
+				Bahía Bramadero
+				Bahía Corcho
+				Bahía Demajagua
+				Bahía Fanduca
+				Bahía Flamenco
+				Bahía Fosforescénte
+				Bahía Guayanilla
+				Bahía Icacos
+				Bahía Jalova
+				Bahía Lima
+				Bahía Linda
+				Bahía Montalva
+				Bahía Mosquito
+				Bahía Noroeste
+				Bahía Playa Blanca
+				Bahía Salina del Sur
+				Bahía Salinas
+				Bahía Sucia
+				Bahía Tallaboa
+				Bahía Tamarindo
+				Bahía Tapón
+				Bahía Tarja
+				Bahía Yoye
+				Bahía de Aguadilla
+				Bahía de Almodóvar
+				Bahía de Añasco
+				Bahía de Boquerón
+				Bahía de Fajardo
+				Bahía de Guánica
+				Bahía de Jauca
+				Bahía de Jobos
+				Bahía de Marejada
+				Bahía de Mayagüez
+				Bahía de Mulas
+				Bahía de Oleaje
+				Bahía de Puerca
+				Bahía de Puerto Nuevo
+				Bahía de Rincón
+				Bahía de San Juan
+				Bahía de Sardinas
+				Bahía de Toa
+				Bahía de la Ballena
+				Bahía de la Chiva
+				Bahía las Cabezas
+				Bajo Snapper
+				Boca Prieta
+				Boca del Cibuco
+				Caleta Parguera
+				Caleta Salinas
+				Caleta de Cabullones
+				Cueva de la Julia
+				Culebra Sound
+				El Boquerón
+				Ensenada Breñas
+				Ensenada Comezón
+				Ensenada Dakity
+				Ensenada Fulladosa
+				Ensenada Honda
+				Ensenada Malena
+				Ensenada Sombe
+				Ensenada Sombre
+				Ensenada Yegua
+				Ensenada de Boca Vieja
+				Ensenada del Cementerio
+				Ensenada del Coronel
+				Ensenada las Pardas
+				Laguna Garay
+				Laguna de las Mareas
+				Mar Chiquita
+				Ponce Harbor
+				Puerto Arecibo
+				Puerto Arroyo
+				Puerto Chico
+				Puerto Diablo
+				Puerto Ferro
+				Puerto Maunabo
+				Puerto Medio Mundo
+				Puerto Mosquito
+				Puerto Negro
+				Puerto Nuevo
+				Puerto Patillas
+				Puerto Quijano
+				Puerto Real
+				Puerto Yabucoa
+				Puerto de Guayanilla
+				Puerto de Humacao
+				Puerto de Las Mareas-Jobos
+				Puerto de Naguabo
+				Puerto de Vieques
+				Puerto del Manglar
+				Puerto del Tortuguero
+				Rada Fajardo
+				Sonda de Vieques
+				Vajo de Manglar
+				Villa Marina Yacht Basin
+			Beach (PR)
+				Aviones Beach
+				Bahía Salinas Beach
+				Balnearin de Añasco
+				Balneario Condado
+				Balneario El Tuque
+				Balneario Isla Verde
+				Balneario Luquillo
+				Balneario Municipal de Aguda
+				Balneario Público de Boquerón
+				Balneario Público de Humacao
+				Balneario de Anasco
+				Balneario de Arroyo
+				Blue Beach
+				Condado Beach
+				Culebrita Beach
+				Domes Beach
+				El Alambique Beach
+				Escambron Beach
+				Isla Verde Beach
+				Joyuda Beach
+				La Pared Beach
+				Lamela Beach
+				Los Pozos Beach
+				Luis Pena Beach
+				Melones Beach
+				Mosquito Bay Beach
+				Navio Beach
+				Ocean Park Beach
+				Pico Piedra
+				Playa Aguila
+				Playa Blanca
+				Playa Boqueron
+				Playa Bramadero
+				Playa Brava
+				Playa Buye
+				Playa Canalejo
+				Playa Corecega
+				Playa Dinero
+				Playa El Combate
+				Playa Espinar
+				Playa Flamenco
+				Playa Grande
+				Playa Icacos
+				Playa La Puente
+				Playa La Ruina
+				Playa Laguna
+				Playa Larga
+				Playa Las Palmas
+				Playa Mala Pascua
+				Playa Manzanilla
+				Playa Mar Chiquita
+				Playa Maunabo
+				Playa Media Luna
+				Playa Puerto Nuevo
+				Playa Puerto Real
+				Playa Punta Arenas
+				Playa Punta Borinquen
+				Playa Resaca
+				Playa Sabaneta
+				Playa Salinas
+				Playa Sardinas
+				Playa Sardinera
+				Playa Sun Bay
+				Playa Torrecillas Pinones
+				Playa Tortuga
+				Playa Tortuguero
+				Playa Uvero
+				Playa Vacia Talega
+				Playa Zoni
+				Playa de Cascajo
+				Playa de Cerro Gordo
+				Playa de Guayanilla
+				Playa de Jaboncillo
+				Playa de Jauca
+				Playa de Levittown
+				Playa de Luquillo
+				Playa de Magollo
+				Playa de Sardinas
+				Playa de Sardinera
+				Playa de Tamarindo
+				Playa de Tórtola
+				Playa de Vega
+				Playa de las Tres Palmitas
+				Playa de los Cabes
+				Playa de los Tocones
+				Playa del Cocal
+				Playa del Dorado
+				Playa del Este
+				Playa del Mar
+				Playa del Uvero
+				Playa el Convento
+				Playa los Dátiles
+				Playuela Beach
+				Punta Guilarte Beach
+				Puntas Arenas Beach
+				Seven Seas Beach
+			Bridge (PR)
+				Espiritu Santo Puente
+				Puente Espanol
+				Puente Esteves
+				Puente Roto Bridge
+				Puente San Antonio
+				Puente de los Leones
+				Puente dos Hermanos
+				Quebrada Sonadora Puente
+				Teodoro Moscoso Bridge
+			Building (PR)
+				Administracion de Empresas
+				Administracion de Empresas Graduado
+				Aduana
+				Aguadilla Campus Library
+				Agustin Stahl
+				Albergue de Niños
+				Alcadia
+				Alcadia de Bayamon
+				Alento de Puerto Rico
+				Alturas de San Juan
+				Anexo Agustin Stahl
+				Anexo Biologia
+				Anexo Economia Domestica
+				Anfiteatro Estudios Generales Nuevo
+				Angel Ramos Visitor and Education Facility
+				Angelica Building
+				Antiguo Manicomio Insular
+				Antiguo Palacio Territorial
+				Arecibo College Library
+				Arecibo Lighthouse Museum
+				Artesans Center
+				Asilo de Ancianos San Rafael
+				Asilo de Beneficencia (historical)
+				Ateneo Puertorriquenos
+				Atlantic Beach Building
+				Auditorio Juan Pachin Vicens
+				Ballet de San Juan
+				Beach Tower
+				Beatriz Lasalle
+				Bellas Artes
+				Bellos Oficios
+				Bellview Building
+				Biblioteca Albizu Campos
+				Biblioteca Dona Rosita
+				Biblioteca Encarnacions Valdes
+				Biblioteca General y Archivos
+				Biblioteca J M Gallado
+				Biblioteca Museo Casa Natal de Luis Munoz Rivera
+				Biblioteca Rvdo J C Delgado
+				Bomberos David Torres Ramos
+				Bouret Building
+				Brisas de Monte Flores Building
+				Buena Vista Biblioteca
+				Cacica Building
+				Caguana Indian Ceremonial Park Museum
+				Capitol of Puerto Rico
+				Caribbean Bureau of Foreign Broadcast Service
+				Carlota Matienzo Decanato de Estudiantes
+				Carnegie Library
+				Casa Alcaldia de Vieques
+				Casa Alonso
+				Casa Armstrong-Poventud
+				Casa Cautino Museum
+				Casa Corretjer
+				Casa Escute
+				Casa Florencio Santiago
+				Casa Joaquin Rojas
+				Casa Maria
+				Casa Morales
+				Casa Munoz Rivera
+				Casa Olimpica
+				Casa Paoli
+				Casa Perichi
+				Casa Ramon Power y Giralt
+				Casa Rosa (historical)
+				Casa Rosada
+				Casa Salazar
+				Casa de Espana
+				Casa de Estudio
+				Casa de Ponce de Leon
+				Casa de Practica Economia Domestica
+				Casa de la Cultura
+				Casa de la Masacre de Ponce
+				Casa de las dos Zaguanes
+				Casa de los Contrafuertes
+				Casa del Callejon
+				Casa del Libro
+				Casa del Rey
+				Casal del Ayunta Miento
+				Casilla del Gobernador
+				Casino de Ponce
+				Castillo Del Mar
+				Castillo Seralles
+				Catana Ferry Terminal
+				Cayey University Library
+				Cecilias Place
+				Center Building
+				Central Hidroeléctrica Número Dos
+				Central Hidroeléctrica Número Tres
+				Central Hidroeléctrica Número Uno
+				Central Hidroeléctrica de Carite Número Uno
+				Central Park of Bayamon Museum
+				Centro Cultural
+				Centro Cultural Pacheco Alvarado
+				Centro Cultural Pedro Albizu Campos
+				Centro Europa
+				Centro Gubernamental
+				Centro Gubernamental Eusebio Perez Castillo
+				Centro Gubernamental de Guaynabo
+				Centro Historico
+				Centro Judicial
+				Centro Judicial Bayamon
+				Centro Minillas
+				Centro Nacional de Artes Populares y Artesanias
+				Centro Universitario
+				Centro Urbano de Servicios Luis Munoz Marin
+				Centro de Acceso a la Information
+				Centro de Bellas Artes
+				Centro de Bellas Artes Alejandro Junia Cruz
+				Centro de Bellas Artes Julita Ross
+				Centro de Ciudado y Desarrollo del Nino
+				Centro de Computos
+				Centro de Cultura y Turismo
+				Centro de Detencion
+				Centro de Envejecientes Casa Aibonito
+				Centro de Gobermiento
+				Centro de Gobierno
+				Centro de Informacion Turistica
+				Centro de Orientacion para el Desarrollo Estudiantil
+				Centro de Recreacion San Benito
+				Centro de Visitantes Palo Colorado
+				Centro de la Facultad
+				Centro para el Desarrollo y Mejoramiento de la Ensenanza
+				Ciencias Naturales Nuevo
+				Ciencias Sociales Graduado
+				City Manor
+				Club Boxistico de Aguada
+				Club de Leones
+				Cobian Plaza
+				Coco Mar
+				Coffin Island Ferry Terminal
+				Colegio de Leyes
+				Coliseo Angel Mercado Vega
+				Coliseo Carmen Z Figueror
+				Coliseo Cosme Beltia Salamo
+				Coliseo Doctoro Roque Nido Stella
+				Coliseo Fernando Luis Baez
+				Coliseo Gallistico
+				Coliseo Jose Buga Abreu Mendez
+				Coliseo Jose Pepe Huyke
+				Coliseo Juan Sanchez Acevedo
+				Coliseo Lenin Lopez
+				Coliseo Los Polluelos de Aibonito
+				Coliseo Luis Munoz Maria
+				Coliseo Luis T Diaz
+				Coliseo Mario Q Morales
+				Coliseo Municipal
+				Coliseo Pedrin Zorilla
+				Coliseo Raul Feliciano
+				Coliseo Raul Pipote Rivera
+				Coliseo Roberto Clemente
+				Coliseo Rodriguez
+				Coliseo Roque Nido Estella
+				Coliseo Ruben Rodriquez
+				Coliseo Sixto Escobar
+				Coliseo Wilfredo Torro Vazquez
+				Coliseo de Guanica
+				Commonwealth of Puerto Rico Legislative Reference Library
+				Comodoro Building
+				Compania de Turismo de Puerto Rico
+				Condado Gardens Building
+				Conde de Mirasol Museum
+				Condesa del Mar
+				Conservatory of Music of Puerto Rico Library
+				Continental Villa
+				Coop Carrion Maduro
+				Coop Perla del Sur
+				Cooperative La Hacienda
+				Correo Palo Hincaco
+				Costa Linda Building
+				Costa Marina I
+				Costa Marina II
+				Costamar Building
+				Cuartel de Ballajá
+				Cuerpos de Voluntarios
+				Daila Building
+				Del Carmen Tower
+				Del Sol Building
+				Departamento Militar
+				Departamento de Agricultura
+				Departamento de Estadio Anexo
+				Departamento de Estado de Puerto Rico
+				Departamento de Hacienda Edificio Intendente Ramirez
+				Departamento de Turisma
+				Department of Veteran Affairs Hospital Library
+				Dewey City Hall
+				Digital Plaza
+				Diputacion Provincial
+				Diputation Building (historical)
+				Division de Archivo Central
+				Division de Impresos
+				Dormitorio de Senoritas
+				Dormitorio de Varones
+				Economia Domestica
+				Edificio Julio Garcia Diaz
+				Edificio de la Aduan
+				El Casino
+				El Convento
+				El Girasol
+				El Malecon
+				El Museo Puertorriqueno
+				El Pentagono
+				El Portal Centro Forestal Tropical
+				El Rosario Building
+				El Verde Work Center
+				El Yunque Ranger Station
+				Episcopal Palace
+				Escuela Elemental de la Universidad
+				Escuela Graduada de Planificacion
+				Escuela Superior de la Universidad
+				Escuela de Arquitectura
+				Escuela de Comunicacion Publica
+				Estudios Generales Nuevo
+				Facilidades Temporeras Facundo Bueso
+				Facundo Bueso
+				Federal Bureau of Prisions Metropolitan Detention Center-Guaynabo
+				Felisa Rincon de Gautier Museum
+				Festival de Las Flores
+				Fine Arts Center
+				Francisco Oller Art and History Museum
+				Galeria il Convento
+				Gimnasio Municipal
+				Glorieta Fabian
+				Glorieta Veve
+				Golden Beach Building
+				Guardia Universitaria
+				Guayama Branch Library
+				Guaynabl Medical Mall
+				Hogar Masonico
+				Hogar Santa Rosa
+				Hogar de Ancianos
+				Hostos
+				Institute of Puerto Rican Culture and Tourism
+				Instituto Nacional de la Sahid Edificio de Investigaciones
+				Instituto de Cultura
+				Instituto de Relaciones del Trabajo
+				Inter-American University of Puerto Rico Guayama Regional College Library
+				Inter-American University of Puerto Rico Library
+				Inter-American University of Puerto Rico Ponce Campus Library
+				Inter-American University of Puerto Rico School of Law
+				Jose Celso Barbosa Museum
+				Jose M Lazaro Library
+				Juan Jose Osuna
+				Juan Ponce de Leon Museum
+				Julia de Burgos
+				La Casa Blanca
+				La Casa Ulanga
+				La Casita
+				La Cerámica
+				La Concha Convention Center
+				La Fortaleza
+				La Intendencia
+				La Mancha Building
+				La Princesa
+				Las Carmelitas Building
+				Learning Resources Center
+				Los Gaviotas Building
+				Los Pinos Building
+				Luis A Ferre Performing Arts Center
+				Luis Pales Matos
+				Manuel Pavia Fernandez Government Reception Center
+				Mar Azul Building
+				Marbella Este
+				Marbella Oeste
+				Marendero Estudios Generales
+				Marine View
+				Marlin Tower
+				Mayaguez Branch Library
+				Merenderos Ciencias Sociales
+				Metro Office Park
+				Metro Parque-7
+				Metropolitan Campus Library
+				Miramar Tower
+				Monte Flores Building
+				Monterey Building
+				Mundo Feliz
+				Museo Casa del Pueblo
+				Museo Francisco Pancho Coimbre
+				Museo Historico Social
+				Museo Nuestra Raiz Africana
+				Museo Pio Lopez Martinez
+				Museo Ruinas de Caparra
+				Museo de Aguada
+				Museo de Arquelogia Indigena
+				Museo de Arquitectura Colonial
+				Museo de Arte
+				Museo de Arte Alfredo Ramirez de Arrellano
+				Museo de Arte Contemporary
+				Museo de Arte Historia de San Juan
+				Museo de Arte Religloso Iglesia de Porta Coeli
+				Museo de Arte de Ponce
+				Museo de Arte de Puerto Rico
+				Museo de Arte e Historia
+				Museo de Bellas Artes
+				Museo de Biologia
+				Museo de Ciencias Fisicas
+				Museo de Ciencias Naturales
+				Museo de Esperanza
+				Museo de Geologia
+				Museo de Lares
+				Museo de Pablo Casals
+				Museo de Reproducclones Artisticas Pabellon de la Transportacion
+				Museo de la Historia de Ponce
+				Museo de la Musica Puertorriquena
+				Museo de las Americas
+				Museo del Cartel
+				Museo del Grabado Latinamericano
+				Museo del Indio
+				Museo del Mar
+				Museo del Nino
+				Museo del Tabaco
+				Museum of Anthropology History and Art
+				Museum of the Sea
+				Negociado de Tiempo
+				Obras Publicas Municipal
+				Oficina de Admisiones
+				Oficina de Compras y Suministros
+				Oficina de Planificacion y Desarrollo
+				Oficina del Registrador
+				Oficinas Gubernamentales de Guaynabo
+				Pabellon de la Salud
+				Palachi de los Deportes
+				Palms Gardens Building
+				Park Plaza
+				Parkside Building
+				Parkside Plaza Building
+				Pedagogia Nuevo
+				Pedreira
+				Penitenciania Estal
+				Pharmacy Museum
+				Pier One Building
+				Planta Hidroeléctrica Comerío Número 1
+				Planta Hidroeléctrica Comerío Número 2
+				Planta Hidroeléctrica de Río Blanco
+				Playa Blanco
+				Playa Esmeralda Building
+				Plaza Atlantico
+				Plaza Inmaculada
+				Plaza del Mar Building
+				Plaza del Parque Building
+				Ponce City Hall
+				Ponce Cultural Center
+				Ponce Tourist Information Center
+				Presbyterian Community Hospital Learning Resources Center
+				Puerto Rican Port Authority
+				Puerto Rican Port Authority Office
+				Puerto Rico Center for Folkloric Research
+				Puerto Rico Convention Bureau
+				Ramon Emeterio Betances
+				Ramon Ruiz Arnau Library
+				Reef Tower
+				Reina del Mar
+				Residencia Wiechers Villaronga
+				Residencial Para Huespedes y Profesores
+				Residencial del Rector
+				Rico Mar
+				Riera Building
+				Roig
+				Rosa de Lima Police Station
+				Sabana Work Center
+				Sacred Heart University Museum of Contemporary Puerto Rican Art
+				Sagradao Corazon
+				Salones Temporeros
+				San Jorge Gardens Building
+				San Juan Judicial Center
+				San Juan National Historic Site Headquarters Building
+				San Judas Building
+				San Mateo Building
+				Sancture Plaza
+				Sebastian Gonzales Garcia
+				Senado Academico
+				Servicios Medicos
+				Sierra Palm Visitor Center
+				Siervas de Marin
+				Superintendencia de la Policia de Guaynabo
+				Superintendente de Escuelas
+				Taino Indian Ethno-Historic Museum
+				Talleres de Artes Industriales
+				Talleres de Terrenos y Edificios
+				Teatre Oliver
+				Teatro La Perla
+				Teatro Tapia
+				Teatro Yaguez
+				Terrenos y Edificios
+				The Historical Research Center
+				Tiffany Building
+				Torrecielo Building
+				Tourism Association of Rincon
+				Tribunal General de Justica
+				Tribunal Supreme
+				Trigo Building
+				Union Tower
+				Universidad Central del Caribe Library
+				Valparaiso Building
+				Verde Tower
+				Viejo Alcaldia
+				Vieques Conservation and Historical Trust
+				Villa del Parque
+				Villas Del Mar
+				Villas Del Palmar Sur
+				Vina del Mar Building
+				Waldorf Tower
+				YMCA
+				Zenial Building
+			Canal (PR)
+				Canal Aguadilla
+				Canal Blasina
+				Canal Caracoles
+				Canal Castañón
+				Canal Doncella
+				Canal Gonzáles
+				Canal Gordiani
+				Canal Jobos
+				Canal Juan Dolores
+				Canal La Palma
+				Canal Machicote
+				Canal Margarita
+				Canal Moca
+				Canal Principal De Riego Valle De Lajas
+				Canal Principal de Diversón
+				Canal Suárez
+				Canal Tuerto
+				Canal Villamil
+				Canal de Aguuadilla
+				Canal de Florida
+				Canal de Guamaní Este
+				Canal de Guamaní Oeste
+				Canal de Juana Diaz
+				Canal de Patillas
+				Canal de Riego
+				Canal de Rio Yaguez
+				Canal de Tierra
+				Canal de la Marina
+				Canal del Este
+				Canal del Medio
+				Caño El Hato
+				Caño Matos
+				Caño Tiburones
+				Caño Viegues
+				Caño de Los Nachos
+				Zanja Barra
+				Zanja San José
+			Cape (PR)
+				Cabeza Chiquita
+				Cabeza de Perro
+				Cabezas de San Juan
+				Cabo Barrionuevo
+				Cabo Mala Pascua
+				Cabo Noroeste
+				Cabo Rojo
+				Cabo San Juan
+				Cabo del Pasaje
+				Cabo el Toro
+				Cabra de Tierra
+				Foso Jacinto
+				Isla de Gata
+				La Puntilla
+				Marc Point (historical)
+				Monte Hormiga
+				Peninsula de Condado
+				Península Flamenco
+				Piedra del Carabinero
+				Pue Constisucion
+				Punta Aguila
+				Punta Agujereada
+				Punta Algarrobo
+				Punta Algodones
+				Punta Almodovar
+				Punta Aloe
+				Punta Arenas
+				Punta Arenisca
+				Punta Ballena
+				Punta Barrancas
+				Punta Batería
+				Punta Boca Buey
+				Punta Boca Juana
+				Punta Boca Morena
+				Punta Boca Prieta
+				Punta Boca Quebrada
+				Punta Boquilla
+				Punta Borinquen
+				Punta Brava
+				Punta Brea
+				Punta Brigadier
+				Punta Caballo
+				Punta Cabellos Colorados
+				Punta Cabras
+				Punta Cabullones
+				Punta Cadena
+				Punta Caigo o no Caigo
+				Punta Camenterio
+				Punta Campanilla
+				Punta Candelero
+				Punta Cangrejos
+				Punta Caracoles
+				Punta Carenero
+				Punta Cascajo
+				Punta Cayito
+				Punta Cerro Gordo
+				Punta Chivato
+				Punta Colchones
+				Punta Colorado
+				Punta Conejo
+				Punta Corozo
+				Punta Cruz
+				Punta Cucharas
+				Punta Cueva de Ayala
+				Punta El Medio
+				Punta Embarcadero
+				Punta Ensenada
+				Punta Escambron
+				Punta Este
+				Punta Fajardo
+				Punta Figueras
+				Punta Figuras
+				Punta Flamenco
+				Punta Fraile
+				Punta Garza
+				Punta Gato
+				Punta Goleta
+				Punta Gorda
+				Punta Gotay
+				Punta Guanajibo
+				Punta Guaniquilla
+				Punta Guayacan
+				Punta Guayanes
+				Punta Guayanilla
+				Punta Guilarte
+				Punta Higuero
+				Punta Icacos
+				Punta Iglesia
+				Punta Jacinto
+				Punta Jaguey
+				Punta Jalova
+				Punta Jorobado
+				Punta La Bandera
+				Punta La Mela
+				Punta Las Marias
+				Punta Las Tunas
+				Punta Lima
+				Punta Los Ingleses
+				Punta Maldonado
+				Punta Mameyes
+				Punta Manati
+				Punta Manchita
+				Punta Manglillo
+				Punta Maracayo
+				Punta Marchiquita
+				Punta Martineau
+				Punta Mata Redonda
+				Punta Matias
+				Punta Matojo
+				Punta Medio Mundo
+				Punta Melones
+				Punta Meseta
+				Punta Miquillo
+				Punta Moja Casabe
+				Punta Molino
+				Punta Montalva
+				Punta Morrillos
+				Punta Mulas
+				Punta Muleros
+				Punta Negra
+				Punta Noroeste
+				Punta Ola Grande
+				Punta Ostiones
+				Punta Padilla
+				Punta Palmas Altas
+				Punta Palo Seco
+				Punta Papayo
+				Punta Parguera
+				Punta Pastillo
+				Punta Pepillo
+				Punta Pera
+				Punta Percha
+				Punta Pescadores
+				Punta Petrona
+				Punta Peñon
+				Punta Peñoncillo
+				Punta Peñones
+				Punta Picua
+				Punta Piedrita
+				Punta Pitahaya
+				Punta Pozuelo
+				Punta Puerca
+				Punta Puerto Nuevo
+				Punta Puntilla
+				Punta Quebrada Honda
+				Punta Resaca
+				Punta Rodeo
+				Punta Salinas
+				Punta San Agustin
+				Punta Sardina
+				Punta Seria
+				Punta Sombrero
+				Punta Tamarindo
+				Punta Tamarindo Chico
+				Punta Tamarindo Grande
+				Punta Tampico
+				Punta Tocon
+				Punta Tocones
+				Punta Toro
+				Punta Trulla
+				Punta Tuna
+				Punta Uvero
+				Punta Vaca
+				Punta Vacia Talega
+				Punta Vaquero
+				Punta Ventana
+				Punta Verraco
+				Punta Viento
+				Punta Yeguas
+				Punta de Maguey
+				Punta de Molinos
+				Punta de Tierra
+				Punta del Boqueron
+				Punta del Este
+				Punta del Morro
+				Punta del Obispo
+				Punta del Soldado
+				Punta del Viento
+				Punta el Capitán
+				Rociada
+			Cemetery (PR)
+				Buxeda Memorial Park
+				Cementerio Buxeda
+				Cementerio Civil
+				Cementerio Delicias
+				Cementerio La Piedad
+				Cementerio Los Cipresses
+				Cementerio Maria Magdalena
+				Cementerio Municipal
+				Cementerio Municipal 3
+				Cementerio Municipal Número Dos
+				Cementerio Municipal Número Uno
+				Cementerio Porta Coeli
+				Cementerio Puente Blanco
+				Cementerio Puerto Rico Memorial
+				Cementerio Rural de Gurabo
+				Cementerio San Vicente de Paul
+				Cementerio Viejo
+				Cementerio de Caguas
+				Cementerio de Guaynabo
+				Cementerio de Isabela
+				Cementerio de San Germán
+				Cementerio de Villa Palmeras
+				Cementerio de la Capital
+				Cementerio el Ramaso
+				Mausoleo Familia de Munoz Rivera
+				Panteón Nacional Román Baldorioty de Castro
+				Puerto Rico Memorial Cemetery
+				Puerto Rico National Cemetery
+				San Rafael de las Quebradillas Cemetery
+				Santiago Apostol
+			Census (PR)
+				Jobos Comunidad
+				Palo Blanco Comunidad
+				Roosevelt Roads Comunidad
+				Segui Comunidad
+			Channel (PR)
+				Anegado Channel
+				Army Terminal Channel
+				Bar Channel
+				Boca del Infierno
+				Canal Del Este
+				Canal Del Sur
+				Canal Norte
+				Canal Pledra Stevens
+				Canal Sur
+				Canal Tiempo
+				Canal de Cayo Norte
+				Canal de Culebrita
+				Canal de Guanajibo
+				Canal de Luis Peña
+				Canal del Oeste
+				Cano Quebrado
+				Caño de San Antonio
+				Graving Dock Channel
+				La Pasa de los Gemelos
+				Mona Passage
+				Pasa de la Alcarraza
+				Pasa de los Cayos Lobos
+				Pasa del Medio
+				Pasaje Cucaracha
+				Pasaje Medio Mundo
+				Pasaje de Margarita
+				Pasaje de San Juan
+				Pasaje de Vieques
+				Puerto Nuevo Channel
+				Radas Roosevelt
+				San Antonio Approach Channel
+				Tlerra a Medio
+				Virgin Passage
+			Church (PR)
+				Buen Pastor
+				Calvary Church of the Nazarene
+				Capilla Fátima
+				Capilla La Virgen De Alta Gracia
+				Capilla La Virgen de Monserrate
+				Capilla La Virgen del Buen Consejo
+				Capilla Mal Paso
+				Capilla San Francisco
+				Capilla San José
+				Capilla San Patricio
+				Capilla Santa Rita
+				Capilla Umberto Vázquez
+				Capilla de Anones
+				Capilla de Paris
+				Capilla de San Alfonso
+				Capilla de San Geraldo
+				Capilla de San José
+				Capilla de San Juan (historical)
+				Capilla de Santa Ana
+				Capilla de Santa Marta
+				Capilla de Santa Rosa
+				Capilla de la Florecita
+				Capilla de la Milagrosa
+				Capilla de la Virgen Inmaculada
+				Capilla de las Tunas
+				Capilla del Calvario (historical)
+				Capilla del Carmen
+				Capilla del Perpetuo Socorro
+				Capilla del Pozo de la Virgen
+				Capilla del Sagrada Corazón de Jesus
+				Capilla del Sagrado Corazón
+				Capillo de Cristo
+				Catedral San Felipe
+				Catedral de San German de Auxerre
+				Catedral de San Juan
+				Cathedral of Caguas
+				Cathedral of Our Lady of Guadalupe
+				Chapel of El Santo Christo de la Salud
+				Chapel of Santa Barbara
+				Christian Community Church
+				Concepcion Church
+				Convento Hermanos de Jesus
+				Convento Siervas de Maria
+				Convento de Santo Tomas de Aquino
+				Convento de los Dominicos
+				Detensores de la Fe
+				Dios de Pentecostal
+				Dulce Nombre de Jesus
+				El Hombre de la Cana
+				Ermita de San Sebastian (historical)
+				Hugh Memorial Presbyterian Church
+				Iglesia Apóstoles de Cristo
+				Iglesia Arenales Altos
+				Iglesia Ascensíon
+				Iglesia Capilla Virgen del Carmen
+				Iglesia Ceiba Alta
+				Iglesia Corazón de Jesus
+				Iglesia Cristo Rey
+				Iglesia De Dajaos
+				Iglesia El Calvario
+				Iglesia El Paraíso
+				Iglesia Ernesto Memorial
+				Iglesia Evangelica Unida
+				Iglesia Evangelica Unidad de Puerto Rico
+				Iglesia Evangélica
+				Iglesia Evangélica Menonita
+				Iglesia Guayabo Dulce
+				Iglesia Imaculada Concepcion de Guayanilla
+				Iglesia La Milagrosa
+				Iglesia Metodista
+				Iglesia Metodista Unida
+				Iglesia Miraflores
+				Iglesia Monserrate
+				Iglesia Pentecostal
+				Iglesia Protestante
+				Iglesia Reconciliación
+				Iglesia Sagrado Corazón
+				Iglesia San Andrés
+				Iglesia San Antonio
+				Iglesia San Antonio de Padua
+				Iglesia San Augustin
+				Iglesia San Francisco
+				Iglesia San José
+				Iglesia San José de la Montaña
+				Iglesia San Marcos
+				Iglesia San Martín Porres
+				Iglesia San Mateo
+				Iglesia San Pascual
+				Iglesia San Pedro
+				Iglesia San Rafael Arcangel
+				Iglesia Santa Ana
+				Iglesia Santa Margarita
+				Iglesia Santa María Reina
+				Iglesia Santa María del Monte Carmelo
+				Iglesia Santa Rosa
+				Iglesia Santa Teresita
+				Iglesia Virgen María
+				Iglesia Virgen del Carmen
+				Iglesia de Cristo
+				Iglesia de Dios
+				Iglesia de La Placita
+				Iglesia de La Virgen del Carmen
+				Iglesia de San José
+				Iglesia de San Patricio
+				Iglesia de San Patrico
+				Iglesia de la Inmaculada Concepción
+				Iglesia de la Inmaculada Concepcóon
+				Iglesia de la Virgen del Rosario
+				Iglesia del Carmen
+				Iglesia del Niño Jesus
+				Iglesia del Sagrado Corazón
+				Iglesia la Virgen del Rosario
+				Isabel La Catolica
+				La Hermosa Temple of the Defenders of the Christian Faith
+				La Piedad Catholic Church
+				Misionario Evangélico
+				Misión Noel
+				Notre Senora del Rosario
+				Nuestra Senora de Providencia
+				Nuestra Senora de la Asuncion
+				Pedro Flores
+				Porta Coeli Chapel
+				Presbyterian Church of San Juan
+				Saint Annes Church
+				Saint Anthony de Padua Church
+				Saint Johns Episcopal Cathedral
+				Saint Johns Episcopal Church
+				San Antonio de Padua Church
+				San Francisco Church
+				San Ignacio de Loyola Roman Catholic Church
+				San Isidro Labrador Church
+				San Jorge Catholic Church
+				San Jose Church
+				San Juan Bautista
+				San Miguel Arcangel Church
+				San Sebastian Church
+				Sancutario de Nuestra Senora de Monserrate
+				Santa Ana Church
+				Stella Maris Catholic Church
+				Temple Beth Shalom Synagogue
+				Union Church
+				Union Church of San Juan
+			Civil (PR)
+				Abra Honda Barrio
+				Abras Barrio
+				Aceitunas Barrio
+				Achiote Barrio
+				Adjuntas Barrio-Pueblo
+				Adjuntas Municipio
+				Aguacate Barrio
+				Aguada Barrio-Pueblo
+				Aguada Municipio
+				Aguadilla Barrio-Pueblo
+				Aguadilla Municipio
+				Aguas Blancas Barrio
+				Aguas Buenas Barrio-Pueblo
+				Aguas Buenas Municipio
+				Aguirre Barrio
+				Aguirre Subbarrio
+				Aibonito Barrio
+				Aibonito Barrio-Pueblo
+				Aibonito Municipio
+				Ala de la Piedra Barrio
+				Algarrobo Barrio
+				Algarrobos Barrio
+				Almirante Norte Barrio
+				Almirante Sur Barrio
+				Almácigo Alto Barrio
+				Almácigo Bajo Barrio
+				Alto Sano Barrio
+				Alto del Cabro Subbarrio
+				Amparo Subbarrio
+				Amuelas Barrio
+				Ancones Barrio
+				Angeles Barrio
+				Anones Barrio
+				Antón Ruíz Barrio
+				Anón Barrio
+				Apeadero Barrio
+				Arecibo Barrio-Pueblo
+				Arecibo Municipio
+				Arena Barrio
+				Arenalejos Barrio
+				Arenales Altos Barrio
+				Arenales Bajos Barrio
+				Arenales Barrio
+				Arenas Barrio
+				Arroyo Barrio-Pueblo
+				Arroyo Municipio
+				Arrozal Barrio
+				Asomante Barrio
+				Atalaya Barrio
+				Auxilio Mutuo Subbarrio
+				Añasco Abajo Barrio
+				Añasco Arriba Barrio
+				Añasco Barrio-Pueblo
+				Añasco Municipio
+				Bahomamey Barrio
+				Bairoa Barrio
+				Bajo Barrio
+				Bajura Adentro Barrio
+				Bajura Afuera Barrio
+				Bajura Barrio
+				Baldorioty de Castro Subbarrio
+				Ballajá Subbarrio
+				Barahona Barrio
+				Barceloneta Barrio-Pueblo
+				Barceloneta Municipio
+				Barina Barrio
+				Barrancas Barrio
+				Barranquitas Barrio-Pueblo
+				Barranquitas Municipio
+				Barrazas Barrio
+				Barreal Barrio
+				Barrero Barrio
+				Barricada Ferran
+				Barros Barrio
+				Bartolo Barrio
+				Bateyes Barrio
+				Bauta Abajo Barrio
+				Bauta Arriba Barrio
+				Bayamoncito Barrio
+				Bayamón Barrio
+				Bayamón Barrio-Pueblo
+				Bayamón Municipio
+				Bayaney Barrio
+				Bayola Subbarrio
+				Beatriz Barrio
+				Bejucos Barrio
+				Bella Vista Subbarrio
+				Benavente Barrio
+				Bermejales Barrio
+				Boca Barrio
+				Boca Velázquez Barrio
+				Bolívar Subbarrio
+				Boquerón Barrio
+				Borinquen Barrio
+				Borinquen Subbarrio
+				Botijas Barrio
+				Bucaná Barrio
+				Bucarabones Barrio
+				Buen Consejo Subbarrio
+				Buena Vista Barrio
+				Buena Vista Barrio (Inactive)
+				Buenos Aires Barrio
+				Buenos Aires Subbarrio
+				Cabezas Barrio
+				Cabo Caribe Barrio
+				Cabo Rojo Barrio-Pueblo
+				Cabo Rojo Municipio
+				Cacao Alto Barrio
+				Cacao Bajo Barrio
+				Cacao Barrio
+				Cacaos Barrio
+				Caguabo Barrio
+				Caguana Barrio
+				Caguas Barrio-Pueblo
+				Caguas Municipio
+				Cagüitas Barrio
+				Caimital Alto Barrio
+				Caimital Bajo Barrio
+				Caimital Barrio
+				Caimito Barrio
+				Calabazas Barrio
+				California Subbarrio
+				Callabo Barrio
+				Callejones Barrio
+				Calvache Barrio
+				Calzada Barrio
+				Camaceyes Barrio
+				Camarones Barrio
+				Cambalache Barrio
+				Camino Nuevo Barrio
+				Campo Alegre Barrio
+				Campo Alegre Subbarrio
+				Camuy Arriba Barrio
+				Camuy Barrio-Pueblo
+				Camuy Municipio
+				Canas Barrio
+				Canas Urbano Barrio
+				Candelaria Barrio
+				Candelaria Subbarrio
+				Candelero Abajo Barrio
+				Candelero Arriba Barrio
+				Cangrejo Arriba Barrio
+				Canovanillas Barrio
+				Caníaco Barrio
+				Canóvanas Barrio
+				Canóvanas Barrio-Pueblo
+				Canóvanas Municipio
+				Caonillas Abajo Barrio
+				Caonillas Arriba Barrio
+				Caonillas Barrio
+				Capetillo Subbarrio
+				Capitanejo Barrio
+				Capá Barrio
+				Capáez Barrio
+				Caracol Barrio
+				Carenero Barrio
+				Carite Barrio
+				Carmen Barrio
+				Carolina Barrio-Pueblo
+				Carolina Municipio
+				Carraízo Barrio
+				Carreras Barrio
+				Carrizal Barrio
+				Carrizales Barrio
+				Carruzos Barrio
+				Casey Abajo Barrio
+				Casey Arriba Barrio
+				Cataño Barrio
+				Cataño Barrio-Pueblo
+				Cataño Municipio
+				Catedral Subbarrio
+				Cayaguas Barrio
+				Cayey Barrio-Pueblo
+				Cayey Municipio
+				Caín Alto Barrio
+				Caín Bajo Barrio
+				Cañaboncito Barrio
+				Cañabón Barrio
+				Caño Barrio
+				Cedrito Barrio
+				Cedro Abajo Barrio
+				Cedro Arriba Barrio
+				Cedro Barrio
+				Ceiba Alta Barrio
+				Ceiba Baja Barrio
+				Ceiba Barrio
+				Ceiba Barrio-Pueblo
+				Ceiba Municipio
+				Ceiba Norte Barrio
+				Ceiba Sur Barrio
+				Cejas Barrio
+				Celada Barrio
+				Central Aguirre Subbarrio
+				Centro Barrio
+				Cercadillo Barrio
+				Cerrillos Barrio
+				Cerro Gordo Barrio
+				Cerrote Barrio
+				Certenejas Barrio
+				Chamorro Barrio
+				Charcas Barrio
+				Chupacallos Barrio
+				Chícharo Subbarrio
+				Ciales Barrio-Pueblo
+				Ciales Municipio
+				Cialitos Barrio
+				Cibao Barrio
+				Cibuco Barrio
+				Cidra Barrio
+				Cidra Barrio-Pueblo
+				Cidra Municipio
+				Cidral Barrio
+				Cienegueta Barrio
+				Cintrona Barrio
+				Ciudad Nueva Subbarrio
+				Ciénaga Alta Barrio
+				Ciénaga Baja Barrio
+				Ciénaga Barrio
+				Ciénagas Barrio
+				Clausells Subbarrio
+				Coabey Barrio
+				Coamo Arriba Barrio
+				Coamo Barrio-Pueblo
+				Coamo Municipio
+				Cocos Barrio
+				Collores Barrio
+				Comerío Barrio-Pueblo
+				Comerío Municipio
+				Commonwealth of Puerto Rico
+				Condadito Subbarrio
+				Condado Subbarrio
+				Consejo Barrio
+				Contorno Barrio
+				Coquí Subbarrio
+				Corcovada Barrio
+				Corcovado Barrio
+				Cordillera Barrio
+				Corozal Barrio-Pueblo
+				Corozal Municipio
+				Corrales Barrio
+				Costa Barrio
+				Coto Barrio
+				Coto Laurel Barrio
+				Coto Norte Barrio
+				Coto Sur Barrio
+				Cotuí Barrio
+				Cruces Barrio
+				Cruz Barrio
+				Cuartel Cuarto Subbarrio
+				Cuartel Primero Subbarrio
+				Cuartel Segundo Subbarrio
+				Cuartel Tercero Subbarrio
+				Cuarto Barrio
+				Cuatro Calles Subbarrio
+				Cubuy Barrio
+				Cuchillas Barrio
+				Cuebas Barrio
+				Cuevas Barrio
+				Culebra Barrio-Pueblo
+				Culebra Municipio
+				Culebras Alto Barrio
+				Culebras Bajo Barrio
+				Culebrinas Barrio
+				Cupey Barrio
+				Cuyón Barrio
+				Cárcel Subbarrio
+				Daguao Barrio
+				Dagüey Barrio
+				Dajaos Barrio
+				Damián Abajo Barrio
+				Damián Arriba Barrio
+				Demajagua Barrio
+				Descalabrado Barrio
+				Diego Hernández Barrio
+				Domingo Ruíz Barrio
+				Dominguito Barrio
+				Don Alonso Barrio
+				Dorado Barrio-Pueblo
+				Dorado Municipio
+				Dos Bocas Barrio
+				Doña Elena Barrio
+				Duey Alto Barrio
+				Duey Bajo Barrio
+				Duey Barrio
+				Duque Barrio
+				Egozcue Barrio
+				El Cinco Barrio
+				El Río Barrio
+				El Vedado Subbarrio
+				Eleanor Roosevelt Subbarrio
+				Emajagua Barrio
+				Emajagual Barrio
+				Encarnación Barrio
+				Eneas Barrio
+				Ensenada Barrio
+				Esperanza Barrio
+				Espinar Barrio
+				Espino Barrio
+				Espinosa Barrio
+				Factor Barrio
+				Fajardo Barrio-Pueblo
+				Fajardo Municipio
+				Farallón Barrio
+				Felicia 1 Barrio
+				Felicia 2 Barrio
+				Figueroa Subbarrio
+				Flamenco Barrio
+				Floral Park Subbarrio
+				Florencio Barrio
+				Florida Adentro Barrio
+				Florida Afuera Barrio
+				Florida Barrio
+				Florida Municipio
+				Fraile Barrio
+				Frailes Barrio
+				Frontón Barrio
+				Fránquez Barrio
+				Furnias Barrio
+				Galateo Alto Barrio
+				Galateo Bajo Barrio
+				Galateo Barrio
+				Gandul Subbarrio
+				Garrochales Barrio
+				Garzas Barrio
+				Gato Barrio
+				Gobernador Piñero Barrio
+				Guacio Barrio
+				Guadiana Barrio
+				Guajataca Barrio
+				Guamaní Barrio
+				Guamá Barrio
+				Guanajibo Barrio
+				Guaniquilla Barrio
+				Guanábano Barrio
+				Guaonico Barrio
+				Guaraguao Abajo Barrio
+				Guaraguao Arriba Barrio
+				Guaraguao Barrio
+				Guardarraya Barrio
+				Guatemala Barrio
+				Guavate Barrio
+				Guayabal Barrio
+				Guayabo Barrio
+				Guayabo Dulce Barrio
+				Guayabos Barrio
+				Guayabota Barrio
+				Guayacán Barrio
+				Guayama Barrio-Pueblo
+				Guayama Municipio
+				Guayanilla Barrio-Pueblo
+				Guayanilla Municipio
+				Guaynabo Barrio-Pueblo
+				Guaynabo Municipio
+				Guayo Barrio
+				Guerrero Barrio
+				Guilarte Barrio
+				Gurabo Abajo Barrio
+				Gurabo Arriba Barrio
+				Gurabo Barrio-Pueblo
+				Gurabo Municipio
+				Guzmán Abajo Barrio
+				Guzmán Arriba Barrio
+				Guánica Barrio-Pueblo
+				Guánica Municipio
+				Guásimas Barrio
+				Hatillo Barrio
+				Hatillo Barrio-Pueblo
+				Hatillo Municipio
+				Hato Abajo Barrio
+				Hato Arriba Barrio
+				Hato Barrio
+				Hato Nuevo Barrio
+				Hato Puerco Abajo Barrio
+				Hato Puerco Arriba Barrio
+				Hato Puerco Barrio
+				Hato Rey Central Barrio
+				Hato Rey Norte Barrio
+				Hato Rey Sur Barrio
+				Hato Tejas Barrio
+				Hato Viejo Barrio
+				Hayales Barrio
+				Helechal Barrio
+				Herrera Subbarrio
+				Herreras Barrio
+				Higuillar Barrio
+				Higüey Subbarrio
+				Hipódromo Subbarrio
+				Hoare Subbarrio
+				Hoconuco Alto Barrio
+				Hoconuco Bajo Barrio
+				Honduras Barrio
+				Hormigueros Barrio
+				Hormigueros Barrio-Pueblo
+				Hormigueros Municipio
+				Hoya Mala Barrio
+				Humacao Barrio-Pueblo
+				Humacao Municipio
+				Humatas Barrio
+				Hyde Park Subbarrio
+				Húcares Barrio
+				Iglesia Subbarrio
+				Indiera Alta Barrio
+				Indiera Baja Barrio
+				Indiera Fría Barrio
+				Indios Barrio
+				Institución Subbarrio
+				Isabel II Barrio-Pueblo
+				Isabela Barrio-Pueblo
+				Isabela Municipio
+				Isla Grande Subbarrio
+				Isla de Mona e Islote Monito Barrio
+				Islote Barrio
+				Jacaboa Barrio
+				Jacaguas Barrio
+				Jagua Pasto Barrio
+				Jagual Barrio
+				Jaguar Barrio
+				Jaguas Barrio
+				Jaguitas Barrio
+				Jagüey Barrio
+				Jagüeyes Barrio
+				Jareales Subbarrio
+				Jauca 1 Barrio
+				Jauca 2 Barrio
+				Jauca Barrio
+				Jayuya Abajo Barrio
+				Jayuya Barrio-Pueblo
+				Jayuya Municipio
+				Jiménez Barrio
+				Jobos Barrio
+				Juan Alonso Barrio
+				Juan Asencio Barrio
+				Juan González Barrio
+				Juan Martín Barrio
+				Juan Sánchez Barrio
+				Juana Díaz Barrio-Pueblo
+				Juana Díaz Municipio
+				Juncal Barrio
+				Juncos Barrio-Pueblo
+				Juncos Municipio
+				Jácana Barrio
+				Jácanas Barrio
+				Jájome Alto Barrio
+				Jájome Bajo Barrio
+				La 37 Subbarrio
+				La Cruz Subbarrio
+				La Gloria Barrio
+				La Torre Barrio
+				La Zona Subbarrio
+				Lagunas Barrio
+				Lajas Arriba Barrio
+				Lajas Barrio
+				Lajas Barrio-Pueblo
+				Lajas Municipio
+				Lapa Barrio
+				Lares Barrio
+				Lares Barrio-Pueblo
+				Lares Municipio
+				Las Casas Subbarrio
+				Las Marías Barrio-Pueblo
+				Las Marías Municipio
+				Las Marías Subbarrio
+				Las Monjas Subbarrio
+				Las Palmas Barrio
+				Las Palmas Subbarrio
+				Las Piedras Barrio-Pueblo
+				Las Piedras Municipio
+				Lavadero Barrio
+				Leguísamo Barrio
+				Limaní Barrio
+				Limones Barrio
+				Limón Barrio
+				Lirios Barrio
+				Lizas Barrio
+				Llanadas Barrio
+				Llano Barrio
+				Llanos Barrio
+				Llanos Costa Barrio
+				Llanos Tuna Barrio
+				Llave Barrio
+				Lomas Barrio
+				Los Llanos Barrio
+				Loíza Barrio-Pueblo
+				Loíza Municipio
+				Loíza Subbarrio
+				Luquillo Barrio-Pueblo
+				Luquillo Municipio
+				López Sicardó Subbarrio
+				Mabú Barrio
+				Macaná Barrio
+				Machete Barrio
+				Machos Barrio
+				Machuchal Barrio
+				Machuchal Subbarrio
+				Machuelo Abajo Barrio
+				Machuelo Arriba Barrio
+				Magas Barrio
+				Magos Barrio
+				Maguayo Barrio
+				Magueyes Barrio
+				Magueyes Urbano Barrio
+				Maizales Barrio
+				Mal Paso Barrio
+				Maleza Alta Barrio
+				Maleza Baja Barrio
+				Malezas Barrio
+				Mambiche Barrio
+				Mamey Barrio
+				Mameyal Barrio
+				Mameyes Abajo Barrio
+				Mameyes Arriba Barrio
+				Mameyes I Barrio
+				Mameyes II Barrio
+				Manatí Barrio-Pueblo
+				Manatí Municipio
+				Maná Barrio
+				Maragüez Barrio
+				Maravilla Este Barrio
+				Maravilla Norte Barrio
+				Maravilla Sur Barrio
+				Maresúa Barrio
+				Mariana Barrio
+				Maricao Afuera Barrio
+				Maricao Barrio
+				Maricao Barrio-Pueblo
+				Maricao Municipio
+				Marina Meridional Subbarrio
+				Marina Septentrional Subbarrio
+				Marina Subbarrio
+				Marruecos Subbarrio
+				Martín González Barrio
+				Martín Peña Subbarrio
+				Marueño Barrio
+				María Moczó Subbarrio
+				Marías Barrio
+				Marín Barrio
+				Masa Barrio
+				Mata de Cañas Barrio
+				Mata de Plátano Barrio
+				Matuyas Alto Barrio
+				Matuyas Bajo Barrio
+				Matón Abajo Barrio
+				Matón Arriba Barrio
+				Maunabo Barrio-Pueblo
+				Maunabo Municipio
+				Mavilla Barrio
+				Mayagüez Arriba Barrio
+				Mayagüez Barrio-Pueblo
+				Mayagüez Municipio
+				Media Luna Barrio
+				Medianía Alta Barrio
+				Medianía Baja Barrio
+				Melilla Subbarrio
+				Membrillo Barrio
+				Mercado Subbarrio
+				Merhoff Subbarrio
+				Minillas Barrio
+				Minillas Subbarrio
+				Mirabales Barrio
+				Miradero Barrio
+				Miraflores Barrio
+				Miramar Subbarrio
+				Mirasol Barrio
+				Moca Barrio-Pueblo
+				Moca Municipio
+				Monacillo Barrio
+				Monacillo Urbano Barrio
+				Monserrate Subbarrio
+				Montalva Barrio
+				Montaña Barrio
+				Monte Grande Barrio
+				Monte Llano Barrio
+				Monte Rey Subbarrio
+				Monteflores Subbarrio
+				Montones Barrio
+				Montoso Barrio
+				Mora Barrio
+				Morovis Barrio-Pueblo
+				Morovis Municipio
+				Morovis Norte Barrio
+				Morovis Sud Barrio
+				Mosquito Barrio
+				Mucarabones Barrio
+				Mula Barrio
+				Mulas Barrio
+				Mulita Barrio
+				Municipio de Aguada
+				Municipio de Aguadilla
+				Municipio de Aguas Buenas
+				Municipio de Aibonito
+				Municipio de Anasco
+				Municipio de Arecibo
+				Municipio de Arroyo
+				Municipio de Barceloneta
+				Municipio de Barranquitas
+				Municipio de Bayamon
+				Municipio de Cabo Rojo
+				Municipio de Caguas
+				Municipio de Camuy
+				Municipio de Carolina
+				Municipio de Catano
+				Municipio de Cayey
+				Municipio de Ceibe
+				Municipio de Ciales
+				Municipio de Cidra
+				Municipio de Coamo
+				Municipio de Comerio
+				Municipio de Corozal
+				Municipio de Culebra
+				Municipio de Dorado
+				Municipio de Fajardo
+				Municipio de Guanica
+				Municipio de Guayama
+				Municipio de Guayanilla
+				Municipio de Guaynabo
+				Municipio de Gurabo
+				Municipio de Hatillo
+				Municipio de Hormigueros
+				Municipio de Humacao
+				Municipio de Isabela
+				Municipio de Jayuya
+				Municipio de Juana Diaz
+				Municipio de Juncos
+				Municipio de Lajas
+				Municipio de Lares
+				Municipio de Las Marias
+				Municipio de Las Piedras
+				Municipio de Loiza
+				Municipio de Luquillo
+				Municipio de Manati
+				Municipio de Maricao
+				Municipio de Maunabo
+				Municipio de Mayaguez
+				Municipio de Moca
+				Municipio de Morovis
+				Municipio de Naguabo
+				Municipio de Naranjito
+				Municipio de Orocovis
+				Municipio de Patillas
+				Municipio de Penuelas
+				Municipio de Quebradillas
+				Municipio de Rincon
+				Municipio de Rio Grande
+				Municipio de Sabana Grande
+				Municipio de Salinas
+				Municipio de San German
+				Municipio de San Lorenzo
+				Municipio de San Sebastian
+				Municipio de Santa Isabel
+				Municipio de Toa Alta
+				Municipio de Trujillo Alto
+				Municipio de Utuado
+				Municipio de Vega Alta
+				Municipio de Vega Baja
+				Municipio de Vieques
+				Municipio de Villalba
+				Municipio de Yabucoa
+				Municipio de Yauco
+				Muñoz Rivera Barrio
+				Naguabo Barrio-Pueblo
+				Naguabo Municipio
+				Naranjales Barrio
+				Naranjito Barrio
+				Naranjito Barrio-Pueblo
+				Naranjito Municipio
+				Naranjo Barrio
+				Navarro Barrio
+				Negros Barrio
+				Norzagaray Subbarrio
+				Nuevo Barrio
+				Nuevo Subbarrio
+				Obrero Subbarrio
+				Ocean Park Subbarrio
+				Oriente Barrio
+				Orocovis Barrio
+				Orocovis Barrio-Pueblo
+				Orocovis Municipio
+				Ortíz Barrio
+				Ovejas Barrio
+				Padilla Barrio
+				Palma Escrita Barrio
+				Palmar Barrio
+				Palmarejo Barrio
+				Palmarito Barrio
+				Palmas Altas Barrio
+				Palmas Barrio
+				Palo Hincado Barrio
+				Palo Seco Barrio
+				Palomas Barrio
+				Palos Blancos Barrio
+				Parguera Barrio
+				Parque Subbarrio
+				París Barrio
+				Paso Palma Barrio
+				Pasto Barrio
+				Pasto Viejo Barrio
+				Patillas Barrio-Pueblo
+				Patillas Municipio
+				Pedernales Barrio
+				Pedro Avila Barrio
+				Pedro García Barrio
+				Pellejas Barrio
+				Perchas 1 Barrio
+				Perchas 2 Barrio
+				Perchas Barrio
+				Pesas Barrio
+				Pezuela Barrio
+				Peña Pobre Barrio
+				Peñuelas Barrio-Pueblo
+				Peñuelas Municipio
+				Pica Barrio
+				Piedra Gorda Barrio
+				Piedras Barrio
+				Piedras Blancas Barrio
+				Piletas Barrio
+				Pitahaya Barrio
+				Piñales Barrio
+				Piñas Barrio
+				Planas Barrio
+				Plata Barrio
+				Playa Barrio
+				Playa Sardinas I Barrio
+				Playa Sardinas II Barrio
+				Poblado Sitios Subbarrio
+				Pollos Barrio
+				Ponce Municipio
+				Portillo Barrio
+				Portugués Barrio
+				Portugués Urbano Barrio
+				Pozas Barrio
+				Pozo Hondo Barrio
+				Pozo del Hato Subbarrio
+				Primero Barrio
+				Pueblo Barrio
+				Pueblo Central Subbarrio
+				Pueblo Este Subbarrio
+				Pueblo Norte Subbarrio
+				Pueblo Nuevo Subbarrio
+				Pueblo Occidental Subbarrio
+				Pueblo Oeste Subbarrio
+				Pueblo Oriental Subbarrio
+				Pueblo Poniente Subbarrio
+				Pueblo Saliente Subbarrio
+				Pueblo Subbarrio
+				Pueblo Sud Subbarrio
+				Pueblo Sur Subbarrio
+				Pueblo Viejo Barrio
+				Pueblo de Arecibo
+				Puente Barrio
+				Puerta de Tierra Subbarrio
+				Puerto Diablo Barrio
+				Puerto Ferro Barrio
+				Puerto Nuevo Barrio
+				Puerto Nuevo Subbarrio
+				Puerto Real Barrio
+				Puerto Real Subbarrio
+				Puertos Barrio
+				Pugnado Adentro Barrio
+				Pugnado Afuera Barrio
+				Pulguero Subbarrio
+				Pulguillas Barrio
+				Punta Arenas Barrio
+				Punta Santiago Barrio
+				Puntas Barrio
+				Purísima Concepción Barrio
+				Pájaros Barrio
+				Quebrada Arenas Barrio
+				Quebrada Arriba Barrio
+				Quebrada Barrio
+				Quebrada Ceiba Barrio
+				Quebrada Cruz Barrio
+				Quebrada Fajardo Barrio
+				Quebrada Grande Barrio
+				Quebrada Honda Barrio
+				Quebrada Infierno Barrio
+				Quebrada Larga Barrio
+				Quebrada Limón Barrio
+				Quebrada Negrito Barrio
+				Quebrada Seca Barrio
+				Quebrada Vueltas Barrio
+				Quebrada Yeguas Barrio
+				Quebradas Barrio
+				Quebradillas Barrio
+				Quebradillas Barrio-Pueblo
+				Quebradillas Municipio
+				Quemado Barrio
+				Quemados Barrio
+				Quintana Subbarrio
+				Quinto Barrio
+				Rabanal Barrio
+				Ranchera Barrio
+				Rayo Barrio
+				Real Barrio
+				Reparada Subbarrio
+				Retiro Barrio
+				Rincón Barrio
+				Rincón Barrio-Pueblo
+				Rincón Municipio
+				Robles Barrio
+				Rocha Barrio
+				Roncador Barrio
+				Rosario Alto Barrio
+				Rosario Bajo Barrio
+				Rosario Barrio
+				Rosario Peñón Barrio
+				Rosario Subbarrio
+				Rubias Barrio
+				Rucio Barrio
+				Rufina Barrio
+				Río Abajo Barrio
+				Río Arriba Barrio
+				Río Arriba Poniente Barrio
+				Río Arriba Saliente Barrio
+				Río Barrio
+				Río Blanco Barrio
+				Río Cañas Abajo Barrio
+				Río Cañas Arriba Barrio
+				Río Cañas Barrio
+				Río Grande Barrio
+				Río Grande Barrio-Pueblo
+				Río Grande Municipio
+				Río Hondo Barrio
+				Río Jueyes Barrio
+				Río Lajas Barrio
+				Río Piedras Antiguo Subbarrio
+				Río Prieto Barrio
+				Río Subbarrio
+				Ríos Barrio
+				Sabana Abajo Barrio
+				Sabana Barrio
+				Sabana Eneas Barrio
+				Sabana Grande Abajo Barrio
+				Sabana Grande Barrio
+				Sabana Grande Barrio-Pueblo
+				Sabana Grande Municipio
+				Sabana Hoyos Barrio
+				Sabana Llana Barrio
+				Sabana Llana Norte Barrio
+				Sabana Llana Sur Barrio
+				Sabana Seca Barrio
+				Sabana Yeguas Barrio
+				Sabanetas Barrio
+				Saco Barrio
+				Sagrado Corazón Subbarrio
+				Saliente Barrio
+				Salinas Barrio-Pueblo
+				Salinas Municipio
+				Saltillo Barrio
+				Salto Abajo Barrio
+				Salto Arriba Barrio
+				Salto Barrio
+				Saltos Barrio
+				Salud Subbarrio
+				San Antonio Barrio
+				San Antón Barrio
+				San Cristóbal Subbarrio
+				San Felipe Subbarrio
+				San Francisco Subbarrio
+				San Germán Barrio-Pueblo
+				San Germán Municipio
+				San Ildefonso Barrio
+				San Isidro Barrio
+				San José Barrio
+				San José Subbarrio
+				San Juan Antiguo Barrio
+				San Juan Moderno Subbarrio
+				San Juan Municipio
+				San Juan Subbarrio
+				San Lorenzo Barrio
+				San Lorenzo Barrio-Pueblo
+				San Lorenzo Municipio
+				San Luis Subbarrio
+				San Mateo Subbarrio
+				San Patricio Barrio
+				San Salvador Barrio
+				San Sebastián Barrio-Pueblo
+				San Sebastián Municipio
+				Santa Bárbara Subbarrio
+				Santa Catalina Barrio
+				Santa Cruz Barrio
+				Santa Isabel Barrio
+				Santa Isabel Barrio-Pueblo
+				Santa Isabel Municipio
+				Santa Olaya Barrio
+				Santa Rita Subbarrio
+				Santa Rosa Barrio
+				Santana Barrio
+				Santiago Barrio
+				Santiago Subbarrio
+				Santiago y Lima Barrio
+				Santo Domingo Barrio
+				Santo Domingo Subbarrio
+				Santurce Barrio
+				Sardinera Barrio
+				Seboruco Subbarrio
+				Segundo Barrio
+				Sexto Barrio
+				Shanghai Subbarrio
+				Sierra Alta Barrio
+				Sierra Baja Barrio
+				Sonador Barrio
+				Sonadora Barrio
+				St. Just Barrio
+				Sud Barrio
+				Sumidero Barrio
+				Sumido Barrio
+				Susúa Alta Barrio
+				Susúa Baja Barrio
+				Susúa Barrio
+				Sábalos Barrio
+				Tabonuco Barrio
+				Talante Barrio
+				Tallaboa Alta Barrio
+				Tallaboa Poniente Barrio
+				Tallaboa Saliente Barrio
+				Tamarindo Subbarrio
+				Tanamá Barrio
+				Tejas Barrio
+				Tercero Barrio
+				Terranova Barrio
+				Tetuán Barrio
+				Tibes Barrio
+				Tierras Nuevas Poniente Barrio
+				Tierras Nuevas Saliente Barrio
+				Tijeras Barrio
+				Toa Alta Barrio-Pueblo
+				Toa Alta Municipio
+				Toa Baja Barrio-Pueblo
+				Toa Baja Municipio
+				Tomás de Castro Barrio
+				Toro Negro Barrio
+				Torre Barrio
+				Torrecilla Alta Barrio
+				Torrecilla Baja Barrio
+				Torrecillas Barrio
+				Tortugo Barrio
+				Toíta Barrio
+				Tras Talleres Subbarrio
+				Trujillo Alto Barrio-Pueblo
+				Trujillo Alto Municipio
+				Trujillo Bajo Barrio
+				Tumbao Barrio
+				Tuna Barrio
+				Turabo Barrio
+				Ubarri Subbarrio
+				Unibón Barrio
+				Universidad Barrio
+				Urréjola Subbarrio
+				Utuado Barrio-Pueblo
+				Utuado Municipio
+				Vacas Barrio
+				Vaga Barrio
+				Valencia Subbarrio
+				Valenciano Abajo Barrio
+				Valenciano Arriba Barrio
+				Vayas Barrio
+				Vega Alta Barrio-Pueblo
+				Vega Alta Municipio
+				Vega Baja Barrio-Pueblo
+				Vega Baja Municipio
+				Vega Redonda Barrio
+				Vegas Abajo Barrio
+				Vegas Arriba Barrio
+				Vegas Barrio
+				Veguitas Barrio
+				Venezuela Subbarrio
+				Victoria Barrio
+				Vieques Municipio
+				Vigía Subbarrio
+				Villa Palmeras Subbarrio
+				Villalba Abajo Barrio
+				Villalba Arriba Barrio
+				Villalba Barrio-Pueblo
+				Villalba Municipio
+				Viví Abajo Barrio
+				Viví Arriba Barrio
+				Voladoras Barrio
+				Yabucoa Barrio-Pueblo
+				Yabucoa Municipio
+				Yahuecas Barrio
+				Yauco Barrio-Pueblo
+				Yauco Municipio
+				Yaurel Barrio
+				Yayales Barrio
+				Yeguada Barrio
+				Zamas Barrio
+				Zanja Barrio
+				Zarzal Barrio
+			Dam (PR)
+				Comerio Dam
+				Dos Bocas Dam
+				Presa Antonio Lucchetti
+				Presa de Loco
+				Represa De Toa Vaca
+			Falls (PR)
+				Catarata Coca
+				Catarata de la Mina
+				El Salto Grande
+				Jobos Saltillo
+				Salto de Doña Juana
+			Flat (PR)
+				Corozo Salt Flats
+				Salinas Fortuna
+				Salinas Las Pardas
+				Salinas Providencia
+			Forest (PR)
+				Bosque Estatal Los Morillos
+				Bosque Estatal de Aguirre
+				Bosque Estatal de Bosquerón
+				Bosque Estatal de Ceiba
+				Bosque Estatal de Guajataca
+				Bosque Estatal de Guanica
+				Bosque Estatal de Guilarte
+				Bosque Estatal de Maricao
+				Bosque Estatal de Piñones
+				Bosque Estatal de Río Abajo
+				Bosque Estatal de Susúa
+				Cambalache State Forest
+				El Yunque National Forest
+				Guajataca State Forest
+			Gap (PR)
+				La Silla de Calderon
+				Salto Máquina
+				Salto de Inabón
+			Gut (PR)
+				Boca de Cangrejos
+				Cañ0 Cruz
+				Caño Corazones
+				Caño Salado
+				Caño San Luis
+				El Chorro
+			Harbor (PR)
+				Marina Puerto Chico
+			Hospital (PR)
+				Arecibo Medical Center
+				Bella Vista Hospital
+				Bllenza Feliu Municipal Hospital
+				Cardiovascular Center of Puerto Rico and the Caribbean
+				Castaner General Hospital
+				Centro Diagnostico
+				Centro Medico
+				Centro Médico Barrio Espino
+				Centro Médico de la Universidad
+				Centro de Medicina de la Familia
+				Centro de Salud
+				Centro de Salud Doctoro Jose Bou Lopez
+				Centro de Salud Doctoro Julio Palmieri Ferry
+				Centro de Salud Doctoro Rafael Gongales
+				Centro de Salud Familar
+				Centro de Salud Familiar
+				Centro de Salud Familiar Antonio A Garcia
+				Centro de Salud Familiar Doctorco Damaso Talvera
+				Centro de Salud Integral Doctor Gualberto Rabell
+				Centro de Salud Jose S Manautou Fantuzzi
+				Centro de Salud Mental
+				Clinica Doctoro Sein (historical)
+				Clinica Espanola
+				Clinica Fajardo (historical)
+				Clinica Perea
+				Clinica Rovira
+				Clinica San Rafael
+				Concepcion Hospital
+				Consolidated Medical Hospital
+				DBA Ashford-Presbyterian Community Hospital
+				Dispensario de Puerto Nuevo
+				Doctor Alejandro Otero Lopez Hospital
+				Doctoro Domingez Hospital
+				Doctoro Luis Arambrie Maldonado Hospital
+				Doctors Community Hospital
+				First Panamerican Hospital
+				Hospital Auxilio Mutuo
+				Hospital Bella Vista
+				Hospital Centro de Salud
+				Hospital General
+				Hospital Hima en Humacao
+				Hospital Industrial
+				Hospital Interamericano de Medicina Avanzada
+				Hospital Lafayette
+				Hospital Manuel Figueroa
+				Hospital Matilde Brenes
+				Hospital Menonita de Cayey
+				Hospital Metropolitano
+				Hospital Municipal
+				Hospital Municipal San Antonio
+				Hospital Municipal Sergio Pena
+				Hospital Nueva de Doctoro Pila
+				Hospital Pediatrico Universitario
+				Hospital Penitenciaria Estatal
+				Hospital Psiquiatria
+				Hospital Regional
+				Hospital Regional Distrito de Arecibo
+				Hospital Regional Doctoro Eduardo Garrido
+				Hospital Regional Doctoro Federico Trilla
+				Hospital Regional Universitario
+				Hospital Regional de Humacao
+				Hospital Sagrado Corazón
+				Hospital San Carlos
+				Hospital San Carlos de Borromeo
+				Hospital San Lucas
+				Hospital San Martín
+				Hospital San Pablo
+				Hospital San Pablo del Este
+				Hospital Santa Rosa
+				Hospital Sub-Regional Doctoro Tito Matteii
+				Hospital Subregional
+				Hospital Unidad de Salud Publica
+				Hospital Valentin Tricoche
+				Hospital de Area
+				Hospital de Area Doctoro Edgardo Quiones
+				Hospital de Damas
+				Hospital de Distrito
+				Hospital de Doctor Pila
+				Hospital de Veteranos
+				Hospital de la Concepcion
+				Hospital del Maestro
+				Hospital del Ninos
+				Pabellon Medico del Caribe
+				Pavia Emergency Center
+				Pavia Hospital
+				Ramon Ruiz Belvis Hospital
+				Rayders Memorial Hospital
+				Rincon Centro de Salud
+				San Agustin Hospital
+				San Jorge Childrens Hospital
+				San Juan Health Centre
+				Sanatorio Ruiz Soler
+				Unidad de Salud Publica
+				Wilma N Vaquez Medical Center
+			Island (PR)
+				Alcarraza
+				Bajo Evelyn
+				Cabeza de Perro
+				Cabezo de Perro
+				Cayo Ahogado
+				Cayo Alfeñique
+				Cayo Algodones
+				Cayo Arenas
+				Cayo Ballena
+				Cayo Batata
+				Cayo Bayo
+				Cayo Berbería
+				Cayo Botella
+				Cayo Botijuela
+				Cayo Cabritas
+				Cayo Caracoles
+				Cayo Caribe
+				Cayo Chiva
+				Cayo Collado
+				Cayo Conejo
+				Cayo Corral
+				Cayo Desgraciado
+				Cayo Diablo
+				Cayo Don Luis
+				Cayo Enrique
+				Cayo Fanduca
+				Cayo Icacos
+				Cayo Jalova
+				Cayo Jalovita
+				Cayo Largo
+				Cayo Lobito
+				Cayo Lobo
+				Cayo Lobos
+				Cayo María Langa
+				Cayo Mata
+				Cayo Mata Seca
+				Cayo Matojo
+				Cayo Morrillo
+				Cayo Norte
+				Cayo Obispo
+				Cayo Palomas
+				Cayo Parguera
+				Cayo Pirata
+				Cayo Piñerito
+				Cayo Puerca
+				Cayo Ratones
+				Cayo Ratón
+				Cayo Real
+				Cayo Río
+				Cayo Santiago
+				Cayo Sombrerito
+				Cayo Terremoto
+				Cayo Tiburón
+				Cayo Tuna
+				Cayo Verde
+				Cayo Vieques
+				Cayo Yerba
+				Cayo de Luis Peña
+				Cayo de Tierra
+				Cayo del Agua
+				Cayos Cabezazos
+				Cayos Caribes
+				Cayos Geniquí
+				Cayos de Barca
+				Cayos de Caracoles
+				Cayos de Caña Gorda
+				Cayos de Pájaros
+				Cayos de Ratones
+				El Ancón
+				El Mono
+				Gata Islets
+				Gilligans Island
+				Isla Ballena
+				Isla Cabras
+				Isla Caja de Muertos
+				Isla Chiva
+				Isla Cueva
+				Isla Culebrita
+				Isla Desecheo
+				Isla Guachinanga
+				Isla Guayacán
+				Isla La Cancora
+				Isla Magueyes
+				Isla Matei
+				Isla Monito
+				Isla Morrillito
+				Isla Palominitos
+				Isla Palominos
+				Isla Piedra
+				Isla Piñeros
+				Isla Puerca
+				Isla San Juan
+				Isla Verde
+				Isla Yallis
+				Isla de Cabras
+				Isla de Cardona
+				Isla de Cerro Gordo
+				Isla de Culebra
+				Isla de Jueyes
+				Isla de Mona
+				Isla de Ramos
+				Isla de Ratones
+				Isla de Vieques
+				Isla de las Palomas
+				Isla del Frio
+				Island of Puerto Rico
+				Isleta Marina
+				Isleta de San Juan
+				Isletas de Garzas
+				Islote Número dos
+				Islote de Juan Pérez
+				La Blanquilla
+				La Cordillera
+				Las Cabritas
+				Las Cucarachas
+				Las Hermanas
+				Las Lavanderas
+				Las Lavanderas del Este
+				Las Lavanderas del Oeste
+				Los Farallones
+				Los Gemelos
+				Los Negritos
+				Mata Redonda
+				Pelaíta
+				Pelá
+				Peñon Brusi
+				Peñon de Afuera
+				Peñon de San Jorge
+				Piedra Stevens
+				Piedra del Norte
+				Piragua de Adentro
+				Piragua de Afuera
+				Punta Larga
+				Punta Mosquitos
+				Roca Alcatraz
+				Roca Cocinera
+				Roca Cucaracha
+				Roca Culumna
+				Roca Ola
+				Roca Resuello
+				Roca Speck
+				Roca Velásquez
+				Tres Hermanas
+				Tres Hermanos
+			Lake (PR)
+				Bano Grade Pool
+				Boca de La Zanja
+				Caño Boquernón
+				Charco Azul
+				El Salto
+				La Damas Pool
+				Lago Bronce
+				Lago Gely
+				Lago Giles
+				Lago Managua
+				Lago Ponceña
+				Lago Vista Alegre
+				Lagos de Levitttown
+				Laguna Aguas Prietas
+				Laguna Algodones
+				Laguna Anones
+				Laguna Arenas
+				Laguna Atolladero
+				Laguna Bocanasilla
+				Laguna Cartagena
+				Laguna El Pobre
+				Laguna Grande
+				Laguna Guaniquilla
+				Laguna Joyuda
+				Laguna Kiani
+				Laguna La Plata
+				Laguna La Torrecilla
+				Laguna Lobina
+				Laguna Los Corozos
+				Laguna Mata Redonda
+				Laguna Matías
+				Laguna Monte Largo
+				Laguna Playa Grande
+				Laguna Puerto Diablo
+				Laguna Rica
+				Laguna San José
+				Laguna Tortuguero
+				Laguna Yanuel
+				Laguna Zoní
+				Laguna de Cornelio
+				Laguna de Lobine
+				Laguna de Molino
+				Laguna de Pinoñes
+				Laguna de Puerto Nuevo
+				Laguna de las Salinas
+				Laguna del Condado
+				Laguna del Flamenco
+				Mar Negro
+				Pozo Del Rey
+			Locale (PR)
+				Adjuntas Sewage Treatment Plant
+				Aguadilla Country Club
+				Aguadilla Mall Shopping Center
+				Aguirre Golf Club
+				Aibonito Wastewater Treatment Plant
+				Arecibo County Club
+				Arecibo Plaza Shopping Center
+				Arecibo Wastewater Treatment Plant
+				Asilo Ciegos
+				Asilo Damas
+				Asilo de Ancianos
+				Barceloneta Chemical Laboratory Water Treatment Plant
+				Barranquitas Sewage Treatment Plant
+				Bayamon Center Shopping Center
+				Bayamon Oeste Mall Shopping Center
+				Bayamon Station San Juan Metro
+				Bayamon Water Treatment Plant
+				Bechara Industrial
+				Berwind Country Club
+				Boca Herrera
+				Boca de Cangrejos Picnic Area
+				Boca de Cangrejos Yacht Club
+				Bonus Thermonuclear Energy Plant (historical)
+				Boqueron Yacht Club
+				Borinquen Golf Club
+				Boriquen Gardens
+				Brisa del Mar Sewage Treatment Plant
+				Caguas Municipal Government Center of Municipal Operations
+				Camp Caribe
+				Camp Patricio
+				Campito Los Santos
+				Campo Alegre
+				Camuy Water Treatment Plant
+				Canovas Plaza Shopping Center
+				Canton Mall Shopping Center
+				Caonillas Central Hidroelectrica Numero 1
+				Carolina Shopping Court Shopping Center
+				Cayey Filter Plant
+				Cayey Shopping Plaza
+				Ceiba Sewage Treatment Plant
+				Central Cambalache
+				Central Canóvanas
+				Central Cayey
+				Central Constancia
+				Central Cortada
+				Central Eureka
+				Central Guánica
+				Central Hidroeléctrica de Carite Número Tres
+				Central Igualdad
+				Central La Plata
+				Central Lafayette
+				Central Machete
+				Central Mercedita
+				Central Monserrate
+				Central Plazuela
+				Central Rochelaise
+				Central Roig
+				Central San Francisco
+				Central San Vicente
+				Central Santa Juana
+				Central Soller
+				Centro Comercial Bairoa Shopping Center
+				Centro Comercial Norte
+				Centro Comercial Plaza Escorial Shopping Center
+				Centro Comercial Plaza Shopping Center
+				Centro Comercial Plaza Trujillo Shopping Center
+				Centro Comercial Santa Maria
+				Centro Comercial Valle Real Shopping Center
+				Centro Comercial Villa Blanca Shopping Center
+				Centro Comerical Shopping Center
+				Centro Comerical Victory
+				Centro Gran Caribe Norte Shopping Center
+				Centro Gran Caribe Sur Shopping Center
+				Centro Medico Station San Juan Metro
+				Centro Mercantil Internacional
+				Centro Musical
+				Centro de Distribution de Norte
+				Centro de la Industria de la Sal
+				Centro del Sur Mall
+				Club Nautico
+				Club Nautico Marina
+				Club Nautico de San Juan
+				Club Rotario
+				Coliseo Shopping Center
+				Consolidated Mall Shopping Center
+				Convento Nuestra Señora de Fátima
+				Corcega Sugar Mill (historical)
+				Corozal Plaza Shopping Center
+				Cortadura del Taxamar (historical)
+				Culebras-Cayey Water Treatment Plant
+				Cupey Station San Juan Metro
+				Del Este Shopping Center
+				Deportivo Station San Juan Metro
+				Desembarcádero Mosquito
+				Desvío Valdés
+				Dinghy Dock
+				Domenech Station San Juan Metro
+				Dorado Shopping Center
+				Dorado Wastewater Treatment Plant
+				El Barranquitas
+				El Batey Shopping Center
+				El Cañuelo
+				El Espigon
+				El Faro Borinquen
+				El Faro Caja de Muerto
+				El Faro de Cabo Rojo
+				El Faro de Punta Morillo
+				El Faro de Punta Mulas
+				El Gran Convento
+				El Verde Row Houses
+				El Yunque Filter Plant
+				Estacion Experimental Agricola
+				Estacion Experimental de Isabella (historical)
+				Estacion Sagrado Corazon
+				Estacionamiento Coradonga
+				Estadio Municipal Hiram Bithorn
+				Estancia Rio Hondo
+				Estancias del Atlantico
+				Fagot Plaza Shopping Center
+				Faro Cardona
+				Faro de Cabo San Juan
+				Federal Agricultural Experiment Station
+				Fondo del Seguro de Estado
+				Fort Brook Golf Course (historical)
+				Fox Delicias Mall Shopping Center
+				Frank Santeaella Parking Lot
+				Fuente de los Leones
+				Galeria Isabela Shopping Center
+				Galeria Liga de Estudiantes de Artes
+				Gate 1
+				Guayanes Water Treatment Plant
+				Hacienda Casanova
+				Hacienda Felícita
+				Hacienda La Marina
+				Hacienda Mallorquina
+				Hermita de Santa Barbara (historical)
+				Industrial Angora
+				Industrial Bechara
+				Industrial Cutler-Hammer
+				Industrial El Comandante
+				Industrial El Jibarito
+				Industrial El Jibaro
+				Industrial Juan Martin
+				Industrial Las Palmas
+				Industrial Luchetti
+				Industrial Mario Julia
+				Industrial Sabaneta
+				Instituto Juvenil
+				Jaguas and Pesas Filter Plant
+				Jardines Station San Juan Metro
+				Jayuya Wastewater Treatment Plant
+				Juncos Sewage Treatment Plant
+				La Boca-Barranquitas Water Treatment Plant
+				La Ceiba
+				La Guancha Paseo Tablado
+				La Maquina Water Treatment Plant
+				La Marina
+				La Perla
+				La Princesa Fountain
+				La Rambla Shopping Center
+				La Rogativa
+				Lancha de Catano
+				Lares Mall Shopping Center
+				Las Cabezas Vista Point
+				Las Catalinas Mall Shopping Center
+				Las Lomas Station San Juan Metro
+				Las Ruinas de Caparra
+				Lilly de Caribe Water Treatment Facility
+				Loiza Center Shopping Center
+				Loma Linda Shopping Center
+				Lomas de Country Club
+				Maricao Fish Hatchery
+				Marina Concordia
+				Marina de Salinas
+				Martinez Nadal Station San Juan Metro
+				Maynabo Lighthouse
+				Mercado de Artesania Puertomiquena
+				Michelle Plaza Shopping Center
+				Mona Lighthouse
+				Monte Brisas Shopping Center
+				Morovis-Rio Grande Water Treatment Plant
+				Muelle 15
+				Muelle 6
+				Munoz Rivera Statue
+				Muralla de San Juan
+				Navy Frontier Pier
+				Northeast Regional Aquaduct
+				Obelisco a la Libertad
+				Observatorio Geofisico de San Juan
+				Observatorio de Arecibo
+				Orvocovis Sewage Treatment Plant
+				Palo Colorado Picnic Area
+				Panamerican Pier
+				Park Boulevard
+				Parque Industrial Bairoa
+				Parque Industrial Barrio Cienaga
+				Parque Industrial Boulevardo Rayo
+				Parque Industrial Cartagena
+				Parque Industrial Los Llanos
+				Parque Industrial Palmas Atlas
+				Parque Industrial Puerta Real
+				Parque Industrial West
+				Parque Industrial West Side
+				Parque Industrial villalba
+				Pena Para
+				Pinero Station San Juan Metro
+				Planta Termoeléctrica de Palo Seco
+				Playa Azul Shopping Center
+				Playa Depot
+				Playa Grande
+				Playa Grande (historical)
+				Playa de Pajaros
+				Plaza Carolina Mall Shopping Center
+				Plaza Centro Shopping Center
+				Plaza Davidson Shopping Center
+				Plaza Del Parque Shopping Center
+				Plaza Fajardo Shopping Center
+				Plaza Las Flores Shopping Center
+				Plaza Las Piedras Shopping Center
+				Plaza Monserrate Shopping Center
+				Plaza Nuevo Mundo Shopping Center
+				Plaza Pradera Shopping Center
+				Plaza Quarium Shopping Center
+				Plaza San Cristobal Shopping Center
+				Plaza de Arcos
+				Plaza de Mercado Shopping Center
+				Plaza de Oriente Shopping Center
+				Plaza del Caribe Shopping Center
+				Plaza del Carmen Shopping Center
+				Plaza del Mercado Isabel II Shopping Center
+				Plaza del Mercado Shopping Center
+				Plaza las Americas Mall Shopping Center
+				Polvorin Santa Elena
+				Ponce Golf Club
+				Ponce Mall Shopping Center
+				Ponce Yacht Club
+				Port of San Juan Lighthouse
+				Prasa Water Treatment Plant
+				Puerta de San Juan
+				Puerto 1
+				Puerto 2
+				Puerto 3
+				Puerto 4
+				Puerto Chico Marina
+				Puerto Nuevo Water Treatment Plant
+				Puerto Real
+				Puerto Rico Electric Authority Palo Seco Power Plant
+				Puerto Rico Electric Authority South Coast Station
+				Puerto del Rey Marina
+				Puerts de Tierra
+				Punta Higuero Lighthouse
+				Quebradillas Plaza Shopping Center
+				Rancho Cabassa
+				Rio Mar Club
+				Rio del Plata Mall
+				River Side Plaza Shopping Center
+				Roig Sugar Mill
+				Roncador Water Treatment Facility
+				Roosevelt Station San Juan Metro
+				Royal Industrial Park
+				Ruinas del Canuelo
+				Sagrado Corozon Station San Juan Metro
+				Salinas Plaza Shopping Center
+				Salto Garzas Central Hidroeléctrica Número Dos
+				Salto Garzas Central Hidroeléctrica Número Uno
+				San Alfonso Shopping Center
+				San Benito Shopping Center
+				San Francisco Station San Juan Metro
+				San Juan Arecibo Mall Shopping Center
+				San Juan Bay Marina
+				San Lorenzo Filter Plant
+				San Sebastian Shopping Center
+				Sancture Market Place Shopping Center
+				Santa Isabel Nautic Club
+				Santa Isabel Water Treatment Plant
+				Santa Maria Shopping Center
+				Santa Rosa Mall Shopping Center
+				Santa Teresita
+				Santa Teresita Shopping Center
+				Sergio Cuevas Water Treatment Plant
+				Toro Negro Central Hidroelectrica Numero 2
+				Torrimar Station San Juan Metro
+				Totem Telurico
+				Universidad Station San Juan Metro
+				Utuado New Wastewater Treatment Plant
+				Vega Baja Sewage Treatment Plant
+				Villa Marina
+				Villa Marina Shopping Center
+				Villas de Rio Grande Shopping Center
+				Vistamar Marina
+				West Industrial Park
+				Western Plaza Shopping Center
+				Yabucoa Shopping Center
+				Yaguez Diving and Fishing Club
+				Yauco Plaza II Shopping Center
+				Yauco Plaza Shopping Center
+				Yauco Water Treatment Plant
+				Yellow House
+				Zona Industrial Boulevardo Maria
+				Zona Portuaria
+			Military (PR)
+				Armeria Guardia Nacional
+				Army Reserve Training Center
+				Baluarte de San Joseph (historical)
+				Baluarte de San Justo (historical)
+				Baluarte de San Pedro (historical)
+				Baluarte de Santiago (historical)
+				Baluarte de la Concepcion (historical)
+				Baluarte de la Muelle (historical)
+				Bastion de Las Animas (historical)
+				Bastion de Las Palmas (historical)
+				Bastion de San Agustin (historical)
+				Bastion de San Antonio (historical)
+				Bastion de San Sebastion (historical)
+				Bastion de Santa Elena (historical)
+				Bastion de Santa Rosa (historical)
+				Bastion de Santo Domingo (historical)
+				Bastion de Santo Tomas (historical)
+				Bastion de la Perle (historical)
+				Bateria San Fernando (historical)
+				Bateria de San Gabriel (historical)
+				Caballero Battery (historical)
+				Camp Santiago
+				Coast Guard Air Station Borinquen
+				Coast Guard Station San Juan
+				Cuarteles Militares (historical)
+				El Arsenal (historical)
+				El Morro (historical)
+				Fort Allen
+				Fort Allen (historical)
+				Fort Amezquita (historical)
+				Fort Buchanan
+				Fuerte de San Agustin (historical)
+				Fuerte de Santa Elena (historical)
+				Fuerte de la Perlas (historical)
+				Guardia Nacional
+				Hangar 21 Guadia Nacional
+				Isabel Segunda Fort (historical)
+				Naval Base San Juan
+				Naval Security Group Activity Sabana Seca
+				Naval Station Roosevelt Roads
+				Reservación de Guardia Nacional
+				San Cristóbal (historical)
+			Mine (PR)
+				Foso de Arcilla
+				Foso de Préstamo
+				Monserrate (historical)
+			Park (PR)
+				Abraham Lincoln Statue
+				Aguada Parque de Colón
+				Antiguo Estadio Municipal (historical)
+				Area Recreativa Alfonso Costa Fornes
+				Area Recreativa Orlando Lopez Martinez
+				Area Recreativa Real Patillas
+				Arecibo Centro Plaza
+				Bairoa Park
+				Ballaja Plaza
+				Bano de Oro Natural Area
+				Bano de Oro Trail
+				Bastion de las Palmas (historical)
+				Boqueron Wildlife Refuge
+				Cabo Rojo National Wildlife Refuge
+				Cancha Arquelio Torres Ramirez
+				Cancha Bajo Techo
+				Cancha Doctoro Edwin Puruco Halasco
+				Cancha Doctoro Pedro Albizu Campos
+				Cancha Ernesto Vaquez Diaz
+				Cancha La Puntilla
+				Cancha Lauro Davila
+				Cancha Lincoln
+				Cancha Mickey Coll
+				Cancha Municipal Bajo Techo
+				Cancha Pepin Cestero
+				Cancha Viejas
+				Cancha el Bolo Jimenez
+				Cancho Pedro Hernandez
+				Caneha Benjamin Choby Ortiz
+				Cayos de la Cordillera Nature Reserve
+				Centro Comunal
+				Centro Plaza Lajas
+				Centro Vacacional de Boqueron
+				Christopher Columbus Statue
+				Ciudad Deportiva Roberto Clemente
+				College Park
+				Colliseo Gallistico
+				Complejo Deportivo
+				Complejo Deportivo Carcano Alicea
+				Complejo Deportivo Francisco Pancho Coimbre
+				Complejo Deportivo Jose Changy Diaz
+				Complejo Deportivo Jose Vicente Rivera Borras
+				Complejo Deportivo Municipal
+				Complejo Recreativo Angel Lile Medina
+				Complejo Recreativo Guarionex
+				Complejo Recreativo Isabelino Vicicora
+				Culebra National Wildlife Refuge
+				Culebra Nature Reserve
+				Don Juan de Amezouita y Quixano Monument
+				Dora Colon Clavell Urban Park
+				El Paterre
+				Estadio Adolfo Hanni Carillo
+				Estadio Cristobal Caguitas Colon
+				Estadio Felix Mantilla
+				Estadio Felix Millan
+				Estadio Hnos Ernesto y Juan Mira
+				Estadio Jose Cheo Cruz
+				Estadio Jose Joe Barbosa
+				Estadio Juan Ramon Loubriel
+				Estadio Luis A Canena Marquez
+				Estadio Luis Tite Arroyo
+				Estadio Manuel Carrasquillo Herpen
+				Estadio Manuel Gomez La Norsa
+				Estadio Manuel Gonzales
+				Estadio Municipal Guaynabo
+				Estadio Municipal Juan Ramon Lubriel
+				Estadio Municipal Luis Guillermo Moreno
+				Estadio Osvaldo Gutierrez
+				Estadio Ovidio de Jesus
+				Estadio Peruchin Cepeda
+				Estadio Rafael Marrero
+				Estadio Rosario Francisco Paoli
+				Estadio de Aguada
+				Estadio de Barranquitas
+				Estuanna Nacional Bahia Jobos Hunting Reserve
+				General Antonio Valero Statue
+				Hipodromo el Nuevo Comandante
+				Isla Caja de Muerto Nature Reserve
+				Isla Verde Mall
+				Isla de Mona Nature Reserve
+				Laguna Tortuguero Nature Reserve
+				Lake Luchetti Reserve
+				Luis A Ferre Science Park
+				Mayaguez Mall
+				Mayaguez Zoo
+				Monumiento a Santa Rosa de Lima
+				Monumiento a los Soldados Caidos en Combate
+				Monumiento a o Colon Delgado
+				Munoz Rivera Plaza
+				Palmer Plaza
+				Paquito Montaner Stadium
+				Parque Acuatico
+				Parque Alejandro Jerena Colon
+				Parque Angel Guifo Montalvo
+				Parque Angel Ramon Mora
+				Parque Angelita Linda
+				Parque Arturo Lluveras
+				Parque Atletico Charles H Terry
+				Parque Atletico de Paris
+				Parque Atlético Ildefonso Sola Morals
+				Parque Atlético Ovidio Rodriquez
+				Parque Barbosa
+				Parque Carlos Cajigas
+				Parque Central
+				Parque Central de Bayamon
+				Parque Ceremonial Tibes
+				Parque Ceremonial de Indigena Caguana
+				Parque Damaso Rivera
+				Parque Doctor José N Gándara
+				Parque Dolores Cruz
+				Parque Don Pedro Albizu Campos
+				Parque Evaristo Varo Boldan
+				Parque Felipe Diaz Torres
+				Parque Frain E Jesus
+				Parque Herminio Ortiz
+				Parque Humberto Linares
+				Parque Infantil
+				Parque Infantil Julio Rojas Reyes
+				Parque Isidoro García
+				Parque Jesus M Fuertes
+				Parque Jesus Piñero
+				Parque Jose A Mendez Frangu
+				Parque Jose I Machado
+				Parque Jose Ramon Marrero
+				Parque Juan Cheo Lopez Caba
+				Parque Juan Ramierz Ortiz
+				Parque Junghans
+				Parque La Juventud
+				Parque La Merced
+				Parque La Salle
+				Parque Las Cascadas
+				Parque Las Cavernals Rio Camuy
+				Parque Luis Cruz
+				Parque Luis Munoz Rivera
+				Parque Luisa Canena Marquez
+				Parque Managas Pista Atletica
+				Parque Manolo Fontanez
+				Parque Marcelino Blondet
+				Parque Maros A Massini
+				Parque Montaner
+				Parque Muñoz Rivera
+				Parque Nacional Isla de Cabras
+				Parque Paraiso
+				Parque Pedro M Caratini
+				Parque Pedro Millan Clara
+				Parque Recreativo La Esperanza Jose Alvarez Brunet
+				Parque Recreativo Pasivo Julio Rodriguez Olmo
+				Parque Rio Camuy Paseo Tablado
+				Parque San Miguel
+				Parque Santiago Iglesias Pantín
+				Parque Servando Tatito Carrasquillo
+				Parque Sixto Escobar
+				Parque Suau
+				Parque Tricentenario
+				Parque Valencia
+				Parque Vending
+				Parque de Benefencia
+				Parque de Bombas
+				Parque de Cabailos de Paso Fino
+				Parque de Colón
+				Parque de Las Flores
+				Parque de Pelota
+				Parque de Santo Domingo
+				Parque de Valenciano
+				Parque de la Abolición
+				Parque de la Ceiba
+				Parque de las Palomas
+				Parque de los Proceres
+				Parque de los Salseros
+				Parque del Monte
+				Parque del Rio
+				Parque del Sol
+				Parque del Turabo
+				Parque la Esperanza
+				Paseo Julia de Burgos
+				Paseo de Diego
+				Paseo de la Princesa
+				Pista Atletica
+				Pista Osvaldo Rivera Escalera
+				Plaza Angora
+				Plaza Antonia Quinones
+				Plaza Bairoa
+				Plaza Baldorioty
+				Plaza Colón
+				Plaza Degetau
+				Plaza Francisco Mariano Quiones
+				Plaza Juan Ponce de Leon
+				Plaza Luis Munoz Rivera
+				Plaza Marina
+				Plaza Munoz Rivera
+				Plaza Norarte
+				Plaza Ponce de Leon
+				Plaza Rafael Cordero
+				Plaza Rio Hondo Shopping Center
+				Plaza Salvador Brau
+				Plaza San Patrico
+				Plaza Santiago
+				Plaza de Armas
+				Plaza de Armas de San Cristóbal
+				Plaza de Baldorioty de Castro
+				Plaza de Ballaia
+				Plaza de Beneficencia
+				Plaza de Cayey
+				Plaza de Hostos
+				Plaza de Recreo
+				Plaza de San Francisco (historical)
+				Plaza de San Jose
+				Plaza de la Catedral
+				Plaza de la Fortaleza (historical)
+				Plaza de la Marina
+				Plaza de la Revolucion
+				Plaza del Migrante
+				Plaza del Oeste
+				Plaza del Quinto Centenario
+				Plaza del Veterano
+				Plaza el Fuerte Victor Rojas
+				Plaza el Negro
+				Plaza el Troche
+				Plaza of the Cathedral
+				Plazoleta de Isla Verde
+				Plazoleta de San Juan
+				Plazoleta del Canton
+				Plazoleta del Puerto
+				Plazuela Las Monjas
+				Plazuela de la Rogativa
+				Poly Deportivo Frankie Colon
+				Ponce de Lyon Statue
+				Quintana Racing Park (historical)
+				Ramon Ortiz Rivero Statue
+				Refugio de Aves de Buerón
+				Reserva Natural Laguna de Joyuda
+				Reserva Natural de las Cabezas de San Juan
+				River Park
+				Riverside Park
+				San Francisco Plaza
+				San Juan Municipal Park
+				San Juan National Historic Site
+				Sixto Escobar Stadium
+				Space Rocket Plaza
+				Taino Park
+				University of Puerto Rico Jardin Botanico
+				Villa Fontana Park
+				Vistamar Plaza
+				Área de Recreo El Yunque
+			Plain (PR)
+				Sabana Montalva
+			Populated Place (PR)
+				Aceitunas
+				Aceitunas Comunidad
+				Acevedo
+				Adjuntas
+				Adjuntas Zona Urbana
+				Aguacate
+				Aguada
+				Aguada Zona Urbana
+				Aguadilla
+				Aguadilla Zona Urbana
+				Aguas Buenas
+				Aguas Buenas Zona Urbana
+				Aguas Claras
+				Aguas Claras Comunidad
+				Aguas Saladas Blancas
+				Aguilita
+				Aguilita Comunidad
+				Aibonito
+				Aibonito Zona Urbana
+				Alamar
+				Alatos de Fuente
+				Alcantavilla
+				Aldea Cintrón
+				Alegría
+				Algarrobo
+				Alhambra Jerusalem
+				Alianza
+				Alianza Comunidad
+				Allende
+				Almira
+				Almácigo Bajo
+				Alta Monte
+				Altagracia
+				Altamesa
+				Altamira
+				Altavilla
+				Altavista
+				Alturas de Adjuntas
+				Alturas de Aguada
+				Alturas de Berwind
+				Alturas de Boriquen
+				Alturas de Cana
+				Alturas de Ciales
+				Alturas de Cibuco
+				Alturas de Cupey
+				Alturas de Fairview
+				Alturas de Flamboyan
+				Alturas de Florida
+				Alturas de Inter-Americana
+				Alturas de Lajas Number 1
+				Alturas de Lajas Number 2
+				Alturas de Peneulas
+				Alturas de Penuelas
+				Alturas de San Benito
+				Alturas de San Jose
+				Alturas de San Lorenzo
+				Alturas de San Sauci
+				Alturas de Santa Maria
+				Alturas de Villas del Rey
+				Alturas de Yanes Primera Seccion
+				Alturas de Yanes Segunda Seccion
+				Amador
+				Amalia Marin
+				Amelia
+				Amuelas
+				Animas
+				Animas Comunidad
+				Anon Raices Comunidad
+				Antillana
+				Antón Ruiz
+				Antón Ruíz Comunidad
+				Aponte
+				April Garden
+				Aquilino
+				Arboteda
+				Archilla Cabrena
+				Arecibo
+				Arecibo Gardens
+				Arecibo Zona Urbana
+				Arenal
+				Arenales
+				Arenas
+				Arroyo
+				Arroyo Zona Urbana
+				Arturo Lluberas
+				Arús
+				Asomante
+				Atenas
+				Atlantic View
+				Avila
+				Añasco
+				Añasco Zona Urbana
+				Bahia
+				Bahia Guayanilla 2
+				Bairoa
+				Bairoa Golden Gate
+				Bairoa La Vienticinco Comunidad
+				Bajadero
+				Bajadero Comunidad
+				Bajandas
+				Bajandas Comunidad
+				Balboa
+				Baldorioty de Castro
+				Baldrich
+				Ballajá
+				Balneario de Caña Gorda
+				Banuchi (historical)
+				Barahona
+				Barahona Comunidad
+				Baralt
+				Barcelona
+				Barceloneta
+				Barceloneta Zona Urbana
+				Barinas
+				Barranca
+				Barrancas
+				Barranquitas
+				Barranquitas Zona Urbana
+				Barriada Aguilar
+				Barriada Buenos Aires
+				Barriada Chinto Rodon
+				Barriada Clan
+				Barriada Clark
+				Barriada El Caribe
+				Barriada Jaime L Drew
+				Barriada La Rivera
+				Barriada Marin
+				Barriada Monserrate
+				Barriada Monte Santo
+				Barriada Polvorin
+				Barriada Rodriguez
+				Barriada Sambrana
+				Barriada San Jose
+				Barriada San Luis
+				Barriada San Nicholas
+				Barriada Texas
+				Barriada Tomei
+				Barriada Vega
+				Barriada Viera
+				Barrio Colo
+				Barrio Guayabo
+				Barrio Guaypao
+				Barrio Indios
+				Barrio Limones
+				Barrio Nuevo
+				Barrrio Catalana
+				Bartolo
+				Bartolo Comunidad
+				Basilo Davila
+				Bay View
+				Bayamon
+				Bayamoncito
+				Bayamón
+				Bayamón Comunidad
+				Bayamón Gardens
+				Bayamón Zona Urbana
+				Bayaney
+				Baños de Coamo
+				Beatriz
+				Belisa
+				Bella Vista
+				Bella Vista Height
+				Bello Horizonte
+				Belmonte
+				Beltrán
+				Belvedere
+				Benitez
+				Benítez Comunidad
+				Berio
+				Berwind Estates
+				Besosa
+				Betances
+				Betances Comunidad
+				Beverly Hills
+				Biascoechea
+				Bizarreta
+				Biáfara
+				Blasina
+				Boca Chica
+				Bonneville
+				Bonneville Heights
+				Boqueron
+				Boquerón
+				Boquerón Comunidad
+				Boquillas
+				Borinquen
+				Boriquen Gardens
+				Borrás
+				Bosque de Rio
+				Bosque del Lago
+				Botijas
+				Boulevarda Cambalache
+				Boulevarda Jaguas
+				Boulevarda Korea
+				Boulevarda Machuchal
+				Boulevarda Montanez
+				Boulevarda Roosevelt
+				Boulevarda Vientan
+				Boulevardo Buenos Aires
+				Boulevardo Majadero
+				Boulevardo Tomas de Castro II
+				Boulvearda Pena
+				Branderi
+				Brasilia
+				Brenas
+				Breñas Comunidad
+				Brisa del Plata
+				Brisas de Aibonito
+				Brisas de Ceiba I
+				Brisas de Cieba
+				Brisas de Mal
+				Brisas del Mar
+				Brooklyn
+				Bucaná
+				Bucarabones
+				Bucaré
+				Buen Consejo
+				Buena Vista
+				Buena Vista Comunidad
+				Buenaventura
+				Buenos Aires
+				Bufalo
+				Buso
+				Buyones
+				Bélgica
+				Búfalo Comunidad
+				Caban
+				Cabo Rojo
+				Cabo Rojo Zona Urbana
+				Cabán Comunidad
+				Cacao
+				Cacao Comunidad
+				Caguas
+				Caguas Gardens
+				Caguas Norte
+				Caguas Zona Urbana
+				Caguax
+				Calimano
+				Calzada
+				Calzada Comunidad
+				Camaceyes
+				Camarones
+				Cambalache
+				Cambridge Park
+				Cambute
+				Camino Delmar
+				Camino del Sur
+				Campamento
+				Campamento Borinquén
+				Campamento Buena Vista
+				Campamento Crozier
+				Campamento Eliza Colberg
+				Campamento Guajataca
+				Campamento Guavate
+				Campamento Piñones
+				Campamento Punta Lima
+				Campamento Radley
+				Campamento Real
+				Campamento Santana
+				Campamento Susúa
+				Campamento Zarzal
+				Campamento de Niños
+				Campanilla
+				Campanilla Comunidad
+				Campo Alegre
+				Campo Rey
+				Campo Rico
+				Campo Rico Comunidad
+				Campo Verde
+				Camposilo (historical)
+				Camuy
+				Camuy Zona Urbana
+				Cana
+				Candelaria
+				Candelaria Arenas
+				Candelaria Arenas Comunidad
+				Candelaria Comunidad
+				Candelero Abajo Comunidad
+				Candelero Arriba
+				Candelero Arriba Comunidad
+				Canovanas
+				Canta Gallo
+				Cantagallo
+				Cantera
+				Cantero
+				Canterra
+				Canto de Sapo
+				Canóvanas
+				Canóvanas Zona Urbana
+				Caonillas
+				Caparra Hills
+				Caparra Terrace
+				Capitanejo
+				Capitanejo Comunidad
+				Capá
+				Carcel
+				Carioca
+				Carmelita
+				Carmen
+				Carola
+				Carolina
+				Carolina Zona Urbana
+				Carraizo Alto
+				Carrizales
+				Carrizales Comunidad
+				Carro
+				Casa Blanca
+				Casa del Rey
+				Caserio Doctor Gándara
+				Caserio Doctor Pila
+				Castañer
+				Castellania Gardens
+				Catalina
+				Cataño
+				Cataño Zona Urbana
+				Cayey
+				Cayey Zona Urbana
+				Cayo Hueso
+				Cayuco
+				Cayuco Comunidad
+				Cayures
+				Cañaboncito
+				Cañas
+				Ceiba
+				Ceiba Comunidad
+				Ceiba Zona Urbana
+				Celada
+				Celada Comunidad
+				Celina
+				Celitos
+				Central Aguirre
+				Central Aguirre Comunidad
+				Central Carmen (historical)
+				Central Los Caños
+				Central Vannia (historical)
+				Centro Calvache
+				Centro Palmar
+				Centro Puntas
+				Centro Vacacional Recidencial Recinto La Catala
+				Centro de Detencion Regional
+				Cercadillo
+				Cerrillos
+				Cerrillos Hoyos Comunidad
+				Cerro Gordo
+				Cerro del Calvario
+				Chalet de la Colina
+				Chalets de Bayamon
+				Chalets del Parque
+				Charco Hondo
+				Chardón
+				Chestnut Hill
+				Chún Chín
+				Ciales
+				Ciales Zona Urbana
+				Cidra
+				Cidra Zona Urbana
+				Cimarrona
+				Cintrona Segunda
+				Ciudad Universitaria
+				Clausells
+				Club Manor
+				Coabey
+				Coamo
+				Coamo Zona Urbana
+				Coco
+				Coco Comunidad
+				Colimar
+				Colinas Vendes
+				Colinas de Curry
+				Colinas de Fair View
+				Colinas de Gurabo
+				Colinas de Hatillo
+				Colinas de Monte Llano
+				Colinas de Villa Rosa
+				Colinas de la Parguera
+				Colinas del Marques
+				Colinas del Oeste
+				Colinas del Yunque
+				College Park
+				Collores
+				Colonia Bomba (historical)
+				Colonia Bordelaise (historical)
+				Colonia Buena Vista (historical)
+				Colonia Dolores
+				Colonia Indios (historical)
+				Colonia Luján
+				Colonia Puerto Real
+				Colonia San Isidoro (historical)
+				Coloso
+				Columbia
+				Columbus Landing
+				Combate
+				Comerío
+				Comerío Zona Urbana
+				Cometa
+				Compamento Gurabo
+				Comunas
+				Comunas Comunidad
+				Comunidad Borinquen
+				Comunidad Caracoles
+				Comunidad Carmen
+				Comunidad Cristina
+				Comunidad Extension San Jose
+				Comunidad Gandara
+				Comunidad La Ponderosa
+				Comunidad Las Casitas
+				Comunidad Matienzo Cintron
+				Comunidad Palmar Novoa II
+				Comunidad Palmer Noroa
+				Comunidad Playa
+				Comunidad Ramos
+				Comunidad Rio Plantation
+				Comunidad Sabana
+				Comunidad San Luis
+				Comunidad Santa Rosa
+				Comunidad Villa Alegre
+				Comunidad Villa Angelina
+				Comunidad Villa Brabe
+				Comunidad Villa Pulga
+				Concordia
+				Concordia Gardens
+				Condado
+				Condado Moderno
+				Conde Ávila
+				Condelaria
+				Constancia
+				Consumo
+				Convento
+				Coqui II
+				Coquí
+				Coquí Comunidad
+				Corazón
+				Corazón Comunidad
+				Corcovado
+				Corcovado Comunidad
+				Cornelia
+				Corozal
+				Corozal Zona Urbana
+				Corozo
+				Corral Viejo
+				Corral Viejo Comunidad
+				Corrales
+				Corrientes
+				Costa Azul
+				Costa Brava
+				Costa Dorado
+				Costa Este
+				Costa Sur
+				Costa de Oro
+				Costa del Norte (historical)
+				Costal Azul
+				Coto
+				Coto Laurel
+				Coto Laurel Comunidad
+				Coto Norte
+				Coto Norte Comunidad
+				Coto Sur
+				Country Club
+				Country Club Extension
+				Country States
+				Country View
+				Cristina
+				Cruce Dávila
+				Cruce Magueyes
+				Cuarta de Tierra
+				Cuatro Calles
+				Cuatro Calles (historical)
+				Cuatro Caminos
+				Cuba
+				Cucharillas
+				Cuebas
+				Cuesta de las Piedras
+				Culebra
+				Culebra Zona Urbana
+				Cupey Gardens
+				Céspedes
+				Córcega
+				Córdova Dávila
+				Daguao
+				Daguao Comunidad
+				Daguey
+				Daney
+				Davila
+				Davita y Llenza
+				De Diego
+				Del Carmen
+				Delicias
+				Descalabrado
+				Destino
+				Desvío Dolores
+				Divisoria
+				Dolores Gonzales Diaz Don Lolo
+				Domencech
+				Domingo Ortiz
+				Domingo Ruíz
+				Dominguito
+				Dona Clara
+				Dorado
+				Dorado Zona Urbana
+				Dorado del Mar
+				Doraville
+				Dos Bocas
+				Dos Pinos
+				Dos Rios
+				Duque
+				Duque Comunidad
+				El Alamo
+				El Alto
+				El Arrendado
+				El Balneario
+				El Banco
+				El Bosque
+				El Bronce
+				El Brujo
+				El Cachete
+				El Cantito
+				El Carmen
+				El Cartijo
+				El Centro
+				El Cerro
+				El Chino
+				El Cinco
+				El Comandante
+				El Combate
+				El Combate Comunidad
+				El Condado
+				El Conquistador
+				El Coqui
+				El Cortijo
+				El Coto
+				El Culebrinas
+				El Dique
+				El Eden
+				El Espino
+				El Faro
+				El Frutal
+				El Guano
+				El Guayabal
+				El Hoyo
+				El Laberinto
+				El Madrigal
+				El Mangó
+				El Mangó Comunidad
+				El Minao
+				El Mirador
+				El Naranjal
+				El Naranjito
+				El Negro
+				El Negro Comunidad
+				El Ocho
+				El Ojo
+				El Ojo Comunidad
+				El Pajuil
+				El Palmar
+				El Paradiso
+				El Paraiso
+				El Paraiso Comunidad
+				El Plantino
+				El Polvorín
+				El Portón
+				El Pueblito
+				El Pueblo del Niño
+				El Pulguero
+				El Recreo
+				El Remanso
+				El Retiro
+				El Rosario
+				El Saco
+				El Salto
+				El Senorial
+				El Tumbao
+				El Tumbao Comunidad
+				El Valle
+				El Vedado
+				El Verde
+				El Viejo San Juan
+				El Vigía
+				El Vivero
+				El Yerbo
+				Eleanor Roosevelt
+				Electra
+				Elizabeth
+				Emajagua
+				Emajagua Comunidad
+				Emerito Estra da Rivera
+				Enramada
+				Ensanche Martinez
+				Ensenada
+				Entrerios
+				Escuela La Prieta
+				Espanta Sueño
+				Esperanza
+				Esperanza Comunidad
+				Espino
+				Espino Comunidad
+				Espinosa
+				Estación Botija
+				Estación Naguabo
+				Estación Santa Isabel
+				Estadio
+				Estancias Del Llano
+				Estancias Hatillo
+				Estancias de Cerro Gordo
+				Estancias de Degetau I
+				Estancias de Degetau II
+				Estancias de Florida
+				Estancias de San Fernando
+				Estancias de San Lorenzo
+				Estancias de Turabo
+				Estancias del Camino
+				Estancias del Rocio
+				Estansia
+				Estebania
+				Extension Alturas de Cibuco
+				Extension El Valle
+				Extension El Verde
+				Extension Higuillar
+				Extension Jardines de Arroyo
+				Extension Jardines de Santa Isabel
+				Extension La Carmen
+				Extension Las Casas
+				Extension Las Mercedes
+				Extension Marquez
+				Extension Metropolis
+				Extension O'Neill
+				Extension Padre Quiones
+				Extension Roig
+				Extension San Jose
+				Extension Santa Elena De Monte II
+				Extension Santa Elena Del Monte III
+				Extension Santa Maria
+				Extension Santa Paula
+				Extension Sierra Bayamon
+				Extension Vista Mar
+				Extension del Carmen
+				Extensión Mariani
+				Factor
+				Fagot
+				Fairview
+				Fajardo
+				Fajardo Gardens
+				Fajardo Zona Urbana
+				Faría
+				Felicia I
+				Feliciano
+				Felix Cordova Davila
+				Fermina
+				Fernandez
+				Fernandez Colon
+				Filial Amor (historical)
+				Finca Juanita
+				Finca La Corza
+				Finca Marini
+				Finca Piñones
+				Finca San Miguel
+				Flamboyan
+				Flamboyant Gardens
+				Flamingo Garden
+				Flamingo Hills
+				Floral Park
+				Florida
+				Florida Zona Urbana
+				Forest Hills
+				Fortuna
+				Francisco O Ortega
+				Francisco Serrano
+				Franquez
+				Fraternidad
+				Freire
+				Fronteras de Bayamon
+				Fránquez Comunidad
+				Fuerte San Gerónimo
+				Fuig
+				Fuig Comunidad
+				G. L. Garcia
+				G. L. García Comunidad
+				Galateo
+				Galateo Bajo
+				Galateo Comunidad
+				Galicias
+				Garcia
+				Garcia Ponce
+				García
+				Garden Hills
+				Gardenville
+				Garita
+				Garona
+				Garrochales
+				Garrochales Comunidad
+				Georgetown
+				Gidralter
+				Glenview
+				Golden Gates
+				Golden Hill
+				Gomez
+				Gonzales Seijo
+				Granada Hills
+				Green Hills
+				Gruta de Lourdes
+				Guanaiibo
+				Guanajibo Castillo
+				Guanajiro Homes
+				Guaniquilla
+				Guanábana
+				Guaraguao
+				Guayabal
+				Guayabal Comunidad
+				Guayabo Dulce
+				Guayama
+				Guayama Zona Urbana
+				Guayanilla
+				Guayanilla Zona Urbana
+				Guaydía
+				Guaynabo
+				Guaynabo Zona Urbana
+				Guaypao
+				Gurabo
+				Gurabo Zona Urbana
+				Guánica
+				Guánica Zona Urbana
+				Gándara
+				H. Rivera Colon
+				H. Rivera Colón Comunidad
+				Hacienda Aldea
+				Hacienda Alicia
+				Hacienda Alomar
+				Hacienda Altura
+				Hacienda Amelia
+				Hacienda Américo
+				Hacienda Ana María
+				Hacienda Anadón
+				Hacienda Arbela
+				Hacienda Arbona
+				Hacienda Arcadia
+				Hacienda Artau
+				Hacienda Asunción
+				Hacienda Balare
+				Hacienda Ballester
+				Hacienda Barrancas
+				Hacienda Batíz
+				Hacienda Beatriz Soledad
+				Hacienda Belgodere
+				Hacienda Bermúdez
+				Hacienda Bianchi
+				Hacienda Borinquen
+				Hacienda Buena Vista
+				Hacienda Burenes
+				Hacienda Butler
+				Hacienda Canabal (historical)
+				Hacienda Candelaria
+				Hacienda Carbonell
+				Hacienda Carlota (historical)
+				Hacienda Carmelita
+				Hacienda Carmen
+				Hacienda Casey
+				Hacienda Catalina
+				Hacienda Caño Verde
+				Hacienda Chesari
+				Hacienda Cintrona Primera
+				Hacienda Cipriano
+				Hacienda Clavell
+				Hacienda Colom
+				Hacienda Concepción
+				Hacienda Constancia
+				Hacienda Constanza
+				Hacienda Cortada
+				Hacienda Coto
+				Hacienda Cristina
+				Hacienda Córcega
+				Hacienda Delicias
+				Hacienda Desengaño
+				Hacienda El Banco
+				Hacienda El Fénix
+				Hacienda El Progreso
+				Hacienda El Semil
+				Hacienda El Tesoro
+				Hacienda Esmeralda
+				Hacienda Esperanza
+				Hacienda Espino
+				Hacienda Eugenia
+				Hacienda Fajardo
+				Hacienda Felicia
+				Hacienda Fernández Rosal
+				Hacienda Figueroa
+				Hacienda Flor de Alba
+				Hacienda Florida
+				Hacienda Fortuna
+				Hacienda Fé
+				Hacienda Garau
+				Hacienda Gloria
+				Hacienda Grande
+				Hacienda Gripiñas
+				Hacienda Guayo
+				Hacienda Húcar
+				Hacienda Iberia
+				Hacienda Indiera
+				Hacienda Jauca
+				Hacienda Josefa
+				Hacienda Juanita
+				Hacienda Julia
+				Hacienda Jurutungo
+				Hacienda La Balear
+				Hacienda La Catalana
+				Hacienda La Concordia
+				Hacienda La Delfina
+				Hacienda La Esperanza
+				Hacienda La Gloria
+				Hacienda La Isolina
+				Hacienda La Juanita
+				Hacienda La Luisa
+				Hacienda La Milagrosa
+				Hacienda La Mocha
+				Hacienda La Ratina
+				Hacienda La Rosita
+				Hacienda La Vega
+				Hacienda Lamberti
+				Hacienda Las Abras
+				Hacienda Las Magas
+				Hacienda Las Piñas
+				Hacienda Lealtad
+				Hacienda Leonor
+				Hacienda Limón
+				Hacienda Llanada
+				Hacienda Los Planes
+				Hacienda Loyola
+				Hacienda Luciana
+				Hacienda Luisa
+				Hacienda Manuela
+				Hacienda Maragüez
+				Hacienda Margarita
+				Hacienda Marqués
+				Hacienda María
+				Hacienda María Antonia
+				Hacienda Mata
+				Hacienda Matilde
+				Hacienda Mejias
+				Hacienda Mercado
+				Hacienda Merle
+				Hacienda Miramar
+				Hacienda Miranda
+				Hacienda Mogote
+				Hacienda Molina
+				Hacienda Monserrate
+				Hacienda Morales
+				Hacienda Noez
+				Hacienda Oliva
+				Hacienda Olivieri
+				Hacienda Palés
+				Hacienda Paraíso
+				Hacienda Peñonales
+				Hacienda Piedra Gorda
+				Hacienda Pietri
+				Hacienda Pintado
+				Hacienda Plato Indio
+				Hacienda Polmares
+				Hacienda Ponceña
+				Hacienda Porvenir
+				Hacienda Potala
+				Hacienda Ralate
+				Hacienda Recurso
+				Hacienda Resolución
+				Hacienda Restaurada
+				Hacienda Resurrección
+				Hacienda Retiro
+				Hacienda Reynés
+				Hacienda Ripoll
+				Hacienda Rivera
+				Hacienda Roig
+				Hacienda Rolón
+				Hacienda Rosalí
+				Hacienda Rosario
+				Hacienda Salomé
+				Hacienda San Alberto
+				Hacienda San Antonio
+				Hacienda San Carlos
+				Hacienda San Clemente
+				Hacienda San Isidoro
+				Hacienda San Jose Comunidad
+				Hacienda San José
+				Hacienda San Lorenzo
+				Hacienda San Narciso
+				Hacienda San Pedro
+				Hacienda Santa Anita
+				Hacienda Santa Barbara (historical)
+				Hacienda Santa Bárbara
+				Hacienda Santa Clara
+				Hacienda Santa Elena
+				Hacienda Santa Isabel (historical)
+				Hacienda Santa María
+				Hacienda Santa Rita
+				Hacienda Santa Rosa
+				Hacienda Santa Rosa (historical)
+				Hacienda Santiago
+				Hacienda Tabonuco
+				Hacienda Teresa
+				Hacienda Tetuán
+				Hacienda Tres Hermanas
+				Hacienda Usera
+				Hacienda Vaquiñas
+				Hacienda Vega Grande
+				Hacienda Veremos
+				Hacienda Vertedero
+				Hacienda Vicario
+				Hacienda Vilella
+				Hacienda Vista Alegre
+				Hacienda Vjes (historical)
+				Hacienda Yani
+				Hacienda del Parque
+				Hacienda Úrsula
+				Hatillo
+				Hatillo Del Mar
+				Hatillo Zona Urbana
+				Hato Abajo
+				Hato Arriba
+				Hato Arriba Comunidad
+				Hato Candal
+				Hato Candal Comunidad
+				Hato Tejas
+				Hato Viejo
+				Hector A Piñero
+				Helechal
+				Hermanos Santiago
+				Highland Park
+				Higuillales
+				Higuillar
+				Higüey
+				Hill Brothers
+				Honduras
+				Horizon
+				Hormigueros
+				Hormigueros Zona Urbana
+				Hospital Bella Vista
+				Hospital Concepcion
+				Hoya Grande
+				Hoyo Mulas
+				Humacao
+				Humacao Zona Urbana
+				Huyke
+				Hyde Park
+				Húcares
+				Idamaris Gardens
+				Iglesia
+				Iglesia Virgen de la Providencia
+				Imbery
+				Imbéry Comunidad
+				Imperial Court
+				Indiera Alta
+				Indios
+				Indios Comunidad
+				Ingenio
+				Ingenio Comunidad
+				Irlanda
+				Irlanda Heights
+				Isabel Josefa
+				Isabel Segunda
+				Isabela
+				Isabela Zona Urbana
+				Isidra
+				Isleta
+				Islote
+				Israel
+				Iturregui
+				Jacagua X
+				Jacaguas
+				Jacaranda
+				Jagual
+				Jagual Comunidad
+				Jaguas
+				Jaguas Ventana
+				Jagueyes
+				Jajome
+				Jardin Caribe
+				Jardin Esperanza
+				Jardin de Adjuntas
+				Jardines Los Almendros
+				Jardines Selles
+				Jardines de Aibonito
+				Jardines de Anasco
+				Jardines de Arecibo
+				Jardines de Arroyo
+				Jardines de Barcelona
+				Jardines de Bayamonte
+				Jardines de Borinquen
+				Jardines de Canovanas
+				Jardines de Caparra
+				Jardines de Carolina
+				Jardines de Ceiba I
+				Jardines de Ceiba II
+				Jardines de Ciales
+				Jardines de Condado Moderno
+				Jardines de Country Club
+				Jardines de Dorado
+				Jardines de Humacao
+				Jardines de Juncos
+				Jardines de Lafayette
+				Jardines de Lajas
+				Jardines de Lares
+				Jardines de Loiza
+				Jardines de Mayaquez
+				Jardines de Monaco
+				Jardines de Monte Hatillo
+				Jardines de Monte Llano
+				Jardines de Oriente
+				Jardines de Penuelas
+				Jardines de Ponce
+				Jardines de San Blas
+				Jardines de San Lorenzo
+				Jardines de Toa Alta
+				Jardines de Utuado
+				Jardines de Valencia
+				Jardines de Venturrini
+				Jardines de Villa del Carmen
+				Jardines de Yabucoa
+				Jardines del Caribe
+				Jardines del Noreste
+				Jardines del Paraiso
+				Jarealito
+				Jauca
+				Jauca Comunidad
+				Jayuya
+				Jayuya Abajo
+				Jayuya Zona Urbana
+				Jimenez (historical)
+				Jmari Ramos
+				Joaquin M Andino
+				Jobos
+				Jobos Comunidad
+				John F Kennedy
+				Jose Delgado
+				Jose M Mendez
+				Jose P H Hernandez
+				Jose S Quinones
+				Jose Tormos Diego
+				Josefa
+				José Mercado
+				Joya de los Santos
+				Joyuda
+				Juan Anglade
+				Juana Díaz
+				Juana Díaz Zona Urbana
+				Juana Matos
+				Juncal
+				Juncal Comunidad
+				Juncos
+				Juncos Zona Urbana
+				Junio
+				Jácana
+				Kennedy
+				Korea
+				La Alborada
+				La Aldea
+				La Alhambra
+				La Alianza
+				La Alianza Comunidad
+				La Antigua
+				La Arboleda
+				La Arena
+				La Barra
+				La Bayamonesa
+				La Boca
+				La Cambija
+				La Campina
+				La Capital
+				La Carmen
+				La Casa de Piedra
+				La Ceiba
+				La Changa
+				La Cima
+				La Cuesta
+				La Cumbre
+				La Dolores
+				La Dolores Comunidad
+				La Esperanza
+				La Estancita
+				La Fe
+				La Fermina
+				La Fermina Comunidad
+				La Fuente
+				La Glorieta
+				La González
+				La Granja
+				La Guaba
+				La Guadalupe
+				La Guinea
+				La Guitarra
+				La Hacienda
+				La Inmaculada
+				La Inmaculada II
+				La Joya
+				La Jurado
+				La Liga Comunidad
+				La Lomita
+				La Luisa
+				La Luisa Comunidad
+				La Luna
+				La Marina
+				La Milagrosa
+				La Miligrosa
+				La Mina
+				La Monserrate
+				La Muda
+				La Parada
+				La Parguera
+				La Parguera Comunidad
+				La Pica
+				La Placita
+				La Plata
+				La Playa
+				La Playa Comunidad
+				La Plaza
+				La Plena
+				La Plena Comunidad
+				La Pradera
+				La Pratt
+				La Puente
+				La Quinta
+				La Rambla
+				La Rampla
+				La Riviera
+				La Romana
+				La Soledad
+				La Suiza
+				La Torre
+				La Tosca
+				La Trocha
+				La Vega
+				La Vista
+				La Yuca Comunidad
+				La Zanja
+				Lago de Plata
+				Lagos de Norte
+				Laguna Gardens
+				Lajas
+				Lajas Arriba
+				Lajas Zona Urbana
+				Lamboglia
+				Lamboglia Comunidad
+				Lamela
+				Lares
+				Lares Zona Urbana
+				Las Americas
+				Las Américas
+				Las Antillas
+				Las Arenas
+				Las Carolinas
+				Las Carolinas Comunidad
+				Las Carreras
+				Las Casas
+				Las Claras
+				Las Coles
+				Las Corozas
+				Las Croabas
+				Las Croabas Comunidad
+				Las Cruces
+				Las Cuevas
+				Las Cumbres
+				Las Cunetas
+				Las Cántaras
+				Las Delicias
+				Las Flores
+				Las Guaras
+				Las Guavas
+				Las Guásimas
+				Las Llanadas
+				Las Lomas
+				Las Mareas
+				Las Marias
+				Las Marías
+				Las Marías Comunidad
+				Las Marías Zona Urbana
+				Las Mercedes
+				Las Monjitas
+				Las Ochenta
+				Las Ochenta Comunidad
+				Las Ollas
+				Las Ollas Comunidad
+				Las Palmas
+				Las Piedras
+				Las Piedras Zona Urbana
+				Las Piñas
+				Las Quintas
+				Las Rosales
+				Las Torres
+				Las Tres T
+				Las Vegas
+				Las Viudas
+				Laura
+				Lavadero
+				Lechuga
+				Leprocomio
+				Levittown
+				Levittown Comunidad
+				Liborio Negron Torres
+				Liborio Negrón Torres Comunidad
+				Limas
+				Limones
+				Limón
+				Linda Vista
+				Liro Del Sur
+				Litheda
+				Llanos
+				Llanos Tuna
+				Llanso de Santa Isabel
+				Llavit
+				Lluveras
+				Lluveras Comunidad
+				Loma Alta
+				Loma Linda
+				Lomas
+				Lomas Comunidad
+				Lomas Del Triunfo
+				Lomas Lindas
+				Lomas Verdes
+				Lomas de Santa Marta
+				Lomas de Trujillo Alto
+				Lopez Sicardo
+				Los Almendros
+				Los Angeles
+				Los Caobos
+				Los Cedros
+				Los Cerros
+				Los Choferes
+				Los Claveles
+				Los Colinas
+				Los Colinas Santa Maria
+				Los Coléricas
+				Los Flamboyanes
+				Los Frailes
+				Los Grillos
+				Los Hucares
+				Los Indios
+				Los Llanos
+				Los Llanos Comunidad
+				Los Maestros
+				Los Magos
+				Los Molinos
+				Los Muertos
+				Los Naranjos
+				Los Panes Comunidad
+				Los Perros
+				Los Peñas
+				Los Pinos
+				Los Prados Comunidad
+				Los Puertos
+				Los Pámpanos
+				Los Robles
+				Los Rosales
+				Los Sauces
+				Loíza
+				Loíza Valley
+				Loíza Zona Urbana
+				Lucchetti
+				Luchetti
+				Luis Cintrón
+				Luis Llorens Torres
+				Luis Lloréns Torres Comunidad
+				Luis M. Cintron
+				Luis M. Cintrón Comunidad
+				Luis Munoz Marin
+				Luquillo
+				Luquillo Lomas
+				Luquillo Mar
+				Luquillo Zona Urbana
+				Luyando
+				Luyando Comunidad
+				Mabí
+				Macaná
+				Machuchal
+				Macún
+				Madrid
+				Magas Abajo
+				Magas Arriba
+				Magas Arriba Comunidad
+				Magdalena
+				Magnolia Gardens
+				Maguayo
+				Maguayo Comunidad
+				Magueyes
+				Magueyes (historical)
+				Maizales
+				Malecón
+				Maleza
+				Malpica
+				Mameyal
+				Mameyes
+				Manatí
+				Manatí Zona Urbana
+				Mansion del Norte
+				Mansion del Rio
+				Mansion del Sur
+				Mansiones Monterrey
+				Mansiones de Bairos
+				Mansiones de Espana
+				Mansiones de Rio Piedras
+				Mansiones de Villa Carolina
+				Mansiones de Villanova
+				Mantilla
+				Manuel A Perez
+				Manzanillo
+				Maní
+				Mar Azul
+				Maracayo
+				Maragüez
+				Margarita
+				Maria Antonia
+				Marian I
+				Mariana
+				Mariani
+				Mariano Colón
+				Mariano Colón Comunidad
+				Maricao
+				Maricao Zona Urbana
+				Marina
+				Marina Bahia
+				Marquez
+				Marruecos
+				Marteli
+				Martin Gonzales
+				Martin Martell
+				Martonnel
+				Martorell
+				Martorell Comunidad
+				Martín Peña
+				Marueño
+				Marueño Comunidad
+				María Antonia Comunidad
+				María Jiménez
+				Masso
+				Mata y Orsini
+				Matias
+				Matilde
+				Matojillo
+				Maunabo
+				Maunabo Zona Urbana
+				Mayagüez
+				Mayagüez Terrace
+				Mayagüez Zona Urbana
+				Mayo
+				Media Quijada
+				Medianía Alta
+				Medina
+				Melendez
+				Melillas
+				Membrillo
+				Mendez Lopez
+				Mendoza
+				Meridional
+				Metropolis
+				Mi Querido Viejo
+				Milagros
+				Milaville
+				Minillas
+				Minima Arroyo
+				Minima Brooklin
+				Minima Calimano
+				Minima La Plata
+				Minima San Antonio
+				Minima Verdum
+				Mirador Echevarria
+				Mirador Universitario
+				Miradorde Bairea
+				Miraflores
+				Miramar
+				Miranda
+				Miranda Comunidad
+				Miñi Miñi
+				Moca
+				Moca Gardens
+				Moca Zona Urbana
+				Monacillo
+				Monserrate
+				Monserrate Comunidad
+				Montanez
+				Montaña
+				Monte Bello
+				Monte Brisas
+				Monte Carlo
+				Monte Claro
+				Monte Grande
+				Monte Grande Comunidad
+				Monte Lindo
+				Monte Mar
+				Monte Park
+				Monte Real
+				Monte Rey
+				Monte Verde Comunidad
+				Monte Verdes
+				Montebello
+				Montecillo
+				Montecillo II
+				Monteflores
+				Monterrey
+				Mora
+				Mora Comunidad
+				Morales
+				Morales Díaz
+				Morel Campos
+				Morovis
+				Morovis Zona Urbana
+				Moscou
+				Mosquito
+				Mucarabones
+				Mucarabones Comunidad
+				Muelle de Ponce
+				Muñoz Grillo
+				Muñoz Rivera
+				Muñoz Torruellas
+				Nadal
+				Naguabo
+				Naguabo Valley
+				Naguabo Zona Urbana
+				Naranjales
+				Naranjito
+				Naranjito Zona Urbana
+				Negrito
+				Nemesio Canales
+				Nieves Bonet
+				Nogueras
+				Nola
+				Notre Dame
+				Nuevo
+				Oasis Gardens
+				Obrero
+				Ocean Park
+				Oceanview
+				Ojo de Agua
+				Olazabal
+				Olimpo
+				Olimpo Comunidad
+				Olivares
+				Oliver
+				Ollas Hondas
+				Oriente
+				Oriente (historical)
+				Orocovis
+				Orocovis Zona Urbana
+				Ortiga
+				Ortíz
+				Pacalelo 38
+				Pacelas Juan Sanchez
+				Pacifica
+				Padilla
+				Pajonal
+				Pajonal Comunidad
+				Palma Sola
+				Palmarejo
+				Palmarejo Comunidad
+				Palmarenas
+				Palmas
+				Palmas Comunidad
+				Palmas del Mar
+				Palmas del Mar Comunidad
+				Palmas del Turabo
+				Palmer
+				Palmer Comunidad
+				Palmer de Rio
+				Palo Alto
+				Palo Blanco
+				Palo Seco
+				Palo Seco Comunidad
+				Paloma
+				Palomar
+				Palomas
+				Palomas Comunidad
+				Pamorama
+				Parabueyón
+				Parada de Señal Fulminante
+				Parada de Señal Irizarry
+				Paraíso
+				Parce Las Blondet
+				Parcelas Falú
+				Parcelas La Milagrosa
+				Parcelas Lomas Verdes
+				Parcelas Machos
+				Parcelas Mandry Comunidad
+				Parcelas Nuevas
+				Parcelas Nuevas Comunidad
+				Parcelas Peñuelas
+				Parcelas Peñuelas Comunidad
+				Parcelas Viejas Borinquen Comunidad
+				Parcelas de Navarro Comunidad
+				Parcelas la Milagrosa Comunidad
+				Parguera
+				Paris
+				Park Gardens
+				Parker
+				Parkhurst
+				Parkside
+				Parkville
+				Parque
+				Parque Atletico Francisco Pagan
+				Parque Bucare II
+				Parque Forestal
+				Parque Isla Verde
+				Parque Las Mercedes
+				Parque de Bonneville
+				Parque del Monte
+				Paseo Alta
+				Paseo Las Brisa
+				Paseo Las Vistas
+				Paseo Mayor
+				Paseo Monte Carlos
+				Paseo Real
+				Paseo Rivera
+				Paseo de Dorado
+				Paseo de la Fuentes
+				Paseo del Prado
+				Paseo la Sultana
+				Paso Seco
+				Pastillito
+				Pastillo
+				Pastillo Cana
+				Pasto Viejo
+				Pastos
+				Pastos Comunidad
+				Patagonia
+				Patillas
+				Patillas Zona Urbana
+				Paulina
+				Pedro Regalado Diaz
+				Pedro Tomas La Valle
+				Pellejas
+				Pena
+				Penuelas Valley
+				Perchas
+				Pereyo
+				Perez Matos
+				Peña Cortada
+				Peña Pobre
+				Peña Pobre Comunidad
+				Peñuelas
+				Peñuelas Zona Urbana
+				Pica
+				Pico
+				Pico Alalaya
+				Piedra Aguza Comunidad
+				Piedra Aguzada
+				Piedra Gorda
+				Piedra Gorda Comunidad
+				Piedras Blancas
+				Pitahaya
+				Piña
+				Piñas
+				Piñones
+				Plan Bonito
+				Plantaje
+				Playa Azul
+				Playa Cortada
+				Playa Fortuna
+				Playa Fortuna Comunidad
+				Playa Grande
+				Playa Sardinera
+				Playa de Fajardo
+				Playa de Guayanilla
+				Playa de Guayanés
+				Playa de Guánica
+				Playa de Humacao
+				Playa de Naguabo
+				Playa de Ponce
+				Playa de Salinas
+				Playa de Santa Isabel
+				Playita
+				Playita Comunidad
+				Playita Cortada
+				Playita Cortada Comunidad
+				Playita Machete
+				Poblado Sitios
+				Pole Ojea
+				Pole Ojea Comunidad
+				Ponce
+				Ponce Zona Urbana
+				Ponce de Leon
+				Ponce de León
+				Porta Coeli
+				Portales Reales
+				Potala Pastillo
+				Potala Pastillo Comunidad
+				Pradera
+				Primavera
+				Providencia
+				Proyecto Barracón
+				Pueblito Del Río Comunidad
+				Pueblito de Ponce
+				Pueblito del Carmen Comunidad
+				Pueblito del Rio
+				Pueblo Norte
+				Pueblo Nuevo
+				Pueblo Seco
+				Pueblo Sur
+				Puente Blanco
+				Puerta de Tierra
+				Puerto Maunabo
+				Puerto Nuevo
+				Puerto Nuevo Norte
+				Puerto Real
+				Puerto Real Comunidad
+				Puerto de Jobos
+				Pugnado Afuera
+				Punta Brava
+				Punta Las Marías
+				Punta Santiago
+				Punta Santiago Comunidad
+				Punto Cubano
+				Pájaro Puertorriqueño
+				Pájaros
+				Pájaros Comunidad
+				Pérez Morris
+				Quebrada
+				Quebrada Colorado
+				Quebrada Comunidad
+				Quebrada Grande
+				Quebrada Lajas (historical)
+				Quebrada Seca
+				Quebrada del Agua Comunidad
+				Quebradillas
+				Quebradillas Zona Urbana
+				Quemados
+				Quinta Esperanza
+				Quinta de Monserrate
+				Quintana
+				Quintas de Canovanas
+				Quintas de Country Club
+				Quintas de Dorado
+				Quintas de Flamingo
+				Quintas de Humacao
+				Quintas de Parkville
+				Quintas de San Francisco
+				Quintas del Norte
+				Quintas del Rio
+				Rabo del Buey
+				Radioville
+				Rafael Arroyo
+				Rafael Capo
+				Rafael Capó Comunidad
+				Rafael Gonzalez
+				Rafael González Comunidad
+				Rafael Hernandez
+				Rafael Hernández Comunidad
+				Ramirez Agrait
+				Ramirez de Arellano
+				Ramos
+				Ramos Antonini
+				Ramos Comunidad
+				Ramón Colón
+				Ramón Nevares
+				Ramón Pabón
+				Real Abajo
+				Real Anón
+				Real Arriba
+				Recio
+				Regadera
+				Reparto
+				Reparto Arenales
+				Reparto Bella Vista
+				Reparto Cabilla
+				Reparto Colinas de Coamo
+				Reparto Colinas de Monte Verde
+				Reparto Diaz
+				Reparto El Valle
+				Reparto Flamboyan
+				Reparto Guaynes
+				Reparto Horizonte
+				Reparto La Esperanza
+				Reparto La Playa
+				Reparto La Sabana
+				Reparto Los Maestros
+				Reparto Minerva
+				Reparto Miraflores
+				Reparto Rivera
+				Reparto Roman
+				Reparto San Jose
+				Reparto San Rafael
+				Reparto Santiago
+				Reparto Sevilla
+				Reparto Universitario
+				Reparto Universitario San Antonio
+				Reparto Valle Alto
+				Reparto Valle Verde
+				Reparto Zarina
+				Residence San Juan Bautista
+				Residencial Alturas de Adjuntas
+				Residencial Antonio Davila Freyte
+				Residencial Bella Vista
+				Residencial Brisas de Arroyo
+				Residencial Brisas de Bayamon
+				Residencial Carmen H Martorell
+				Residencial Castellon
+				Residencial Colinas de Jaguas
+				Residencial Doctoro Victor Berrios
+				Residencial Doctoro Zeno Gandia
+				Residencial Dos Rios
+				Residencial Efrain Suarez Negron
+				Residencial El Cemi
+				Residencial El Coqui
+				Residencial El Mirador
+				Residencial El Yuquiyu
+				Residencial Enrique Catoni
+				Residencial Enrique Zorilla
+				Residencial Espiritu Santo
+				Residencial Fernando L Garcia
+				Residencial Francisco Egipciaco
+				Residencial Francisco Figueroa
+				Residencial Francisco Sein
+				Residencial Francisco Vega Sanchez
+				Residencial H Ramirez
+				Residencial Interamericana
+				Residencial Isidro Cora
+				Residencial J F Kennedy
+				Residencial Jardines de Ceiba
+				Residencial Jardines de Cidra
+				Residencial Jardines de Guanica
+				Residencial Jardines de Guaynablo
+				Residencial Jesus T Pinero
+				Residencial Jose Castillo Mercado
+				Residencial Jose Fortis
+				Residencial Jose Gautier Benitez
+				Residencial Juan Ferrer
+				Residencial Juana Matos
+				Residencial La Ceiba
+				Residencial La Meseta
+				Residencial La Montana
+				Residencial La Rivera
+				Residencial Lagos de Blasina
+				Residencial Las Margaritas
+				Residencial Las Palmas
+				Residencial Las Videtas
+				Residencial Los Alamos
+				Residencial Los Flamboyanes
+				Residencial Los Naranjales
+				Residencial Luis Del Carmen Echevaria
+				Residencial Luis Llorens Torres
+				Residencial Luis Pales Matos
+				Residencial Mabo
+				Residencial Manuel J Rivera
+				Residencial Manuel Martorell
+				Residencial Matienzo Cintron
+				Residencial Mattei
+				Residencial Modesto Cintron
+				Residencial Mundo Plaza
+				Residencial Padre Nazario
+				Residencial Plazuela
+				Residencial Prexedes Santiago
+				Residencial Puerto Real
+				Residencial Ramon Adames
+				Residencial Riverdo Tomas M Sorrolla
+				Residencial Ruiz Miranda
+				Residencial Valle Verde
+				Residencial Villa Universidad
+				Residencial Villa del Caribe
+				Residencial Vista Alegre
+				Residencial Vistas de Jagueyes
+				Residencial Yaguez
+				Residencials Jardines de Aguada
+				Resolucion (historical)
+				Reunión
+				Rexmanor
+				Rexville
+				Riachuelo
+				Riego (historical)
+				Rincon Espanol
+				Rincón
+				Rincón Zona Urbana
+				Rio Canas
+				Rio Cristal
+				Rio Grande Hills
+				Rio Hondo IV
+				Rio Piedras
+				Rio Sol
+				Rivera Donato
+				Rivera y Lomas
+				Riveras de Cupey
+				Riverside
+				Riverview
+				Robles
+				Rodríguez Hevia
+				Rodríguez Hevia Comunidad
+				Rolling Hills
+				Romany
+				Roosevelt
+				Rosa María
+				Rosa Sanchez
+				Rosa Sánchez Comunidad
+				Rosario
+				Rosendo Matienzo Cintron
+				Round Hill
+				Royal Gardens
+				Royal Town
+				Rucio
+				Russe
+				Río
+				Río Abajo
+				Río Blanco
+				Río Blanco Comunidad
+				Río Cañas
+				Río Cañas Abajo
+				Río Cañas Abajo Comunidad
+				Río Grande
+				Río Grande Zona Urbana
+				Río Hondo
+				Río Jueyes
+				Río Lajas
+				Río Lajas Comunidad
+				Sabana
+				Sabana Abajo
+				Sabana Alta
+				Sabana Comunidad
+				Sabana Eneas
+				Sabana Eneas Comunidad
+				Sabana Gardens
+				Sabana Grande
+				Sabana Grande Zona Urbana
+				Sabana Hoyos
+				Sabana Hoyos Comunidad
+				Sabana Llana
+				Sabana Llana Abajo
+				Sabana Llana Arriba
+				Sabana Seca
+				Sabana Seca Comunidad
+				Sabanetas
+				Sagrado Corazon
+				Sagrado Corazón
+				Sagrado Corozon
+				Saint Just
+				Salazar
+				Saldaña
+				Salimar
+				Salinas
+				Salinas Zona Urbana
+				Samuel Davila
+				San Agusto
+				San Agustín
+				San Antonio
+				San Antonio Comunidad
+				San Antón
+				San Augustin I
+				San Augustin II
+				San Benito
+				San Carlos
+				San Cristobal
+				San Cristóbal
+				San Diego
+				San Eladio
+				San Felipe
+				San Feliz
+				San Fernando
+				San Francisco
+				San Gerardo
+				San Germán
+				San Germán Zona Urbana
+				San Ildefonso
+				San Isidro
+				San Isidro Comunidad
+				San Joaquin
+				San Jose
+				San Jose II
+				San José
+				San José Comunidad
+				San Juan
+				San Juan Bautista
+				San Juan Chateau
+				San Juan Gardens
+				San Juan Zona Urbana
+				San Lorenzo
+				San Lorenzo Zona Urbana
+				San Luis
+				San Martín
+				San Miguel
+				San Pedro
+				San Rafael
+				San Rafael State
+				San Ramon
+				San Ramón
+				San Salvador
+				San Sauci
+				San Sebastián
+				San Sebastián Zona Urbana
+				San Vicente
+				Sana Muerto
+				Sandin
+				Sandy Hills
+				Santa Ana
+				Santa Barbara
+				Santa Bárbara
+				Santa Bárbara Comunidad
+				Santa Cecilia
+				Santa Clara
+				Santa Clara Comunidad
+				Santa Cruz
+				Santa Domingo
+				Santa Elena
+				Santa Elvira
+				Santa Isabel
+				Santa Isabel Zona Urbana
+				Santa Isidra
+				Santa Isidra 2 Extenstion
+				Santa Isidra I Extension
+				Santa Juana
+				Santa Juanita
+				Santa Maria
+				Santa Marta
+				Santa María
+				Santa Mónica
+				Santa Paula
+				Santa Rita
+				Santa Rosa
+				Santa Rosa Tres
+				Santa Teresa
+				Santa Teresita
+				Santana
+				Santiago
+				Santiago Iglesias
+				Santiago y Lima
+				Santo Domingo
+				Santo Domingo Comunidad
+				Santo Tomas
+				Santoni
+				Santurce
+				Seboruco
+				Sector Abra de Pimiento
+				Sector Alvares
+				Sector Arizon
+				Sector Casualidad
+				Sector Catanito
+				Sector Cementerio
+				Sector Cerro Morales
+				Sector Columbia
+				Sector Dulces Labios
+				Sector Florida
+				Sector Isla Verde
+				Sector La Ceiba
+				Sector La Loma
+				Sector La Sabana
+				Sector La Tosca
+				Sector LaSalle
+				Sector Las Parcelas
+				Sector Laso
+				Sector Loma Santa
+				Sector Los Flores
+				Sector Los Garbanzos
+				Sector Los Gardens
+				Sector Los Quemaos
+				Sector Olimpia
+				Sector Pena Militar
+				Sector Piedras Blancas
+				Sector Pueblo Nuevo
+				Sector Puente Salsa
+				Sector Quemado Interior
+				Sector Rafael Castro
+				Sector Retiro
+				Sector Ruberte
+				Sector Santa Teresita
+				Sector Seboruco
+				Sector Trastalleres
+				Sector Varsovia
+				Sector Villa Brava
+				Sector Villa Casino
+				Sector Vista Alegre
+				Segui
+				Segundo Castillo
+				Selgas
+				Semil
+				Serrano
+				Sesctor Beldum
+				Shanghai
+				Sierra Bayamon
+				Sierra Bayamón
+				Sierra Berdecia
+				Sierra Brava
+				Sierra Linda
+				Silvia
+				Singapur
+				Sobrino
+				Sol y Mar
+				Solimar
+				Soroco
+				Sosa
+				Stella
+				Stella Comunidad
+				Suarez
+				Suchville
+				Sumidero
+				Summit Hills
+				Sunny Hills
+				Sunville
+				Suromar
+				Susúa
+				Suárez
+				Suárez Comunidad
+				Sábalos
+				Tablonal
+				Tablones
+				Tabonuco
+				Tallaboa
+				Tallaboa Alta
+				Tallaboa Alta Comunidad
+				Tallaboa Comunidad
+				Tallaboa Poniente
+				Tamarindo
+				Terazas de Cupey
+				Teresita
+				Terrazas de Guaynabo
+				Tibes Comunidad
+				Tiburones
+				Tiburones Comunidad
+				Tierra Linda
+				Tierras Nuevas Poniente
+				Tierras Nuevas Poniente Comunidad
+				Tintillo
+				Toa Alta
+				Toa Alta Zona Urbana
+				Toa Baja
+				Toa Baja Zona Urbana
+				Toita
+				Toma de Agua
+				Tomás de Castro
+				Torre de la Sabana
+				Torrecillas
+				Torres
+				Torres de Carolinas
+				Torrimar
+				Tosquero
+				Tosquero (historical)
+				Town Hills
+				Town Park
+				Tras Talleres
+				Treasure Island Gardens
+				Treasure Valley
+				Tres Hermanos
+				Triovegabajeno
+				Trujillo Alto
+				Trujillo Alto Zona Urbana
+				Trujillo Bajo
+				Truman
+				Tuque
+				Turabo
+				Turabo Gardens
+				Turabo Heights
+				Turnkey
+				Tío
+				University Gardens
+				Unión
+				Urbanizacion Machin
+				Utuado
+				Utuado Zona Urbana
+				Valencia
+				Valle Alto
+				Valle Arriba Heights
+				Valle Puerto Real
+				Valle Tolina
+				Valle Verde
+				Valle de Cerro Gordo
+				Valle de Guayama
+				Valle de San Juan
+				Valle de Sol
+				Valles de Manati
+				Valparaiso
+				Van Scoy
+				Vapor
+				Varela
+				Vayas
+				Vayas Comunidad
+				Vega Alta
+				Vega Alta Zona Urbana
+				Vega Baja
+				Vega Baja Zona Urbana
+				Vega Linda
+				Vegas
+				Velázquez
+				Venezuela
+				Ventura
+				Venus Gardens
+				Vereda
+				Versailles
+				Vertedero
+				Victor Braegger
+				Victor Rojas Number 1
+				Victoria
+				Victoria Heights
+				Vieques
+				Vieques Comunidad
+				Vieques Zona Urbana
+				Vietnam
+				Villa Alba
+				Villa Alegria
+				Villa Amparo
+				Villa Andalucia
+				Villa Astuarias
+				Villa Avila
+				Villa Barcelona
+				Villa Benni
+				Villa Blanca
+				Villa Borinquen
+				Villa Caliz
+				Villa Campo Alegre
+				Villa Caparra
+				Villa Capri
+				Villa Carolina
+				Villa Clarita
+				Villa Clementina
+				Villa Contessa
+				Villa Criollos
+				Villa Del Carmen
+				Villa Deloamit
+				Villa Elena
+				Villa Escondida
+				Villa España
+				Villa Esperanza
+				Villa Evangelina
+				Villa Fajardo I
+				Villa Flores
+				Villa Fontana
+				Villa Georgetti
+				Villa Graciela
+				Villa Grande
+				Villa Grillasca
+				Villa Hermosa
+				Villa Hilda
+				Villa Humacao
+				Villa Kenny
+				Villa Linares
+				Villa Los Pinos
+				Villa Los Santos
+				Villa Machuelo
+				Villa Mar
+				Villa Marasol
+				Villa Marina
+				Villa Matilde
+				Villa Milagros
+				Villa Muneco
+				Villa Navarro
+				Villa Nevares
+				Villa Norma
+				Villa Nueva
+				Villa Olimpia
+				Villa Palma
+				Villa Palmeras
+				Villa Panamericana
+				Villa Penetro
+				Villa Pesquera
+				Villa Prades
+				Villa Pérez
+				Villa Real
+				Villa Recrero
+				Villa Retiro
+				Villa Rica
+				Villa Ronga
+				Villa Rosa
+				Villa Rosales
+				Villa San Anton
+				Villa San Martin
+				Villa Santa
+				Villa Sol
+				Villa Soto
+				Villa Sultana
+				Villa Universitaria
+				Villa Vencia
+				Villa Verde
+				Villa de Caribe
+				Villa de Espana
+				Villa de Gurabo
+				Villa del Alar
+				Villa del Carmen
+				Villa del Olimpio
+				Villa del Pilar
+				Villa del Rey
+				Villa del Rio
+				Villa del Rosario
+				Villa del Sol
+				Villalba
+				Villalba Zona Urbana
+				Villas de Anasco
+				Villas de Castro
+				Villas de Florida
+				Villas de Lago Mar
+				Villas de Levittown
+				Villas de Playa II
+				Villas de Puerto Rico
+				Villas de Rio Grande
+				Villas de Rio Verde
+				Villas de Sabana
+				Villas de San Augustin
+				Villas del Norte
+				Villas del Ray 3
+				Villas del Ray I
+				Villas del Rey 4
+				Ville India
+				Villodas
+				Vilomar
+				Virginia Valley
+				Vista Alegre
+				Vista Bella
+				Vista Del Mar
+				Vista Mar
+				Vista Mar Marina Oeste
+				Vista Verde
+				Vista de Sol
+				Vista del Convento
+				Vista del Morro
+				Vista del Oeste
+				Vistamar
+				Vistas de Camuy
+				Vistas de Camuy II
+				Vistas de Luquillo
+				Vistas de Medina
+				Vivaldi
+				Vives
+				Vivoni
+				Viñet
+				Volcan
+				Volcán
+				Vosburg
+				Vázquez
+				Vázquez Comunidad
+				Yabucoa
+				Yabucoa Zona Urbana
+				Yaguez
+				Yambelle
+				Yauco
+				Yauco Zona Urbana
+				Yaurel
+				Yaurel Comunidad
+				Yeguada
+				Yuquiyú
+				Zanja Blanca
+				Zanja Negra
+				Ángeles
+			Post Office (PR)
+				Adjuntas Post Office
+				Aguada Post Office
+				Aguadilla Post Office
+				Aguas Buenas Post Office
+				Anasco Post Office
+				Arecibo Post Office
+				Barceloneta Post Office
+				Barrio Obrero Station Post Office
+				Bayamon Branch Post Office
+				Bayamon Post Office
+				Boqueron Post Office
+				Caguas Post Office
+				Canovas Post Office
+				Caparra Heights Station Post Office
+				Carolina Post Office
+				Catalano Post Office
+				Cayey Post Office
+				Ciales Post Office
+				Cidra Post Office
+				Comerio Post Office
+				Corozal Post Office
+				Correo Federal Vease Numero 21
+				Dorado Post Office
+				Fajardo Post Office
+				Florida Post Office
+				Guanica Post Office
+				Guayama Post Office
+				Guayanilla Post Office
+				Gurabo Post Office
+				Hatillo Post Office
+				Hato Rey Post Office
+				Hormigueros Post Office
+				Humacao Post Office
+				Isabela Post Office
+				Jayuya Post Office
+				Lajas Post Office
+				Lares Post Office
+				Las Piedras Post Office
+				Loiza Station Post Office
+				Maunabo Post Office
+				Mayaguez Post Office
+				Morovis Post Office
+				Naguabo Post Office
+				Orocovis Post Office
+				Patillas Post Office
+				Ponce Post Office
+				Puerta de Tierra Station Post Office
+				Salinas Post Office
+				San German Post Office
+				San Juan Post Office
+				San Lorenzo Post Office
+				San Sebastian Post Office
+				Santa Isabel Post Office
+				Sixty-Fifth Infantry Station Post Office
+				Toa Alta Post Office
+				Trujillo Alto Post Office
+				Utuado Post Office
+				Vega Alta Post Office
+				Vieques Post Office
+				Yabucoa Post Office
+				Yauco Post Office
+			Range (PR)
+				Altos de San Luis
+				Altos de la Mesa
+				Cerros de San Francisco
+				Cerros de Santini
+				Cordillera Central
+				Cordillera Jaicoa
+				Cordillera Sabana Alta
+				La Cadena
+				Montanas de Juan Gonzalez
+				Montanas de Uroyan
+				Montañas Guarionex
+				Montañas de Corozal
+				Moñtanas Aymamón
+				Sierra Bermeja
+				Sierra de Cayey
+				Sierra de Guardarraya
+				Sierra de Jájome
+				Sierra de Luquillo
+				Sierra de Naranjal
+			Reserve (PR)
+				El Toro Wilderness
+			Reservoir (PR)
+				Aljibe las Curias
+				Lago Adjuntas
+				Lago Alto
+				Lago Caonillas
+				Lago Carite
+				Lago Coamo
+				Lago Dos Bocas
+				Lago El Guineo
+				Lago Garzas
+				Lago Guayabal
+				Lago Guayo
+				Lago Jordan
+				Lago La Torre
+				Lago Loiza
+				Lago Lucchetti
+				Lago Melania
+				Lago Moline
+				Lago Número Cinco
+				Lago Número Cuatro
+				Lago Número Dos
+				Lago Número Tres
+				Lago Número Uno
+				Lago Patillas
+				Lago Pellejas
+				Lago Vivi
+				Lago de Cidra
+				Lago de Guajataco
+				Lago de Matrullas
+				Lago de Riego
+				Presada Loco
+				Represa de Comerío
+				Represa de Mayaguez
+				Represa de San Germán
+				Represa de San Juan
+			Ridge (PR)
+				Cerro de Abra
+				Cerro de la Mesa
+				Chuchilla de Bucarabones
+				Chuchilla de Hato Nuevo
+				Cuchila el Asomante
+				Cuchilla Buena Vista
+				Cuchilla El Duque
+				Cuchilla Los Matos
+				Cuchilla Naranjo
+				Cuchilla Ranchera
+				Cuchilla de Juan González
+				Cuchilla de Monte Llano
+				Cuchilla de Panduras
+				Cuchilla de Santa Inés
+				Cuchillas Aceitunas
+				El Alto
+				La Cuchilla
+				Las Piedras Chiquitas
+				Monte Llano
+			School (PR)
+				Abraham Lincoln School
+				Academia Bautista
+				Academia Catolica (historical)
+				Academia Discipulos
+				Academia Discipulos de Cristo
+				Academia Militar John F Kennedy
+				Academia Monesnor
+				Academia San Jose (historical)
+				Academia San José
+				Academia Santa Rosa
+				Academia Santa Teresita
+				Academia de San Luis (historical)
+				Academia de la Inmaculada
+				Academy San Jose (historical)
+				Aguirre Private School
+				American College
+				American Military Academy
+				American University
+				Angel Ramos School
+				Antilles Consolidated Schools (historical)
+				Antilles Military Academy
+				Antillian College
+				Bayamon Military Academy
+				Buchanan Elementary School (historical)
+				Caguas Military Academy
+				Caribbean School
+				Catholic University of Puerto Rico
+				Cayey-Henry Barracks School (historical)
+				Centro Vacacional Ramon B Lopez
+				Centro de Estudios Puertorriquenos
+				City College
+				Colegio Adianez
+				Colegio Adventista
+				Colegio Bautista
+				Colegio Bautista de Carolina
+				Colegio Cayey Universidad de Puerto Rico
+				Colegio Central
+				Colegio Guamin
+				Colegio Inmaculada Concepcion de Guayanilla
+				Colegio La Salle
+				Colegio Lourdes
+				Colegio María Auxiliadora
+				Colegio Nuestra Señora La Merced
+				Colegio Nuestra Señora del Pilar
+				Colegio Nuestra Señora del Rosario
+				Colegio Padres Dominicos
+				Colegio Ponceño de Varones
+				Colegio Regional Carolina University of Puerto Rico
+				Colegio Sagrada Familia
+				Colegio Sagrado Corazón
+				Colegio San Alfonso
+				Colegio San Antonio Abad
+				Colegio San Benito
+				Colegio San Carlos School
+				Colegio San Ignacio de Loyola
+				Colegio San Jorge
+				Colegio San Jose
+				Colegio San José
+				Colegio San Miguel
+				Colegio San Pedro Martir
+				Colegio San Vicente de Paul
+				Colegio San Vincente Ferrer
+				Colegio Santa Clara
+				Colegio Santa María de Los Angeles
+				Colegio Santos Ángeles Custodios
+				Colegio Señora de La Providencia
+				Colegio Universitario Sagrado Corazon
+				Colegio Universitario de Este
+				Colegio Vedruna
+				Colegio de Parvulos
+				Colegio de la Inmaculada
+				Colegio de la Merced
+				Colegio del Carmen
+				Colegio del Perpetuo Socorro
+				Colegio del Sagrado Corazón
+				Commonwealth High School
+				Conservatorio de Musica
+				Doctor Pedro Albizu Campos
+				El Seminario Capuchino
+				Escuela Abraham Lincoln
+				Escuela Adrian Martínez Gandia
+				Escuela Adrián Medina
+				Escuela Agua Tuna
+				Escuela Aguas Blancas
+				Escuela Agustín Balseiro
+				Escuela Alberto Molina
+				Escuela Alberto Schweitzer
+				Escuela Alejandrina Benitez
+				Escuela Alerta
+				Escuela Algarrobos
+				Escuela Almacigo Alto Número Uno
+				Escuela Almirante Norte
+				Escuela Altamesa
+				Escuela Alto Doña Elena
+				Escuela Amalia Expósito
+				Escuela Amalia Lopez de Vila
+				Escuela Amalia Marín
+				Escuela Andrés González
+				Escuela Anones Centro
+				Escuela Anones Diaz
+				Escuela Antonia Pagán
+				Escuela Antonio Longa
+				Escuela Antonio S Pedreira
+				Escuela Antonio Sanchez de Padilla
+				Escuela Anón
+				Escuela Arenas Abajo
+				Escuela Arturo Lluberas
+				Escuela Arturo Martínez
+				Escuela Asunción López
+				Escuela Atalaya
+				Escuela Atalaya Abajo
+				Escuela Atalaya Arriba
+				Escuela Atalaya Numero Tres
+				Escuela Atravesada
+				Escuela Avelino Faner
+				Escuela Ayala
+				Escuela Baldorioty De Castro
+				Escuela Ballaja
+				Escuela Barahona
+				Escuela Barreal
+				Escuela Barrero
+				Escuela Bartolomei
+				Escuela Bartolomé Las Casas
+				Escuela Basilio Charneco Cabán
+				Escuela Beatriz
+				Escuela Beatriz Adventro
+				Escuela Benavente
+				Escuela Benita González
+				Escuela Benito Medina
+				Escuela Betances
+				Escuela Booker T Washington
+				Escuela Braulio Dueño Colón
+				Escuela Buena Vista
+				Escuela Bunker
+				Escuela C Ramirez Arrellano
+				Escuela Caguabo
+				Escuela Caguitas Centro
+				Escuela Caimito
+				Escuela Caimito Adentro
+				Escuela Caimito Número Dos
+				Escuela Caimito Número Uno
+				Escuela Camarones
+				Escuela Camarones Centro
+				Escuela Cambalache
+				Escuela Cambrene
+				Escuela Candelaria Afuera
+				Escuela Canto Gallo
+				Escuela Caonillas Ceiba
+				Escuela Capilla
+				Escuela Capáez
+				Escuela Caracoles
+				Escuela Caracoles Arriba
+				Escuela Carite Chino
+				Escuela Carretera Ciales
+				Escuela Carrion Maduro
+				Escuela Cayaguas
+				Escuela Ceiba Norte
+				Escuela Ceiba Sur
+				Escuela Cerrillos
+				Escuela Cerro Gordo
+				Escuela Certenejas
+				Escuela Cienegueta
+				Escuela Ciriaco González
+				Escuela Ciudad Nueva
+				Escuela Ciénaga Alta
+				Escuela Clavell
+				Escuela Collores
+				Escuela Collores Numero Cuatro
+				Escuela Collores Numero Tres
+				Escuela Collores Numero Uno
+				Escuela Colón
+				Escuela Consejo Abajo
+				Escuela Consejo Arriba
+				Escuela Corral Falso
+				Escuela Cortés
+				Escuela Cruces Abajo
+				Escuela Cruces Arriba
+				Escuela Cruces Nuevas
+				Escuela Cruz Rosa Rivas
+				Escuela Cubuy
+				Escuela Cupey Alto
+				Escuela Cupey Marina
+				Escuela Cátala
+				Escuela Dajaos Sexto
+				Escuela Delia Davila de Caban
+				Escuela Diego Hernández
+				Escuela Doctor Efrain Sanchez Idalgo
+				Escuela Doctor Gabriel Iguina
+				Escuela Doctor Gándara
+				Escuela Doctor Isidra Vidal
+				Escuela Doctor Liborio Cordova
+				Escuela Doctor Martínez
+				Escuela Doctor Pedreira
+				Escuela Doctor Pila
+				Escuela Doctor Santiago Veve
+				Escuela Domingo Arana Márquez
+				Escuela Don Manolo
+				Escuela Don Ramon Morales Pena
+				Escuela E M de Hostos
+				Escuela Eduardo J Saldaña
+				Escuela Eduardo Neumann Gandia
+				Escuela Emilio Castelar
+				Escuela Emilio Cuadra
+				Escuela Emilio Álvarez López
+				Escuela Ensenada
+				Escuela Epifanio Estrada
+				Escuela Esperanza
+				Escuela Eugenio María de Hostos
+				Escuela Evaristo Camacho
+				Escuela Evaristo Izcoa Díaz
+				Escuela Extensión El Comandante
+				Escuela Fabriciano Cuevas
+				Escuela Federico Degetau
+				Escuela Felipe Vargas González
+				Escuela Fernández Juncos
+				Escuela Florida Arriba
+				Escuela Frailes
+				Escuela Francisca Davila Senprit
+				Escuela Francisco Acevedo Nieves
+				Escuela Francisco Baco Soria
+				Escuela Francisco Oller
+				Escuela Francisco Ponce
+				Escuela Francisco Zenón Gely
+				Escuela Franklin Delano Roosevelt
+				Escuela Franquez
+				Escuela Fraternidad
+				Escuela Fraternidad Humana
+				Escuela Fray Bartolome Las Casas
+				Escuela García
+				Escuela García Cepeda
+				Escuela Garfield
+				Escuela Gaspar Vilá Mayans
+				Escuela Gataran Barbosa
+				Escuela Gayá
+				Escuela Gerardo Sellés
+				Escuela Gerardo Sellés Sola
+				Escuela Gobeo
+				Escuela Granja Vocacional
+				Escuela Gripiñas
+				Escuela Guano
+				Escuela Guaraguao
+				Escuela Guaraguao Rincón
+				Escuela Guilarte
+				Escuela Guzmán Arriba
+				Escuela Harris
+				Escuela Hato
+				Escuela Hato Nuevo
+				Escuela Herminio R Irizarry
+				Escuela Higuero
+				Escuela Hormigas
+				Escuela Huffman
+				Escuela I M Rivera
+				Escuela Industrial Para Mujeres
+				Escuela Industrial de Niñas
+				Escuela Intermedia Luis Palés Matos
+				Escuela Intermedia Palvi
+				Escuela Jacaboa (historical)
+				Escuela Jagua Pasto Número Uno
+				Escuela Jagual
+				Escuela Jaguas
+				Escuela Jagueyes Abajo
+				Escuela Jagüey
+				Escuela Jefferson
+				Escuela Joaquin Oronoz Rodón
+				Escuela Jose M Gallardo
+				Escuela Josefa Domingo
+				Escuela Josefa Miranda
+				Escuela José Antonio Dávila
+				Escuela José Antonio Torres
+				Escuela José Barbosa
+				Escuela José C Barbosa
+				Escuela José Collazo
+				Escuela José Cordero
+				Escuela José D Zayas
+				Escuela José F Diaz
+				Escuela José Figueroa
+				Escuela José Gautier Benitez
+				Escuela José Hernández
+				Escuela José J Acosta
+				Escuela José M Cintron
+				Escuela José Maía del Valle
+				Escuela José Noriega
+				Escuela José Rosario
+				Escuela José de Diego
+				Escuela Joséde Diego
+				Escuela Juan Asencio III
+				Escuela Juan Cuevas
+				Escuela Juan González
+				Escuela Juan I Vega
+				Escuela Juan María Palmer
+				Escuela Juan Morell Campos
+				Escuela Juan Osuna
+				Escuela Juan Ramón Jiménez
+				Escuela Juan Resto
+				Escuela Juan Sánchez
+				Escuela Juan de Dios López
+				Escuela Julia Hernández
+				Escuela Julio Collazo Silva
+				Escuela Julio González Quiñones
+				Escuela Julio L Vizcarrondo
+				Escuela Julio Olivieri
+				Escuela Julio S Rivas
+				Escuela Jácana
+				Escuela Jácana Abajo
+				Escuela La Carmelita
+				Escuela La Lima
+				Escuela La Mesa
+				Escuela La Mina
+				Escuela La Pista
+				Escuela La Sierra
+				Escuela Laguna
+				Escuela Las Américas
+				Escuela Las Flores
+				Escuela Las Parcelas
+				Escuela Las Salinas
+				Escuela Laó Rosas Numero Dos
+				Escuela Lebrón Ramos
+				Escuela Liceo Ponceño
+				Escuela Lirios Dorado
+				Escuela Lizardi
+				Escuela Llano
+				Escuela Lola Rodríguez de Tío
+				Escuela Lopez Nussa
+				Escuela Los Caños
+				Escuela Los Claudios
+				Escuela Los Cocos
+				Escuela Lucas Valdivieso
+				Escuela Luce
+				Escuela Luchetti
+				Escuela Luis Calderón
+				Escuela Luis Felipe Pérez
+				Escuela Luis M Santiago
+				Escuela Luis Muñoz Rivera
+				Escuela Luis Muñoz Souffront
+				Escuela Luis Pales Matos
+				Escuela Luis Santaella
+				Escuela Luis T Baliñas
+				Escuela M Cadilla
+				Escuela Macaná
+				Escuela Madre Cabrini
+				Escuela Mal Paso
+				Escuela Maldonado
+				Escuela Malpica
+				Escuela Mambiche Blanco
+				Escuela Mambiche Prieto
+				Escuela Mamey
+				Escuela Mamey Centro
+				Escuela Mamey Número Uno
+				Escuela Mancho Rojas
+				Escuela Mangual Lebrón
+				Escuela Manuel A Rivera
+				Escuela Manuel Corchado
+				Escuela Manuel Negrón Collazo
+				Escuela Manuel Surillo
+				Escuela Manuel Torres
+				Escuela Marcos Sánchez
+				Escuela Maria G Vaello
+				Escuela Maria Libertad Gomez
+				Escuela Maria Teresa de Pineiro
+				Escuela Mariana Bracetti
+				Escuela Mariano Abril
+				Escuela Marina Número Uno
+				Escuela Mario Mercado
+				Escuela Martín
+				Escuela Martín González
+				Escuela María R C Claudio
+				Escuela Marías
+				Escuela Marías Número Dos
+				Escuela Marías Número Tres
+				Escuela Matienzo Cintron
+				Escuela Medina
+				Escuela Mercedes Garcia Colorado
+				Escuela Miguel Cervantes Saavedra
+				Escuela Millones
+				Escuela Miradero
+				Escuela Mogote
+				Escuela Monte Llanos
+				Escuela Morcelo
+				Escuela Morovis
+				Escuela Mulita Alvelo
+				Escuela Mulitas Dos
+				Escuela Muñoz Rivera
+				Escuela Naranjo
+				Escuela Naranjo Abajo
+				Escuela Naranjo Arriba
+				Escuela Negroni
+				Escuela Notre Dame
+				Escuela Nuestra Señora de Bélen
+				Escuela Nuestra Señora de la Piedad
+				Escuela Numero Dos
+				Escuela Número Cinco
+				Escuela Número Cuatro
+				Escuela Número Dos
+				Escuela Número Tres
+				Escuela Número Uno
+				Escuela Onofre Carballeira
+				Escuela Osuna
+				Escuela Padre Rufo
+				Escuela Palma Escrita
+				Escuela Palmarito Centro
+				Escuela Palmazola
+				Escuela Parque
+				Escuela Peabody (historical)
+				Escuela Pedro Acevedo
+				Escuela Pedro Arroyo
+				Escuela Pedro Carlos Timothee
+				Escuela Pedro Timothee
+				Escuela Pellejas Hoyo
+				Escuela Peniel
+				Escuela Pepita Garriga
+				Escuela Peña Pobre Arriba
+				Escuela Peñon
+				Escuela Piedra Azul
+				Escuela Piedras Blancas
+				Escuela Pimentel
+				Escuela Piñales Abajo
+				Escuela Piñales Arriba
+				Escuela Piñales Caracoles
+				Escuela Pollos
+				Escuela Ponce Superior High School
+				Escuela Portillo
+				Escuela Pozuelo
+				Escuela Puente Blanco
+				Escuela Puerto Real (historical)
+				Escuela Puntas Nuevas
+				Escuela Quebrada
+				Escuela Quebrada Arenas
+				Escuela Quebrada Grande
+				Escuela Quebrada Honda
+				Escuela Quebrada Larga
+				Escuela Quebrada Larga Abajo
+				Escuela Quebradas
+				Escuela Quebradas Dos
+				Escuela Quebradas Uno
+				Escuela Quebrado Cruz Cocos
+				Escuela Quemados
+				Escuela Rafael Brach (historical)
+				Escuela Rafael Colón García
+				Escuela Rafael Cordero
+				Escuela Rafael Hernández
+				Escuela Ramírez
+				Escuela Ramón Marín
+				Escuela Ramón Valle Seda
+				Escuela Ranchera
+				Escuela Regalada Rivera
+				Escuela República de Brasil
+				Escuela República de Colombia
+				Escuela República de San Salvador
+				Escuela Rexford G Tugwell
+				Escuela Rivera
+				Escuela Roig
+				Escuela Rojas
+				Escuela Roosevelt
+				Escuela Rosalina C Martinez
+				Escuela Rosendo Matienzo Cintro
+				Escuela Ruiz Belvis
+				Escuela Rural Emilio Pastor
+				Escuela Rural Lirios
+				Escuela Rural Maestra Gandró
+				Escuela Rural de Pugnado Afuera
+				Escuela Rábanos
+				Escuela Río
+				Escuela Río Abajo
+				Escuela Río Cañas
+				Escuela Río Cañas Arriba
+				Escuela Río Chiquito
+				Escuela Río Grande
+				Escuela Río Lajas
+				Escuela Sabana Alta
+				Escuela Sabana Llana
+				Escuela Sabana Seca
+				Escuela Saco
+				Escuela Saliente Abajo
+				Escuela Saliente Arriba
+				Escuela Saltillo
+				Escuela Salto
+				Escuela Salvador Bouœquets
+				Escuela Salvador Brau
+				Escuela Salvador Rodríguez
+				Escuela San Conrado
+				Escuela San Felipe
+				Escuela San Juan del Salvador
+				Escuela San Lorenzo
+				Escuela San Luis Rey
+				Escuela San Vicente de Paul
+				Escuela Sandalio Marcano
+				Escuela Santa Catalina
+				Escuela Santa Olaya
+				Escuela Santa Rita
+				Escuela Santa Rosa
+				Escuela Santa Rosa Uno
+				Escuela Santa Teresita
+				Escuela Santaella
+				Escuela Santas Pascuas
+				Escuela Santiago Iglesias Pantin
+				Escuela Santiago Medina
+				Escuela Santiago Veve Calzada
+				Escuela Sebastián Pabón Alyes
+				Escuela Secundino Díaz Morales
+				Escuela Segunda Unidad
+				Escuela Segunda Unidad Antonio A Caron Corre
+				Escuela Segunda Unidad Baldorioty de Castro
+				Escuela Segunda Unidad Bordaleza
+				Escuela Segunda Unidad Casiana Cepeda
+				Escuela Segunda Unidad Llanos Tuna
+				Escuela Segunda Unidad Luciano Rios
+				Escuela Segunda Unidad Rivera
+				Escuela Segunda Unidad Salto Arriba
+				Escuela Segunda Unidad de Anones
+				Escuela Segunda Unidad de Antonio Vasquez Ra
+				Escuela Segunda Unidad de Bajadero
+				Escuela Segunda Unidad de Barinas
+				Escuela Segunda Unidad de Bauta
+				Escuela Segunda Unidad de Bayamón
+				Escuela Segunda Unidad de Botijas Number 1
+				Escuela Segunda Unidad de Botijas Number 2
+				Escuela Segunda Unidad de Carlos Zayas
+				Escuela Segunda Unidad de Cupey Bajo
+				Escuela Segunda Unidad de Duey
+				Escuela Segunda Unidad de Eugenio M de Hosto
+				Escuela Segunda Unidad de Federico Degetau
+				Escuela Segunda Unidad de Francisco Valdes
+				Escuela Segunda Unidad de Frederico Degetau
+				Escuela Segunda Unidad de Frontón
+				Escuela Segunda Unidad de Hayales
+				Escuela Segunda Unidad de Isidro Vicens
+				Escuela Segunda Unidad de Jesus T Pinero
+				Escuela Segunda Unidad de Jesús Maria Rodriguez
+				Escuela Segunda Unidad de José Barrenas Martínez
+				Escuela Segunda Unidad de José Celso Barbosa
+				Escuela Segunda Unidad de La America
+				Escuela Segunda Unidad de Magueyes
+				Escuela Segunda Unidad de Mameyes
+				Escuela Segunda Unidad de Mariana
+				Escuela Segunda Unidad de Maricao Afuera
+				Escuela Segunda Unidad de Mercedes Palma
+				Escuela Segunda Unidad de Palmarejo
+				Escuela Segunda Unidad de Paloma
+				Escuela Segunda Unidad de Pasto
+				Escuela Segunda Unidad de Pesas
+				Escuela Segunda Unidad de Real
+				Escuela Segunda Unidad de Rábanos
+				Escuela Segunda Unidad de Río Hondo
+				Escuela Segunda Unidad de Santa Rosa
+				Escuela Segunda Unidad de Santiago Palmer
+				Escuela Segunda Unidad de Santo Domingo
+				Escuela Segunda Unidad de Tomás Berrios Berdecia
+				Escuela Segunda Unidad de Valenciano Abajo
+				Escuela Segunda Unidad de Vicenty
+				Escuela Segunda Unidad de Voladoras
+				Escuela Serra
+				Escuela Siant John
+				Escuela Sierra Baja
+				Escuela Sinforoso Aponte
+				Escuela Sonadora
+				Escuela Sonadora Alta
+				Escuela Sonadora Llana
+				Escuela Superior
+				Escuela Superior Albert Einstein
+				Escuela Superior Barbosa
+				Escuela Superior Central
+				Escuela Superior Gabriela Mistral
+				Escuela Superior Guatier Benítez
+				Escuela Superior Trina Padilla de Sanz
+				Escuela Superior Vocacional
+				Escuela Superior Vocacional Tomás Ongay
+				Escuela Superior de Comerío
+				Escuela Susúa Alta
+				Escuela Talante
+				Escuela Tanamá
+				Escuela Tejas Número Uno
+				Escuela Theodore Roosevelt
+				Escuela Thomas A Edison
+				Escuela Tijeras
+				Escuela Torrecillas
+				Escuela Tortugo
+				Escuela Tómas Vera Ayala
+				Escuela Vaello
+				Escuela Van Scoy
+				Escuela Vega Alegre
+				Escuela Vicente Usera
+				Escuela Victoriano Blanco
+				Escuela Villa Marisol
+				Escuela Villa San José
+				Escuela Virgilio Acevedo
+				Escuela Virgilio Morales
+				Escuela Vistamar
+				Escuela Vocacional Doctor José Padín
+				Escuela Vocacional Eugenio María de Hostos
+				Escuela Vocacional Miguel Such
+				Escuela W D Boyce
+				Escuela Yahueca Arriba
+				Escuela Yuca
+				Escuela Zamas
+				Escuela Zamora
+				Escuela Zoilo Gracia
+				Escuela de Aldea
+				Escuela de Artes Plasticas
+				Escuela de Artes y Oficios
+				Escuela de Bellas Artes
+				Escuela de Bellas Artes de Ponce
+				Escuela de Cadeca
+				Escuela de La Placita
+				Escuela de Medicina San Juan Bautista
+				Escuela de Río Abajo
+				Escuela de San Patricio
+				Escuelo Alejandro Tapia y Rivera
+				Escuelo Facundo Bueso
+				Escuelo Frederico Asenjo
+				Escuelo Gautier Benitez
+				Escuelo Henna
+				Escuelo Jesus M Quinones
+				Escuelo Maestro Boada
+				Escuelo Manuel Cuevas Gagener
+				Escuelo Pedro G Goyco
+				Escuelo Ramon S Power
+				Escuelo Ramos Antonini
+				Escuelo Republica del Peru
+				Escuelo Superior Ramos Antonini
+				Escuelo Voc Facundo Bueso
+				Escuelos Libre de Musica
+				Fondo de Seguros del Estado
+				Guaynabo Business College (historical)
+				Head Start
+				Head Start Medez I
+				Head Start School
+				Hogar Estatal de Niños
+				Immaculate Conception Academy
+				Institutio Feran
+				Instituto Loaíza Cordero
+				Instituto Psicopedagógico de Puerto Rico
+				Instituto Technologico Vocacional
+				Instituto de Cultura
+				Inter American University of Puerto Rico-Barranquitas Regional College
+				Inter-American University of Puerto Rico Guayama Regional College
+				Inter-American University of Puerto Rico-Fajardo Regional College
+				Interamerican University
+				Kids Fun House and School
+				Maharishi International Caribbean University for Women
+				Pan American Language Institute
+				Pan American Language Institute at Caguas
+				Pontifica Universidad Católica de Puerto Rico
+				Pontifical Catholic University of Puerto Rico
+				Provecto Head Start
+				Puerto Rican Academy of Fine Arts
+				Puerto Rico Junior College
+				Robinson School
+				Saint Anthony School
+				Saint Johns School
+				School of Tropical Medicine (historical)
+				Seminario Conciliar
+				Seminario Episcopal del Caribe
+				Seminary Building
+				The Baldwin School
+				Universidad Americana
+				Universidad Caribbean
+				Universidad Carlos Albizu
+				Universidad Católica
+				Universidad Central
+				Universidad Central del Caribe
+				Universidad Centro de Estudios de Caribe
+				Universidad De Puerto Rico
+				Universidad De Puerto Rico Colegio De Agricu
+				Universidad Inter-Americana
+				Universidad Interamericana
+				Universidad de Puerto Rico
+				Universidad de Puerto Rico Colegio Regional
+				Universidad de Puerto Rico Estación
+				Universidad de Puerto Rico Estacíon Experimental A
+				Universidad de Puerto Rico en Ponce
+				University of Puerto Rico at Humacao
+				University of Puerto Rico- the College of Agricultural and Mechanical Arts
+			Sea (PR)
+				Caribbean Sea
+			Spring (PR)
+				Fuente Piscina
+				Ojo de Valencia
+			Stream (PR)
+				Boca Prieta
+				Caña Carrasco
+				Caño Aquas Frías
+				Caño Boquilla
+				Caño Cabo Caribe
+				Caño Campanero
+				Caño Gallardo
+				Caño García
+				Caño La Puente
+				Caño Las Pozas
+				Caño Madre Vieja
+				Caño Majagual
+				Caño Merle
+				Caño Norberto
+				Caño Palúdica
+				Caño Rodríguez
+				Caño San Isidro
+				Caño Zequeira
+				Caño de Martín Peña
+				Caño de Quebrada Catalina
+				Caño de San Fernando
+				Caño de Santiago
+				Quebrada Blacho
+				Rio
+				Rio Frío
+				Rio de la Ciénaga
+				Río Anton Ruiz
+				Río Arenas
+				Río Arroyata
+				Río Añon
+				Río Bairoa
+				Río Barbas
+				Río Bauta
+				Río Bayagán
+				Río Bayamón
+				Río Blanco
+				Río Bonelli
+				Río Botijas
+				Río Bucaná
+				Río Bucarabones
+				Río Caguitas
+				Río Caliente
+				Río Camuy
+				Río Camándulas
+				Río Candelero
+				Río Canovanillas
+				Río Canóvanas
+				Río Caonillas
+				Río Caricaboa
+				Río Casei
+				Río Casey
+				Río Cayaguas
+				Río Cayures
+				Río Caín
+				Río Cañaboncito
+				Río Cañabón
+				Río Cañas
+				Río Cerrillos
+				Río Chico
+				Río Chiquito
+				Río Chiquito de Cibao
+				Río Cialitos
+				Río Cibuco
+				Río Cidra
+				Río Clavijo
+				Río Coabey
+				Río Coamo
+				Río Cocal
+				Río Coco
+				Río Corcho
+				Río Corozal
+				Río Criminales
+				Río Cruces
+				Río Cubuy
+				Río Cuesta Arriba
+				Río Culebra
+				Río Culebrinas
+				Río Cupeyes
+				Río Cuyón
+				Río Daguao
+				Río Dagüey
+				Río De Bayamón
+				Río Demajagua
+				Río Descalabrado
+				Río Dos Bocas
+				Río Duey
+				Río Emajagua
+				Río Espíritu Santo
+				Río Fajardo
+				Río Flores
+				Río Garzas
+				Río Grande
+				Río Grande De Loiza
+				Río Grande de Arecibo
+				Río Grande de Añasco
+				Río Grande de Jayuya
+				Río Grande de Manati
+				Río Grande de Patillas
+				Río Guaba
+				Río Guadiana
+				Río Guajataca
+				Río Guamaní
+				Río Guanajibo
+				Río Guaonica
+				Río Guatemala
+				Río Guavate
+				Río Guayabo
+				Río Guayanilla
+				Río Guayanés
+				Río Guaynabo
+				Río Guayo
+				Río Guilarte
+				Río Gurabo
+				Río Herrera
+				Río Hoconuco
+				Río Hondo
+				Río Humacao
+				Río Humata
+				Río Icacos
+				Río Inabón
+				Río Indio
+				Río Ingenio
+				Río Jacaboa
+				Río Jacaguas
+				Río Jauca
+				Río Juan Martín
+				Río Jueyes
+				Río Juncal
+				Río Jájome
+				Río La Venta
+				Río Lachi
+				Río Lajas
+				Río Lapa
+				Río Las Vacas
+				Río Limaní
+				Río Limones
+				Río Limón
+				Río Loco
+				Río Macaná
+				Río Majada
+				Río Mameyes
+				Río Maricao
+				Río Marín
+				Río Matilde
+				Río Matrullas
+				Río Matón
+				Río Maunabo
+				Río Mavilla
+				Río Mayaguecilla
+				Río Mayaguecillo
+				Río Minillas
+				Río Morovis
+				Río Naranjito
+				Río Naranjo
+				Río Nigua
+				Río Nueve Pasos
+				Río Nuevo
+				Río Orocovis
+				Río Palmarejo
+				Río Pastillo
+				Río Pellejas
+				Río Piedras
+				Río Pitahaya
+				Río Portugués
+				Río Postrero
+				Río Prieto
+				Río Puerto Nuevo
+				Río Roncador
+				Río Rosario
+				Río Sabana
+				Río Saliente
+				Río Salientito
+				Río Saltillo
+				Río San Patricio
+				Río Sana Muerto
+				Río Santiago
+				Río Sapo
+				Río Seco
+				Río Sonador
+				Río Tallaboa
+				Río Tanamá
+				Río Toa Vaca
+				Río Toro
+				Río Toro Negro
+				Río Turabo
+				Río Unibón
+				Río Usabón
+				Río Vacas
+				Río Valenciano
+				Río Veguitas
+				Río Viejo
+				Río Viví
+				Río Yagüez
+				Río Yahuecas
+				Río Yauco
+				Río Yunes
+				Río Zamas
+				Río de Aibonito
+				Río de Apeadero
+				Río de Barranquitas
+				Río de Bayamón
+				Río de Caguana
+				Río de Caguanita
+				Río de la Mina
+				Río de la Plata
+				Río de las Vacas
+				Río de las Vegas
+				Río del Cristal
+				Río del Ingenio
+				Río del Pasto
+				Río Ángeles
+			Summit (PR)
+				Alto Las Ovejas
+				Alto de la Bandera
+				Alto del Descanso
+				Cerro Algarrobo
+				Cerro Algódon
+				Cerro Almirante
+				Cerro Alto
+				Cerro Amargura
+				Cerro Amoldadero
+				Cerro Anterior
+				Cerro Augustinillo
+				Cerro Avispa
+				Cerro Balcón
+				Cerro Bartolo
+				Cerro Boca del Infierno
+				Cerro Bone
+				Cerro Bravo
+				Cerro Buena Vista
+				Cerro Camacho
+				Cerro Candelero
+				Cerro Candiles
+				Cerro Canta Gallo
+				Cerro Caprón
+				Cerro Caracas
+				Cerro Cariblanco
+				Cerro Cascajillo
+				Cerro Cayures
+				Cerro Cedro
+				Cerro Charcas
+				Cerro Cibuco
+				Cerro Collores
+				Cerro Conde Ávila
+				Cerro Corazón
+				Cerro Cornelia
+				Cerro Corozal
+				Cerro Curet
+				Cerro Dagüey
+				Cerro Don Quiño
+				Cerro Doña Juana
+				Cerro El Alto
+				Cerro El Asomante
+				Cerro El Bolo
+				Cerro El Buey
+				Cerro El Faro
+				Cerro El Gato
+				Cerro El Gigante
+				Cerro El Indio
+				Cerro El Malo
+				Cerro El Peligro
+				Cerro El Pico
+				Cerro El Retiro
+				Cerro El Sombreito
+				Cerro El Sombrero
+				Cerro Farallón
+				Cerro Franchón
+				Cerro Garau
+				Cerro Garrote
+				Cerro Garzas
+				Cerro Goden
+				Cerro Gordo
+				Cerro Gozos
+				Cerro Gregorio
+				Cerro Gritadero
+				Cerro Guaniquilla
+				Cerro Guarico
+				Cerro Herencia
+				Cerro Honoré
+				Cerro Indio
+				Cerro Jobo Dulce
+				Cerro La Chorrera
+				Cerro La Coroza
+				Cerro La Guánica
+				Cerro La Guásima
+				Cerro La Mira
+				Cerro La Montería
+				Cerro La Pandura
+				Cerro La Parra
+				Cerro La Peña
+				Cerro La Quinta
+				Cerro La Santa
+				Cerro La Silla
+				Cerro La Tiza
+				Cerro La Torre
+				Cerro La Torrecilla
+				Cerro La Tuna
+				Cerro Lajara
+				Cerro Lambedora
+				Cerro Las Piñas
+				Cerro Lazo
+				Cerro Leclerc
+				Cerro Leoncilla
+				Cerro Limones
+				Cerro Lloroso
+				Cerro Los Negrones
+				Cerro Lucero
+				Cerro Mabú
+				Cerro Magoyo
+				Cerro Magueyes
+				Cerro Mala Pascua
+				Cerro Malo
+				Cerro Malojillo
+				Cerro Maravillas
+				Cerro Mariquita
+				Cerro Marquesa
+				Cerro Martineau
+				Cerro Martinica
+				Cerro Mata de Plátano
+				Cerro Matías Jalobre
+				Cerro Medina
+				Cerro Mercado
+				Cerro Mime
+				Cerro Miraflores
+				Cerro Modesto
+				Cerro Montalva
+				Cerro Morales
+				Cerro Morrillo
+				Cerro Mula
+				Cerro Novillo
+				Cerro Palma
+				Cerro Palo Seco
+				Cerro Palo de Café
+				Cerro Palomas
+				Cerro Pelao
+				Cerro Pelota
+				Cerro Petronila
+				Cerro Pichón
+				Cerro Piedra Gorda
+				Cerro Piedra Hueca
+				Cerro Pitahaya
+				Cerro Piñas
+				Cerro Plan Bonito
+				Cerro Plana
+				Cerro Planada
+				Cerro Playuela
+				Cerro Presidio
+				Cerro Prieto
+				Cerro Pulguillas
+				Cerro Purrón
+				Cerro Pío
+				Cerro Pío Juan
+				Cerro Quemado
+				Cerro Quirós
+				Cerro Respaldo
+				Cerro Roncador
+				Cerro Rosa
+				Cerro Saliente
+				Cerro San José
+				Cerro Santa Ana
+				Cerro Santa Bárbara
+				Cerro Santa Elena
+				Cerro Santo Domingo
+				Cerro Sonadora
+				Cerro Taita
+				Cerro Tirano
+				Cerro Toro
+				Cerro Tumbado
+				Cerro Vadi
+				Cerro Valladares
+				Cerro Vaquiña
+				Cerro Vargas
+				Cerro Verdún
+				Cerro Vertero
+				Cerro Viento Caliente
+				Cerro Vieques
+				Cerro Vigía
+				Cerro Vista Alegre
+				Cerro Viviana
+				Cerro Yaitini
+				Cerro Yaurel
+				Cerro de Las Mulas
+				Cerro de Luis Pena
+				Cerro de Nuestra Madre
+				Cerro de Punta
+				Cerro de Vergara
+				Cerro de la Bandera
+				Cerro de la Candelaria
+				Cerro de la Tabla
+				Cerro de las Avispas
+				Cerro de las Cuevas
+				Cerro de las Velas
+				Cerro de los Bonelli
+				Cerro de los Cielos
+				Cerro del Cabro
+				Cerro del Chícharo
+				Cerro del Diablo
+				Cerro del Faro
+				Cerro del Indio
+				Cerro del Muerto
+				Cerro el Vigia
+				Cerro la Cuchilla
+				Cerros de Higuillar
+				Cerrote de Peñuelas
+				Cuesta de la Yuca
+				El Alto de Breñas
+				El Cacique
+				El Centro
+				El Cerro Avispa
+				El Comeijén
+				El Horno
+				El Morrillo
+				El Negro
+				El Peñon
+				El Torito
+				El Toro
+				El Yunque
+				La Curena
+				La Mesa
+				La Mina
+				La Peregrina
+				La Piedra
+				La Silla
+				La Torrecilla
+				Las Cruces
+				Las Mesas
+				Las Tetas
+				Las Tres Palmas
+				Loma Correa
+				Loma Pelagatos
+				Loma de la Caridad Picnel
+				Loma de la Zarza
+				Lomas de Santa Marta
+				Lomas de Seboruco
+				Los Barros
+				Los Cerros Cusualidad
+				Los Cerros Viñet
+				Los Cerros del Comandante
+				Los Penones
+				Los Picachos
+				Los Tres Picachos
+				Monte Britton
+				Monte Encantado
+				Monte Figueroa
+				Monte Grande
+				Monte Guilarte
+				Monte Hormiga
+				Monte Iguina
+				Monte Jayuya
+				Monte Las Pardas
+				Monte Mariquilla
+				Monte Marqueno
+				Monte Membrillo
+				Monte Palmero
+				Monte Pirata
+				Monte Resaca
+				Monte de Santa Ana
+				Monte de la Brea
+				Monte de la Luz
+				Monte el Gato
+				Monte el Ojo
+				Montes La Toyosa
+				Montes de Barina
+				Montes de Caneja
+				Montes de Hatillo
+				Montes de San Patricio
+				Morro de Humacao
+				Peña Domingo
+				Peña La Francia
+				Peñasco Fósil
+				Peñon de Ponce
+				Peñon de los Soldados
+				Peñones de Melones
+				Picacho de la Tea
+				Pico Atalaya
+				Pico El Yunque
+				Pico Fraile
+				Pico Huton
+				Pico Lebrón
+				Pico Montoso
+				Pico Pinto
+				Pico Rodadero
+				Pico San Bernardo
+				Pico Santa Ana
+				Pico del Este
+				Pico del Oeste
+				Piedra Blanca
+				Piedra Reinada
+				Piedra de Degetau
+				Piedra de la Mula
+				Plato Colmar
+				Punta Mataojo
+				Rincón Grande
+				Roca El Yunque
+			Swamp (PR)
+				Ciénaga El Guayabal
+				Ciénaga Isabel
+				Ciénaga La Picúa
+				Ciénaga Pozo Hondo
+				Ciénaga Prieta
+				Ciénaga Tiburones
+				Ciénaga de Cuevas
+				Ciénaga de San Pedro
+				Ciénaga de las Cucharillas
+			Tower (PR)
+				El Vigia Observation Tower
+				Roosevelt Bell Tower
+				Torre Mount Britton
+				Torre de Los Picachos
+				Torre de Yokahu
+				Torre del Yunque
+				WABA-AM (Aguadilla)
+				WAEL-AM (Mayaguez)
+				WAEL-FM (Maricao)
+				WALO-AM (Humacao)
+				WAPA-AM (San Juan)
+				WAPA-TV (San Juan)
+				WAVB-AM (Lajas)
+				WBMJ-AM (San Juan)
+				WBOZ-FM (Hormigueros)
+				WBQN-AM (Barceloneta-Manati)
+				WBRQ-FM (Cidra)
+				WCAD-FM (San Juan)
+				WCCV-TV (Arecibo)
+				WCGB-AM (Juana Diaz)
+				WCHQ-AM (Camuy)
+				WCHQ-FM (Camuy)
+				WCMN-AM (Arecibo)
+				WCMN-FM (Arecibo)
+				WCPR-AM (Coamo)
+				WCRP-FM (Guayama)
+				WCXQ-AM (Moca)
+				WDOY-FM (Fajardo)
+				WDWL-TV (Bayamon)
+				WDZE-TV (Carolina)
+				WECN-TV (Naranjito)
+				WEGA-AM (Vega Baja)
+				WEKO-AM (Cabo Rojo)
+				WELU-TV (Aguadilla)
+				WENA-AM (Penuelas)
+				WENA-AM (Yauco)
+				WERR-FM (Utuado)
+				WEUC-AM (Ponce)
+				WEUC-FM (Ponce)
+				WEXS-AM (Patillas)
+				WFAB-AM (Ceiba)
+				WFEC-TV (San Juan)
+				WFID-FM (Rio Piedras)
+				WGDL-AM (Lares)
+				WGRF
+				WGSX-FM (Bayamon)
+				WHOY-AM (Salinas)
+				WIAC-AM (San Juan)
+				WIAC-FM (San Juan)
+				WIBS-AM (Guayama)
+				WIDA-AM (Carolina)
+				WIDA-FM (Carolina)
+				WIDP-TV (Guayama)
+				WIEC-TV (Ponce)
+				WIOA-FM (San Juan)
+				WIOB-FM (Mayaguez)
+				WIOC-FM (Ponce)
+				WIPM-TV (Mayaguez)
+				WIPR-AM (San Juan)
+				WIPR-FM (San Juan)
+				WIPR-TV (San Juan)
+				WIRS-TV (Yauco)
+				WISA-AM (Isabela)
+				WISO-AM (Ponce)
+				WIVA-FM (Aguadilla)
+				WIVV-AM (Isla de Vieques)
+				WJDZ-FM (Levittown)
+				WJWN-TV (San Sebastian)
+				WKAQ-AM (San Juan)
+				WKAQ-TV (San Juan)
+				WKCK-AM (Orocovis)
+				WKFE-AM (Yauco)
+				WKID
+				WKJB-AM (Mayaguez)
+				WKJB-FM (Mayaguez)
+				WKPV-TV (Ponce)
+				WKSA-FM (Isabela)
+				WKVM-AM (San Juan)
+				WLEO-AM (Ponce)
+				WLEY-AM (Cayey)
+				WLII-TV (Caguas)
+				WLRP-AM (San Sebastian)
+				WLUZ-AM (Bayamon)
+				WMDD-AM (Fajardo)
+				WMEI-TV (Arecibo)
+				WMIA-AM (Arecibo)
+				WMIO-FM (Cabo Rojo)
+				WMNT-AM (Manati)
+				WMSW-AM (Hatillo)
+				WMTI-AM (Arecibo)
+				WMTI-AM (Manati)
+				WMTI-AM (Morovis)
+				WMTJ-TV (Fajardo)
+				WNEL-AM (Caguas)
+				WNIK-AM (Arecibo)
+				WNIK-FM (Arecibo)
+				WNJX-TV (Mayaguez)
+				WNOZ-AM (Aguadilla)
+				WNRT-FM (Manati)
+				WOIZ-AM (Guayanilla)
+				WOLA-AM (Barranquitas)
+				WOLE-TV (Aguadilla)
+				WOQI-FM (Ponce)
+				WORA-AM (Mayaguez)
+				WORA-TV (Mayaguez)
+				WORO-FM (Corozal)
+				WORR-AM (Quebradillas)
+				WOSO-AM (San Juan)
+				WOYE-FM (Mayaguez)
+				WPAB-AM (Ponce)
+				WPJC-AM (Adjuntas)
+				WPPC-AM (Penuelas)
+				WPRA-AM (Mayaguez)
+				WPRM-FM (San Juan)
+				WPRP-AM (Ponce)
+				WPRV-TV (Fajardo)
+				WQBS-AM (San Juan)
+				WQHA-TV (Aguada)
+				WQII-AM (San Juan)
+				WQTO-TV (Ponce)
+				WRAI-AM (San Juan)
+				WREI-FM (Quebradillas)
+				WRFE-FM (Aguada)
+				WRIO-FM (Ponce)
+				WRPC-FM (San German)
+				WRRE-AM (Juncos)
+				WRSJ-AM (Bayamon)
+				WRSS-AM (San Sebastian)
+				WRTU-FM (San Juan)
+				WRUA-TV (Fajardo)
+				WRWR-TV (San Juan)
+				WSAN-FM (Vieques)
+				WSJN-TV (San Juan)
+				WSJU-TV (San Juan)
+				WSOL-AM (San German)
+				WSRA-FM (Guayama)
+				WSTE-TV (Ponce)
+				WSUR-TV (Ponce)
+				WTIL-AM (Mayaguez)
+				WTIN-TV (Ponce)
+				WTPM-FM (Aguadilla)
+				WTRA-TV (Mayaguez)
+				WUJA-TV (Caguas)
+				WUNO-AM (San Juan)
+				WUPR-AM (Utuado)
+				WVEO-TV (Aguadilla)
+				WVID-FM (Anasco)
+				WVJP-AM (Caguas)
+				WVJP-FM (Caguas)
+				WVOZ-AM (San Juan)
+				WVOZ-FM (Carolina)
+				WVSN-TV (Humacao)
+				WXEW-AM (Yabucoa)
+				WXRF-AM (Guayama)
+				WXYX-FM (Bayamon)
+				WYKO-AM (Sabana Grande)
+				WZAR-FM (Ponce)
+				WZBS-AM (Ponce)
+				WZNT-FM (San Juan)
+				WZOL-FM (Luquillo)
+			Trail (PR)
+				Angelito Trail
+				Ballena Trail
+				Big Tree Trail
+				Bisley Trail
+				Camino del Diablo
+				Camino del Faro
+				Camino del Infierno
+				Carillo Trail
+				Charco Azul Trail
+				Cobanas Trail
+				Cueva Trail
+				El Rada Trail
+				El Toro Trail
+				Fuerte Trail
+				Granados Trail
+				Gutieriez Trail
+				La Hoya Trail
+				Lluberas Trail
+				Meseta Trail
+				Mount Britton Spur Trail
+				Paseo del Morro
+				Recreacion Nacional Sendero de las Vientos
+				Velez Trail
+				Verada Piedra Blanca
+				Vereda Alcantarilla
+				Vereda Britton
+				Vereda Caimitillo
+				Vereda Caracol
+				Vereda Descanso
+				Vereda El Yunque
+				Vereda Helechal
+				Vereda La Coca Trail
+				Vereda La Mina
+				Vereda Los Picachos
+				Vereda Rio de la Mina
+				Vereda de las Cotorras
+				Vigia Trail
+			Unknown (PR)
+				Central Guamaní
+				Central Juncos
+				Central Rufina
+				Hippodromo El Commandante
+				Hipódromo El Comandante
+			Valley (PR)
+				Aguas Largas
+				Arroyo Cajul
+				Caño Echevarria
+				Caño Media Luna
+				Caño de Santi Ponce
+				Cañón de San Cristóbal
+				Hoya El Ber
+				Hoya Fría
+				Hoya Grande
+				Hoya Hondo
+				Hoya La Laura
+				Hoya Las Picuas
+				Hoya Pozo Blanco
+				Hoyo Prieto
+				La Chorrera
+				La Covana
+				Los Canos
+				Quebrada Abad
+				Quebrada Abarca
+				Quebrada Aceituna
+				Quebrada Achiote
+				Quebrada Agua Fría
+				Quebrada Aguacate
+				Quebrada Aguas Buenas
+				Quebrada Aguas Claras
+				Quebrada Aguas Largas
+				Quebrada Aguas Verdes
+				Quebrada Agustina
+				Quebrada Alejandro
+				Quebrada Algarrobo
+				Quebrada Alicia
+				Quebrada Alto Sano
+				Quebrada Amargura
+				Quebrada Amoros
+				Quebrada América
+				Quebrada Angela
+				Quebrada Anones
+				Quebrada Antigua
+				Quebrada Anón
+				Quebrada Arena
+				Quebrada Arenas
+				Quebrada Arenas Chiquita
+				Quebrada Arriba
+				Quebrada Ausubo
+				Quebrada Bacalao
+				Quebrada Bambua
+				Quebrada Barreal
+				Quebrada Barros
+				Quebrada Beatriz
+				Quebrada Bejuco
+				Quebrada Bellaca
+				Quebrada Bello Gallón
+				Quebrada Berrenchín
+				Quebrada Blanca
+				Quebrada Blasina
+				Quebrada Bocaforma
+				Quebrada Bocana
+				Quebrada Boquerón
+				Quebrada Botija
+				Quebrada Branderi
+				Quebrada Brujas
+				Quebrada Buena Vista
+				Quebrada Burgos
+				Quebrada Bárbara
+				Quebrada Caguabo
+				Quebrada Caimital
+				Quebrada Calderón
+				Quebrada Callores
+				Quebrada Camarones
+				Quebrada Cambalache
+				Quebrada Cambute
+				Quebrada Campo Libre
+				Quebrada Cancel
+				Quebrada Cangilones
+				Quebrada Canjilones
+				Quebrada Canoas
+				Quebrada Cantera
+				Quebrada Caracoles
+				Quebrada Caricosa
+				Quebrada Carmen
+				Quebrada Carraízo
+				Quebrada Casanga
+				Quebrada Casanova
+				Quebrada Cataño
+				Quebrada Caña
+				Quebrada Caña India
+				Quebrada Cedrito
+				Quebrada Ceiba
+				Quebrada Cejas
+				Quebrada Cepero
+				Quebrada Cercada
+				Quebrada Cerrillos
+				Quebrada Cerro Gordo
+				Quebrada Charco del Muerto
+				Quebrada Chicharrones
+				Quebrada Chinea
+				Quebrada Chiquita
+				Quebrada Chorrera
+				Quebrada Cimarrona
+				Quebrada Cintrona
+				Quebrada Ciénaga
+				Quebrada Cofi
+				Quebrada Cofresí
+				Quebrada Cojo Vales
+				Quebrada Cojolla
+				Quebrada Collao
+				Quebrada Collazo
+				Quebrada Collera
+				Quebrada Collores
+				Quebrada Colorada
+				Quebrada Columbiana
+				Quebrada Colzadera
+				Quebrada Conchita
+				Quebrada Consejo
+				Quebrada Convento
+				Quebrada Corazón
+				Quebrada Coroco
+				Quebrada Cortadera
+				Quebrada Cruz
+				Quebrada Cuesta Pasto
+				Quebrada Culebra
+				Quebrada Cumba
+				Quebrada Cántara
+				Quebrada Dajaos
+				Quebrada Damiana
+				Quebrada Damián
+				Quebrada Del Ausubo
+				Quebrada Diego
+				Quebrada Don Victor
+				Quebrada Doña Ana
+				Quebrada Doña Elena
+				Quebrada Doña Juana
+				Quebrada Duende
+				Quebrada Dulce
+				Quebrada El Cangle
+				Quebrada El Cedro
+				Quebrada El Chorro
+				Quebrada El Gallinero
+				Quebrada El Gato
+				Quebrada El Marqués
+				Quebrada El Negro
+				Quebrada El Revés
+				Quebrada El Salto
+				Quebrada El Toro
+				Quebrada Emajagua
+				Quebrada Escarcha
+				Quebrada Eugenia
+				Quebrada Fajardo
+				Quebrada Farallón
+				Quebrada Felipa
+				Quebrada Fermina
+				Quebrada Florida
+				Quebrada Frailes
+				Quebrada Fránquez
+				Quebrada Fría
+				Quebrada Galindo
+				Quebrada Gandel
+				Quebrada González
+				Quebrada Grande
+				Quebrada Grande de Calvache
+				Quebrada Grande de Morovis
+				Quebrada Grande de San Lorenzo
+				Quebrada Grande de Sierra Baja
+				Quebrada Guama
+				Quebrada Guanábana
+				Quebrada Guaracanal
+				Quebrada Guayabo
+				Quebrada Guifen
+				Quebrada Gómez
+				Quebrada Hayales
+				Quebrada Helechal
+				Quebrada Hicatea
+				Quebrada Higuillo
+				Quebrada Higüera
+				Quebrada Honda
+				Quebrada Hormiga
+				Quebrada Hueca
+				Quebrada Icaco
+				Quebrada Icacos
+				Quebrada Indalecia
+				Quebrada Infierno
+				Quebrada Irizarry
+				Quebrada Jacana
+				Quebrada Jacinta
+				Quebrada Jaguas
+				Quebrada Jagüeyes
+				Quebrada Jamiel
+				Quebrada Janer
+				Quebrada Jiménez
+				Quebrada Jobos
+				Quebrada Josefa
+				Quebrada Josefina
+				Quebrada Juan
+				Quebrada Juan Diego
+				Quebrada Juan González
+				Quebrada Justo
+				Quebrada Jácana
+				Quebrada Júa
+				Quebrada La Balza
+				Quebrada La Caraima
+				Quebrada La Casimbra
+				Quebrada La Catalina
+				Quebrada La Concha
+				Quebrada La Costa
+				Quebrada La Cotorra
+				Quebrada La Granja
+				Quebrada La Luisa
+				Quebrada La Mina
+				Quebrada La Mocha
+				Quebrada La Mona
+				Quebrada La Mota
+				Quebrada La Máquina
+				Quebrada La Palma
+				Quebrada La Perla
+				Quebrada La Piedra
+				Quebrada La Plata
+				Quebrada La Regadera
+				Quebrada La Represa
+				Quebrada La Sequía
+				Quebrada La Toma
+				Quebrada La Vaca
+				Quebrada La Yegua
+				Quebrada La Zapera
+				Quebrada Laguna
+				Quebrada Laja
+				Quebrada Lajas
+				Quebrada Larga
+				Quebrada Las Bambúas
+				Quebrada Las Cañas
+				Quebrada Las Chorreras
+				Quebrada Las Curias
+				Quebrada Las Guares
+				Quebrada Las Lajas
+				Quebrada Las Lugas
+				Quebrada Las Marías
+				Quebrada Las Peñas
+				Quebrada Las Piedras
+				Quebrada Las Piñas
+				Quebrada Las Torres
+				Quebrada Las Tunas
+				Quebrada Las Varas
+				Quebrada Las Ánimas
+				Quebrada Lasalle
+				Quebrada Laya
+				Quebrada Lazania
+				Quebrada Limones
+				Quebrada Limón
+				Quebrada Linguette
+				Quebrada Llanada
+				Quebrada Los Cabros
+				Quebrada Los Canales
+				Quebrada Los Chorros
+				Quebrada Los Guanos
+				Quebrada Los Morones
+				Quebrada Los Muertos
+				Quebrada Los Quiñones
+				Quebrada Los Ramos
+				Quebrada Los Romanes
+				Quebrada Los Saltos
+				Quebrada Los Santos
+				Quebrada Los Terrores
+				Quebrada Los Verracos
+				Quebrada Maga
+				Quebrada Magueyes
+				Quebrada Maizales
+				Quebrada Majagual
+				Quebrada Majina
+				Quebrada Mambiche
+				Quebrada Mamey
+				Quebrada Mamey Chiquita
+				Quebrada Manglillo
+				Quebrada Mango Prieto
+				Quebrada Manicaboa
+				Quebrada Maolaya
+				Quebrada Maracal
+				Quebrada Maracuto
+				Quebrada Maresúa
+				Quebrada Margara
+				Quebrada Margarita
+				Quebrada Mariana
+				Quebrada Martina
+				Quebrada Marunguey
+				Quebrada Mata Redonda
+				Quebrada Mata de Plátano
+				Quebrada Matadero
+				Quebrada Mayagüecillo
+				Quebrada Melanía
+				Quebrada Mendoza
+				Quebrada Minas
+				Quebrada Minguillo
+				Quebrada Mohosa
+				Quebrada Mondongo
+				Quebrada Mongil
+				Quebrada Montaña
+				Quebrada Monte Llano
+				Quebrada Montería
+				Quebrada Montones
+				Quebrada Moralón
+				Quebrada Morena
+				Quebrada Morillo
+				Quebrada Motete
+				Quebrada Muda
+				Quebrada Mueresolo
+				Quebrada Mula
+				Quebrada Mulas
+				Quebrada Muro
+				Quebrada Máquina
+				Quebrada Méjico
+				Quebrada Naranjito
+				Quebrada Naranjo
+				Quebrada Negrito
+				Quebrada Noriega
+				Quebrada Novillo
+				Quebrada Obispo
+				Quebrada Olivar
+				Quebrada Ortíz
+				Quebrada Padilla
+				Quebrada Pajaritos
+				Quebrada Palenque
+				Quebrada Palma
+				Quebrada Palmar
+				Quebrada Palmas Bajas
+				Quebrada Pasto
+				Quebrada Pasto Colón
+				Quebrada Pasto Viejo
+				Quebrada Pastrana
+				Quebrada Patos
+				Quebrada Peces
+				Quebrada Pedro Avila
+				Quebrada Pedro Ávila
+				Quebrada Pepe Lugo
+				Quebrada Pepinera
+				Quebrada Perchas
+				Quebrada Piedras
+				Quebrada Pileta
+				Quebrada Piletas
+				Quebrada Pilón
+				Quebrada Piña
+				Quebrada Placeres
+				Quebrada Plantina
+				Quebrada Pozas
+				Quebrada Prieta
+				Quebrada Pueblo Viejo
+				Quebrada Puente
+				Quebrada Pugnado
+				Quebrada Pulida
+				Quebrada Quilan
+				Quebrada Quintana
+				Quebrada Quintero
+				Quebrada Ratones
+				Quebrada Riachuelo
+				Quebrada Rincón
+				Quebrada Rivera
+				Quebrada Rodadero
+				Quebrada Rodeo
+				Quebrada Roncador
+				Quebrada Rosales
+				Quebrada Sabana Llana
+				Quebrada Salada
+				Quebrada Saliente
+				Quebrada Salsa
+				Quebrada Salvatierra
+				Quebrada San Antón
+				Quebrada San Francisco
+				Quebrada San Juan
+				Quebrada San Pedro
+				Quebrada Sanjelo
+				Quebrada Santa
+				Quebrada Santa Catalina
+				Quebrada Santa Olaya
+				Quebrada Santo Domingo
+				Quebrada Sebastián
+				Quebrada Seca
+				Quebrada Solano
+				Quebrada Sonadora
+				Quebrada Sumaria
+				Quebrada Sumidero
+				Quebrada Suspiro
+				Quebrada Susúa
+				Quebrada Sábalos
+				Quebrada Tabonuco
+				Quebrada Talante
+				Quebrada Teresa
+				Quebrada Tigre
+				Quebrada Tinaja
+				Quebrada Torres
+				Quebrada Toruno
+				Quebrada Toyo
+				Quebrada Trina
+				Quebrada Trinidad
+				Quebrada Tumbada
+				Quebrada Unidad
+				Quebrada Urbano
+				Quebrada Vaca
+				Quebrada Ventana
+				Quebrada Verde
+				Quebrada Verraco
+				Quebrada Vicente
+				Quebrada Vieja
+				Quebrada Villano
+				Quebrada Villanueva
+				Quebrada Vélez
+				Quebrada Yagruma
+				Quebrada Yaurel
+				Quebrada Zumbón
+				Quebrada a Zumbadura
+				Quebrada de Cacaos
+				Quebrada de El Rayo
+				Quebrada de Loro
+				Quebrada de Los Panes
+				Quebrada de Muertos
+				Quebrada de Peña Pobre
+				Quebrada de Quebradas
+				Quebrada de Utuado
+				Quebrada de Viejo
+				Quebrada de Yeguadilla
+				Quebrada de la Boca
+				Quebrada de la Caña
+				Quebrada de la Garza
+				Quebrada de la Majagua
+				Quebrada de la Perra
+				Quebrada de la Zalla
+				Quebrada de las Avispas
+				Quebrada de las Cuevas
+				Quebrada de las Damas
+				Quebrada de las Gatas
+				Quebrada de las Lajas
+				Quebrada de las Mulas
+				Quebrada de las Quebradillas
+				Quebrada de los Barros
+				Quebrada de los Cedros
+				Quebrada de los Chinos
+				Quebrada de los Colones
+				Quebrada de los Cristales
+				Quebrada de los Güiros
+				Quebrada de los Llanos
+				Quebrada de los Muertos
+				Quebrada de los Méndez
+				Quebrada de los Plátanos
+				Quebrada de los Rábanos
+				Quebrada del Agua
+				Quebrada del Anón
+				Quebrada del Banco
+				Quebrada del Bellaco
+				Quebrada del Guama
+				Quebrada del Guano
+				Quebrada del Horno
+				Quebrada del Inglés
+				Quebrada del Juicio
+				Quebrada del Muerto
+				Quebrada del Oro
+				Quebrada del Palo
+				Quebrada del Plátano
+				Quebrada del Pozo Azul
+				Quebrada del Pozo Redondo
+				Quebrada del Pozo de Magala
+				Quebrada del Riego
+				Quebrada del Suro
+				Quebrada del Toro
+				Quebrada la Tinajera
+				Santa Maria
+				Valle de Lajas
+				Valle de Yabucoa
+				Valle de las Cotorras
+			Woods (PR)
+				Arkabuko Naguake Woods

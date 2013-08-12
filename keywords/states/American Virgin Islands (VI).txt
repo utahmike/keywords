@@ -1,0 +1,1775 @@
+Location
+	United States (US)
+		American Virgin Islands (VI)
+			Airport (VI)
+				Charlotte Amalie Harbor Seaplane Base
+				Christiansted Harbor-SSB Seaplane Base
+				Cruz Bay Seaplane Base
+				Frenchmans Reef Heliport
+				Saint Thomas Waterfront Heliport
+				Stouffer Grand Beach Resort Heliport
+			Bar (VI)
+				Barracuda Ground
+				Eagle Shoal
+				Flamingo Rock
+				Great Middle Ground
+				Johnsons Reef
+				Little Middle Ground
+				Long Reef
+				Pelican Rock
+				Range Cay
+				Round Reef
+				Scotch Bank
+				Sorenson Ground
+				Tip Rock
+				Western Reef
+				White Horseface Reef
+			Bay (VI)
+				Altona Lagoon
+				Annaly Bay
+				Backefall Bay
+				Banana Bay
+				Bananabay
+				Barents Bay
+				Baye de Grigri
+				Beauregard Bay
+				Benner Bay
+				Big Cleaninghole
+				Boiler Bay
+				Bolongo Bay
+				Borck Creek
+				Bordeaux Bay
+				Botany Bay
+				Bovoni Bay
+				Breids Bay
+				Brewers Bay
+				Brown Bay
+				Butler Bay
+				Cane Bay
+				Caneel Bay
+				Canegarden Bay
+				Capella Bay
+				Carden Bay
+				Careening Cove
+				Caret Bay
+				Cave Cove
+				Cay Bay
+				Chenay Bay
+				Chocolate Hole
+				Christian Cove
+				Christiansted Harbor
+				Christmas Cove
+				Cinnamon Bay
+				Coakley Bay
+				Coconut Bay
+				Coculus Bay
+				Coki Bay
+				Coral Bay
+				Coral Harbor
+				Cottongarden Bay
+				Cowpet Bay
+				Crown Bay
+				Cruz Bay
+				Deckbay
+				Denis Bay
+				Devers Bay
+				Dorothea Bay
+				Druif Bay
+				Drunk Bay
+				East End Bay
+				Elephant Bay
+				Elk Bay
+				Ensomhed Bay
+				Europa Bay
+				Eva Bay
+				Fareham Bay
+				Fish Bay
+				Flamingo Bay
+				Fortuna Bay
+				Francis Bay
+				Frank Bay
+				French Bay
+				Frenchman Bay
+				Friis Bay
+				Galge Cove
+				Gallows Bay
+				Genti Bay
+				Gowed Bay
+				Grapetree Bay
+				Great Bay
+				Great Cruz Bay
+				Great Lameshur Bay
+				Great Pond Bay
+				Grootpan Bay
+				Halfpenny Bay
+				Hams Bay
+				Hansen Bay
+				Hart Bay
+				Haulover Bay
+				Hawksnest Bay
+				Hendrik Bay
+				Hull Bay
+				Hurricane Hole
+				Isaac Bay
+				Jack Bay
+				Jersey Bay
+				Johns Folly Bay
+				Johnson Bay
+				Jumbie Bay
+				Kiddel Bay
+				Kings Bay
+				Klein Bay
+				Knight Bay
+				Krause Lagoon
+				Krum Bay
+				Lameshur Bay
+				Leinster Bay
+				Lerkenlund Bay
+				Limestone Bay
+				Limetree Bay
+				Limetree Bay (historical)
+				Limetree Cove
+				Lindbergh Bay
+				Little Bordeaux Bay
+				Little Clearinghole
+				Little Coculus Bay
+				Little Krum Bay
+				Little Lameshur Bay
+				Little Maho Bay
+				Long Bay
+				Long Point Bay
+				Lovenlund Bay
+				Magens Bay
+				Maho Bay
+				Mail Bay
+				Manchenil Bay
+				Mandal Bay
+				Mangrove Lagoon
+				Manning Bay
+				Maroon Hole
+				Martel Bay
+				Mary Creek
+				Mennebeck Bay
+				Monte Bay
+				Morningstar Bay
+				Mouillage Cove
+				Muller Bay
+				Nathaniel Bay
+				Nazareth Bay
+				Negro Bay
+				Neltjeberg Bay
+				Newfound Bay
+				Nugent Bay
+				Otter Creek
+				Pacquereau Bay
+				Parrot Bay
+				Perseverance Bay
+				Peter Bay
+				Pinham Bay
+				Pond Bay
+				Popilleau Bay
+				Powell Bay
+				Prince Ruperts Cove
+				Princess Bay
+				Privateer Bay
+				Prune Bay
+				Punnett Bay
+				Redhook Bay
+				Reef Bay
+				Rendezvous Bay
+				Reseau Bay
+				Revengebay
+				Robin Bay
+				Rod Bay
+				Round Bay
+				Runnel Bay
+				Ruyter Bay
+				Saint James Bay
+				Saint John Bay
+				Saint Thomas Harbor
+				Salomon Bay
+				Salt River Bay
+				Saltpond Bay
+				Sand Bay
+				Sandbay
+				Sanders Bay
+				Sandy Bay
+				Santa Maria Bay
+				Solitude Bay
+				Sprat Bay
+				Sprat Hole
+				Spring Bay
+				Stalley Bay
+				Stony Bay
+				Stumpy Bay
+				Sugar Bay
+				Sunsi Bay
+				Tague Bay
+				Tektite Bay
+				Trunk Bay
+				Turner Bay
+				Turner Hole
+				Turquoise Bay
+				Turtle Bay
+				Tutu Bay
+				Vessup Bay
+				Water Bay
+				Water Creek
+				Waterlemon Bay
+				West End Bay
+				Whitesand Bay
+				Woodcottage Bay
+				Yellowcliff Bay
+			Beach (VI)
+				Altona Lagoon Beach
+				Annaberg Beach
+				Blue Cobblestone Beach
+				Bluebeard Beach
+				Boatman Point Beach
+				Bordeaux Beach
+				Brewers Bay Beach
+				Brown Bay Beach
+				Buccaneer Beach
+				Cabrita Point Beach
+				Cane Bay Beach
+				Caneel Bay Beach
+				Carlton Beach
+				Cathys Fancy Beach
+				Cay Beach
+				Cinnamon Bay Beach
+				Cinnamon Bay Campground Beach
+				Cocoloba Beach
+				Coki Beach
+				Cormorant Beach
+				Cormorant Beach Club
+				Cottongarden Bay Beach
+				Cramer Park Beach
+				Cruz Bay Beach
+				Davis Beach
+				Ditleff Beach
+				Fortuna Bay Beach
+				Francis Bay Beach
+				Frederiksted Beach
+				Gibney Beach
+				Grapetree Beach
+				Grassy Point Beach
+				Hansen Bay Beach
+				Hart Bay Beach
+				Haulover Beach
+				Hawknest Beach
+				Honeymoon Beach
+				Hull Bay Beach
+				Isaacs Bay Beach
+				Johns Folly Beach
+				Judiths Fancy Beach
+				LaGrange Beach
+				Limetree Beach
+				Lindberg Beach
+				Little Cinnamon Bay Beach
+				Little Maho Beach
+				Little Reef Bay Beach
+				Long Bay Beach
+				Long-Bay Beach
+				Magens Bay Beach
+				Maho Bay Beach
+				Mandahl Bay Beach
+				Monks Bath Beach
+				Morningstar Beach
+				Muller Bay Beach
+				North Star Beach
+				Oppenheimer Beach
+				Pelican Beach
+				Pelican Cove Beach
+				Peter Bay Beach
+				Pineapple Beach
+				Prune Beach
+				Rainbow Beach
+				Reef Bay Beach
+				Reef Beach
+				Revenge Beach
+				Saint Croix Country Club Beach
+				Saint Mary's Creek Beach
+				Salomon Beach
+				Salt Pond Beach
+				Salt River Beach
+				Sandy Point Beach
+				Sapphire Beach
+				Scott Beach
+				Secret Harbor Beach
+				Shoys Beach
+				Sonofa Beach
+				Sprat Hall Beach
+				Stumpy Bay Beach
+				Sugar Beach
+				Sugarbird Beach
+				Tamarind Reef Beach
+				Trunk Beach
+				Turquoise Beach
+				Tutu Beach
+				Water Lemon Cay Beach
+				West Beach
+			Building (VI)
+				Aircraft Rescue and Firefighter Services
+				Aldershville Center for Senior Citizens
+				Alexander Farrelly Justice Complex
+				Alexander Hamilton House Museum
+				Almeric F Christian Federal Building
+				American Hill Estate House Museum
+				Athalie McFarlane Petersen Public Library
+				Baron Von Bretton House
+				Bell House
+				Benjamin House Museum
+				Bethania
+				Bouton Center
+				Buck Island Lighthouse
+				Building A
+				Building B
+				Building C
+				Building E
+				Camille Pissaro Building
+				Canegarden Hill
+				Carolina-Lyst
+				Christiansted Apothecarly Museum
+				Christiansted Library
+				Cinnamon Bay Museum
+				Continental Building
+				Crown House
+				Cumberland Castle
+				Danish Consulate
+				Danish West Indian and Guinea Company Warehouse
+				Dorsch Cultural Center
+				East Residence Hall
+				Eastern Caribbean Center
+				Elaine Ione Sprauve Library
+				Elaine Ione Sprauve Museum of Cultural Arts
+				Emmaus Moravian Manse
+				Enid M Baa Library and Archives
+				Enighed Estate Great House
+				Estate Saint Peter Greathouse
+				Estate Whim Plantation Museum
+				Evans Center
+				Faile Marine Science Center
+				Federal Building
+				Fleming Building
+				Florence A Williams Public Library
+				Fort Christian Virgin Islands Museum
+				Friedensfeld Midlands Moravian Manse
+				Galleon House
+				Gordon House
+				Government House
+				Governor Juan F Luis Hospital and Medical Center Library
+				Guardian Building
+				Guava Gallery
+				Haagensen House Museum
+				Ham Bluff Lighthouse
+				Harvey Student Center
+				Henry Rohlson Airport Fire Department
+				International Plaza
+				Island Center
+				Lavalette House
+				Lieutenant Governors House
+				Lind House
+				Mary Point Great House
+				Morovian Memorial Church Mission House
+				Muhlenfels Point Lighthouse
+				National Park Service Headquarters
+				National Park Service Visitors Information Centre
+				National Radio Astronomy Observatory
+				Northwest Wing
+				Old Apothecary Hall
+				Old Danish Customs House
+				Old Frederiksted Public Library
+				Oscar E Henry Custom House
+				Pentheny Building
+				Quarter B
+				Ralph M Paiewonsky Library
+				Red Hook Visitors Center
+				Reef Bay Great House
+				Reichhold Center for the Arts
+				Research and Extension Center
+				Saint Croix Aquarium
+				Saint Croix Aquarium and Marine Education Center
+				Saint Croix Fire Department
+				Saint Croix Fire Department Charles A Seales Fire Station
+				Saint Croix Fire Department Emile Henderson Senior Fire Station
+				Saint Croix Fire Department Herbert L Canegata Fire Station
+				Saint John Fire Department Romeo Company
+				Saint John Fire Department Zulu Company
+				Saint Thomas Fire Department Water Island Fire Station
+				Saint Thomas-Saint John Chamber of Commerce
+				Scale House
+				Senate Building
+				Seven Arches Museum
+				Spenceley Building
+				Steeple Building Museum
+				Territorial Court
+				The Battery
+				United States Virgin Islands National Park Headquarters
+				University of the Virgin Islands Saint Croix Campus Library
+				Victoria House Museum
+				Virgin Island Government Visitors Bureau
+				Virgin Islands Department of Agriculture
+				Virgin Islands Energy Office
+				Virgin Islands Energy Office Library
+				Virgin Islands Environmental Resource Station
+				Virgin Islands Fire Department Echo Company
+				Virgin Islands Fire Department Hotel Company
+				Virgin Islands Fire Department Lima Company Tutu Fire Station
+				Virgin Islands Fire Department Tango Company
+				Virgin Islands Tourist Office
+				Wacho Beach
+				Weibel Museum
+				West Indies Laboratory Farleigh Dickinson University
+			Cape (VI)
+				Aitken Point
+				America Point
+				Anna Point
+				Annaberg Point
+				Annaly Point
+				Banana Point
+				Bastiste Point
+				Beverhout Point
+				Black Point
+				Blasbalg Point
+				Boatman Point
+				Bolongo Point
+				Bordeaux Point
+				Botany Point
+				Boulder Point
+				Bovocoap Point
+				Bull Point
+				Cabes Point
+				Cabo de las Flechas
+				Cabrita Point
+				Cabrithorn Point
+				Canegarden Point
+				Caret Point
+				Carol Point
+				Carolina Point
+				Carty Point
+				Coculus Point
+				Coki Point
+				Compass Point
+				Congo Point
+				Container Point
+				Contant Point
+				Cottongarden Point
+				Cowell Point
+				David Point
+				Deck Point
+				Diedrichs Point
+				Din Point
+				Dittlif Point
+				Dorothea Point
+				Druif Point
+				East End Point
+				East Point
+				Erins Point
+				Eva Point
+				Fareham Point
+				Ferrall Point
+				Fish Point
+				Flamingo Point
+				Footer Point
+				Frederik Point
+				Frederiksberg Point
+				Gowed Point
+				Grambokola Peninsula
+				Grapetree Point
+				Grasklip Point
+				Grass Point
+				Grouper Point
+				Harbor Point
+				Havensight Point
+				Hawksnest Point
+				Hughes Point
+				Indian Inscription Point
+				Isaac Point
+				Kastel Point
+				Kiddel Point
+				Konink Point
+				Krabbepan Point
+				Krause Point
+				Lagoon Point
+				Lee Point
+				Leinster Point
+				Lind Point
+				Little Saint Thomas
+				Littlebay Point
+				Long Point
+				Lucas Point
+				Maho Point
+				Mandal Point
+				Mardenboro Point
+				Mary Point
+				May Point
+				Milord Point
+				Montalvan Point
+				Moravian Point
+				Mosquito Point
+				Mother East Point
+				Mount Fancy Point
+				Muhlenfels Point
+				Nanny Point
+				Nugent Point
+				Patrick Point
+				Pen Point
+				Peterborg Peninsula
+				Picara Point
+				Picture Point
+				Pinham Point
+				Pleasant Point
+				Point Cudejarre
+				Point Knoll
+				Pope Point
+				Pow Point
+				Powell Point
+				Prettyklip Point
+				Privateer Point
+				Providence Point
+				Pull Point
+				Punnett Point
+				Ram Head
+				Red Bay
+				Red Point
+				Redhook Point
+				Regis Point
+				Romney Point
+				Rough Point
+				Rover Point
+				Rustoptwist Point
+				Ruy Point
+				Sabbat Point
+				Sandbay Punt (historical)
+				Sandy Point
+				Shoy Point
+				Smith Bay
+				Southwest Cape
+				Southwest Point
+				Sprat Point
+				Spring Point
+				Stumpy Point
+				Sunsi Point
+				Surlaine Point
+				Tague Point
+				Threadneedle Point
+				Tropaco Point
+				Turner Point
+				Vagthus Point
+				Virgin Point
+				Vluck Point
+				Water Point
+				Watercreek Point
+				West Point
+				Westend Peninsula
+				Whale Point
+				White Point
+				Wismenog Point
+				Yawzi Point
+			Cemetery (VI)
+				Danish Cemetery
+				Jewish Cemetery
+				Kingshill Cemetery
+				Monrovian Cemetery
+				Old Jewish Cemetery
+				Western Cemetery
+			Census (VI)
+				Grove Place Census Designated Place (historical)
+				Kingshill Census Designated Place
+				Tutu Census Designated Place
+			Channel (VI)
+				Big Current Hole
+				Brass Channel
+				Buck Island Channel
+				Cross Channel
+				Current Hole
+				Dog Island Cut
+				Durloe Channel
+				Dutchcap Passage
+				East Gregerie Channel
+				Flanagan Passage
+				Fungi Passage
+				Haulover Cut
+				Krause Lagoon Channel
+				Leeward Passage
+				Limetree Bay Channel
+				Lovango Channel
+				Middle Passage
+				Pillsbury Sound
+				Sabbat Channel
+				Saint James Cut
+				Salt Cay Passage
+				Savana Passage
+				Southwest Road
+				The Narrows
+				West Gregerie Channel
+				Windward Passage
+			Church (VI)
+				All Saints Episcopal Church
+				Beth Ha-Haim
+				Bethany Mission
+				Bethel African Methodist Episcopal Church
+				Beulah African Methodist Episcopal Zion Church
+				Calvary Church
+				Christ Church Methodist Church
+				Church of God of Prophecy
+				Church of the Apostles Doctrine
+				Church of the Nazarene
+				Emmaus Moravian Church
+				Frederick Lutheran Church
+				Frederiksted Moravian Church
+				Friedensfeld Moravian Church
+				Friedensthal Moravian Church
+				Holy Cross Church
+				Holy Cross Roman Catholic Church
+				Holy Trinity Lutheran Church
+				Kingshill Lutheran Church
+				Lord God of Saboath Lutheran Church
+				Memorial Moravian Church
+				Morovian Town Church (historical)
+				Mother of Perpetual Help Church
+				Muckle Memorial Church
+				Nazareth Lutheran Church
+				New Herrnhut Moravian Mission
+				Our Lady of Perpetual Help Catholic Church
+				Prophecy Church
+				Saint Annes Chapel
+				Saint Anns Catholic Church
+				Saint Johns Anglican Church
+				Saint Josephs Church
+				Saint Lukes Church
+				Saint Patricks Roman Catholic Church
+				Saint Pauls Episcopal-Anglican Church
+				Saint Peter and Paul Catholic Church
+				Saint Thomas Reformed Church
+				Saint Thomas Synagogue
+				Saint Ursulas Episcopal Church
+				Zion Church
+			Civil (VI)
+				Abrahams Fancy Estate
+				Aldershville Estate
+				Altona Estate
+				Altona-Welgunst Estate
+				Batteriet Louise Augusta Estate
+				Bethesda Estate
+				Burns Hill Estate
+				Buttlers Bay Estate
+				Camporico Estate
+				Cane Estate
+				Castle Burk Estate
+				Coki Point Estate
+				Concordia Estate
+				Cruz Bay Estate
+				Envy Estate
+				Estate A Piece of Land
+				Estate Adelphi
+				Estate Adrian
+				Estate Adventure
+				Estate Agnes Fancy
+				Estate All for the Better
+				Estate Allandale
+				Estate Altona
+				Estate Anguilla
+				Estate Annaberg
+				Estate Annaberg and Shannon Grove
+				Estate Annaly
+				Estate Annas Fancy
+				Estate Annas Hope
+				Estate Annas Retreat
+				Estate Bakkero
+				Estate Barren Spot 1
+				Estate Barren Spot 2
+				Estate Becks Grove
+				Estate Beeston Hill
+				Estate Bellevue
+				Estate Belvedere
+				Estate Bethany
+				Estate Bethlehem Middle Works
+				Estate Bethlehem Old Works
+				Estate Betsys Jewel
+				Estate Bettys Hope
+				Estate Beverhoutberg and Esperance
+				Estate Blessing
+				Estate Bodkin
+				Estate Body Slob North
+				Estate Body Slob South
+				Estate Boetzberg
+				Estate Bolongo
+				Estate Bonne Esperance
+				Estate Bonne Esperance 1
+				Estate Bonne Esperance 2
+				Estate Bonne Resolution
+				Estate Bordeaux
+				Estate Bovoni
+				Estate Brooks Hill
+				Estate Browns Bay
+				Estate Bugby Hole
+				Estate Cain Carlton
+				Estate Calabash Boom
+				Estate Caledonia
+				Estate Canaan
+				Estate Canaan and Sherpenjewel
+				Estate Cane
+				Estate Cane Bay
+				Estate Cane Garden
+				Estate Cane Valley
+				Estate Caneel Bay
+				Estate Caret Bay
+				Estate Carina
+				Estate Carlton 1 North
+				Estate Carlton 1 South
+				Estate Carlton 2
+				Estate Carolina
+				Estate Cassava Garden
+				Estate Castle Coakley
+				Estate Castle Nugent
+				Estate Catherines Hope
+				Estate Catherines Rest
+				Estate Charlotte Amalie
+				Estate Chocolate Hole and Great Cruz Bay
+				Estate Clairmont
+				Estate Clifton Hill
+				Estate Coakley Bay
+				Estate Colquohoun
+				Estate Concordia A
+				Estate Concordia B
+				Estate Concordia East
+				Estate Concordia West
+				Estate Constitution Hill
+				Estate Contant
+				Estate Contentment
+				Estate Corn Hill
+				Estate Cottage
+				Estate Cotton Garden
+				Estate Cotton Grove
+				Estate Cotton Valley
+				Estate Crown and Hawk
+				Estate Demarara
+				Estate Denis Bay
+				Estate Diamond East
+				Estate Diamond Keturah
+				Estate Diamond West
+				Estate Donoe
+				Estate Dorothea
+				Estate East Street
+				Estate Eastern Water Island
+				Estate Elizabeth
+				Estate Elizas Retreat
+				Estate Emmaus
+				Estate Enfield Green
+				Estate Enighed
+				Estate Envy
+				Estate Fangselet
+				Estate Fareham
+				Estate Fish Bay
+				Estate Fortberg
+				Estate Fortuna
+				Estate Fortuna Hill
+				Estate Fountain
+				Estate Frederikshaab
+				Estate Frenchman Bay
+				Estate Friedensthal
+				Estate Frydendal
+				Estate Frydenhoj
+				Estate Glucksberg and Grunwald
+				Estate Glynn
+				Estate Golden Grove
+				Estate Golden Rock
+				Estate Granard
+				Estate Grange
+				Estate Grange Stock
+				Estate Great Cinnamon Bay
+				Estate Great Pond
+				Estate Great Saint James Island
+				Estate Green Cay
+				Estate Grove Place
+				Estate Gumbs Land
+				Estate Hammer Farm
+				Estate Hams Bay
+				Estate Hams Bluff
+				Estate Hannahs Rest
+				Estate Hansen Bay
+				Estate Hard Labor
+				Estate Hartman
+				Estate Hassel Island
+				Estate Haulover
+				Estate Hawksnest
+				Estate Herleins Kob
+				Estate Hermitage
+				Estate Hermon Hill
+				Estate Hoffman
+				Estate Hogensborg
+				Estate Honduras
+				Estate Hope
+				Estate Hope East
+				Estate Hope West
+				Estate Hope and Carton Hill
+				Estate Hospital Ground
+				Estate Hull
+				Estate Inner Brass Island
+				Estate Jacks Bay
+				Estate Jerusalem and Figtree Hill
+				Estate John Brewers Bay
+				Estate Johns Folly
+				Estate Jolly Hill
+				Estate Judiths Fancy
+				Estate Kings Quarter
+				Estate Kingshill
+				Estate Kramers Park
+				Estate La Grande Princess
+				Estate La Grange
+				Estate La Press Valley
+				Estate La Reine
+				Estate La Vallee
+				Estate Lameshur
+				Estate Langmath Mariendal
+				Estate Lebanon Hill
+				Estate Leinster Bay
+				Estate Lerkenlund
+				Estate Liliendal and Marienjoj
+				Estate Lindbergh Bay
+				Estate Little Fountain
+				Estate Little La Grange
+				Estate Little Plantation
+				Estate Little Princess North
+				Estate Little Princess South
+				Estate Little Profit
+				Estate Little Saint James Island
+				Estate Little Saint Thomas
+				Estate Long Point
+				Estate Longford
+				Estate Lovango Cay
+				Estate Lovenlund
+				Estate Lower John Dunko
+				Estate Lower Love
+				Estate Lowry Hill
+				Estate Madam Carty
+				Estate Mafolie
+				Estate Magens Bay
+				Estate Maho Bay
+				Estate Mandal
+				Estate Mannings Bay
+				Estate Marienhoj
+				Estate Marys Fancy
+				Estate Misgunst
+				Estate Molendal and Little Reef Bay
+				Estate Mon Bijou North
+				Estate Mon Bijou South
+				Estate Montpellier East
+				Estate Montpellier West
+				Estate Morning Star North
+				Estate Morning Star South
+				Estate Mount Eagle
+				Estate Mount Fancy
+				Estate Mount Pleasant East 1
+				Estate Mount Pleasant East 2
+				Estate Mount Pleasant West
+				Estate Mount Pleasant and Retreat
+				Estate Mount Retreat
+				Estate Mount Stewart
+				Estate Mount Victory
+				Estate Mount Washington and Washington Hill
+				Estate Mount Welcome
+				Estate Mountain
+				Estate Nadir
+				Estate Nazareth
+				Estate Neltjeberg
+				Estate New Herrnhut
+				Estate New Renobath
+				Estate Nicholas
+				Estate Nisky
+				Estate North Grapetree Bay
+				Estate North Hall
+				Estate North Slob
+				Estate North Star
+				Estate Northside
+				Estate Number 1 of Susannaberg
+				Estate Number 1 of Trunk Bay
+				Estate Orange Grove East
+				Estate Orange Grove West
+				Estate Outer Brass Island
+				Estate Oxford
+				Estate Paradise
+				Estate Parasol
+				Estate Parcel of Concordia
+				Estate Parcel of Gift and Regenback
+				Estate Pastory
+				Estate Pearl
+				Estate Perseverance
+				Estate Peter Bay
+				Estate Peterborg
+				Estate Peters Farm
+				Estate Peters Rest
+				Estate Petronella
+				Estate Pleasant Valley East
+				Estate Pleasant Valley West
+				Estate Plessen 1
+				Estate Plessen 2
+				Estate Profit
+				Estate Prospect Hill
+				Estate Prosperity East
+				Estate Prosperity West
+				Estate Protestant Cay
+				Estate Punch
+				Estate Queens Quarter
+				Estate Raphune
+				Estate Rattan
+				Estate Recovery Hill
+				Estate Reef Bay
+				Estate Rendezvous and Ditlef
+				Estate Retreat
+				Estate Richmond
+				Estate River
+				Estate Roberts Hill
+				Estate Rose Hill
+				Estate Ross
+				Estate Ruby
+				Estate Rust Up Twist
+				Estate Rustenberg and Adventure
+				Estate Saint George
+				Estate Saint Georges Hill
+				Estate Saint John
+				Estate Saint Joseph and Rosendal
+				Estate Saint Peter
+				Estate Saint Peters
+				Estate Saint Quaco and Zimmerman
+				Estate Sallys Fancy
+				Estate Salt River
+				Estate San Soucci
+				Estate Santa Maria
+				Estate Seven Hills
+				Estate Shoys
+				Estate Sieben
+				Estate Sight
+				Estate Sion Farm
+				Estate Sion Hill
+				Estate Smith Bay
+				Estate Solberg
+				Estate Solitude East
+				Estate Solitude West
+				Estate Sorgenfri
+				Estate South Grapetree Bay
+				Estate South Slob
+				Estate Southgate
+				Estate Sprat Hall
+				Estate Spring Garden
+				Estate Spring Gut
+				Estate Springfield
+				Estate Staabi
+				Estate Stony Ground
+				Estate Strawberry Hill
+				Estate Susannaberg
+				Estate Sweet Bottom
+				Estate Tabor and Harmony
+				Estate Teague Bay
+				Estate The Springs
+				Estate Thomas
+				Estate Tipperary
+				Estate Turner Hole
+				Estate Two Brothers
+				Estate Two Friends
+				Estate Union and Mount Washington
+				Estate Upper Bethlehem
+				Estate Upper John Dunko
+				Estate Upper Love
+				Estate Waldberggaard
+				Estate Western Water Island
+				Estate Wheel of Fortune
+				Estate Whim
+				Estate White Lady
+				Estate Whites Bay 1
+				Estate Whites Bay 2
+				Estate William
+				Estate Williams Delight
+				Estate Wills Bay
+				Estate Windsor
+				Estate Wintberg
+				Estate Wood Cottage
+				Estate Work and Rest
+				Estate Yellow Cliff
+				Estate Zootenvaal
+				Estate Zufriedenheit
+				Frenchman's Bay Quarter
+				Hesseeberg Estate
+				Hope and Carlton Land Estate
+				Jealousy Estate
+				Krausses Lagune Estate
+				Kronprindsens Estate
+				Loouisenhoj Estate
+				Mary Point Estate
+				Mint Estate
+				Mount Pleasant Estate
+				Mount Welcome Estate
+				Munster Estate
+				Negro Bay Estate
+				Palestina Estate
+				Parara Estate
+				Parcel 3 of Annaberg Estate
+				Patience Grove Estate
+				Pleasant Prospect Estate
+				Richmond Estate (historical)
+				Saint Cathrine Estate
+				Saint Johns Estate
+				Smithfield Estate
+				Spanish Town Estate
+				Stony Ground Estate
+				Williams Delight Estate
+			Cliff (VI)
+				Baron Bluff
+				Canegarden Cliff
+				Hams Bluff
+				Maria Bluff
+				White Cliffs
+			Gap (VI)
+				Lilliendahl Col
+			Hospital (VI)
+				Charles Harwood Memorial Hospital
+				De Castro Clinic
+				East End Family Health Center
+				Governor Juan Francisco Luis Hospital and Medical Center
+				Ingeborg Nesbitt Clinic
+				Knud Hansen Memorial Hospital
+				Myrah Keating Smith Community Health Center
+				Roy Lester Schneider Regional Medical Center
+			Island (VI)
+				Barrel of Beef
+				Blinders Rocks
+				Booby Rock
+				Bovoni Cay
+				Brass Islands
+				Broken Island
+				Buck Island
+				Calf Rock
+				Capella Islands
+				Carval Rock
+				Cas Cay
+				Cinnamon Cay
+				Cockroach Island
+				Cocoloba Cay
+				Coculus Rock
+				Congo Cay
+				Cow Rock
+				Cricket Rock
+				Current Rock
+				Dog Island
+				Dog Rocks
+				Domkirk Rock
+				Dry Rock
+				Durloe Cays
+				Dutchcap Cay
+				Elephant Rock
+				Fish Cay
+				Flanagan Island
+				Flat Cay
+				Flat Cays
+				Gorret Rock
+				Grass Cay
+				Great Saint James Island
+				Green Cay
+				Hans Lollik Island
+				Hans Lollik Rock
+				Harvey Island
+				Hassel Island
+				Henley Cay
+				Inner Brass Island
+				Jack Rock
+				Kalkun Cay
+				Leduck Island
+				Limestone Rock
+				Little Flat Cay
+				Little Hans Lollik Island
+				Little Saint James Island
+				Lizard Rocks
+				Lovango Cay
+				Mingo Cay
+				Outer Brass Island
+				Packet Rock
+				Patricia Cay
+				Pelican Cay
+				Perkins Cay
+				Porpoise Rocks
+				Protestant Cay
+				Ramgoat Cay
+				Rata Cay
+				Rotto Cay
+				Rupert Rock
+				Ruth Island
+				Saba Island
+				Saint Croix
+				Saint John
+				Saint Thomas
+				Salt Cay
+				Saltwater Money Rock
+				Sandy Point Rock
+				Savana Island
+				Shark Island
+				Skipper Jacob Rock
+				Steven Cay
+				Sula Cay
+				Thatch Cay
+				The Stragglers
+				Tombstone Rock
+				Triangle Island
+				Trunk Cay
+				Turtleback Rock
+				Turtledove Cay
+				Two Brothers
+				Virgin Islands
+				Water Island
+				Waterlemon Cay
+				Welk Rocks
+				West Cay
+				Whistling Cay
+			Isthmus (VI)
+				Haulover
+			Lake (VI)
+				Flamingo Pond
+				Great Pond
+				Salt Pond
+				Southgate Lagoon
+				Southgate Pond
+				Southside Pond
+				Westend Saltpond
+			Levee (VI)
+				Rohde Bank
+			Locale (VI)
+				Adrian Ruins
+				Adventure
+				Al Cohen Mall Shopping Center
+				All for the Better
+				American Yacht Harbor Shopping Center
+				American Yacht Harbour Marina
+				Annaberg Sugar Mill (historical)
+				Anne Abramson Marine Facility
+				Barren Spot
+				Boufron (historical)
+				Brooks Hill
+				Buccaneer Golf Course
+				Buccaneer Mall Shopping Center
+				Cane Bay Reef Club
+				Cane Garden
+				Caneel Bay Plantation
+				Carambola Golf Course
+				Carlton Golf Course
+				Cassava Garden
+				Castle Burk
+				Catherineberg Sugar Mill (historical)
+				Cinnamon Bay
+				Cinnamon Bay Campground
+				Columbus Landing
+				Connections East Shopping Center
+				Constitution Hill
+				Corn Hill
+				Cottage
+				Crown Bay Port Area
+				Denis Bay Sugar Factory (historical)
+				Diedrichs Point Picnic Area
+				Drakes Passage Mall Shopping Center
+				Drakes Seat
+				Drum Rock
+				Elizas Retreat
+				Enfield Green
+				Fannys Fancy
+				Fish Hawk Marina
+				Fort Louise Augusta Light
+				Fort Mylner Shopping Center
+				Fortuna Mill (historical)
+				Four Winds Plaza Shopping Center
+				Frederiksted Pier
+				Gallows Bay Dock
+				Gallows Bay Marina
+				Golden Rock
+				Golden Rock Shopping Center
+				Grand Hotel Court Shopping Center
+				Green Cay Marina
+				Hannahs Rest
+				Havensight Mall Shopping Center
+				Herman Farm
+				Herman Hill
+				Honeymoon Bay Scenic View
+				Hope and Carlton Land
+				Judith Fancy
+				Kings Wharf
+				Kingshill Station
+				Lameshur Bay Plantation (historical)
+				Langs Observatory
+				Lemon Tree Mall Shopping Center
+				Lind Point Battery Overlook
+				Little La Grange
+				Little Princess
+				Lockhart Gardens Shopping Center
+				Longpoint and Cotton Garden
+				Lorendo Boynes Senior Dock
+				Maedas Shopping Mall Shopping Center
+				Maho Bay
+				Maho Bay Camp Grounds
+				Mahogany Run Golf Course
+				Manning Bay Racetrack
+				Marina Market Shopping Center
+				Marine Science Center
+				Marys Fancy
+				Merchants Mart Shopping Center
+				Mermaids Chair
+				Minna Neger Historic Site
+				Mongoose Junction Shopping Center
+				Monks Baths (historical)
+				Mount Eagle
+				Mount Fancy
+				Mount Roepstorff and Southgate Farm
+				Mount Stewart
+				Mount Victory
+				Mount Washington
+				Mount Welcome
+				Mountain
+				National Park Service Dock
+				New Herrnhut
+				Ninety-Nine Steps
+				Nisky Center Shopping Center
+				Palm Plaza Shopping Center
+				Paradise Point Tranway
+				Peter Island Ferry
+				Peters Farm
+				Port Saint Croix
+				Port of Sale Mall Shopping Center
+				Prosperity
+				Prosperity Garden
+				Raintree Mall Shopping Center
+				Red Hook Ferry
+				Red Hook Shopping Center
+				Redhook Ferry Dock
+				Reef Bay Sugar Mill (historical)
+				Reef Golf Course
+				River
+				Royal Dane Mall Shopping Center
+				Rust Up Twist
+				Saint Croix Yacht Club
+				Saint Georges and Sallys Fancy
+				Salt River Marina
+				Sight
+				Sight Mill (historical)
+				Smith's Ferry
+				Solitude
+				Southwest Cape Light
+				Sprat Hall
+				Springgarden
+				Springgut and Spring Garden
+				Starfish Market Shopping Center
+				Stony Ground
+				Sunny Isle Shopping Center
+				Sunshine Mall Shopping Center
+				Susannaberg Ruins
+				Tillett Gardens Shopping Center
+				Towers
+				Tutu Park Mall Shopping Center
+				Two Friends
+				Union and Mount Washington
+				United Shopping Plaza Shopping Center
+				Vendors Market Shopping Center
+				Ville La Reine Shopping Center
+				Vincent Mason Swimming Pool
+				Virgin Islands Biosphere Reserve Center
+				West Beach Picnic Area
+				West Indian Company Dock
+				West Indian Dock
+				Wharfside Village Shopping Center
+				Wheatley Shopping Center
+				Work and Rest
+				Yacht Haven Marina
+			Military (VI)
+				Coastal Battery (historical)
+				Fort Christian (historical)
+				Fort Cowell (historical)
+				Fort Frederick (historical)
+				Fort Frederik (historical)
+				Fort Saint Jean (historical)
+				Greigs Fort (historical)
+				Lind Point Fort (historical)
+				North Fort (historical)
+				Prince Fredericks Battery (historical)
+				Shipley Battery (historical)
+			Park (VI)
+				Annaberg Historic District
+				Antonio Jarvis Square
+				Bakery Square
+				Butler Bay Nature Preserve
+				Charlotte Amalie Historic District
+				Christ of the Caribbean Statue (historical)
+				Christiansted Historic District
+				Christiansted National Historic Site
+				Clinton Phipps Racetrack
+				Coral World Marine Park and Observatory
+				Cramer Park
+				D C Canegata Ballpark
+				D Hamilton Jackson Park
+				Dennis Bay Historic District
+				Emancipation Gardens Park
+				Estate Saint Peter Botanical Garden
+				FDR Park
+				Fairchild Park
+				Fairleigh Dickinson Territorial Park
+				Fort Christiansvaern Park
+				Frederiksted Historic District
+				Hassel Island Historic District
+				L'Esperance Historic District
+				Lionel Roberts Stadium
+				Market Place
+				Market Square
+				Paul E Joseph Stadium
+				Peter Carl Limpricht Park
+				Post Office Square
+				Reef Bay Great House Historic District
+				Saint George Village Botanical Gardens
+				Slob Historic District
+				Strawberry Hill Historic District
+				Tillets Garden
+				Waterfront Park
+				Wharf Square
+			Pillar (VI)
+				Blackbeard Castle
+				Bluebeard Castle
+				Blunder Rock
+				Bull Rock
+				Ornen Rock
+				Scorpion Rock
+				Target Rock
+			Populated Place (VI)
+				Adelphi
+				Adjett (historical)
+				Adrian
+				Alderhvile (historical)
+				Allandale
+				Altona
+				Andrin (historical)
+				Anguilla
+				Annaberg
+				Annaly
+				Annas Hope
+				Barrett
+				Beck Grove
+				Beeston Hill
+				Bellevue
+				Belvedere
+				Benner
+				Bethany
+				Bethlehem Old Work
+				Bettys Hope
+				Betzys Jewell
+				Blessing
+				Bodkin
+				Bolongo
+				Bonne Esperance
+				Bordeaux
+				Bordeaux (historical)
+				Bovoni
+				Brownsbay (historical)
+				Bugbyhole
+				Bulows Minde
+				Butler Bay
+				Butzberg
+				Calabash Boom
+				Camporico
+				Canaan
+				Cane
+				Cane Valley
+				Canebay
+				Carden
+				Caret Bay Estate
+				Carlton
+				Carolina
+				Castle Coakley
+				Catharinas Hope
+				Cathrines Rest
+				Charlotte Amalie
+				Christiansted
+				Clairmont
+				Clifton Hill
+				Coble
+				Concordia
+				Contant
+				Contentment
+				Cooper
+				Coral Bay
+				Cotton Grove
+				Cotton Valley
+				Cowell Battery
+				Cruz Bay
+				Diamond
+				Diamond Keturah
+				Donoe
+				Dorothea
+				East End
+				Emmaus
+				Enighed
+				Ensomned
+				Envy
+				Estate Thomas
+				Fareham
+				Fish Bay
+				Fort Christian
+				Fort Frederick
+				Fortuna (historical)
+				Fountain
+				Fredensborg
+				Fredensdal
+				Frederiks Haab
+				Frederiksted
+				Fredriksdal
+				Frenchtown
+				Friedensfeld
+				Frydendal
+				Glynn
+				Golden Grove
+				Good Hope
+				Granard
+				Grange
+				Great Pond
+				Green Kay
+				Grove Place
+				Hams Bay
+				Hard Labour
+				Hermitage
+				Hesselberg
+				Hoffman
+				Hogensborg
+				Hope
+				Humbug
+				Jealousy
+				Jerusalem and Figtree Hill
+				John Oley
+				Johns Folly
+				Jolly Hill
+				Kingshill
+				Knight
+				L'Esperance
+				La Grande Princesse
+				La Grange
+				La Reine
+				La Vallee
+				Lameshur
+				Laprey Valley
+				Leinster Bay
+				Lerkenlund
+				Libanon Hill
+				Lilliendahl
+				Limetree
+				Little Fountain
+				Longford
+				Louisenhoj
+				Lovenlund
+				Lower Love
+				Lowrys Hill
+				Madame Carty
+				Mafolie
+				Mandal
+				Mariendal
+				Mary Point
+				Misgen
+				Mollendal
+				Mon Bijou
+				Monte
+				Montpellier
+				Morningstar
+				Mount Pleasant
+				Munster
+				Nadir
+				Nazareth
+				Negro Bay
+				Neltjeberg
+				Nicholas
+				North Side
+				North Star
+				Nugent
+				Orange Grove
+				Orangegrove
+				Oxford
+				Palestina
+				Paradise
+				Parasol
+				Pearl
+				Pearson Gardens
+				Peterborg
+				Peters Rest
+				Petronella
+				Pleasant Vale
+				Plessen
+				Profit
+				Prosperity
+				Punch
+				Raphune
+				Rattan and Belvedere
+				Recovery Hill
+				Reef Bay
+				Resolution
+				Richmond
+				Robe Hill
+				Rosendal
+				Ruan Bay
+				Ruby
+				Ryan
+				Saint John
+				Saint Peter
+				Sallys Fancy
+				Sandy Point
+				Santa Maria Estate
+				Seven Hills
+				Shoys
+				Sieben
+				Sion Farm
+				Sion Hill
+				Slob
+				Smithfield
+				Solberg
+				Solitude
+				Sorgenfri
+				Southgate
+				Spanish Town
+				Sprat Hall Beach
+				Springfield
+				Strawberry Hill
+				Sunny Isle
+				Susannaberg
+				Teagues Bay
+				Testman
+				Tutu
+				Two Brothers
+				Upper Bethlehem
+				Upper Love
+				Waldberggaard
+				Wheel of Fortune
+				Whim
+				Whites Bay
+				William
+				Williams Delight
+				Windberg
+				Windsor
+				Zambee
+			Post Office (VI)
+				Central Post Office
+				Christiansted Post Office
+				Cruz Bay Post Office
+				Kingshill Post Office
+				Richmond Post Office
+				Sugar Estate Post Office
+				Tutu Mall Post Office
+			Reservoir (VI)
+				Fredensborg Pond
+				Large Pond
+				Small Pond
+			Ridge (VI)
+				Cabritaberg
+				Maroon Ridge
+			School (VI)
+				Addelita Cancryn Junior High School
+				All Saints Cathedral School
+				Arthur Richards Junior High School
+				Charlotte Amalie High School
+				Charlotte Amalie High School (historical)
+				Church of God Academy
+				Diamond School
+				Eastend Moravian School
+				Easthill School
+				Frederiksted Junior High School
+				Friedensfeld Moravian School
+				Guy Benjamin Elementary School
+				Horace Mann School
+				Jane E Tuitt Elementary School
+				John H Woodson Junior High School
+				Julius E Sprauve School
+				Kingshill School
+				Memorial Moravian School
+				Morovian Town School (historical)
+				Nisky Mission
+				Old Danish School
+				Peters Rest School
+				Pine Peace School
+				Saint Anns School
+				Saint Croix Moravian School
+				Saint John Christian Academy
+				Saint Josephs High School
+				Saint Marys School
+				Saint Patricks School
+				Saints Peter and Paul High School
+				Ulla Mullar Elementary School
+				University of the Virgin Islands
+				University of the Virgin Islands Saint Croix Campus
+			Stream (VI)
+				Battery Gut
+				Cob Gut
+				Fish Bay Gut
+				Guinea Gut
+				Salt River
+				Turpentine Run
+			Summit (VI)
+				Acacia Hill
+				Adventure Hill
+				Ajax Peak
+				Aldershvile Hill
+				Altona Hill
+				America Hill
+				American Hill
+				Annaberg Hill
+				Annaly Hill
+				Base Hill
+				Bee Hill
+				Belvedere Hill
+				Benner Hill
+				Berg Hill
+				Bethesda Hill
+				Beverhoutberg
+				Blackrock Hill
+				Blue Mountain
+				Bluebeard Hill
+				Bodkin Hill
+				Bolongo Hill
+				Bordeaux Hill
+				Bordeaux Mountain
+				Bordeaux North Hill
+				Bovoni Hill
+				Brommer Hill
+				Bunker Hill
+				Cabrita Hill
+				Camelberg Peak
+				Caneel Hill
+				Canegarden Hill
+				Careen Hill
+				Cassi Hill
+				Concordia Hill
+				Congo Ridge
+				Cowell Hill
+				Crown Mountain
+				Darby Hill
+				Doubloon Hill
+				Flag Hill
+				Flagstok Hill
+				Flamingo Hill
+				Fortsberg
+				Fortuna Hill
+				Fredensborg Hill
+				French Hill
+				Frenchman Hill
+				Gift Hill
+				Goat Hills
+				Government Hill
+				Grambokola Hill
+				Greig Hill
+				Hawk Hill
+				Haypiece Hill
+				Judith Hill
+				Kaserne Hill
+				King Hill
+				Kirkegaard Hill
+				Klok Hill
+				Lang Peak
+				Langmath
+				Lee Hill
+				Leinster Hill
+				Lerkenlund Hill
+				Lisenlund Hill
+				Lollik Hill
+				Mamey Peak
+				Mandal Hill
+				Margaret Hill
+				Maria Hill
+				Maronberg
+				Mars Hill
+				Minna Hill
+				Montagne Rouge
+				Montalvan Hill
+				More Hill
+				Morne Rond
+				Morrisette Hill
+				Mount Eagle
+				Mount Fancy Hill
+				Mount Logan
+				Mount McWilliam
+				Mount Pleasant
+				Mount Washington
+				Mount Zion
+				Mountain Top
+				Nana Hill
+				Nancy Hill
+				Neltjeberg
+				Nulliberg
+				Oxford Hill
+				Oyen Hill
+				Peace Hill
+				Pentheny Hill
+				Peter Peak
+				Peterson Hill
+				Pole Hill
+				Prospect Hill
+				Providence Hill
+				Punch Peak
+				Ram Hill
+				Recovery Hill
+				Redhook Hill
+				Roman Hill
+				Rose Hill
+				Saint George Hill
+				Saint Peter
+				Sara Hill
+				Savana Hill
+				Seven Hills
+				Shipley Hill
+				Sight Mound
+				Signal Hill
+				Sugarloaf Hill
+				Thatch Hill
+				William Head
+				Wintberg Peak
+			Tower (VI)
+				Denis Bay Windmill Tower
+				Flag Tower (historical)
+				WAVI-FM (Christiansted)
+				WBNB-TV (Charlotte Amalie)
+				WDCM-FM (Cruz Bay)
+				WGOD-AM (Charlotte Amalie)
+				WGOD-FM (Charlotte Amalie)
+				WIUJ-FM (Saint Thomas)
+				WIVI
+				WIVI-FM (Charlotte Amalie)
+				WIYC-FM (Charlotte Amalie)
+				WJKC-FM (Christiansted)
+				WRRA-AM (Frederiksted)
+				WSTA-AM (Charlotte Amalie)
+				WSTX-AM (Christiansted)
+				WSTX-FM (Christiansted)
+				WSVI-TV (Christiansted)
+				WTBN-FM (Charlotte Amalie)
+				WTJX-TV (Charlotte Amalie)
+				WVGN-FM (Charlotte Amalie)
+				WVIQ-FM (Christiansted)
+				WVIS-FM (Christiansted)
+				WVWI-AM (Charlotte Amalie)
+			Trail (VI)
+				American Hill Trail
+				Annaberg Area Trail
+				Annaberg School Trail
+				Beach Trail
+				Bordeaux Mountain Trail
+				Brown Bay Trail
+				Buck Island Trail
+				Caneel Hill Spur Trail
+				Caneel Hill Trail
+				Cinnamon Bay Self-Guiding Trail
+				Cinnamon Bay Trail
+				Ditleff Point Trail
+				Dunk Bay Trail
+				Europa Bay Trail
+				Francis Bay Trail
+				Johnny Horn Trail
+				Lameshur Bay Trail
+				Leinster Bay Trail
+				Lind Point Trail
+				Maho Bay Goat Trail
+				Peace Hill Trail
+				Petroglyph Trail
+				Ram Head Trail
+				Reef Bay Trail
+				Saltpond Bay Trail
+				Turtle Point Trail
+				Water Catchment Trail
+				Yawzi Point Trail
+			Valley (VI)
+				Caledonia Valley
+				Lilliendahl Ravine
